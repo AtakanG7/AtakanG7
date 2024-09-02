@@ -1,39 +1,10 @@
-# Hello, I'm tmp-atakang7 👋
+# Hello, I'm Atakan G. 👋
 
 ## 💻 Software Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=tmp-atakang7&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atakan-gul/)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmp-atakang7&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmp-atakang7&theme=dark" alt="GitHub Streak" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmp-atakang7&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tmp-atakang7&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmp-atakang7&theme=github-compact" alt="Contribution Graph" />
-</p>
+I am a dedicated software engineer specializing in backend development and DevOps, with a strong background in building scalable web applications and CI/CD pipelines using Node.js, TypeScript, and Azure DevOps. I enjoy solving complex problems and am passionate about continuous learning and sharing my knowledge.
 
 ## 🛠️ Skills
 
@@ -43,7 +14,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📚 Latest Blog Posts
+## 💬 Let's Connect!
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/atakan-gul/) if you'd like to collaborate or chat about tech!
