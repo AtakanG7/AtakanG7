@@ -1,14 +1,5 @@
 # Hi there, I'm Atakan Gül 👋
 
-I am a passionate developer with a strong focus on backend development, DevOps, and cloud-native technologies. I enjoy creating scalable and efficient solutions and am always eager to learn and collaborate on new projects.
-
-- 💼 Currently working on **enhancing cloud integration techniques**
-- 🌱 Learning **Java Spring Boot** and deepening my expertise in **Azure DevOps**
-- 🛠️ Experienced with **Node.js**, **TypeScript**, **Azure DevOps**, **Kubernetes**, **Python**, and more
-- 🎓 Studying at **Istanbul Bilgi University** - Computer Science
-
-## 🔧 Technologies & Tools
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
@@ -30,8 +21,6 @@ I am a passionate developer with a strong focus on backend development, DevOps, 
 - LinkedIn: [Atakan Gül](https://www.linkedin.com/in/atakan-gul)
 - Email: [atakan.gul000@gmail.com](mailto:atakan.gul000@gmail.com)
 - Portfolio: [atakangul.com](https://atakangul.com)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atakang7&label=Profile%20views&color=0e75b6&style=flat" alt="atakang7" />
