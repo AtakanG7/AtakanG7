@@ -9,13 +9,18 @@
 
 ## 📝 Articles
 
-| Article Title                                               | Description                                                                                       | Link                                                                                         |
-|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| **Nevotek Internship CI/CD Experience**                     | A deep dive into my CI/CD experience during my internship at Nevotek.                             | [Read Article](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)               |
-| **How to Set Up CI/CD Pipeline Using Azure DevOps for AKS** | A comprehensive guide on setting up a CI/CD pipeline using Azure DevOps for Azure Kubernetes Service (AKS). | [Read Article](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks) |
-| **LogWatcher: Simplifying Docker Image Monitoring with Open Source Software** | Exploring LogWatcher for efficient Docker image monitoring using open-source tools.                | [Read Article](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software) |
-| **Must-Know Free APIs for Developers**                      | A curated list of must-know free APIs for developers to enhance their projects.                   | [Read Article](https://atakangul.com/blogs/must-know-free-apis-for-developers)               |
+- **[Nevotek Internship CI/CD Experience](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)**  
+  A deep dive into my CI/CD experience during my internship at Nevotek.
 
+- **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
+  A comprehensive guide on setting up a CI/CD pipeline using Azure DevOps for Azure Kubernetes Service (AKS).
+
+- **[LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software)**  
+  Exploring LogWatcher for efficient Docker image monitoring using open-source tools.
+
+- **[Must-Know Free APIs for Developers](https://atakangul.com/blogs/must-know-free-apis-for-developers)**  
+  A curated list of must-know free APIs for developers to enhance their projects.
+  
 ## 📫 Get in Touch
 
 - LinkedIn: [Atakan Gül](https://www.linkedin.com/in/atakan-gul)
