@@ -1,21 +1,38 @@
-# Hello, I'm Atakan G. 👋
+# Hi there, I'm Atakan Gül 👋
 
-## 💻 Software Engineer
+I am a passionate developer with a strong focus on backend development, DevOps, and cloud-native technologies. I enjoy creating scalable and efficient solutions and am always eager to learn and collaborate on new projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atakan-gul/)
+- 💼 Currently working on **enhancing cloud integration techniques**
+- 🌱 Learning **Java Spring Boot** and deepening my expertise in **Azure DevOps**
+- 🛠️ Experienced with **Node.js**, **TypeScript**, **Azure DevOps**, **Kubernetes**, **Python**, and more
+- 🎓 Studying at **Istanbul Bilgi University** - Computer Science
 
-I am a dedicated software engineer specializing in backend development and DevOps, with a strong background in building scalable web applications and CI/CD pipelines using Node.js, TypeScript, and Azure DevOps. I enjoy solving complex problems and am passionate about continuous learning and sharing my knowledge.
+## 🔧 Technologies & Tools
 
-## 🛠️ Skills
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 📝 Articles
 
+| Article Title                                               | Description                                                                                       | Link                                                                                         |
+|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Nevotek Internship CI/CD Experience**                     | A deep dive into my CI/CD experience during my internship at Nevotek.                             | [Read Article](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)               |
+| **How to Set Up CI/CD Pipeline Using Azure DevOps for AKS** | A comprehensive guide on setting up a CI/CD pipeline using Azure DevOps for Azure Kubernetes Service (AKS). | [Read Article](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks) |
+| **LogWatcher: Simplifying Docker Image Monitoring with Open Source Software** | Exploring LogWatcher for efficient Docker image monitoring using open-source tools.                | [Read Article](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software) |
+| **Must-Know Free APIs for Developers**                      | A curated list of must-know free APIs for developers to enhance their projects.                   | [Read Article](https://atakangul.com/blogs/must-know-free-apis-for-developers)               |
 
-## 💬 Let's Connect!
+## 📫 Get in Touch
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/atakan-gul/) if you'd like to collaborate or chat about tech!
+- LinkedIn: [Atakan Gül](https://www.linkedin.com/in/atakan-gul)
+- Email: [atakan.gul000@gmail.com](mailto:atakan.gul000@gmail.com)
+- Portfolio: [atakangul.com](https://atakangul.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atakang7&label=Profile%20views&color=0e75b6&style=flat" alt="atakang7" />
+</p>
