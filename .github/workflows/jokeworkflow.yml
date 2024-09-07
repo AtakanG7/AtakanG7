@@ -2,9 +2,8 @@ name: Daily Joke Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
-  workflow_dispatch:  # Allows manual trigger
-
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -17,20 +16,17 @@ jobs:
 
       - name: Fetch joke and update README
         run: |
-          # Fetch joke from API
+      
           JOKE_DATA=$(curl -s 'https://official-joke-api.appspot.com/random_joke')
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
           
-          # Prepare joke text
-          JOKE="**Today's Joke:**\n\n$SETUP\n\n$PUNCHLINE"
+          JOKE="## **Today's Joke:**\n\n$SETUP\n\n$PUNCHLINE"
+         
+          sed -i '/<!-- JOKE-START -->/,/<!-- JOKE-END -->/c\<!-- JOKE-START -->\n'"- $JOKE"'\n<!-- JOKE-END -->' README.md
           
-          # Update README
-          sed -i '/<!-- JOKE-START -->/,/<!-- JOKE-END -->/c\<!-- JOKE-START -->\n'"$JOKE"'\n<!-- JOKE-END -->' README.md
-          
-          # If joke section doesn't exist, append it
           if ! grep -q "<!-- JOKE-START -->" README.md; then
-            echo -e "\n<!-- JOKE-START -->\n$JOKE\n<!-- JOKE-END -->" >> README.md
+            echo -e "\n<!-- JOKE-START -->\n- $JOKE\n<!-- JOKE-END -->" >> README.md
           fi
 
       - name: Commit and push changes
