@@ -1,0 +1,65 @@
+name: Daily Joke Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: AtakanG7/AtakanG7
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch joke and update README
+        run: |
+          import requests
+          import re
+
+          # Fetch joke from API
+          response = requests.get('https://official-joke-api.appspot.com/random_joke')
+          joke_data = response.json()
+          joke = f"**Today's Joke:**\n\n{joke_data['setup']}\n\n{joke_data['punchline']}"
+
+          # Read current README
+          with open('README.md', 'r') as file:
+              readme = file.read()
+
+          # Define the markers for the joke section
+          start_marker = "<!-- JOKE-START -->"
+          end_marker = "<!-- JOKE-END -->"
+
+          # Replace or add joke section
+          if start_marker in readme and end_marker in readme:
+              pattern = f"{start_marker}.*?{end_marker}"
+              replacement = f"{start_marker}\n{joke}\n{end_marker}"
+              updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+          else:
+              updated_readme = f"{readme}\n\n{start_marker}\n{joke}\n{end_marker}"
+
+          # Write updated README
+          with open('README.md', 'w') as file:
+              file.write(updated_readme)
+        env:
+          PYTHONUNBUFFERED: 1
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "pwxcv7352@github.com"
+          git config --local user.name "AtakanG7"
+          git add README.md
+          git commit -m "Update daily joke" || exit 0
+          git push
