@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-## 📝 Articles - [My Blog](https://blog.atakangul.com)
+## 📝 Articles - [Visit My Blog](https://blog.atakangul.com)
 
 - **[LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software)** 
 - **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
