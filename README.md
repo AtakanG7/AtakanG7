@@ -20,10 +20,6 @@
 - Email: [atakan.gul000@gmail.com](mailto:atakan.gul000@gmail.com)
 - Portfolio: [atakangul.com](https://atakangul.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atakang7&label=Profile%20views&color=0e75b6&style=flat" alt="atakang7" />
-</p>
-
 <!-- JOKE-START -->
 **Today's Joke:**
 
@@ -31,3 +27,7 @@ A termite walks into a bar and says...
 
 'Where is the bar tended?'
 <!-- JOKE-END -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atakang7&label=Profile%20views&color=0e75b6&style=flat" alt="atakang7" />
+</p>
