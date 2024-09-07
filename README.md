@@ -21,11 +21,11 @@
 - Portfolio: [atakangul.com](https://atakangul.com)
 
 <!-- JOKE-START -->
-**Today's Joke:**
+- ## **Today's Joke:**
 
-A termite walks into a bar and says...
+Did you hear the one about the guy with the broken hearing aid?
 
-'Where is the bar tended?'
+Neither did he.
 <!-- JOKE-END -->
 
 <p align="center">
