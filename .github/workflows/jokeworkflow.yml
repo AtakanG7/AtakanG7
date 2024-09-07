@@ -14,47 +14,23 @@ jobs:
           repository: AtakanG7/AtakanG7
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
       - name: Fetch joke and update README
         run: |
-          import requests
-          import re
-
           # Fetch joke from API
-          response = requests.get('https://official-joke-api.appspot.com/random_joke')
-          joke_data = response.json()
-          joke = f"**Today's Joke:**\n\n{joke_data['setup']}\n\n{joke_data['punchline']}"
-
-          # Read current README
-          with open('README.md', 'r') as file:
-              readme = file.read()
-
-          # Define the markers for the joke section
-          start_marker = "<!-- JOKE-START -->"
-          end_marker = "<!-- JOKE-END -->"
-
-          # Replace or add joke section
-          if start_marker in readme and end_marker in readme:
-              pattern = f"{start_marker}.*?{end_marker}"
-              replacement = f"{start_marker}\n{joke}\n{end_marker}"
-              updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
-          else:
-              updated_readme = f"{readme}\n\n{start_marker}\n{joke}\n{end_marker}"
-
-          # Write updated README
-          with open('README.md', 'w') as file:
-              file.write(updated_readme)
-        env:
-          PYTHONUNBUFFERED: 1
+          JOKE_DATA=$(curl -s 'https://official-joke-api.appspot.com/random_joke')
+          SETUP=$(echo $JOKE_DATA | jq -r '.setup')
+          PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
+          
+          # Prepare joke text
+          JOKE="**Today's Joke:**\n\n$SETUP\n\n$PUNCHLINE"
+          
+          # Update README
+          sed -i '/<!-- JOKE-START -->/,/<!-- JOKE-END -->/c\<!-- JOKE-START -->\n'"$JOKE"'\n<!-- JOKE-END -->' README.md
+          
+          # If joke section doesn't exist, append it
+          if ! grep -q "<!-- JOKE-START -->" README.md; then
+            echo -e "\n<!-- JOKE-START -->\n$JOKE\n<!-- JOKE-END -->" >> README.md
+          fi
 
       - name: Commit and push changes
         run: |
