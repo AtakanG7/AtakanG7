@@ -9,10 +9,9 @@
 
 ## 📝 Articles
 
-- **[Nevotek Internship CI/CD Experience](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)**  
-- **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
 - **[LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software)** 
-- **[Must-Know Free APIs for Developers](https://atakangul.com/blogs/must-know-free-apis-for-developers)** 
+- **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
+- **[Nevotek Internship CI/CD Experience](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)**  
   
 ## 📫 Get in Touch
 
