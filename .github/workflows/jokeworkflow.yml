@@ -8,11 +8,12 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
         with:
           repository: AtakanG7/AtakanG7
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch joke and update README
         run: |
@@ -34,8 +35,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "pwxcv7352@github.com"
-          git config --local user.name "AtakanG7"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "Update daily joke" || exit 0
           git push
