@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **Today's Joke:**
 
-Why did the barber win the race?
+What is the hardest part about sky diving?
 
-He took a short cut.
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
