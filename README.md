@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **Today's Joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+Why did the barber win the race?
 
-Neither did he.
+He took a short cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
