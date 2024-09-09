@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+I just watched a documentary about beavers.
 
-Lean beef.
+It was the best dam show I ever saw
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
