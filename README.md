@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+Why do scuba divers fall backwards into the water?
 
-Pasta la vista, baby!
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
