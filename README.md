@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+What do birds give out on Halloween?
 
-Lots of training
+Tweets.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
