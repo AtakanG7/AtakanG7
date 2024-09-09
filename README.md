@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+How does the moon cut his hair?
 
-None, they prefer dark mode.
+Eclipse it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
