@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+To understand what recursion is...
 
-Oh, it's a really obscure number. You've probably never heard of it.
+You must first understand what recursion is
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
