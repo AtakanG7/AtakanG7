@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one snowman say to the other snow man?
+I'm reading a book about anti-gravity...
 
-Do you smell carrot?
+It's impossible to put down
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
