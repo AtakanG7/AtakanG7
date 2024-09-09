@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
+Ever wondered why bees hum?
 
-I couldn’t turn it down.
+It's because they don't know the words.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
