@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-He was Bjorn again
+So they could Scandinavian.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
