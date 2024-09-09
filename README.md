@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+I was gonna tell you a joke about UDP...
 
-It's ok, he woke up.
+...but you might not get it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
