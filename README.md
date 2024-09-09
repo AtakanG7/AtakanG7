@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+Why don't scientists trust atoms?
 
-Because nothing gets under their skin.
+Because they make up everything.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
