@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+What did one snowman say to the other snow man?
 
-Lots of training
+Do you smell carrot?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
