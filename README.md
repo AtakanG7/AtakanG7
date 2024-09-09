@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the traffic light say to the car as it passed?
+What's blue and not very heavy?
 
-Don't look I'm changing!
+Light blue.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
