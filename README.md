@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+Why did the octopus beat the shark in a fight?
 
-Towels
+Because it was well armed.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
