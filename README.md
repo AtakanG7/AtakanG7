@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+What do you get when you cross a React developer with a mathematician?
 
-They always egg-cercise!
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
