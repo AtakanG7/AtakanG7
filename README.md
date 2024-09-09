@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy who invented Lifesavers?
+How did the hipster burn the roof of his mouth?
 
-They say he made a mint.
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
