@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+Why do bears have hairy coats?
 
-He let out a little wine.
+Fur protection.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
