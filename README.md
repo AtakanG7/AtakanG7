@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+What did the traffic light say to the car as it passed?
 
-A wise quacker.
+Don't look I'm changing!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
