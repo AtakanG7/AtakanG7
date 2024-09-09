@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dictionary on drugs?
+Can February march?
 
-High definition.
+No, but April may.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
