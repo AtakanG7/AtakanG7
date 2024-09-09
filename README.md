@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-They were fully booked.
+I couldn’t turn it down.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
