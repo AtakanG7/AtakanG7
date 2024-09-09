@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+Ever wondered why bees hum?
 
-Join the club.
+It's because they don't know the words.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
