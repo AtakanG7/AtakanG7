@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer bring two pairs of pants?
+Bad at golf?
 
-In case he got a hole in one.
+Join the club.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
