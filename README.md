@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+What do you call a troublesome Canadian high schooler?
 
-Eclipse it.
+A poutine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
