@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Why are skeletons so calm?
 
-A function component.
+Because nothing gets under their skin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
