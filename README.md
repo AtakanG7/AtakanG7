@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+What do you call an elephant that doesn’t matter?
 
-Because it was well armed.
+An irrelephant.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
