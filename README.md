@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+What do you call a thieving alligator?
 
-Put a Windows user in front of Vim and tell them to exit.
+A crookodile!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
