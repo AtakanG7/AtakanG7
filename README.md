@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+Where did the API go to eat?
 
-Yes, but don’t turn it on.
+To the RESTaurant.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
