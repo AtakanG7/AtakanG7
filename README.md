@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+What do you get when you cross a rabbit with a water hose?
 
-Piiig
+Hare spray.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
