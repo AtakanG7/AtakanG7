@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+Why do programmers always get Christmas and Halloween mixed up?
 
-They will give you a piece of your mind.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
