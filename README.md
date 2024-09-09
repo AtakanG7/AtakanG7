@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What did the spaghetti say to the other spaghetti?
 
-The ground.
+Pasta la vista, baby!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
