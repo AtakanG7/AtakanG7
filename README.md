@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Sweden start painting barcodes on the sides of their battleships?
+Where do young cows eat lunch?
 
-So they could Scandinavian.
+In the calf-ateria.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
