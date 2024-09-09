@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+Why don't React developers like nature?
 
-Water.
+They prefer the virtual DOM.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
