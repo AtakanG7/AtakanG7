@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Did you hear the joke about the wandering nun?
 
-He took a short cut.
+She was a roman catholic.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
