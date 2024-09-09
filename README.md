@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+How do the trees get on the internet?
 
-'Can I join you?'
+They log on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
