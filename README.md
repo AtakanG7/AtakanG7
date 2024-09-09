@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+Why didn’t the skeleton cross the road?
 
-A pork chop!
+Because he had no guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
