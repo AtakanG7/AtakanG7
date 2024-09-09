@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+How many hipsters does it take to change a lightbulb?
 
-It's because they don't know the words.
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
