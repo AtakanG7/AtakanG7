@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+Do you know where you can get chicken broth in bulk?
 
-With tomato paste.
+The stock market.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
