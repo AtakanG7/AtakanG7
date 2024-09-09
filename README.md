@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dad that has fallen through the ice?
+How do you tell the difference between a crocodile and an alligator?
 
-A Popsicle.
+You will see one later and one in a while.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
