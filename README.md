@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you tell the difference between a crocodile and an alligator?
+What do you call a duck that gets all A's?
 
-You will see one later and one in a while.
+A wise quacker.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
