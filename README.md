@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that can't make up its mind?
+Why do programmers always get Christmas and Halloween mixed up?
 
-A maybe.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
