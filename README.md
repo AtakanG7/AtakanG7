@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+Why did the developer go to therapy?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+They had too many unresolved issues.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
