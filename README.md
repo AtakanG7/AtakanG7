@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+Why did the scarecrow win an award?
 
-Because he couldn't see that well!
+Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
