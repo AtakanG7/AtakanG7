@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow on a trampoline?
+What was the pumpkin’s favorite sport?
 
-A milk shake!
+Squash.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
