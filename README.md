@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Did you hear about the kidnapping at school?
 
-Because every seat has a fan in it.
+It's ok, he woke up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
