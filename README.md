@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+What do you get when you cross a bee and a sheep?
 
-They're really good at it.
+A bah-humbug.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
