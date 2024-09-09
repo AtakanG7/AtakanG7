@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+What do you call a cow with two legs?
 
-Dung!
+Lean beef.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
