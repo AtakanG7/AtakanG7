@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+How do hens stay fit?
 
-They come out at night!
+They always egg-cercise!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
