@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+What is the hardest part about sky diving?
 
-Twister!
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
