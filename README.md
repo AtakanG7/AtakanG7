@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+What kind of shoes does a thief wear?
 
-Squash.
+Sneakers
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
