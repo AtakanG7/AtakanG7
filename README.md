@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pile of cats?
+What is the leading cause of dry skin?
 
-A Meowtain.
+Towels
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
