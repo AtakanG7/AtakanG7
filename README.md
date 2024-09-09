@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it swam into a wall?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-Damn!
+'Can I join you?'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
