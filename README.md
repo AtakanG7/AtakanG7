@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Is there a hole in your shoe?
 
-Because they make up everything.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
