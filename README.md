@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just watched a documentary about beavers.
+Where does batman go to the bathroom?
 
-It was the best dam show I ever saw
+The batroom.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
