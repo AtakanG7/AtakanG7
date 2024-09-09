@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+What is a witch's favorite subject in school?
 
-Because he had no guts.
+Spelling!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
