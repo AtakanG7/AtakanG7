@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+What did the Java code say to the C code?
 
-Saturday and Sunday...the rest are weekdays.
+You've got no class.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
