@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+Why did the barber win the race?
 
-None that's a hardware problem
+He took a short cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
