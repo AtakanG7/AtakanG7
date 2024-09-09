@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+What do you call a pig that knows karate?
 
-A poutine.
+A pork chop!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
