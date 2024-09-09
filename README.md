@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-A crookodile!
+A metro-gnome
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
