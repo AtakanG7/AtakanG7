@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+What's the object-oriented way to become wealthy?
 
-Between us, something smells!
+Inheritance
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
