@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Java code say to the C code?
+How many React developers does it take to change a lightbulb?
 
-You've got no class.
+None, they prefer dark mode.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
