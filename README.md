@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish easy to weigh?
+What did the grape do when he got stepped on?
 
-Because they have their own scales.
+He let out a little wine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
