@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+What's the best thing about elevator jokes?
 
-Because they don't C#.
+They work on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
