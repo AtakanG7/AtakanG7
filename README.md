@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+How do locomotives know where they're going?
 
-It's because they don't know the words.
+Lots of training
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
