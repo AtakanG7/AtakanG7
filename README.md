@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+What happens when you anger a brain surgeon?
 
-Sneakers
+They will give you a piece of your mind.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
