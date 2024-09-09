@@ -14,11 +14,11 @@
 - **[Nevotek Internship CI/CD Experience](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)**  
 
 <!-- JOKE-START -->
-- ## **Today's Joke:**
+- ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What is a witch's favorite subject in school?
 
-The ground.
+Spelling!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
