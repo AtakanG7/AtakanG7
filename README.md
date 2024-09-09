@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+How do locomotives know where they're going?
 
-He was a good conductor.
+Lots of training
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
