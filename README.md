@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+What did the fish say when it swam into a wall?
 
-Spelling!
+Damn!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
