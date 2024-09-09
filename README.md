@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a careful wolf?
+What’s brown and sounds like a bell?
 
-Aware wolf.
+Dung!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
