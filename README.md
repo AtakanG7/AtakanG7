@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+What are the strongest days of the week?
 
-Because DEC 25 = OCT 31
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
