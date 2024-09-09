@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+I couldn't get a reservation at the library...
 
-Tweets.
+They were fully booked.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
