@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+What does an angry pepper do?
 
-A poutine.
+It gets jalapeño face.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
