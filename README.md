@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+What do you call a pile of cats?
 
-Sneakers
+A Meowtain.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
