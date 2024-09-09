@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fake noodle?
+What do you get when you cross a React developer with a mathematician?
 
-An impasta.
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
