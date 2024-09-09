@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Java code say to the C code?
+What do you call a bear with no teeth?
 
-You've got no class.
+A gummy bear!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
