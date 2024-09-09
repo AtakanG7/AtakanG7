@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Sweden start painting barcodes on the sides of their battleships?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-So they could Scandinavian.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
