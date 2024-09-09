@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+Who did the wizard marry?
 
-They log on.
+His ghoul-friend
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
