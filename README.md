@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't React developers like nature?
+What did the left eye say to the right eye?
 
-They prefer the virtual DOM.
+Between us, something smells!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
