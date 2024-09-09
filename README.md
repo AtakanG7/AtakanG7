@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+Why do Java programmers wear glasses?
 
-Put a little boogie in it.
+Because they don't C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
