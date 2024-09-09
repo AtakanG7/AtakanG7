@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-He ate the pizza before it was cool.
+European
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
