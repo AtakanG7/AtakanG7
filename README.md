@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+Why don't you find hippopotamuses hiding in trees?
 
-The stock market.
+They're really good at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
