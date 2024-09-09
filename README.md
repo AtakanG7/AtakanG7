@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+What do you call a pile of cats?
 
-Because he was outstanding in his field.
+A Meowtain.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
