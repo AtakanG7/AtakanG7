@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a boomerang that won't come back?
+Did you hear about the Viking who was reincarnated?
 
-A stick.
+He was Bjorn again
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
