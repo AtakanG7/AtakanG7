@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+What do you call a boomerang that won't come back?
 
-An irrelephant.
+A stick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
