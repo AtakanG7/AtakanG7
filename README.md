@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+What do you call a pig with three eyes?
 
-It's impossible to put down
+Piiig
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
