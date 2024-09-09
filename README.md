@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why are fish so smart?
 
-Hare spray.
+Because they live in schools!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
