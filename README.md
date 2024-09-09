@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+What do you call an old snowman?
 
-He ate the pizza before it was cool.
+Water.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
