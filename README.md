@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+Why do scuba divers fall backwards into the water?
 
-In case they get a hole in one!
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
