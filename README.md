@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+Why did the programmer always mix up Halloween and Christmas?
 
-Because DEC 25 = OCT 31
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
