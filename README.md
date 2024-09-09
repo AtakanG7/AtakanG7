@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+What do you call a dictionary on drugs?
 
-A gummy bear!
+High definition.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
