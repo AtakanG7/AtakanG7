@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+Why did the golfer bring two pairs of pants?
 
-No, but April may.
+In case he got a hole in one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
