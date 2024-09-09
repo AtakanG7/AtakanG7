@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+How do you generate a random string?
 
-Fur protection.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
