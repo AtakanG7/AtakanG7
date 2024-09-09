@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
 
-Light blue.
+the rest of them will write Perl
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
