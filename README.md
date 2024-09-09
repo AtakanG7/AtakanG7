@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+What do you call a dad that has fallen through the ice?
 
-It gets toad away
+A Popsicle.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
