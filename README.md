@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+How come a man driving a train got struck by lightning?
 
-Because they make up everything.
+He was a good conductor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
