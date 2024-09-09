@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did the API go to eat?
+What did the Java code say to the C code?
 
-To the RESTaurant.
+You've got no class.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
