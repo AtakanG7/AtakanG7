@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who did the wizard marry?
+Why did the cowboy have a weiner dog?
 
-His ghoul-friend
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
