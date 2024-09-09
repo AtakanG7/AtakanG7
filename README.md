@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+What do you call a cow on a trampoline?
 
-No… Then how’d you get your foot in it?
+A milk shake!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
