@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pile of cats?
+Why are football stadiums so cool?
 
-A Meowtain.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
