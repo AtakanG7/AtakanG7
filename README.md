@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Did you hear about the scientist who was lab partners with a pot of boiling water?
 
-It's impossible to put down
+He had a very esteemed colleague.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
