@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+What do you call a fake noodle?
 
-Because he was outstanding in his field.
+An impasta.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
