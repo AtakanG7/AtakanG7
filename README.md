@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+Can I watch the TV?
 
-Because he didn't get arrays.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
