@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+Why did the developer break up with their keyboard?
 
-In the calf-ateria.
+It just wasn't their type anymore.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
