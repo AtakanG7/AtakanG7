@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+What is a tornado's favorite game to play?
 
-A USB.
+Twister!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
