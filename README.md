@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+What do you call a careful wolf?
 
-I'm sorry, we don't serve food here
+Aware wolf.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
