@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+How many hipsters does it take to change a lightbulb?
 
-A function component.
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
