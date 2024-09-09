@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+Did you hear about the guy who invented Lifesavers?
 
-Because Oct 31 equals Dec 25.
+They say he made a mint.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
