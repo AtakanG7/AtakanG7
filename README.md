@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+How many programmers does it take to change a lightbulb?
 
-No… Then how’d you get your foot in it?
+None that's a hardware problem
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
