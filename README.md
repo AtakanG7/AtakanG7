@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+Why did the half blind man fall in the well?
 
-European
+Because he couldn't see that well!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
