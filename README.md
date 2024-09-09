@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-To understand what recursion is...
+What did one plate say to the other plate?
 
-You must first understand what recursion is
+Dinner is on me!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
