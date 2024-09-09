@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees hum?
+How do you make a hankie dance?
 
-Because they don't know the words.
+Put a little boogie in it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
