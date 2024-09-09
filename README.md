@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+Why don't scientists trust atoms?
 
-It gets jalapeño face.
+Because they make up everything.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
