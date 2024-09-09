@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+I'm reading a book about anti-gravity...
 
-She was a roman catholic.
+It's impossible to put down
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
