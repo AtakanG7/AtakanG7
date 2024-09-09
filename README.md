@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+How do you fix a broken pizza?
 
-Because if they fell forwards they’d still be in the boat.
+With tomato paste.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
