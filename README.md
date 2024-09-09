@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer break up with their keyboard?
+How are false teeth like stars?
 
-It just wasn't their type anymore.
+They come out at night!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
