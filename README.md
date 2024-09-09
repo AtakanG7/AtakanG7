@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+What do you call a careful wolf?
 
-Spelling!
+Aware wolf.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
