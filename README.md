@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a careful wolf?
+Why are fish easy to weigh?
 
-Aware wolf.
+Because they have their own scales.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
