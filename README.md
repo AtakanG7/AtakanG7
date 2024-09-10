@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
+What do prisoners use to call each other?
 
-the rest of them will write Perl
+Cell phones.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
