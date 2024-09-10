@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+How come the stadium got hot after the game?
 
-The batroom.
+Because all of the fans left.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
