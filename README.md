@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a monkey in a mine field?
+Why does Superman get invited to dinners?
 
-A babooooom!
+Because he is a Supperhero.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
