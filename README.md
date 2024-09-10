@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+How did the hipster burn the roof of his mouth?
 
-Microchips.
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
