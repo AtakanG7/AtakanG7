@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+Did you hear about the runner who was criticized?
 
-The second one.
+He just took it in stride
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
