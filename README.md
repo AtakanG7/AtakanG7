@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Dad, can you put my shoes on?
 
-R2 detour.
+I don't think they'll fit me.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
