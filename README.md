@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fake noodle?
+Where do bees go to the bathroom?
 
-An impasta.
+The BP station.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
