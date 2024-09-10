@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Hey, dad, did you get a haircut?
 
-Microchips.
+No, I got them all cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
