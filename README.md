@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a girl between two posts?
+What did the pirate say on his 80th birthday?
 
-Annette.
+Aye Matey!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
