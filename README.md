@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+Is there a hole in your shoe?
 
-Because they cantaloupe!
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
