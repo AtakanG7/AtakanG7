@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+What do you call a monkey in a mine field?
 
-Dinner is on me!
+A babooooom!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
