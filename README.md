@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the runner who was criticized?
+Is there a hole in your shoe?
 
-He just took it in stride
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
