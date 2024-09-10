@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+What's the difference between a guitar and a fish?
 
-It gets toad away
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
