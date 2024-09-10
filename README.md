@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Look for fresh prints.
+Because it's a little meteor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
