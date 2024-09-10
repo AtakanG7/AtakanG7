@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know you should always take an extra pair of pants golfing?
+Why did the butcher work extra hours at the shop?
 
-Just in case you get a hole in one.
+To make ends meat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
