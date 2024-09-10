@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+How many seconds are in a year?
 
-Even if you're wrong, you're only off by a bit.
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
