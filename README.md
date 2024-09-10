@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Fonzie like to go for lunch?
+Ever wondered why bees hum?
 
-Chick-Fil-Eyyyyyyyy.
+It's because they don't know the words.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
