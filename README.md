@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+Did you hear about the scientist who was lab partners with a pot of boiling water?
 
-Between us, something smells!
+He had a very esteemed colleague.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
