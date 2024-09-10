@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+Why was the font always tired?
 
-A plain bagel.
+It was always bold.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
