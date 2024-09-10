@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+Why did the math book look sad?
 
-I Excel at it.
+Because it had too many problems.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
