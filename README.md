@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer break up with their keyboard?
+What do you call a troublesome Canadian high schooler?
 
-It just wasn't their type anymore.
+A poutine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
