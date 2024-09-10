@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+What’s the difference between an African elephant and an Indian elephant?
 
-Because it's not stroganoff.
+About 5000 miles.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
