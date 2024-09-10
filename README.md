@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I got hit in the head by a soda can, but it didn't hurt that much...
+Why did the melons plan a big wedding?
 
-It was a soft drink.
+Because they cantaloupe!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
