@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Why can't you use "Beef stew"as a password?
 
-No, I got them all cut.
+Because it's not stroganoff.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
