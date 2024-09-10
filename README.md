@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+Where does Fonzie like to go for lunch?
 
-Because he is a Supperhero.
+Chick-Fil-Eyyyyyyyy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
