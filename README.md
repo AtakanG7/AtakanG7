@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+Why do bees have sticky hair?
 
-An irrelephant.
+Because they use honey combs!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
