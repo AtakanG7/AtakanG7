@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+How do the trees get on the internet?
 
-They are two tired
+They log on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
