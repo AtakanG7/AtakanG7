@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Why couldn't the lifeguard save the hippie?
 
-I woke up exhausted!
+He was too far out, man.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
