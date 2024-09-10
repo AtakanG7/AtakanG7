@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Why did the programmer go to art school?
 
-Twister!
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
