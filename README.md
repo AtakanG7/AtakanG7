@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+Did you hear about the two silk worms in a race?
 
-They're afraid to unwind.
+It ended in a tie.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
