@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+What's the best thing about a Boolean?
 
-You planet.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
