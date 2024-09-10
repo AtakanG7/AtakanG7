@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+What's the best thing about elevator jokes?
 
-Eclipse it.
+They work on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
