@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+What was a more important invention than the first telephone?
 
-Thank you very much, sir.
+The second one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
