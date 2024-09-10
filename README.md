@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+I got hit in the head by a soda can, but it didn't hurt that much...
 
-Sunday school.
+It was a soft drink.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
