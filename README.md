@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+How does the moon cut his hair?
 
-Cool Ranch!
+Eclipse it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
