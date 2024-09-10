@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+Why is peter pan always flying?
 
-The BP station.
+Because he neverlands
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
