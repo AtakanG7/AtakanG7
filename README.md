@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why did the scarecrow win an award?
 
-Because his mother was a wafer so long
+Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
