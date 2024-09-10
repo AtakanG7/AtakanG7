@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a belt made out of watches?
+Why did the cookie cry?
 
-A waist of time.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
