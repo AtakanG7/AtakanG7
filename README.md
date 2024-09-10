@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Which song would an exception sing?
 
-I woke up exhausted!
+Can't catch me - Avicii
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
