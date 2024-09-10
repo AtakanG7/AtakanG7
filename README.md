@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Why would a guitarist become a good programmer?
 
-Because he was outstanding in his field.
+He's adept at riffing in C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
