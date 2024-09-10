@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+How good are you at Power Point?
 
-He heard that the chickens at KFC were pretty hot.
+I Excel at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
