@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+Why do chicken coops only have two doors?
 
-I don't think they'll fit me.
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
