@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+What kind of music do welders like?
 
-It was two-tired.
+Heavy metal.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
