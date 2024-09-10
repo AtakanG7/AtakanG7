@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do prisoners use to call each other?
+Where does batman go to the bathroom?
 
-Cell phones.
+The batroom.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
