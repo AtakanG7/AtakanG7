@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of killer whales playing instruments?
+Where do hamburgers go to dance?
 
-An Orca-stra.
+The meat-ball.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
