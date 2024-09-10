@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+I had a dream that I was a muffler last night.
 
-USB.
+I woke up exhausted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
