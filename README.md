@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+Did you hear about the guy whose whole left side was cut off?
 
-A little shaken.
+He's all right now.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
