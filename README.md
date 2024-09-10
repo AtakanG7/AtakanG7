@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+What do you call someone with no nose?
 
-Ground beef!
+Nobody knows.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
