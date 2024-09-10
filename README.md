@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+What do you call a belt made out of watches?
 
-It ended in a tie.
+A waist of time.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
