@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+What do you call an old snowman?
 
-Roberto
+Water.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
