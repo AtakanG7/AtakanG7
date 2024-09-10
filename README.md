@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+What do elves post on Social Media?
 
-a labracadabrador
+Elf-ies.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
