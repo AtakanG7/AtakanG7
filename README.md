@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+What do you call a droid that takes the long way around?
 
-He's all right now.
+R2 detour.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
