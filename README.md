@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+What kind of music do welders like?
 
-Can't catch me - Avicii
+Heavy metal.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
