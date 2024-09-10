@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+Why are mummys scared of vacation?
 
-Between us, something smells!
+They're afraid to unwind.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
