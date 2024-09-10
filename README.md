@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+Why can't bicycles stand on their own?
 
-Even if you're wrong, you're only off by a bit.
+They are two tired
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
