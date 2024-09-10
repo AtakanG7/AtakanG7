@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about elevator jokes?
+Where do you learn to make banana splits?
 
-They work on so many levels.
+At sundae school.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
