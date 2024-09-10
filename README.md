@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+What do you call a group of killer whales playing instruments?
 
-Microchips.
+An Orca-stra.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
