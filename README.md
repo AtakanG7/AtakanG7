@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Why did the A go to the bathroom and come out as an E?
 
-At sundae school.
+Because he had a vowel movement.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
