@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+How do you find Will Smith in the snow?
 
-Eclipse it.
+Look for fresh prints.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
