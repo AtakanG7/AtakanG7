@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+What do you call a fake noodle?
 
-Elf-ies.
+An impasta.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
