@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
 
-About 5000 miles.
+Thank you very much, sir.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
