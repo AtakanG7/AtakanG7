@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+Why did the programmer's wife leave him?
 
-Even if you're wrong, you're only off by a bit.
+He didn't know how to commit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
