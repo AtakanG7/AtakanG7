@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+How did Darth Vader know what Luke was getting for Christmas?
 
-He ate the pizza before it was cool.
+He felt his presents.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
