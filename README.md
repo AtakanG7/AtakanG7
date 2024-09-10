@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+Did you know you should always take an extra pair of pants golfing?
 
-Nah, I'm still working on it.
+Just in case you get a hole in one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
