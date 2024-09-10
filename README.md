@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+Why did the barber win the race?
 
-It's because they don't know the words.
+He took a short cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
