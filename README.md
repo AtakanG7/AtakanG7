@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+I had a dream that I was a muffler last night.
 
-Because all of the fans left.
+I woke up exhausted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
