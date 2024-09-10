@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+What kind of bagel can fly?
 
-Because he couldn't see that well!
+A plain bagel.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
