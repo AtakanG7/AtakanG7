@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+What did one plate say to the other plate?
 
-It was feeling crumby.
+Dinner is on me!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
