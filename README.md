@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+Why do Java programmers wear glasses?
 
-It was always bold.
+Because they don't C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
