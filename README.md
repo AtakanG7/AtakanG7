@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+99.9% of the people are dumb!
 
-No… Then how’d you get your foot in it?
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
