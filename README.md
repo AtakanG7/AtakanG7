@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the invisible man turn down the job offer?
+How do you organize a space party?
 
-He couldn't see himself doing it
+You planet.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
