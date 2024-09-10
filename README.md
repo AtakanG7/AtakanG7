@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What’s the difference between an African elephant and an Indian elephant?
 
-He wanted to learn how to code outside the box.
+About 5000 miles.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
