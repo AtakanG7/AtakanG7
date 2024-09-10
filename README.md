@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+What goes after USA?
 
-Cool Ranch!
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
