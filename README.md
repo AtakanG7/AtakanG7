@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+What's the best thing about a Boolean?
 
-It's ok, he woke up.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
