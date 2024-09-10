@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the butcher work extra hours at the shop?
+What did the left eye say to the right eye?
 
-To make ends meat.
+Between us, something smells!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
