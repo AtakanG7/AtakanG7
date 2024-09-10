@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+What did the left eye say to the right eye?
 
-They log on.
+Between us, something smells!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
