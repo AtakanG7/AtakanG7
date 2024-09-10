@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Did you hear about the crime in the parking garage?
 
-A function component.
+It was wrong on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
