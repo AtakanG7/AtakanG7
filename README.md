@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+What's a computer's favorite snack?
 
-They kept spending all their cache.
+Microchips.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
