@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+Why did the developer break up with their keyboard?
 
-Water.
+It just wasn't their type anymore.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
