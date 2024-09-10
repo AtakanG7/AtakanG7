@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+How many tickles does it take to tickle an octopus?
 
-They had too many unresolved issues.
+Ten-tickles!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
