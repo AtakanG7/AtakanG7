@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the A go to the bathroom and come out as an E?
+What's a computer's favorite snack?
 
-Because he had a vowel movement.
+Microchips.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
