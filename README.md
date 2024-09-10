@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+Did you hear the story about the cheese that saved the world?
 
-USB.
+It was legend dairy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
