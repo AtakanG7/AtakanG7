@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+Why did the rooster cross the road?
 
-It was legend dairy.
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
