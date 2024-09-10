@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+What happens to a frog's car when it breaks down?
 
-The meat-ball.
+It gets toad away
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
