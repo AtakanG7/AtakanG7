@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is red and smells like blue paint?
+Why did the octopus beat the shark in a fight?
 
-Red paint!
+Because it was well armed.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
