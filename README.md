@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+Did you hear about the kidnapping at school?
 
-A poutine.
+It's ok, he woke up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
