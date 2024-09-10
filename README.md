@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+What's a computer's favorite snack?
 
-He was too far out, man.
+Microchips.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
