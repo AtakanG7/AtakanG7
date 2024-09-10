@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+What do you get when you cross a chicken with a skunk?
 
-Because it was well armed.
+A fowl smell!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
