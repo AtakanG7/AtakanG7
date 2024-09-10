@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+How come a man driving a train got struck by lightning?
 
-Put a Windows user in front of Vim and tell them to exit.
+He was a good conductor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
