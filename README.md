@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the math book look sad?
+What is red and smells like blue paint?
 
-Because it had too many problems.
+Red paint!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
