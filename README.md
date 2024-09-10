@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+What do you do on a remote island?
 
-Heavy metal.
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
