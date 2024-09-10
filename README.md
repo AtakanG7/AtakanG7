@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+When is a door not a door?
 
-Because he was a little horse
+When it's ajar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
