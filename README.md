@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+How do hens stay fit?
 
-Because it's a little meteor.
+They always egg-cercise!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
