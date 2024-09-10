@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-Tooth hurt-y.
+It reads "Small medium at large."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
