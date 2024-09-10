@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer bring two pairs of pants?
+How does a penguin build it’s house?
 
-In case he got a hole in one.
+Igloos it together.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
