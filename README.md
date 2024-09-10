@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+How does the moon cut his hair?
 
-Even if you're wrong, you're only off by a bit.
+Eclipse it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
