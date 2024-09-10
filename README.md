@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+How many programmers does it take to change a lightbulb?
 
-He was a good conductor.
+None that's a hardware problem
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
