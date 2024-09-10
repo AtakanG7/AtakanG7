@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+Did you hear the joke about the wandering nun?
 
-Because they don't C#.
+She was a roman catholic.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
