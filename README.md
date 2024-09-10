@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cowboy have a weiner dog?
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
-Somebody told him to get a long little doggy.
+Because there’s a Shortstop in between!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
