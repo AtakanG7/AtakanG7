@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+How do you steal a coat?
 
-When it's ajar.
+You jacket.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
