@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+How do you generate a random string?
 
-They always egg-cercise!
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
