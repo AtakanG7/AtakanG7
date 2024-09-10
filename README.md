@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Have you heard the rumor going around about butter?
 
-Because it had nobody.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
