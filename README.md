@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-While I was sleeping my friends decided to write math equations on me.
+I bought some shoes from a drug dealer.
 
-You should have seen the expression on my face when I woke up.
+I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
