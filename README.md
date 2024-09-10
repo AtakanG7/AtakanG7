@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+Want to hear a joke about construction?
 
-He was too far out, man.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
