@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+How was the snow globe feeling after the storm?
 
-Microchips.
+A little shaken.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
