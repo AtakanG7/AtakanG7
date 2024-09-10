@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+what do you call a dog that can do magic tricks?
 
-He took a short cut.
+a labracadabrador
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
