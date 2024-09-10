@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+What's the best thing about a Boolean?
 
-Never mind, I shouldn't spread it.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
