@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+What do you call a cow with no legs?
 
-Because he neverlands
+Ground beef!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
