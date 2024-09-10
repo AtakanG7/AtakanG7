@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did Darth Vader know what Luke was getting for Christmas?
+What did the Dorito farmer say to the other Dorito farmer?
 
-He felt his presents.
+Cool Ranch!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
