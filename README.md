@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+Why did the cookie cry?
 
-Because they use honey combs!
+It was feeling crumby.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
