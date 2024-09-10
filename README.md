@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call someone with no nose?
+Why couldn't the lifeguard save the hippie?
 
-Nobody knows.
+He was too far out, man.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
