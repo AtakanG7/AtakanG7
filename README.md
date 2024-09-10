@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+What did the 0 say to the 8?
 
-You can tune a guitar but you can't "tuna"fish!
+Nice belt.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
