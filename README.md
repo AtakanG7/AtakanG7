@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Knock-knock.
+What do you call an elephant that doesn’t matter?
 
-A race condition. Who is there?
+An irrelephant.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
