@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why did the half blind man fall in the well?
 
-Heavy metal.
+Because he couldn't see that well!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
