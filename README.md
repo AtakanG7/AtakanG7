@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+How does a train eat?
 
-Because he didn't get arrays.
+It goes chew, chew
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
