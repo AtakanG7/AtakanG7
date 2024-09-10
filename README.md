@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a sheep with no legs?
+What did the Dorito farmer say to the other Dorito farmer?
 
-A cloud.
+Cool Ranch!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
