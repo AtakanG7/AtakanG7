@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why would a guitarist become a good programmer?
+Why did the developer go to therapy?
 
-He's adept at riffing in C#.
+They had too many unresolved issues.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
