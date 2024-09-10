@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+Why did the programmer quit his job?
 
-None that's a hardware problem
+Because he didn't get arrays.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
