@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+Why didn't the skeleton go for prom?
 
-She was a roman catholic.
+Because it had nobody.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
