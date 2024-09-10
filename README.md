@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+What's the difference between a guitar and a fish?
 
-He didn't know how to commit.
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
