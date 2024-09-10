@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+While I was sleeping my friends decided to write math equations on me.
 
-Fortunately I belong to the remaining 1%
+You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
