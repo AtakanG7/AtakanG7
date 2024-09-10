@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+Why was the developer always calm?
 
-Aye Matey!
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
