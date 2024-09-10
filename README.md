@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+Why did the developer go broke?
 
-You can tune a guitar but you can't "tuna"fish!
+They kept spending all their cache.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
