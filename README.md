@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+What do you call an Argentinian with a rubber toe?
 
-Try and find the TV island it belongs to.
+Roberto
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
