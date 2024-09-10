@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+What goes after USA?
 
-A fowl smell!
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
