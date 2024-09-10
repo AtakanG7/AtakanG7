@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Where did you learn to make ice cream?
 
-Igloos it together.
+Sunday school.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
