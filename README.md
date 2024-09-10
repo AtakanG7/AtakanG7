@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a monkey in a mine field?
+What do you call a girl between two posts?
 
-A babooooom!
+Annette.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
