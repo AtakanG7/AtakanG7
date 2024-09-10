@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+Why did the invisible man turn down the job offer?
 
-I don't know what he laced them with, but I was tripping all day!
+He couldn't see himself doing it
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
