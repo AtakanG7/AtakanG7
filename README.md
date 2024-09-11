@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+What did the judge say to the dentist?
 
-A blood orange.
+Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
