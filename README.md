@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+Why did the programmer bring a broom to work?
 
-Because it's not stroganoff.
+To clean up all the bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
