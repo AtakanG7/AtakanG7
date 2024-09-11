@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+Did you hear about the Mexican train killer?
 
-Algae-bra.
+He had loco motives
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
