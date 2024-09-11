@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+What do you call a bear with no teeth?
 
-He held up a pair of pants!
+A gummy bear!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
