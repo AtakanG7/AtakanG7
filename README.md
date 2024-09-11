@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+Where did you learn to make ice cream?
 
-Because they always used too much ice-olation.
+Sunday school.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
