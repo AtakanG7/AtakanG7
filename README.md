@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Why did the programmer bring a broom to work?
 
-Tweets.
+To clean up all the bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
