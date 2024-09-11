@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+What does a clock do when it's hungry?
 
-He held up a pair of pants!
+It goes back four seconds!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
