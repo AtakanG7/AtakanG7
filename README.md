@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+How do you make holy water?
 
-Start in England and drive West.
+You boil the hell out of it
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
