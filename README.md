@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+What did the beaver say to the tree?
 
-Because all of the fans left.
+It's been nice gnawing you.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
