@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many kids with ADD does it take to change a lightbulb?
+Why did the belt go to prison?
 
-Let's go ride bikes!
+He held up a pair of pants!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
