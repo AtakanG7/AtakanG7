@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+What does C.S. Lewis keep at the back of his wardrobe?
 
-It's impossible to put down
+Narnia business!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
