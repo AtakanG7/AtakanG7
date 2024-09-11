@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+What has ears but cannot hear?
 
-I Excel at it.
+A field of corn.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
