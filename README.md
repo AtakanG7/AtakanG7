@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+What do you call a suspicious looking laptop?
 
-It is about 2 hours long.
+Asus
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
