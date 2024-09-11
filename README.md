@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pumpkins sit on people’s porches?
+Why did the mushroom get invited to the party?
 
-They have no hands to knock on the door.
+Because he was a fungi.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
