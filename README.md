@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+How do you comfort a designer?
 
-They start coffin.
+You give them some space... between the elements.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
