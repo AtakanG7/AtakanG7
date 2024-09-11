@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+Why can't you use "Beef stew"as a password?
 
-The library, it’s got the most stories!
+Because it's not stroganoff.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
