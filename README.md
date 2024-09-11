@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+did you know the first French fries weren't cooked in France?
 
-They haven't got a gig yet.
+they were cooked in Greece
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
