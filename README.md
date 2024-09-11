@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-did you know the first French fries weren't cooked in France?
+What did the spaghetti say to the other spaghetti?
 
-they were cooked in Greece
+Pasta la vista, baby!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
