@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+What's Forrest Gump's password?
 
-Because DEC 25 = OCT 31
+1Forrest1
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
