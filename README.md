@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a suspicious looking laptop?
+What type of music do balloons hate?
 
-Asus
+Pop music!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
