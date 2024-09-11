@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Why was the designer always cold?
 
-It was having window panes.
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
