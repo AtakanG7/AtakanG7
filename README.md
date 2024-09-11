@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-You boil the hell out of it
+It reads "Small medium at large."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
