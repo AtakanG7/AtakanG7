@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+What time is it?
 
-That’s a deep subject.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
