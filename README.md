@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+Why did the programmer quit his job?
 
-They're afraid to unwind.
+Because he didn't get arrays.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
