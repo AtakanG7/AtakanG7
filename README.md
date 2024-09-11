@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Fonzie like to go for lunch?
+Why did the scarecrow win an award?
 
-Chick-Fil-Eyyyyyyyy.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
