@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the new restaurant on the moon?
+What is the tallest building in the world?
 
-The food is great, but there’s just no atmosphere.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
