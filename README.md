@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are pirates called pirates?
+How do you find Will Smith in the snow?
 
-Because they arrr!
+Look for fresh prints.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
