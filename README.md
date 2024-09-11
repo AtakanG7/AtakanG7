@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+What do you call a pig that knows karate?
 
-It goes back four seconds!
+A pork chop!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
