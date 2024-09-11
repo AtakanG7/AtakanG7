@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+Why did the kid throw the watch out the window?
 
-I'll meet you at the corner!
+So time would fly.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
