@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What lies at the bottom of the ocean and twitches?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-A nervous wreck.
+'Can I join you?'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
