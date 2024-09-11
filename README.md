@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the A go to the bathroom and come out as an E?
+I had a dream that I was a muffler last night.
 
-Because he had a vowel movement.
+I woke up exhausted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
