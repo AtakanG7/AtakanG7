@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+What do you call a bear with no teeth?
 
-Pasta la vista, baby!
+A gummy bear!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
