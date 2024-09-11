@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+What is this movie about?
 
-Because Oct 31 equals Dec 25.
+It is about 2 hours long.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
