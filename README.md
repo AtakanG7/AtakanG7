@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+Want to hear my pizza joke?
 
-He made a grave mistake.
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
