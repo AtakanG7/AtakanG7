@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+How did Darth Vader know what Luke was getting for Christmas?
 
-No, but April may.
+He felt his presents.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
