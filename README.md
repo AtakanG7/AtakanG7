@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
+Why do programmers always get Christmas and Halloween mixed up?
 
-the rest of them will write Perl
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
