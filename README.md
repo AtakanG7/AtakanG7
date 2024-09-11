@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+Well...
 
-A field of corn.
+That’s a deep subject.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
