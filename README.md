@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+What do you get when you cross a chicken with a skunk?
 
-Sunday school.
+A fowl smell!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
