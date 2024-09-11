@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+Why did Dracula lie in the wrong coffin?
 
-In the calf-ateria.
+He made a grave mistake.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
