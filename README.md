@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are pirates called pirates?
+Which side of the chicken has more feathers?
 
-Because they arrr!
+The outside.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
