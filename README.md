@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Do you want a brief explanation of what an acorn is?
 
-They were fully booked.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
