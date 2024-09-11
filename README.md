@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+Why couldn't the kid see the pirate movie?
 
-Tooth hurt-y.
+Because it was rated arrr!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
