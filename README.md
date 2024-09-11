@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the kid see the pirate movie?
+Why did the girl smear peanut butter on the road?
 
-Because it was rated arrr!
+To go with the traffic jam.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
