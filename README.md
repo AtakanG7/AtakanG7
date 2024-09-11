@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+An IPv6 packet is walking out of the house.
 
-You'll strain your eyes.
+He goes nowhere.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
