@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+I bought some shoes from a drug dealer.
 
-Because he was outstanding in his field.
+I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
