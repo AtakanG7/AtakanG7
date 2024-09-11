@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Why are graveyards so noisy?
 
-They always egg-cercise!
+Because of all the coffin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
