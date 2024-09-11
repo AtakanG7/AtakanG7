@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+How good are you at Power Point?
 
-Because DEC 25 = OCT 31
+I Excel at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
