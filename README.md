@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+How many apples grow on a tree?
 
-To go with the traffic jam.
+All of them!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
