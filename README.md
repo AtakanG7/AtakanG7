@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+Why did the programmer bring a broom to work?
 
-They preferred to write in C#.
+To clean up all the bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
