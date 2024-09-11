@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+What does the mermaid wear to math class?
 
-An in-vest-igator!
+Algae-bra.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
