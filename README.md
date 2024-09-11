@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+What do you get when you cross a chicken with a skunk?
 
-Look for fresh prints.
+A fowl smell!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
