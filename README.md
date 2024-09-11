@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Why did the developer go to therapy?
 
-You should drop another one, then you would have a pair.
+They had too many unresolved issues.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
