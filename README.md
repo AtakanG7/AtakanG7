@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Why did the scarecrow win an award?
 
-A function component.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
