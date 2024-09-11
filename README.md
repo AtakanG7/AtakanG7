@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+What is the tallest building in the world?
 
-They don't have the guts.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
