@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-You rocket.
+Narnia business!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
