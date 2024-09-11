@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+Can February march?
 
-Your head hits the ceiling!
+No, but April may.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
