@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+I'm reading a book about anti-gravity...
 
-Yes, but don’t turn it on.
+It's impossible to put down
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
