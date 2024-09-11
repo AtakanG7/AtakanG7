@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does C.S. Lewis keep at the back of his wardrobe?
+What’s the object-oriented way to become wealthy?
 
-Narnia business!
+Inheritance.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
