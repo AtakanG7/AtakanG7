@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I was gonna tell you a joke about UDP...
+Hey, wanna hear a joke?
 
-...but you might not get it.
+Parsing HTML with regex.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
