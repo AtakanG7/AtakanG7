@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+How do you know if there’s an elephant under your bed?
 
-It got mugged.
+Your head hits the ceiling!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
