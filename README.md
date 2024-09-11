@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+Why does Waldo only wear stripes?
 
-It reads "Small medium at large."
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
