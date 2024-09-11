@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+What is the hardest part about sky diving?
 
-'Can I join you?'
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
