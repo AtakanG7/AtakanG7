@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+Why did the A go to the bathroom and come out as an E?
 
-To clean up all the bugs.
+Because he had a vowel movement.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
