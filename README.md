@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+When do doctors get angry?
 
-It was having window panes.
+When they run out of patients.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
