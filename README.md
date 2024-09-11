@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+Why do you never see elephants hiding in trees?
 
-Look, no hands!
+Because they're so good at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
