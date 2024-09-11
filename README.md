@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+What do you get when you cross a chicken with a skunk?
 
-Because if it had four doors it would be a chicken sedan.
+A fowl smell!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
