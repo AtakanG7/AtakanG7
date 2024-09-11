@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's Forrest Gump's password?
+Two guys walk into a bar . . .
 
-1Forrest1
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
