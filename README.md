@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+I was gonna tell you a joke about UDP...
 
-Tooth hurt-y.
+...but you might not get it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
