@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+Why do programmers always get Christmas and Halloween mixed up?
 
-A wise quacker.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
