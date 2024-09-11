@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+Why are pirates called pirates?
 
-Pop music!
+Because they arrr!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
