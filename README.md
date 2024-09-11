@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+Why are pirates called pirates?
 
-In case they get a hole in one!
+Because they arrr!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
