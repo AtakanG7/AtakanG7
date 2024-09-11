@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+Don't look at the eclipse through a colander.
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+You'll strain your eyes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
