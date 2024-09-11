@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+How come the stadium got hot after the game?
 
-So time would fly.
+Because all of the fans left.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
