@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+How do you get a baby alien to sleep?
 
-Because he doesn't want to be spotted.
+You rocket.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
