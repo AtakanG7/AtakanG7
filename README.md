@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+Where was the Declaration of Independence signed?
 
-All of them!
+At the bottom! 
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
