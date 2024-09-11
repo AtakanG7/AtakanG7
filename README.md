@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+Why don't skeletons fight each other?
 
-Nah, I'm still working on it.
+They don't have the guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
