@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+What is a witch's favorite subject in school?
 
-A pork chop!
+Spelling!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
