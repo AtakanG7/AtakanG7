@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did Darth Vader know what Luke was getting for Christmas?
+How do hens stay fit?
 
-He felt his presents.
+They always egg-cercise!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
