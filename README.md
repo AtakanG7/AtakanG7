@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does C.S. Lewis keep at the back of his wardrobe?
+What do you get when you cross a React developer with a mathematician?
 
-Narnia business!
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
