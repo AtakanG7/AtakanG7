@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+How do you get a baby alien to sleep?
 
-A gummy bear!
+You rocket.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
