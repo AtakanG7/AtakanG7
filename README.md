@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+How can you tell a vampire has a cold?
 
-Lean beef.
+They start coffin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
