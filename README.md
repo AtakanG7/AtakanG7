@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Mexican train killer?
+Why did the coffee file a police report?
 
-He had loco motives
+It got mugged.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
