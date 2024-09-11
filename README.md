@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer bring two pairs of pants?
+Where do programmers like to hangout?
 
-In case he got a hole in one.
+The Foo Bar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
