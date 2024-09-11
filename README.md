@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+What do you call a fly without wings?
 
-Igloos it together.
+A walk.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
