@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What happens to a frog's car when it breaks down?
 
-The ground.
+It gets toad away
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
