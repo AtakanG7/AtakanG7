@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+Why did the scarecrow win an award?
 
-The Foo Bar.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
