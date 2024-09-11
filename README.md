@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-The library, it’s got the most stories!
+A metro-gnome
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
