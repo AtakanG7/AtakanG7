@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+Did you hear about the new restaurant on the moon?
 
-Because if it had four doors it would be a chicken sedan.
+The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
