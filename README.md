@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Can I watch the TV?
 
-Because he was outstanding in his field.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
