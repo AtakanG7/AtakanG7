@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+What lies at the bottom of the ocean and twitches?
 
-When they run out of patients.
+A nervous wreck.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
