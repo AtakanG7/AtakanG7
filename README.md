@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+Why did the programmer always mix up Halloween and Christmas?
 
-Inheritance.
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
