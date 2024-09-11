@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+What time did the man go to the dentist?
 
-I don't know... it keeps changing.
+Tooth hurt-y.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
