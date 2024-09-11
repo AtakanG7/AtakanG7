@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
 
-Because he was a fungi.
+the rest of them will write Perl
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
