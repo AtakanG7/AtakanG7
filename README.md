@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Why did the belt go to prison?
 
-Thanks for all the sediment.
+He held up a pair of pants!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
