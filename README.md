@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+What do you call a cow with two legs?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+Lean beef.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
