@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+How do you get two whales in a car?
 
-They had too many unresolved issues.
+Start in England and drive West.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
