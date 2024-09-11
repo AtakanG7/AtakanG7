@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you call an alligator in a vest?
 
-A walk.
+An in-vest-igator!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
