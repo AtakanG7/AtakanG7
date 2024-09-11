@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+Have you heard of the band 1023MB?
 
-Parsing HTML with regex.
+They haven't got a gig yet.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
