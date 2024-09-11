@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+Why didn’t the skeleton cross the road?
 
-Sore arms.
+Because he had no guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
