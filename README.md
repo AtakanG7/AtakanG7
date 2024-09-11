@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+What do birds give out on Halloween?
 
-Because they're so good at it.
+Tweets.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
