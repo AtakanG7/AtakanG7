@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
+What do you call an alligator in a vest?
 
-Because there’s a Shortstop in between!
+An in-vest-igator!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
