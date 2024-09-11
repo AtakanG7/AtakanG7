@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+Why are mummys scared of vacation?
 
-A field of corn.
+They're afraid to unwind.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
