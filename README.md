@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+Why does a chicken coop only have two doors?
 
-To clean up all the bugs.
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
