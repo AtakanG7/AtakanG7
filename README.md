@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+A programmer puts two glasses on his bedside table before going to sleep.
 
-Spelling!
+A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
