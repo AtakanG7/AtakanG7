@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+Why did the golfer bring two pairs of pants?
 
-They come out at night!
+In case he got a hole in one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
