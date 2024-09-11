@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+Why did the programmer always carry a pencil?
 
-An in-vest-igator!
+They preferred to write in C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
