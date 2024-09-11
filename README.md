@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+How do the trees get on the internet?
 
-The outside.
+They log on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
