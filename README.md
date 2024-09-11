@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where was the Declaration of Independence signed?
+How are false teeth like stars?
 
-At the bottom! 
+They come out at night!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
