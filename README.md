@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Where do young cows eat lunch?
 
-It gets toad away
+In the calf-ateria.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
