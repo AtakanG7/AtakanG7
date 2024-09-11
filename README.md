@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What did the digital clock say to the grandfather clock?
 
-You give them some space... between the elements.
+Look, no hands!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
