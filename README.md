@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+What has ears but cannot hear?
 
-You rocket.
+A field of corn.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
