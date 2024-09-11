@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+What do you call a duck that gets all A's?
 
-Because they knew how to handle exceptions.
+A wise quacker.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
