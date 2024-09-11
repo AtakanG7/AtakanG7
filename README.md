@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+How many kids with ADD does it take to change a lightbulb?
 
-Because they use honey combs!
+Let's go ride bikes!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
