@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-An IPv6 packet is walking out of the house.
+Where does Fonzie like to go for lunch?
 
-He goes nowhere.
+Chick-Fil-Eyyyyyyyy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
