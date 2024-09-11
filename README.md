@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+I dropped a pear in my car this morning.
 
-It goes back four seconds!
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
