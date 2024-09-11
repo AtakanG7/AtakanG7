@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+Why is peter pan always flying?
 
-Never mind, it's too cheesy.
+Because he neverlands
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
