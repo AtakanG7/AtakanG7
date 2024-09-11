@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Why do pumpkins sit on people’s porches?
 
-Because of all the coffin.
+They have no hands to knock on the door.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
