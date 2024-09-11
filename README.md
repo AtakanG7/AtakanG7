@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+I dropped a pear in my car this morning.
 
-I don't know what he laced them with, but I was tripping all day!
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
