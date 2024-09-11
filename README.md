@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+What is a vampire's favorite fruit?
 
-In a nutshell, it's an oak tree.
+A blood orange.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
