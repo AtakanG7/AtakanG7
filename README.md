@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+What is the most used language in programming?
 
-A gummy bear!
+Profanity.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
