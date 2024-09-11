@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+I couldn't get a reservation at the library...
 
-Because he was outstanding in his field.
+They were fully booked.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
