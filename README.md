@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+What do you call a duck that gets all A's?
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+A wise quacker.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
