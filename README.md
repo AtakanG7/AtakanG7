@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-It was legend dairy.
+Narnia business!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
