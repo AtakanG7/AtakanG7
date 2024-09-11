@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of magic do cows believe in?
+What do you call a fly without wings?
 
-MOODOO.
+A walk.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
