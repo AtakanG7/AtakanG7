@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+Want to hear a joke about construction?
 
-Profanity.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
