@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+Why did the house go to the doctor?
 
-A wise quacker.
+It was having window panes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
