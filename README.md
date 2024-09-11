@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+What does a clock do when it's hungry?
 
-Because he neverlands
+It goes back four seconds!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
