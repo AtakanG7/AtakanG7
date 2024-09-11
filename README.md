@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you get hanging from Apple trees?
 
-A walk.
+Sore arms.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
