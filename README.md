@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+How does a penguin build it’s house?
 
-A metro-gnome
+Igloos it together.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
