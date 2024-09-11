@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+Why do fathers take an extra pair of socks when they go golfing?
 
-Pop music!
+In case they get a hole in one!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
