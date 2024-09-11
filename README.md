@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+What kind of magic do cows believe in?
 
-Because he didn't get arrays.
+MOODOO.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
