@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+What did the ocean say to the beach?
 
-Because he is a Supperhero.
+Thanks for all the sediment.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
