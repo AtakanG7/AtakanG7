@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+Why does Superman get invited to dinners?
 
-They log on.
+Because he is a Supperhero.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
