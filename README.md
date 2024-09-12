@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Why are graveyards so noisy?
 
-R2 detour.
+Because of all the coffin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
