@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you check if a webpage is HTML5?
+99.9% of the people are dumb!
 
-Try it out on Internet Explorer
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
