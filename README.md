@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+Why don't eggs tell jokes?
 
-Because they knew how to handle exceptions.
+Because they would crack each other up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
