@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Norway have barcodes on their battleships?
+Bad at golf?
 
-So when they get back to port, they can Scandinavian.
+Join the club.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
