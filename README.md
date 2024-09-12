@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Why do wizards clean their teeth three times a day?
 
-It got mugged.
+To prevent bat breath!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
