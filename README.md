@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+What goes after USA?
 
-They don't have the guts.
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
