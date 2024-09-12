@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Buffalo say to his little boy when he dropped him off at school?
+Why did the functions stop calling each other?
 
-Bison.
+Because they had constant arguments.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
