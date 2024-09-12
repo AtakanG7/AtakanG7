@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+How much does a hipster weigh?
 
-A stick.
+An instagram.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
