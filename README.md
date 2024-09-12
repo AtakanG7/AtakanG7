@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Did you hear the joke about the wandering nun?
 
-You boil the hell out of it
+She was a roman catholic.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
