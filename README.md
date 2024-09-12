@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do crabs never give to charity?
+What do you call a droid that takes the long way around?
 
-Because they’re shellfish.
+R2 detour.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
