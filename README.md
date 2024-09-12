@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+What's the worst part about being a cross-eyed teacher?
 
-Join the club.
+They can't control their pupils.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
