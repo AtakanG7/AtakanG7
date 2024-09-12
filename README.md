@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+Where did the API go to eat?
 
-When it's ajar.
+To the RESTaurant.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
