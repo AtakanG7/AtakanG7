@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+A user interface is like a joke.
 
-I woke up exhausted!
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
