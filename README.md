@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers prefer dark chocolate?
+Why does Waldo only wear stripes?
 
-Because it's bitter like their code.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
