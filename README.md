@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a train eat?
+What do you get hanging from Apple trees?
 
-It goes chew, chew
+Sore arms.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
