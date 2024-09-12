@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+What do you call a pig with three eyes?
 
-Nice belt.
+Piiig
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
