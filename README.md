@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-You boil the hell out of it
+Bison.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
