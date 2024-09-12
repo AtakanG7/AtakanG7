@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+Why do crabs never give to charity?
 
-The library, it’s got the most stories!
+Because they’re shellfish.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
