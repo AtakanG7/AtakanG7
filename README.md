@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's red and bad for your teeth?
+Did you hear that David lost his ID in prague?
 
-A Brick.
+Now we just have to call him Dav.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
