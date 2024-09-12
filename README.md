@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+What do you get hanging from Apple trees?
 
-She was a roman catholic.
+Sore arms.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
