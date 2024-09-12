@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+What do you call a pig that knows karate?
 
-Because it's not stroganoff.
+A pork chop!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
