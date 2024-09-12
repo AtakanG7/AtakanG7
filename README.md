@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+What’s the advantage of living in Switzerland?
 
-Towels
+Well, the flag is a big plus.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
