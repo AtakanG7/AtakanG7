@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Why was the font always tired?
 
-It was having window panes.
+It was always bold.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
