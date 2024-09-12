@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+Did you hear about the new restaurant on the moon?
 
-Pop,goes the weasel.
+The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
