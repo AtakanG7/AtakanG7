@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+Why can't bicycles stand on their own?
 
-Roberto
+They are two tired
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
