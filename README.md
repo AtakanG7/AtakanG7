@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A user interface is like a joke.
+How do you make holy water?
 
-If you have to explain it then it is not that good.
+You boil the hell out of it
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
