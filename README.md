@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Why is seven bigger than nine?
 
-It was having window panes.
+Because seven ate nine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
