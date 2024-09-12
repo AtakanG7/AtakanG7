@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Why did the house go to the doctor?
 
-To prevent bat breath!
+It was having window panes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
