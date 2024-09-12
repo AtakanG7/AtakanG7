@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+What did the scarf say to the hat?
 
-When they run out of patients.
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
