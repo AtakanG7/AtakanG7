@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+I bought some shoes from a drug dealer.
 
-It got mugged.
+I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
