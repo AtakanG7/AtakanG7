@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+Have you ever heard of a music group called Cellophane?
 
-Because he didn't get arrays.
+They mostly wrap.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
