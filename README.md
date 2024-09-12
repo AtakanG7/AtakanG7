@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+Hey, dad, did you get a haircut?
 
-I don't know what he laced them with, but I was tripping all day!
+No, I got them all cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
