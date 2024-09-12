@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+What do you call a dictionary on drugs?
 
-Piiig
+High definition.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
