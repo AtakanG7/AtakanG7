@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't a bicycle stand on its own?
+Well...
 
-It's two-tired.
+That’s a deep subject.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
