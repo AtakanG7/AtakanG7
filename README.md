@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+Where do hamburgers go to dance?
 
-Now we just have to call him Dav.
+The meat-ball.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
