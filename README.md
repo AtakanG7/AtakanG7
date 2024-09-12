@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+How do you make the number one disappear?
 
-Sore arms.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
