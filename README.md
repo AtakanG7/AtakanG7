@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+How did the hipster burn the roof of his mouth?
 
-Sore arms.
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
