@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Why does Norway have barcodes on their battleships?
 
-Because every seat has a fan in it.
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
