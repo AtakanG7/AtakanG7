@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Why do you never see elephants hiding in trees?
 
-It gets toad away
+Because they're so good at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
