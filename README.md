@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+What do you call an Argentinian with a rubber toe?
 
-That’s a deep subject.
+Roberto
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
