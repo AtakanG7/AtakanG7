@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why did the kid throw the watch out the window?
 
-Hare spray.
+So time would fly.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
