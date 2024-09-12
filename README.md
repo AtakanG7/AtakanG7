@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't a bicycle stand on its own?
+I dropped a pear in my car this morning.
 
-It's two-tired.
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
