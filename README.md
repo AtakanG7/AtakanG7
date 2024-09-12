@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+Where does Napoleon keep his armies?
 
-Does that make you an iWitness?
+In his sleevies.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
