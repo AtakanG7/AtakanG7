@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+Did you hear the story about the cheese that saved the world?
 
-They didn't get arrays.
+It was legend dairy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
