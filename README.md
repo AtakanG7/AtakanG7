@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What did the digital clock say to the grandfather clock?
 
-Nah, I'm still working on it.
+Look, no hands!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
