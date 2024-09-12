@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do chicken coops only have two doors?
+Why is seven bigger than nine?
 
-Because if they had four, they would be chicken sedans
+Because seven ate nine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
