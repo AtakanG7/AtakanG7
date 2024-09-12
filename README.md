@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do C# and Java developers keep breaking their keyboards?
+Why did the fireman wear red, white, and blue suspenders?
 
-Because they use a strongly typed language.
+To hold his pants up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
