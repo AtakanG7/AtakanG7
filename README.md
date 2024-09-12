@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Buffalo say to his little boy when he dropped him off at school?
+Why can't a bicycle stand on its own?
 
-Bison.
+It's two-tired.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
