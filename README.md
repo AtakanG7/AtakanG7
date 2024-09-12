@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-Piiig
+Bison.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
