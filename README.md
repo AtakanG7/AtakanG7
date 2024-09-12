@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a nervous javelin thrower?
+Why did the math book look sad?
 
-Shakespeare.
+Because it had too many problems.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
