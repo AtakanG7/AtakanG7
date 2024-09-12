@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+What did the 0 say to the 8?
 
-A pork chop!
+Nice belt.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
