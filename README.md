@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+How do locomotives know where they're going?
 
-Look, no hands!
+Lots of training
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
