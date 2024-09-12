@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+I had a dream that I was a muffler last night.
 
-You boil the hell out of it
+I woke up exhausted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
