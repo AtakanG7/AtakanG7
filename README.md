@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+What do you get when you cross a React developer with a mathematician?
 
-Join the club.
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
