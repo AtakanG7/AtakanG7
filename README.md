@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+Which song would an exception sing?
 
-They can't control their pupils.
+Can't catch me - Avicii
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
