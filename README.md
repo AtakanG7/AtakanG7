@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-Because they make up everything.
+You can only use a low ha.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
