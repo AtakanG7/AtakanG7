@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+Why was the developer always calm?
 
-A Carrot.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
