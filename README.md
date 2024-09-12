@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the scarf say to the hat?
+Want to hear a joke about construction?
 
-You go on ahead, I am going to hang around a bit longer.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
