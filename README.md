@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
 
-I don't know what he laced them with, but I was tripping all day!
+Pop,goes the weasel.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
