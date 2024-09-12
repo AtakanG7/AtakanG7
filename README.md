@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+What do you call someone with no nose?
 
-All of them!
+Nobody knows.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
