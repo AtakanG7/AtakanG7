@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+Why did the coffee file a police report?
 
-So time would fly.
+It got mugged.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
