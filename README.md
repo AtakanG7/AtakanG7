@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+How does a train eat?
 
-Because nothing gets under their skin.
+It goes chew, chew
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
