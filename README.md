@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+What do you call a dad that has fallen through the ice?
 
-It was legend dairy.
+A Popsicle.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
