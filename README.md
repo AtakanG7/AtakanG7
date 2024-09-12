@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do choirs keep buckets handy?
+What did the grape do when he got stepped on?
 
-So they can carry their tune
+He let out a little wine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
