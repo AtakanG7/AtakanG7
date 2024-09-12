@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Why did the butcher work extra hours at the shop?
 
-You should drop another one, then you would have a pair.
+To make ends meat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
