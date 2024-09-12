@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+What's orange and sounds like a parrot?
 
-The meat-ball.
+A Carrot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
