@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+Bad at golf?
 
-Lots of training
+Join the club.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
