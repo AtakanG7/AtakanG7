@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dad that has fallen through the ice?
+How do you fix a broken pizza?
 
-A Popsicle.
+With tomato paste.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
