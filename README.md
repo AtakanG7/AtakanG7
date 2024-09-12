@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+Why did the house go to the doctor?
 
-Fortunately I belong to the remaining 1%
+It was having window panes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
