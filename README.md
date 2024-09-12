@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+When do doctors get angry?
 
-None, they prefer dark mode.
+When they run out of patients.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
