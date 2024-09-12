@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+How come the stadium got hot after the game?
 
-Because they're so good at it.
+Because all of the fans left.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
