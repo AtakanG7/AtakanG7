@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+How do you make holy water?
 
-Got stacks of em! First one's on the house
+You boil the hell out of it
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
