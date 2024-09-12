@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+What do you call a pig with three eyes?
 
-An impasta.
+Piiig
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
