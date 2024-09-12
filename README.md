@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+Want to hear a chimney joke?
 
-Never mind, it's too cheesy.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
