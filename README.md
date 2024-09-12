@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+What did the mountain climber name his son?
 
-In his sleevies.
+Cliff.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
