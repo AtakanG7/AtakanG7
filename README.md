@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+Why did the cookie cry?
 
-Because he doesn't want to be spotted.
+It was feeling crumby.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
