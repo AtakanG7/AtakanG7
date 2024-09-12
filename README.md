@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+What happens to a frog's car when it breaks down?
 
-They will give you a piece of your mind.
+It gets toad away
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
