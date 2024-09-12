@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-Because every seat has a fan in it.
+'Can I join you?'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
