@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+How does a penguin build it’s house?
 
-Because if they fell forwards they’d still be in the boat.
+Igloos it together.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
