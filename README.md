@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+Why do valley girls hang out in odd numbered groups?
 
-Hi, bud!
+Because they can't even.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
