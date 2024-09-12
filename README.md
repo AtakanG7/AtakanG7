@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dictionary on drugs?
+What did one plate say to the other plate?
 
-High definition.
+Dinner is on me!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
