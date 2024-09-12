@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+What’s the advantage of living in Switzerland?
 
-USB.
+Well, the flag is a big plus.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
