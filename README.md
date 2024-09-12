@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the functions stop calling each other?
+Why did the mushroom get invited to the party?
 
-Because they had constant arguments.
+Because he was a fungi.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
