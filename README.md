@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Why do scuba divers fall backwards into the water?
 
-Because of all the coffin.
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
