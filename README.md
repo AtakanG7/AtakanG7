@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+Why does Norway have barcodes on their battleships?
 
-They haven't got a gig yet.
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
