@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't eggs tell jokes?
+Why can't a bicycle stand on its own?
 
-Because they would crack each other up.
+It's two-tired.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
