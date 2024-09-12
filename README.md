@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+What did the spaghetti say to the other spaghetti?
 
-Ground beef!
+Pasta la vista, baby!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
