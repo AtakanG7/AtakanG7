@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+How many apples grow on a tree?
 
-With tomato paste.
+All of them!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
