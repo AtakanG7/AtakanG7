@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why did the coffee file a police report?
 
-It was feeling crumby.
+It got mugged.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
