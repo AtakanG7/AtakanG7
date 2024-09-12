@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+What do you call a belt made out of watches?
 
-He ate the pizza before it was cool.
+A waist of time.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
