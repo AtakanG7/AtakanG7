@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+What happens to a frog's car when it breaks down?
 
-It was always bold.
+It gets toad away
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
