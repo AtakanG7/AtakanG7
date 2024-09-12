@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+If you see a robbery at an Apple Store...
 
-They are two tired
+Does that make you an iWitness?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
