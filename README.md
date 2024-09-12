@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+What did the late tomato say to the early tomato?
 
-A Carrot.
+I’ll ketch up
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
