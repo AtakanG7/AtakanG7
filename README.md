@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+Why do programmers prefer dark chocolate?
 
-With tomato paste.
+Because it's bitter like their code.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
