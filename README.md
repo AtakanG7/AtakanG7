@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+Want to hear my pizza joke?
 
-Look, no hands!
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
