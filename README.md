@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the butcher work extra hours at the shop?
+How do you fix a broken pizza?
 
-To make ends meat.
+With tomato paste.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
