@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+Why are skeletons so calm?
 
-All of them!
+Because nothing gets under their skin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
