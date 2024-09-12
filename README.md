@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a belt made out of watches?
+When is a door not a door?
 
-A waist of time.
+When it's ajar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
