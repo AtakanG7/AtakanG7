@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a boomerang that won't come back?
+Want to hear a chimney joke?
 
-A stick.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
