@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the beaver say to the tree?
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
-It's been nice gnawing you.
+Because there’s a Shortstop in between!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
