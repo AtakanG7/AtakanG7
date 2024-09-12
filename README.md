@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+What's orange and sounds like a parrot?
 
-Got stacks of em! First one's on the house
+A Carrot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
