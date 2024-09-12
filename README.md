@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+How many React developers does it take to change a lightbulb?
 
-Well, the flag is a big plus.
+None, they prefer dark mode.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
