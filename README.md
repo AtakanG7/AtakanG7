@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Why do chicken coops only have two doors?
 
-No, I got them all cut.
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
