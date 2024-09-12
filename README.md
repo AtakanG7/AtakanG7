@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't React developers like nature?
+There are 10 types of people in this world...
 
-They prefer the virtual DOM.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
