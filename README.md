@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+Why are football stadiums so cool?
 
-Can't catch me - Avicii
+Because every seat has a fan in it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
