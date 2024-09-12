@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Why do valley girls hang out in odd numbered groups?
 
-A function component.
+Because they can't even.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
