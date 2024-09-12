@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+Want to hear my pizza joke?
 
-A fowl smell!
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
