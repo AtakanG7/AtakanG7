@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the math book look sad?
+Why don't skeletons fight each other?
 
-Because it had too many problems.
+They don't have the guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
