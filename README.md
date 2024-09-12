@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+What is the leading cause of dry skin?
 
-Dinner is on me!
+Towels
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
