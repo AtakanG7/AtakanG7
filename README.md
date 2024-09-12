@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Why don't skeletons fight each other?
 
-Igloos it together.
+They don't have the guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
