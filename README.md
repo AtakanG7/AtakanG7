@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+Why do C# and Java developers keep breaking their keyboards?
 
-They mostly wrap.
+Because they use a strongly typed language.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
