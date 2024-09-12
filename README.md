@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+Why is peter pan always flying?
 
-Pasta la vista, baby!
+Because he neverlands
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
