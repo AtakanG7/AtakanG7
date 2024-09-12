@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+What do you get when you cross a rabbit with a water hose?
 
-Because they can't even.
+Hare spray.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
