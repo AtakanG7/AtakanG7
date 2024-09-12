@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Why do choirs keep buckets handy?
 
-Add the letter G and it’s “gone”!
+So they can carry their tune
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
