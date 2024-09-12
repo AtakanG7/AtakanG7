@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+I bought some shoes from a drug dealer.
 
-They preferred to write in C#.
+I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
