@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+Why did the programmer always carry a pencil?
 
-An instagram.
+They preferred to write in C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
