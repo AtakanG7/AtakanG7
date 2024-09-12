@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+How do you check if a webpage is HTML5?
 
-They don't have the guts.
+Try it out on Internet Explorer
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
