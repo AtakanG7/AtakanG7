@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Norway have barcodes on their battleships?
+What do you call a cow with no legs?
 
-So when they get back to port, they can Scandinavian.
+Ground beef!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
