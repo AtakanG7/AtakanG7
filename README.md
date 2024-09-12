@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+How many apples grow on a tree?
 
-Because all of the fans left.
+All of them!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
