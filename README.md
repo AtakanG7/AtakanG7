@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+What's red and bad for your teeth?
 
-Well, the flag is a big plus.
+A Brick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
