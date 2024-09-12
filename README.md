@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+What did the digital clock say to the grandfather clock?
 
-Because he neverlands
+Look, no hands!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
