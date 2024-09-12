@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+What do you call a boomerang that won't come back?
 
-Those who understand binary and those who don't
+A stick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
