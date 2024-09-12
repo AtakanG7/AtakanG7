@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Did you hear the joke about the wandering nun?
 
-It gets toad away
+She was a roman catholic.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
