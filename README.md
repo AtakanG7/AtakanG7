@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the mountain climber name his son?
+Where does batman go to the bathroom?
 
-Cliff.
+The batroom.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
