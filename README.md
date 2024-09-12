@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+What do you call a nervous javelin thrower?
 
-Because he was a fungi.
+Shakespeare.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
