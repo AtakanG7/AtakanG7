@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+What do you call fake spaghetti?
 
-You can only use a low ha.
+An impasta.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
