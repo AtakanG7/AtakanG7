@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Do I enjoy making courthouse puns?
 
-Igloos it together.
+Guilty
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
