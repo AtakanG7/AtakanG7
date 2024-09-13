@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish easy to weigh?
+There are 10 types of people in this world...
 
-Because they have their own scales.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
