@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+Never take advice from electrons.
 
-A stick.
+They are always negative.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
