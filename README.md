@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Michael Jackson name his denim store?
+Why are fish easy to weigh?
 
-Billy Jeans!
+Because they have their own scales.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
