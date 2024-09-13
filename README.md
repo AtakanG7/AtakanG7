@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+What do you call a troublesome Canadian high schooler?
 
-There's too many bugs.
+A poutine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
