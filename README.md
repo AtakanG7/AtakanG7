@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+What do you call an eagle who can play the piano?
 
-Because he was a little horse
+Talonted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
