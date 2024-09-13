@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What did the late tomato say to the early tomato?
 
-He wanted to learn how to code outside the box.
+I’ll ketch up
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
