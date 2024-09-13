@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow on a trampoline?
+What do you call sad coffee?
 
-A milk shake!
+Despresso.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
