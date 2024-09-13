@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a bee and a sheep?
+What did Michael Jackson name his denim store?
 
-A bah-humbug.
+Billy Jeans!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
