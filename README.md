@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+How does a penguin build it’s house?
 
-Nothing, they just waved.
+Igloos it together.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
