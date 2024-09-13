@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+What does a pirate pay for his corn?
 
-They haven't got a gig yet.
+A buccaneer!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
