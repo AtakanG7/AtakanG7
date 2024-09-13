@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you call a droid that takes the long way around?
 
-A walk.
+R2 detour.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
