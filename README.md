@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did celery say when he broke up with his girlfriend?
+I can't tell if i like this blender...
 
-She wasn't right for me, so I really don't carrot all.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
