@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can’t you hear a pterodactyl go to the bathroom?
+Why do valley girls hang out in odd numbered groups?
 
-The p is silent.
+Because they can't even.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
