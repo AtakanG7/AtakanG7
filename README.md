@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+Where do you learn to make banana splits?
 
-They didn't get arrays.
+At sundae school.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
