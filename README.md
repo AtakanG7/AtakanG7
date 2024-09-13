@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+How does a dyslexic poet write?
 
-A four-chin teller.
+Inverse.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
