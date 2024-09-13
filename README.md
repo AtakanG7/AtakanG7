@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many seconds are in a year?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+European
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
