@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+Why did the mushroom get invited to the party?
 
-Their ghoul-friend
+Because he was a fungi.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
