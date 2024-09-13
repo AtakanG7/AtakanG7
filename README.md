@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+Why couldn't the lifeguard save the hippie?
 
-To get to the other slide.
+He was too far out, man.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
