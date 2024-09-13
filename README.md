@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Why did the barber win the race?
 
-No, I got them all cut.
+He took a short cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
