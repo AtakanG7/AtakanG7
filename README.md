@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the scientist who was lab partners with a pot of boiling water?
+An IPv6 packet is walking out of the house.
 
-He had a very esteemed colleague.
+He goes nowhere.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
