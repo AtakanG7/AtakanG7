@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Why did the cookie go to the doctor?
 
-Before was was was was was is.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
