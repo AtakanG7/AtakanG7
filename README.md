@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+Want to hear a joke about construction?
 
-Even if you're wrong, you're only off by a bit.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
