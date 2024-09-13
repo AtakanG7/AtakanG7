@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+How many hipsters does it take to change a lightbulb?
 
-They are always negative.
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
