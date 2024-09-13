@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+What is the hardest part about sky diving?
 
-The sails are going through the roof.
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
