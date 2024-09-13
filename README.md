@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+Why did the half blind man fall in the well?
 
-It reads "Small medium at large."
+Because he couldn't see that well!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
