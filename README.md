@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-The stock market.
+European
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
