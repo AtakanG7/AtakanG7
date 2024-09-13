@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+What is the tallest building in the world?
 
-Cool Ranch!
+The library, it’s got the most stories!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
