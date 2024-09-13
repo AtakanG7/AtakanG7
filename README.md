@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+How do you comfort a designer?
 
-Because seven ate nine.
+You give them some space... between the elements.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
