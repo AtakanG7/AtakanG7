@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+What kind of pants do ghosts wear?
 
-Do you know the problem with UDP jokes?
+Boo jeans.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
