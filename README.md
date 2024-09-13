@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+Did you hear the news?
 
-Because nothing gets under their skin.
+FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
