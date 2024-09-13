@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Can a kangaroo jump higher than the Empire State Building?
 
-R2 detour.
+Of course. The Empire State Building can't jump.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
