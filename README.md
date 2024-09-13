@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+Why couldn't the bicycle stand up by itself?
 
-Those who understand binary and those who don't
+It was two-tired.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
