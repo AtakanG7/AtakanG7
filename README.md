@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a ladder to work?
+What do you get hanging from Apple trees?
 
-They heard the code needed to be debugged from a higher level.
+Sore arms.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
