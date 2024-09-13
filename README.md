@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Why did the melons plan a big wedding?
 
-A function component.
+Because they cantaloupe!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
