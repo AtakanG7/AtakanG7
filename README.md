@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What lies at the bottom of the ocean and twitches?
+Can February march?
 
-A nervous wreck.
+No, but April may.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
