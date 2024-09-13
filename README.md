@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Why can’t you hear a pterodactyl go to the bathroom?
 
-He took a short cut.
+The p is silent.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
