@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+What do you call sad coffee?
 
-A metro-gnome
+Despresso.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
