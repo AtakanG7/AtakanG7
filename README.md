@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was Cinderalla thrown out of the football team?
+What do you call a fat psychic?
 
-Because she ran away from the ball.
+A four-chin teller.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
