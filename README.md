@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What happens when you anger a brain surgeon?
 
-You give them some space... between the elements.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
