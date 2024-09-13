@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give a sick lemon?
+What do ghosts call their true love?
 
-Lemonaid.
+Their ghoul-friend
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
