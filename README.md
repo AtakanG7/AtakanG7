@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+Why did Dracula lie in the wrong coffin?
 
-Boo jeans.
+He made a grave mistake.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
