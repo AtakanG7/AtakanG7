@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+Why did the programmer always carry a pencil?
 
-To get to the other slide.
+They preferred to write in C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
