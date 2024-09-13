@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Why did the programmer go to art school?
 
-Because he was outstanding in his field.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
