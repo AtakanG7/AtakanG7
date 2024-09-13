@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+What do you get when you cross a bee and a sheep?
 
-Because they see sharp.
+A bah-humbug.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
