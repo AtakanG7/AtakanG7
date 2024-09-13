@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+Hey, dad, did you get a haircut?
 
-European
+No, I got them all cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
