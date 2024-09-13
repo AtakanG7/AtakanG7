@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a girl between two posts?
+What do you call a bee that can't make up its mind?
 
-Annette.
+A maybe.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
