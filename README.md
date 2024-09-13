@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+I dropped a pear in my car this morning.
 
-He didn't know how to commit.
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
