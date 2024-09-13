@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+What do you call a girl between two posts?
 
-Make me one with everything.
+Annette.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
