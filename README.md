@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Why do C# and Java developers keep breaking their keyboards?
 
-Add the letter G and it’s “gone”!
+Because they use a strongly typed language.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
