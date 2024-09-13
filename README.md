@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+Why did the melons plan a big wedding?
 
-About 5000 miles.
+Because they cantaloupe!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
