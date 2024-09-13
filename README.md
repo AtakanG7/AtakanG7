@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a bee and a sheep?
+What do you call a dictionary on drugs?
 
-A bah-humbug.
+High definition.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
