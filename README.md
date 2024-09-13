@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+What did the Dorito farmer say to the other Dorito farmer?
 
-Because they're so good at it.
+Cool Ranch!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
