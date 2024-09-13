@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+What did one plate say to the other plate?
 
-They are always negative.
+Dinner is on me!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
