@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that can't make up its mind?
+What do you get when you cross a React developer with a mathematician?
 
-A maybe.
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
