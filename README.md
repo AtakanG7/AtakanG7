@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Michael Jackson name his denim store?
+A grocery store cashier asked if I would like my milk in a bag.
 
-Billy Jeans!
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
