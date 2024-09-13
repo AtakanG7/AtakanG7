@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+What did Michael Jackson name his denim store?
 
- Because it was feeling crumbly.
+Billy Jeans!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
