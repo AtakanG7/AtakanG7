@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Finally realized why my plant sits around doing nothing all day...
+what do you call a dog that can do magic tricks?
 
-He loves his pot.
+a labracadabrador
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
