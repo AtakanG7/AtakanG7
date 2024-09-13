@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+What's the best thing about a Boolean?
 
-Pasta la vista, baby!
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
