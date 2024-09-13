@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+What do you call a bee that lives in America?
 
-He made a grave mistake.
+A USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
