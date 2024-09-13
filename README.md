@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+I started a new business making yachts in my attic this year...
 
-Sore arms.
+The sails are going through the roof.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
