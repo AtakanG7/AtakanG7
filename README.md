@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+What did celery say when he broke up with his girlfriend?
 
-Because they cantaloupe!
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
