@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+Why dot net developers don't wear glasses?
 
-Despresso.
+Because they see sharp.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
