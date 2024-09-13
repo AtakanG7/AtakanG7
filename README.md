@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+What do you get when you cross a bee and a sheep?
 
-A pork chop!
+A bah-humbug.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
