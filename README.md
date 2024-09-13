@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+Why are skeletons so calm?
 
-I told her 'No, thanks. The carton works fine.'
+Because nothing gets under their skin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
