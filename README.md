@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+Do you know where you can get chicken broth in bulk?
 
-Because he had no guts.
+The stock market.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
