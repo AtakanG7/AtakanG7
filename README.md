@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+Why couldn't the bicycle stand up by itself?
 
-A metro-gnome
+It was two-tired.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
