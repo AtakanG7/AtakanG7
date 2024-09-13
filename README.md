@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+Why did the programmer quit his job?
 
-Despresso.
+Because he didn't get arrays.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
