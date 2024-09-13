@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+Why didn’t the skeleton cross the road?
 
-They mostly wrap.
+Because he had no guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
