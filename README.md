@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+What's the best thing about a Boolean?
 
-They preferred to write in C#.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
