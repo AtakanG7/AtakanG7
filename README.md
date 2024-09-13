@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+What is the hardest part about sky diving?
 
-Dinner is on me!
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
