@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+What did the spaghetti say to the other spaghetti?
 
-A blood orange.
+Pasta la vista, baby!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
