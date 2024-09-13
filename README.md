@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+What is a vampire's favorite fruit?
 
-The library, it’s got the most stories!
+A blood orange.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
