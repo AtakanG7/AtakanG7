@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+Did you hear that David lost his ID in prague?
 
-European
+Now we just have to call him Dav.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
