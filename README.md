@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What do you get when you cross a React developer with a mathematician?
 
-The ground.
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
