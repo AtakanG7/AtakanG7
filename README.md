@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+Have you heard of the band 1023MB?
 
-I'll meet you at the corner!
+They haven't got a gig yet.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
