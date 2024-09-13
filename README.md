@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+What is a witch's favorite subject in school?
 
-Because they can't even.
+Spelling!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
