@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+Do you know what the word 'was' was initially?
 
-He didn't know how to commit.
+Before was was was was was is.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
