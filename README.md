@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do I enjoy making courthouse puns?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-Guilty
+A metro-gnome
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
