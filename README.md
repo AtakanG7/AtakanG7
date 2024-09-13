@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+Why did the kid cross the playground?
 
-Roberto
+To get to the other slide.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
