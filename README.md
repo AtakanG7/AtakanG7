@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+Why did the programmer's wife leave him?
 
-An impasta.
+He didn't know how to commit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
