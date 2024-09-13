@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+Why don't oysters give to charity?
 
-Because he was trying to catch up on his sleep!
+Because they're shellfish.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
