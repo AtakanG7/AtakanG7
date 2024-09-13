@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can a kangaroo jump higher than the Empire State Building?
+Have you ever heard of a music group called Cellophane?
 
-Of course. The Empire State Building can't jump.
+They mostly wrap.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
