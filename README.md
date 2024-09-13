@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+Why are fish easy to weigh?
 
-Neither did he.
+Because they have their own scales.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
