@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+Why did the programmer bring a ladder to work?
 
-It went back four seconds.
+They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
