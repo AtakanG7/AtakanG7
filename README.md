@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+Did you hear about the hungry clock?
 
-Because he couldn't see that well!
+It went back four seconds.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
