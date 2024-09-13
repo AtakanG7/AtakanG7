@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What do you call a fly without wings?
 
-I’ll ketch up
+A walk.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
