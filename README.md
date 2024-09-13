@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+Why do programmers prefer dark chocolate?
 
-You can tune a guitar but you can't "tuna"fish!
+Because it's bitter like their code.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
