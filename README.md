@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an eagle who can play the piano?
+Why did the programmer's wife leave him?
 
-Talonted!
+He didn't know how to commit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
