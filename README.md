@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+99.9% of the people are dumb!
 
-Because all of the fans left.
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
