@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+What do you give a sick lemon?
 
-Because he didn't get arrays.
+Lemonaid.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
