@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-No… Then how’d you get your foot in it?
+It reads "Small medium at large."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
