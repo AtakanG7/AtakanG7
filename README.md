@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are oranges the smartest fruit?
+What did one ocean say to the other ocean?
 
-Because they are made to concentrate. 
+Nothing, they just waved.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
