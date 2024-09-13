@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-While I was sleeping my friends decided to write math equations on me.
+What do you call a group of disorganized cats?
 
-You should have seen the expression on my face when I woke up.
+A cat-tastrophe.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
