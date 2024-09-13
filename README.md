@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+How does a scientist freshen their breath?
 
-He was too far out, man.
+With experi-mints!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
