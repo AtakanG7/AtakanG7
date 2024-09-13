@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+What did the Red light say to the Green light?
 
-Even if you're wrong, you're only off by a bit.
+Don't look at me I'm changing!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
