@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+Can February march?
 
-He was Bjorn again
+No, but April may.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
