@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+What do you call cheese by itself?
 
-It was two-tired.
+Provolone.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
