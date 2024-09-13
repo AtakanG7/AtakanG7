@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-Because they don't C#.
+European
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
