@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Did you hear about the crime in the parking garage?
 
-You should drop another one, then you would have a pair.
+It was wrong on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
