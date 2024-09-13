@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+How do the trees get on the internet?
 
-Fortunately I belong to the remaining 1%
+They log on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
