@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What do you call a bee that lives in America?
 
-Nah, I'm still working on it.
+A USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
