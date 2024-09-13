@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do birds fly south for the winter?
+Why are oranges the smartest fruit?
 
-Because it's too far to walk.
+Because they are made to concentrate. 
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
