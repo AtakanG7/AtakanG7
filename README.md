@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+What lies at the bottom of the ocean and twitches?
 
-Because they knew how to handle exceptions.
+A nervous wreck.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
