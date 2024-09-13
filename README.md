@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a scientist freshen their breath?
+Why did the Clydesdale give the pony a glass of water?
 
-With experi-mints!
+Because he was a little horse
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
