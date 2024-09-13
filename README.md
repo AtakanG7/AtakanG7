@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+What’s the difference between an African elephant and an Indian elephant?
 
-Inverse.
+About 5000 miles.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
