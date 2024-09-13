@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+The punchline often arrives before the set-up.
 
-I told her 'No, thanks. The carton works fine.'
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
