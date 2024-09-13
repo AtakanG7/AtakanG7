@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+A grocery store cashier asked if I would like my milk in a bag.
 
-They will give you a piece of your mind.
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
