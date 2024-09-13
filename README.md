@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+Who did the wizard marry?
 
-Now we just have to call him Dav.
+His ghoul-friend
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
