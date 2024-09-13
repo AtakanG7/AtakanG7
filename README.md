@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+What do you call a pig that knows karate?
 
-A buccaneer!
+A pork chop!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
