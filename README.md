@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+Why was the developer always calm?
 
-They log on.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
