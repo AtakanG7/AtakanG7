@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+While I was sleeping my friends decided to write math equations on me.
 
-A USB.
+You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
