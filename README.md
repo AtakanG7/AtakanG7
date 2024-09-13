@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+Did you hear about the chameleon who couldn't change color?
 
-Don't look at me I'm changing!
+They had a reptile dysfunction.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
