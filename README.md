@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do C# and Java developers keep breaking their keyboards?
+What do you call a cow on a trampoline?
 
-Because they use a strongly typed language.
+A milk shake!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
