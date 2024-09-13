@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+Why don't programmers like nature?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+There's too many bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
