@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+How come the stadium got hot after the game?
 
-Because he was a little horse
+Because all of the fans left.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
