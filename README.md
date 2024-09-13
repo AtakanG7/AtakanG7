@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+Finally realized why my plant sits around doing nothing all day...
 
-A USB.
+He loves his pot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
