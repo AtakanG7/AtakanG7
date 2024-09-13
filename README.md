@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the news?
+Why did the Clydesdale give the pony a glass of water?
 
-FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+Because he was a little horse
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
