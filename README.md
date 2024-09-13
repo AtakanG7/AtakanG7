@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+Is there a hole in your shoe?
 
-It keeps giving me mixed results.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
