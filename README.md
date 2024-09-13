@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+Where do programmers like to hangout?
 
-It was wrong on so many levels.
+The Foo Bar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
