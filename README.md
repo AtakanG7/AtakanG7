@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+Did you hear about the cheese factory that exploded in France?
 
-The Foo Bar.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
