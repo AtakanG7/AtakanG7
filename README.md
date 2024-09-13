@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish easy to weigh?
+What did one wall say to the other wall?
 
-Because they have their own scales.
+I'll meet you at the corner!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
