@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+Did you hear about the Viking who was reincarnated?
 
-All of them!
+He was Bjorn again
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
