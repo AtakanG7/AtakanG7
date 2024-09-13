@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+Did you hear the one about the guy with the broken hearing aid?
 
-There was nothing left but de Brie.
+Neither did he.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
