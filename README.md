@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+What do you call an Argentinian with a rubber toe?
 
-Because they cantaloupe!
+Roberto
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
