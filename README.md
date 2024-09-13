@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+What did the Zen Buddist say to the hotdog vendor?
 
-Because they're shellfish.
+Make me one with everything.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
