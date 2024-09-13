@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers prefer dark chocolate?
+What's brown and sticky?
 
-Because it's bitter like their code.
+A stick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
