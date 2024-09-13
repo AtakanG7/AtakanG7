@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+Why did the man run around his bed?
 
-Spelling!
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
