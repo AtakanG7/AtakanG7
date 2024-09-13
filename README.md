@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+Why is seven bigger than nine?
 
-European
+Because seven ate nine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
