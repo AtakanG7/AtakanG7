@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+How many apples grow on a tree?
 
-A poutine.
+All of them!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
