@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+Why did the kid cross the playground?
 
-Because he was a fungi.
+To get to the other slide.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
