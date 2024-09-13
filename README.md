@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Why was Cinderalla thrown out of the football team?
 
-At sundae school.
+Because she ran away from the ball.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
