@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+How do you make the number one disappear?
 
-A function component.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
