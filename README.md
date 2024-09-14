@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+Why did the developer go to therapy?
 
-A four-chin teller.
+They had too many unresolved issues.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
