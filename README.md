@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Why did the cookie cry?
 
-Tweets.
+It was feeling crumby.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
