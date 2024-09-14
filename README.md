@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+What kind of music do welders like?
 
-The batroom.
+Heavy metal.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
