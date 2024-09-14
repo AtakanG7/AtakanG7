@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the burglar hang his mugshot on the wall?
+Why do pirates not know the alphabet?
 
-To prove that he was framed!
+They always get stuck at "C".
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
