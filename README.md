@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of tree fits in your hand?
+What did the 0 say to the 8?
 
-A palm tree!
+Nice belt.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
