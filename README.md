@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+How does a penguin build it’s house?
 
-It's ok, he woke up.
+Igloos it together.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
