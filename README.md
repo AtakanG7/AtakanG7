@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+How did the hipster burn the roof of his mouth?
 
-Because he couldn't see that well!
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
