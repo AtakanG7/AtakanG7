@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+What do you call a fly without wings?
 
-Eclipse it.
+A walk.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
