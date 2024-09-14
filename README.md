@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+Which song would an exception sing?
 
-A walk.
+Can't catch me - Avicii
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
