@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Sweden start painting barcodes on the sides of their battleships?
+What did one nut say as he chased another nut?
 
-So they could Scandinavian.
+I'm a cashew!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
