@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the butcher work extra hours at the shop?
+What do you call a duck that gets all A's?
 
-To make ends meat.
+A wise quacker.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
