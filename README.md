@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I got hit in the head by a soda can, but it didn't hurt that much...
+You see, mountains aren't just funny.
 
-It was a soft drink.
+They are hill areas.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
