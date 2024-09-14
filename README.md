@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+Why don't you find hippopotamuses hiding in trees?
 
-Squash.
+They're really good at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
