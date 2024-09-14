@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the beaver say to the tree?
+A termite walks into a bar and says...
 
-It's been nice gnawing you.
+'Where is the bar tended?'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
