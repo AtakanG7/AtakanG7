@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+What kind of shoes does a thief wear?
 
-They're really good at it.
+Sneakers
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
