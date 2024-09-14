@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why do trees seem suspicious on sunny days?
 
-It was feeling crumby.
+Dunno, they're just a bit shady.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
