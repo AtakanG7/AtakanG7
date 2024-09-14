@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+How many programmers does it take to change a lightbulb?
 
-Light blue.
+None that's a hardware problem
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
