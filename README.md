@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that can't make up its mind?
+Do you want a brief explanation of what an acorn is?
 
-A maybe.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
