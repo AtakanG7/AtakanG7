@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+What kind of tree fits in your hand?
 
-Because it's a little meteor.
+A palm tree!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
