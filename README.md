@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+Why did the math book look sad?
 
-Do you get a laughing stock?
+Because it had too many problems.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
