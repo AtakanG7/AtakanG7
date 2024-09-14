@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the submarine industry?
+What do you get when you cross a rabbit with a water hose?
 
-It really took a dive...
+Hare spray.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
