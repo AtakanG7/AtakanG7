@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+Where do hamburgers go to dance?
 
-Inverse.
+The meat-ball.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
