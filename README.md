@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Which side of the chicken has more feathers?
 
-Because of all the coffin.
+The outside.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
