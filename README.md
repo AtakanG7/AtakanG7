@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+What is the leading cause of dry skin?
 
-A wise quacker.
+Towels
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
