@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+Which side of the chicken has more feathers?
 
-Can't catch me - Avicii
+The outside.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
