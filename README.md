@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+Never take advice from electrons.
 
-That she was a little boulder.
+They are always negative.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
