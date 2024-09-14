@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+Why dot net developers don't wear glasses?
 
-I'll meet you at the corner!
+Because they see sharp.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
