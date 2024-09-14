@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+How does a dyslexic poet write?
 
-They had too many unresolved issues.
+Inverse.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
