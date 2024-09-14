@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+I had a dream that I was a muffler last night.
 
-A stick.
+I woke up exhausted!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
