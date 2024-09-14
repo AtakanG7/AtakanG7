@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+Why don't skeletons fight each other?
 
-Towels
+They don't have the guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
