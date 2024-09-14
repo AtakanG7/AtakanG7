@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+What goes after USA?
 
-I didn't even know they were catholic.
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
