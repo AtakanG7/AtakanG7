@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What do you call an Argentinian with a rubber toe?
 
-Boo jeans.
+Roberto
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
