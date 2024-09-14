@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A user interface is like a joke.
+Did you hear about the chameleon who couldn't change color?
 
-If you have to explain it then it is not that good.
+They had a reptile dysfunction.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
