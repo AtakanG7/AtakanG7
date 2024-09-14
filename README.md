@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
 
-In a nutshell, it's an oak tree.
+Thank you very much, sir.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
