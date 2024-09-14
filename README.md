@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+What kind of pants do ghosts wear?
 
-The newspaper.
+Boo jeans.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
