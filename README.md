@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+How does the moon cut his hair?
 
-It was wrong on so many levels.
+Eclipse it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
