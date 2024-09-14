@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+What do you call a monkey in a mine field?
 
-It ended in a tie.
+A babooooom!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
