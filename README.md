@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+Why did the fireman wear red, white, and blue suspenders?
 
-A walk.
+To hold his pants up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
