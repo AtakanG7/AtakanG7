@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+What do birds give out on Halloween?
 
-They are always negative.
+Tweets.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
