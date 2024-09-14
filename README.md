@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+What did the 0 say to the 8?
 
-Dunno, they're just a bit shady.
+Nice belt.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
