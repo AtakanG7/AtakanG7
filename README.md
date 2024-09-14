@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+What's blue and not very heavy?
 
-No… Then how’d you get your foot in it?
+Light blue.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
