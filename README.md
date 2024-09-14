@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Have you heard the rumor going around about butter?
 
-No, I got them all cut.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
