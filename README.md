@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+When is a door not a door?
 
-I don't know... it keeps changing.
+When it's ajar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
