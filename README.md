@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+What did the shy pebble wish for?
 
-Got stacks of em! First one's on the house
+That she was a little boulder.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
