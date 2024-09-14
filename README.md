@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give to a lemon in need?
+Did you hear about the crime in the parking garage?
 
-Lemonaid.
+It was wrong on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
