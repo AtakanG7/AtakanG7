@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+Did you hear about the submarine industry?
 
-Dunno, they're just a bit shady.
+It really took a dive...
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
