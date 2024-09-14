@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+What goes after USA?
 
-The outside.
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
