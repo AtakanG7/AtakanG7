@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What did one wall say to the other wall?
 
-When it's ajar.
+I'll meet you at the corner!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
