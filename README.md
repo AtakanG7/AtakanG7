@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+What did the judge say to the dentist?
 
-An impasta.
+Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
