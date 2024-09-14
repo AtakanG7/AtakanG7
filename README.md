@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why are mummys scared of vacation?
 
-Heavy metal.
+They're afraid to unwind.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
