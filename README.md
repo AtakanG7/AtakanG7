@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the private classes break up?
+How much does a hipster weigh?
 
-Because they never saw each other.
+An instagram.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
