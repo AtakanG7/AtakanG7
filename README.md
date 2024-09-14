@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+What do ghosts call their true love?
 
-They didn't get arrays.
+Their ghoul-friend
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
