@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+If you boil a clown...
 
-Tulips
+Do you get a laughing stock?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
