@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who is the coolest Doctor in the hospital?
+What do you give to a lemon in need?
 
-The hip Doctor!
+Lemonaid.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
