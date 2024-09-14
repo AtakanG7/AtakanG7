@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+A termite walks into a bar and says...
 
-A wise quacker.
+'Where is the bar tended?'
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
