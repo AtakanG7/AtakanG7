@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+Why did the melons plan a big wedding?
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+Because they cantaloupe!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
