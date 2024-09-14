@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the object-oriented way to become wealthy?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-Inheritance
+Because they might peel!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
