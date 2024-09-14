@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+How does the moon cut his hair?
 
-None that's a hardware problem
+Eclipse it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
