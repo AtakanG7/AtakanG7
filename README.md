@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+How do you check if a webpage is HTML5?
 
-Their ghoul-friend
+Try it out on Internet Explorer
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
