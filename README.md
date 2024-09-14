@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just got fired from my job at the keyboard factory.
+Why did the man put his money in the freezer?
 
-They told me I wasn't putting in enough shifts.
+He wanted cold hard cash!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
