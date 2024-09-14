@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+What was a more important invention than the first telephone?
 
-I'm sorry, we don't serve food here
+The second one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
