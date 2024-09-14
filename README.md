@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+Why did the fireman wear red, white, and blue suspenders?
 
-Water.
+To hold his pants up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
