@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-They're afraid to unwind.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
