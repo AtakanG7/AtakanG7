@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+Where do hamburgers go to dance?
 
-A metro-gnome
+The meat-ball.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
