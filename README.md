@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bananas have to put on sunscreen before they go to the beach?
+Why did the programmer quit their job?
 
-Because they might peel!
+They didn't get arrays.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
