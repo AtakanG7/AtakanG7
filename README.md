@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-'Where is the bar tended?'
+A metro-gnome
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
