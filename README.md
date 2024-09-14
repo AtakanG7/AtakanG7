@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+What kind of music do welders like?
 
-A function component.
+Heavy metal.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
