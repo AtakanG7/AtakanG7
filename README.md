@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give to a lemon in need?
+Why did the burglar hang his mugshot on the wall?
 
-Lemonaid.
+To prove that he was framed!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
