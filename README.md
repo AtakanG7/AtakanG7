@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+Did you hear about the kidnapping at school?
 
-Nice belt.
+It's ok, he woke up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
