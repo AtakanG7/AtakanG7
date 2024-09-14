@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+What do you call a pig that knows karate?
 
-They wanted to hit the high Cs.
+A pork chop!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
