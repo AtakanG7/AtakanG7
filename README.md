@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Why do trees seem suspicious on sunny days?
 
-The meat-ball.
+Dunno, they're just a bit shady.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
