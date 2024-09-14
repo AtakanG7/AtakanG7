@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can a kangaroo jump higher than the Empire State Building?
+Did you hear about the two silk worms in a race?
 
-Of course. The Empire State Building can't jump.
+It ended in a tie.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
