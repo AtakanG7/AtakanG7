@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+What do you get when you cross a React developer with a mathematician?
 
-It was two-tired.
+A function component.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
