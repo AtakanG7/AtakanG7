@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+Did you hear about the guy who invented Lifesavers?
 
-Because it's a little meteor.
+They say he made a mint.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
