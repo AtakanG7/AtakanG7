@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the fireman wear red, white, and blue suspenders?
+I got hit in the head by a soda can, but it didn't hurt that much...
 
-To hold his pants up.
+It was a soft drink.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
