@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+What did the beaver say to the tree?
 
-Nice belt.
+It's been nice gnawing you.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
