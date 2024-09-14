@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-They had too many unresolved issues.
+So they could Scandinavian.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
