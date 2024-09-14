@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+What's brown and sticky?
 
-Because he was trying to catch up on his sleep!
+A stick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
