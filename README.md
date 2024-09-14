@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+Why did the private classes break up?
 
-The outside.
+Because they never saw each other.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
