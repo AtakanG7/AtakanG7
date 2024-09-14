@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a factory that sells passable products?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-A satisfactory
+It reads "Small medium at large."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
