@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+How many lips does a flower have?
 
-I'll meet you at the corner!
+Tulips
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
