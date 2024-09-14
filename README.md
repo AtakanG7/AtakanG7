@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Why don't you find hippopotamuses hiding in trees?
 
-It got mugged.
+They're really good at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
