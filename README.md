@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Who is the coolest Doctor in the hospital?
 
-They always egg-cercise!
+The hip Doctor!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
