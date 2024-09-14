@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+Why did the programmer always carry a pencil?
 
-A pork chop!
+They preferred to write in C#.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
