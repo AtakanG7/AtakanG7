@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the chameleon who couldn't change color?
+What did one wall say to the other wall?
 
-They had a reptile dysfunction.
+I'll meet you at the corner!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
