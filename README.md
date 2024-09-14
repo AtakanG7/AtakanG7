@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+What was the pumpkin’s favorite sport?
 
-He wanted cold hard cash!
+Squash.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
