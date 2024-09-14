@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why did the coffee file a police report?
 
-Heavy metal.
+It got mugged.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
