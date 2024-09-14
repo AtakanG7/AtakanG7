@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+Why don't oysters give to charity?
 
-Hi, bud!
+Because they're shellfish.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
