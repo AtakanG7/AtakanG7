@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+What do you call a duck that gets all A's?
 
-The second one.
+A wise quacker.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
