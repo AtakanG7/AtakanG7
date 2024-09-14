@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+What do you call a thieving alligator?
 
-They don't have the guts.
+A crookodile!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
