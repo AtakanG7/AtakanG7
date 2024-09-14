@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call corn that joins the army?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Kernel.
+Because it's a little meteor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
