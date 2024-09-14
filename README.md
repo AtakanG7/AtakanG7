@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+You see, mountains aren't just funny.
 
-A crookodile!
+They are hill areas.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
