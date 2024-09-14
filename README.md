@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+Why did the butcher work extra hours at the shop?
 
-Chess nuts boasting in an open foyer.
+To make ends meat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
