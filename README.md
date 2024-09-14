@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+Why did the programmer go to art school?
 
-USB.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
