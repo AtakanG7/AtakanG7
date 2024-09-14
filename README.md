@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+Why did the fireman wear red, white, and blue suspenders?
 
-A field of corn.
+To hold his pants up.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
