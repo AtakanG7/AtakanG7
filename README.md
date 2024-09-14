@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the fireman wear red, white, and blue suspenders?
+Why did the man run around his bed?
 
-To hold his pants up.
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
