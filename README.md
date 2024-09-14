@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+Did you know that protons have mass?
 
-That she was a little boulder.
+I didn't even know they were catholic.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
