@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+What do you call a fly without wings?
 
-I'm a cashew!
+A walk.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
