@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+Why did the half blind man fall in the well?
 
-Never mind, I shouldn't spread it.
+Because he couldn't see that well!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
