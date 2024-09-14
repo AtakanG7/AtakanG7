@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+What do you call a factory that sells passable products?
 
-Thank you very much, sir.
+A satisfactory
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
