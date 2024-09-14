@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Can a kangaroo jump higher than the Empire State Building?
 
-The meat-ball.
+Of course. The Empire State Building can't jump.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
