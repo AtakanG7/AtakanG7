@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+Did you know you should always take an extra pair of pants golfing?
 
-Because you can see right through them!
+Just in case you get a hole in one.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
