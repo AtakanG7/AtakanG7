@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+What has ears but cannot hear?
 
-Because they see sharp.
+A field of corn.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
