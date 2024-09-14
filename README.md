@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+I just got fired from my job at the keyboard factory.
 
-In his sleevies.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
