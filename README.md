@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-He wanted to learn how to code outside the box.
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
