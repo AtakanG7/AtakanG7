@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+What time is it?
 
-Sneakers
+I don't know... it keeps changing.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
