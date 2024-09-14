@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Did you hear about the submarine industry?
 
-'Where is the bar tended?'
+It really took a dive...
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
