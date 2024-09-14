@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+What do you call corn that joins the army?
 
-Because they're shellfish.
+Kernel.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
