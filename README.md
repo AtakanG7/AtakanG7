@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you check if a webpage is HTML5?
+Why are graveyards so noisy?
 
-Try it out on Internet Explorer
+Because of all the coffin.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
