@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+Why does a Moon-rock taste better than an Earth-rock?
 
-The sails are going through the roof.
+Because it's a little meteor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
