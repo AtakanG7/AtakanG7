@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+What kind of magic do cows believe in?
 
-They're really good at it.
+MOODOO.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
