@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+How do hens stay fit?
 
-A walk.
+They always egg-cercise!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
