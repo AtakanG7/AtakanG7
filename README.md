@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pirates not know the alphabet?
+Why did the opera singer go sailing?
 
-They always get stuck at "C".
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
