@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+What did the big flower say to the littler flower?
 
-I told her 'No, thanks. The carton works fine.'
+Hi, bud!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
