@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What do you call an old snowman?
 
-The ground.
+Water.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
