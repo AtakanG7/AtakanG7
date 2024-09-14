@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+What's blue and not very heavy?
 
-Igloos it together.
+Light blue.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
