@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+A user interface is like a joke.
 
-Eclipse it.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
