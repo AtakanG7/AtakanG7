@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+What do you give to a lemon in need?
 
-Piiig
+Lemonaid.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
