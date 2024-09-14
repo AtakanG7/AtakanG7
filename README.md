@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy who invented Lifesavers?
+What do you call a bee that can't make up its mind?
 
-They say he made a mint.
+A maybe.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
