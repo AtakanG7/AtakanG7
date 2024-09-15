@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the designer break up with their font?
+Is there a hole in your shoe?
 
-Because it wasn't their type.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
