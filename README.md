@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+How many optometrists does it take to change a light bulb?
 
-It reads "Small medium at large."
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
