@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can’t you hear a pterodactyl go to the bathroom?
+When do doctors get angry?
 
-The p is silent.
+When they run out of patients.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
