@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+How do you generate a random string?
 
-They say the business is toast.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
