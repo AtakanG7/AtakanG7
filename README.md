@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+What did the fish say when it swam into a wall?
 
-Ground beef!
+Damn!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
