@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+What’s the advantage of living in Switzerland?
 
-They always egg-cercise!
+Well, the flag is a big plus.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
