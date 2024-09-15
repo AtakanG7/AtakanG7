@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+What was the pumpkin’s favorite sport?
 
-A handful of them.
+Squash.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
