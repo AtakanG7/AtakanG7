@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+Did you hear about the hungry clock?
 
-He heard that the chickens at KFC were pretty hot.
+It went back four seconds.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
