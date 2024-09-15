@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-The teachers tend to Babylon.
+You can only use a low ha.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
