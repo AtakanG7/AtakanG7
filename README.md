@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+Why do programmers prefer dark chocolate?
 
-He made a grave mistake.
+Because it's bitter like their code.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
