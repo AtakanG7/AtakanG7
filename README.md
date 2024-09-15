@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+Why did the burglar hang his mugshot on the wall?
 
-Aye Matey!
+To prove that he was framed!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
