@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
+What did the pirate say on his 80th birthday?
 
-I couldn’t turn it down.
+Aye Matey!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
