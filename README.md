@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+Why was the font always tired?
 
-With tomato paste.
+It was always bold.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
