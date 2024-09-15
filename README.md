@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+Why can’t you hear a pterodactyl go to the bathroom?
 
-A crookodile!
+The p is silent.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
