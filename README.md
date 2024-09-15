@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+What do you call a cow with two legs?
 
-The Foo Bar.
+Lean beef.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
