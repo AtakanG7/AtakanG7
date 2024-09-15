@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+Have you heard of the band 1023MB?
 
-A stega-snore-us.
+They haven't got a gig yet.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
