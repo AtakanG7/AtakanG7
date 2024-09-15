@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the math book look sad?
+99.9% of the people are dumb!
 
-Because it had too many problems.
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
