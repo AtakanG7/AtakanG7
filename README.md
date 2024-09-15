@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you call a cow with no legs?
 
-A walk.
+Ground beef!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
