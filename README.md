@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do rabbits go after they get married?
+Why does Waldo only wear stripes?
 
-On a bunny-moon.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
