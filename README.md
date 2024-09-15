@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-Can't catch me - Avicii
+I couldn’t turn it down.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
