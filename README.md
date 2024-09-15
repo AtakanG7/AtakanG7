@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+What's the difference between a guitar and a fish?
 
-It went back four seconds.
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
