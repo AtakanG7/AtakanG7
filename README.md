@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a ladder to work?
+Did you hear about the cheese factory that exploded in France?
 
-They heard the code needed to be debugged from a higher level.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
