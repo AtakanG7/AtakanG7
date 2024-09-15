@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best time to go to the dentist?
+What kind of bagel can fly?
 
-Tooth hurty.
+A plain bagel.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
