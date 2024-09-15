@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Which song would an exception sing?
 
-You boil the hell out of it
+Can't catch me - Avicii
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
