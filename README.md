@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+How much does a hipster weigh?
 
-Roberto
+An instagram.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
