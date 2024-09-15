@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+Why was the font always tired?
 
-He wanted cold hard cash!
+It was always bold.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
