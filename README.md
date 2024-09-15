@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+Why did the math book look sad?
 
-Because he had no guts.
+Because it had too many problems.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
