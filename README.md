@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+Why did the A go to the bathroom and come out as an E?
 
-Put a Windows user in front of Vim and tell them to exit.
+Because he had a vowel movement.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
