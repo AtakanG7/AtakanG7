@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+Why don't programmers like nature?
 
-A plain bagel.
+Too many bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
