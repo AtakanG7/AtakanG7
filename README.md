@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of magic do cows believe in?
+What do you call an alligator in a vest?
 
-MOODOO.
+An in-vest-igator!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
