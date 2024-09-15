@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+What did the duck say when he bought lipstick?
 
-A tuba toothpaste.
+Put it on my bill
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
