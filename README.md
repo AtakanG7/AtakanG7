@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+What’s brown and sounds like a bell?
 
-Water.
+Dung!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
