@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+How many bones are in the human hand?
 
-USB.
+A handful of them.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
