@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+What did the Red light say to the Green light?
 
-It was always bold.
+Don't look at me I'm changing!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
