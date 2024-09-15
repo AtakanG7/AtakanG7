@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tree go to the dentist?
+How do hens stay fit?
 
-It needed a root canal.
+They always egg-cercise!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
