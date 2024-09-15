@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+Why did the programmer bring a ladder to work?
 
-I don't know... it keeps changing.
+They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
