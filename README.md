@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+What kind of pants do ghosts wear?
 
-A gummy bear!
+Boo jeans.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
