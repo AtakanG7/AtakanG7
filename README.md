@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+Why is seven bigger than nine?
 
-They haven't got a gig yet.
+Because seven ate nine.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
