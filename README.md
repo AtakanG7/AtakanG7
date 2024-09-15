@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the burglar hang his mugshot on the wall?
+Why did the man run around his bed?
 
-To prove that he was framed!
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
