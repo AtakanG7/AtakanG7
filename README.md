@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many optometrists does it take to change a light bulb?
+How do you get a baby alien to sleep?
 
-1 or 2? 1... or 2?
+You rocket.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
