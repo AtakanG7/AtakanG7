@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+Don't look at the eclipse through a colander.
 
-You rocket.
+You'll strain your eyes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
