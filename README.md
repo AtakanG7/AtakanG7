@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+Why couldn't the bicycle stand up by itself?
 
-You'll strain your eyes.
+It was two-tired.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
