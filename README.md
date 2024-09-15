@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+How do you generate a random string?
 
-Lean beef.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
