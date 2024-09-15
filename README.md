@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+What does the mermaid wear to math class?
 
-Because he was trying to catch up on his sleep!
+Algae-bra.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
