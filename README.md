@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+Where do programmers like to hangout?
 
-Because seven ate nine.
+The Foo Bar.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
