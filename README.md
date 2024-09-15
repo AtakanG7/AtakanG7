@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+Did you hear that David lost his ID in prague?
 
-Because he was trying to catch up on his sleep!
+Now we just have to call him Dav.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
