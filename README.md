@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+What goes after USA?
 
-Thanks for all the sediment.
+USB.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
