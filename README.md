@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many seconds are in a year?
+Did you hear the one about the guy with the broken hearing aid?
 
-12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+Neither did he.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
