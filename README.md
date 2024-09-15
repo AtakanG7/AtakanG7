@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+What's the worst part about being a cross-eyed teacher?
 
-In his sleevies.
+They can't control their pupils.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
