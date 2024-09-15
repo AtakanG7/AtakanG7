@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+What do you call an old snowman?
 
-No, I got them all cut.
+Water.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
