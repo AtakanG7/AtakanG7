@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What do you call a droid that takes the long way around?
 
-He wanted to learn how to code outside the box.
+R2 detour.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
