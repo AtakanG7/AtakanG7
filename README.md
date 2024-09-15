@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+What do you call a group of disorganized cats?
 
-A stega-snore-us.
+A cat-tastrophe.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
