@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-There was nothing left but de Brie.
+Bison.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
