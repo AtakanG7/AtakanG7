@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+I can't tell if i like this blender...
 
-Because it had nobody.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
