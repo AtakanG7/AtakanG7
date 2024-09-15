@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+Why can't bicycles stand on their own?
 
-Because they live in schools!
+They are two tired
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
