@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the duck say when he bought lipstick?
+Did you hear about the Mexican train killer?
 
-Put it on my bill
+He had loco motives
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
