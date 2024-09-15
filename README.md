@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+Dad, can you put my shoes on?
 
-You rocket.
+I don't think they'll fit me.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
