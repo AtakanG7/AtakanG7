@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dictionary on drugs?
+How many seconds are in a year?
 
-High definition.
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
