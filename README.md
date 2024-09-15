@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+Finally realized why my plant sits around doing nothing all day...
 
-You can tune a guitar but you can't "tuna"fish!
+He loves his pot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
