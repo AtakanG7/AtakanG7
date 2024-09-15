@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+What did the fish say when it swam into a wall?
 
-An instagram.
+Damn!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
