@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+What do birds give out on Halloween?
 
-Squash.
+Tweets.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
