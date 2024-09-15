@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
 
-The ground.
+the rest of them will write Perl
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
