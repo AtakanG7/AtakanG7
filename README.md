@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+How do you get a baby alien to sleep?
 
-No… Then how’d you get your foot in it?
+You rocket.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
