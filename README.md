@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+Why did the rooster cross the road?
 
-They log on.
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
