@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Where do rabbits go after they get married?
 
-R2 detour.
+On a bunny-moon.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
