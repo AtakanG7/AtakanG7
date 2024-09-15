@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+What's blue and not very heavy?
 
-Well, the flag is a big plus.
+Light blue.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
