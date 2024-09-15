@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-Sunday school.
+European
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
