@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the A go to the bathroom and come out as an E?
+What do you call an Argentinian with a rubber toe?
 
-Because he had a vowel movement.
+Roberto
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
