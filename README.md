@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers prefer dark chocolate?
+Why didn’t the skeleton cross the road?
 
-Because it's bitter like their code.
+Because he had no guts.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
