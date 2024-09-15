@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+How do you make holy water?
 
-Light blue.
+You boil the hell out of it
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
