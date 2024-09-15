@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+What do you call a bear with no teeth?
 
-I don't think they'll fit me.
+A gummy bear!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
