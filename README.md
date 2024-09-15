@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who is the coolest Doctor in the hospital?
+Why did the man run around his bed?
 
-The hip Doctor!
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
