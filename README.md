@@ -11,7 +11,7 @@
 
 - **[LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software)** 
 - **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
-- **[Nevotek Internship CI/CD Experience](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)**  
+- **[How to Setup Cloud Agnostic CI CD Pipeline?](https://atakangul.com/blogs/cloud-agnostic-ci-cd-pipeline)**  
 
 <!-- JOKE-START -->
 - ## **10 min/joke:**
