@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+How many optometrists does it take to change a light bulb?
 
-Because he doesn't want to be spotted.
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
