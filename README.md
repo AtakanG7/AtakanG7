@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+How do you find Will Smith in the snow?
 
-An irrelephant.
+Look for fresh prints.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
