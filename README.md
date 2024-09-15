@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+Why are football stadiums so cool?
 
-I Excel at it.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
