@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+What's the best thing about elevator jokes?
 
-You'll strain your eyes.
+They work on so many levels.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
