@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+What do you call an elephant that doesn’t matter?
 
-Even if you're wrong, you're only off by a bit.
+An irrelephant.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
