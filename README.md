@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Why didn't the skeleton go for prom?
 
-They were fully booked.
+Because it had nobody.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
