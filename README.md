@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+Why did the half blind man fall in the well?
 
-Don't look at me I'm changing!
+Because he couldn't see that well!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
