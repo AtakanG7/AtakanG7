@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+What do you call a thieving alligator?
 
-He heard that the chickens at KFC were pretty hot.
+A crookodile!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
