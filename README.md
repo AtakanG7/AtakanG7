@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the A go to the bathroom and come out as an E?
+Lady: How do I spread love in this cruel world?
 
-Because he had a vowel movement.
+Random Dude: [...💘]
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
