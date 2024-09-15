@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+What's the worst thing about ancient history class?
 
-They are two tired
+The teachers tend to Babylon.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
