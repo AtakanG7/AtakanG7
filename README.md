@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Lady: How do I spread love in this cruel world?
+What do you call a dictionary on drugs?
 
-Random Dude: [...💘]
+High definition.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
