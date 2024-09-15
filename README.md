@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What did the ocean say to the beach?
 
-Boo jeans.
+Thanks for all the sediment.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
