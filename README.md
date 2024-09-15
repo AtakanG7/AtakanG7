@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the private classes break up?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-Because they never saw each other.
+You can only use a low ha.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
