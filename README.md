@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+Why did the programmer go to art school?
 
-Because if they fell forwards they’d still be in the boat.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
