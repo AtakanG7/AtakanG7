@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bananas have to put on sunscreen before they go to the beach?
+How come a man driving a train got struck by lightning?
 
-Because they might peel!
+He was a good conductor.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
