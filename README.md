@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+How good are you at Power Point?
 
-Now we just have to call him Dav.
+I Excel at it.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
