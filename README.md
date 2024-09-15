@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+Why did the rooster cross the road?
 
-They can't control their pupils.
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
