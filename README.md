@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+How do the trees get on the internet?
 
-You rocket.
+They log on.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
