@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+Why did the private classes break up?
 
-To clean up all the bugs.
+Because they never saw each other.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
