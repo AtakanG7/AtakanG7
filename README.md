@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Where does Napoleon keep his armies?
 
-Tweets.
+In his sleevies.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
