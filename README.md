@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+What do you call a boomerang that won't come back?
 
-To clean up all the bugs.
+A stick.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
