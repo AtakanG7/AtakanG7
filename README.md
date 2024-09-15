@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Why did the man put his money in the freezer?
 
-It gets toad away
+He wanted cold hard cash!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
