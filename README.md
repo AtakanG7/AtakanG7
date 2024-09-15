@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+Who is the coolest Doctor in the hospital?
 
-It was always bold.
+The hip Doctor!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
