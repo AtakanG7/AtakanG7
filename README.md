@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+Why are fish so smart?
 
-Don't look at me I'm changing!
+Because they live in schools!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
