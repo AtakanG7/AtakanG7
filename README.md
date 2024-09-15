@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+What is a centipedes's favorite Beatle song?
 
-Look for fresh prints.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
