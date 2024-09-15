@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+Why did the tree go to the dentist?
 
-I want to hold your hand, hand, hand, hand...
+It needed a root canal.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
