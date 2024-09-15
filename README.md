@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+Why did the designer break up with their font?
 
-He ate the pizza before it was cool.
+Because it wasn't their type.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
