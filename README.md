@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+What's the best time to go to the dentist?
 
-Put a Windows user in front of Vim and tell them to exit.
+Tooth hurty.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
