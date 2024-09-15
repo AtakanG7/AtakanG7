@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What lies at the bottom of the ocean and twitches?
+What kind of magic do cows believe in?
 
-A nervous wreck.
+MOODOO.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
