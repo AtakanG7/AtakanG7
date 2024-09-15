@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+Don't look at the eclipse through a colander.
 
-Because they live in schools!
+You'll strain your eyes.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
