@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Finally realized why my plant sits around doing nothing all day...
+I couldn't get a reservation at the library...
 
-He loves his pot.
+They were fully booked.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
