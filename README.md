@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+Why did Dracula lie in the wrong coffin?
 
-USB.
+He made a grave mistake.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
