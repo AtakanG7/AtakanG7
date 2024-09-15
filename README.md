@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about elevator jokes?
+Why are fish so smart?
 
-They work on so many levels.
+Because they live in schools!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
