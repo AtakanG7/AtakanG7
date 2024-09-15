@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+Why did the programmer go to art school?
 
-A cat-tastrophe.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
