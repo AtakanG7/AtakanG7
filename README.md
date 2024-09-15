@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-It keeps giving me mixed results.
+It reads "Small medium at large."
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
