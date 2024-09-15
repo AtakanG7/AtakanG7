@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+What time is it?
 
-He was a good conductor.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
