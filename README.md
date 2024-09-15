@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+What do you call a laughing motorcycle?
 
-Because he couldn't see that well!
+A Yamahahahaha.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
