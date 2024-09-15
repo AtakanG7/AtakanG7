@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+What did the Red light say to the Green light?
 
-Because every seat has a fan in it.
+Don't look at me I'm changing!
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
