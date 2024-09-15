@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
+Why do scuba divers fall backwards into the water?
 
-the rest of them will write Perl
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
