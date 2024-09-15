@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+Why did the programmer bring a broom to work?
 
-Roberto
+To clean up all the bugs.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
