@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Where did you learn to make ice cream?
 
-They always egg-cercise!
+Sunday school.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
