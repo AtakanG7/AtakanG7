@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+Why did the A go to the bathroom and come out as an E?
 
-Fortunately I belong to the remaining 1%
+Because he had a vowel movement.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
