@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a boomerang that won't come back?
+Hey, dad, did you get a haircut?
 
-A stick.
+No, I got them all cut.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
