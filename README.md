@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it swam into a wall?
+What is the hardest part about sky diving?
 
-Damn!
+The ground.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
