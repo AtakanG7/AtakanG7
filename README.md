@@ -16,9 +16,9 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tree go to the dentist?
+How does a dyslexic poet write?
 
-It needed a root canal.
+Inverse.
 <!-- JOKE-END -->
 
 ## Projects - Link coming soon but checkout the repos
