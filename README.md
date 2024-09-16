@@ -15,7 +15,8 @@
 
 <!-- JOKE-START -->
 - ## **10 min/joke:**
-- What do you call an alligator in a vest?
 
-- An in-vest-igator!
+Why did the man put his money in the freezer?
+
+He wanted cold hard cash!
 <!-- JOKE-END -->
