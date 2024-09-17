@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+What do you call a group of disorganized cats?
 
-A fowl smell!
+A cat-tastrophe.
 <!-- JOKE-END -->
