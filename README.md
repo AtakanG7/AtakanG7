@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-Ground beef!
+They couldn't find a table.
 <!-- JOKE-END -->
