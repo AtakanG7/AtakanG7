@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pile of cats?
+What is the most used language in programming?
 
-A Meowtain.
+Profanity.
 <!-- JOKE-END -->
