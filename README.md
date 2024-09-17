@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+What do you get when you cross a chicken with a skunk?
 
-They couldn't find a table.
+A fowl smell!
 <!-- JOKE-END -->
