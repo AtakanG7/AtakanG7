@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+How many lips does a flower have?
 
-Park your car, man.
+Tulips
 <!-- JOKE-END -->
