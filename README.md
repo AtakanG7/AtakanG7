@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+What kind of dinosaur loves to sleep?
 
-It's because they don't know the words.
+A stega-snore-us.
 <!-- JOKE-END -->
