@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What do you call a cow with no legs?
 
-Profanity.
+Ground beef!
 <!-- JOKE-END -->
