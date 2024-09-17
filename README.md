@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+I can't tell if i like this blender...
 
-Start in England and drive West.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
