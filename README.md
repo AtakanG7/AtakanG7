@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What is a centipedes's favorite Beatle song?
 
-Profanity.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
