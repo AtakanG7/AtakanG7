@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+What's the difference between a guitar and a fish?
 
-Piiig
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
