@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+Why are “Dad Jokes” so good?
 
-They can't control their pupils.
+Because the punchline is apparent.
 <!-- JOKE-END -->
