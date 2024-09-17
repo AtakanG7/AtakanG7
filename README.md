@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+What is the most used language in programming?
 
-Start in England and drive West.
+Profanity.
 <!-- JOKE-END -->
