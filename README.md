@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+How do you get two whales in a car?
 
-It is about 2 hours long.
+Start in England and drive West.
 <!-- JOKE-END -->
