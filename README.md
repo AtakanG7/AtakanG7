@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+What do you call a singing Laptop?
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+A Dell
 <!-- JOKE-END -->
