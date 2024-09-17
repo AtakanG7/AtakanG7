@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+How many lips does a flower have?
 
-The newspaper.
+Tulips
 <!-- JOKE-END -->
