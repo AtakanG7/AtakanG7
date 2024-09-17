@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a singing Laptop?
+Why don't you find hippopotamuses hiding in trees?
 
-A Dell
+They're really good at it.
 <!-- JOKE-END -->
