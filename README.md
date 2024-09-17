@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+What did the fish say when it swam into a wall?
 
-A stega-snore-us.
+Damn!
 <!-- JOKE-END -->
