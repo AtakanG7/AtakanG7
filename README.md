@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+Where does batman go to the bathroom?
 
-They're really good at it.
+The batroom.
 <!-- JOKE-END -->
