@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it swam into a wall?
+What is the least spoken language in the world?
 
-Damn!
+Sign Language
 <!-- JOKE-END -->
