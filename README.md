@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+Why did the developer break up with their keyboard?
 
-It keeps giving me mixed results.
+It just wasn't their type anymore.
 <!-- JOKE-END -->
