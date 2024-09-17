@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+What's the worst part about being a cross-eyed teacher?
 
-Tulips
+They can't control their pupils.
 <!-- JOKE-END -->
