@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer break up with their keyboard?
+Why did the mushroom get invited to the party?
 
-It just wasn't their type anymore.
+Because he was a fungi.
 <!-- JOKE-END -->
