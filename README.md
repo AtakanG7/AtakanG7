@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+What's black and white and read all over?
 
-A little shaken.
+The newspaper.
 <!-- JOKE-END -->
