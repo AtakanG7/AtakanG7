@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+Why don't oysters give to charity?
 
-He wanted cold hard cash!
+Because they're shellfish.
 <!-- JOKE-END -->
