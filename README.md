@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+Ever wondered why bees hum?
 
-Aye Matey!
+It's because they don't know the words.
 <!-- JOKE-END -->
