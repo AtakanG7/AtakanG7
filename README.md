@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+A programmer puts two glasses on his bedside table before going to sleep.
 
-Because he was a fungi.
+A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 <!-- JOKE-END -->
