@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+How do you get two whales in a car?
 
-Tulips
+Start in England and drive West.
 <!-- JOKE-END -->
