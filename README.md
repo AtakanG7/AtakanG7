@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+How many lips does a flower have?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+Tulips
 <!-- JOKE-END -->
