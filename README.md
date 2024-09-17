@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+What do you call a pile of cats?
 
-Tulips
+A Meowtain.
 <!-- JOKE-END -->
