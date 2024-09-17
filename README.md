@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are “Dad Jokes” so good?
+Why are mummys scared of vacation?
 
-Because the punchline is apparent.
+They're afraid to unwind.
 <!-- JOKE-END -->
