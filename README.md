@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+What did the pirate say on his 80th birthday?
 
-Because they're shellfish.
+Aye Matey!
 <!-- JOKE-END -->
