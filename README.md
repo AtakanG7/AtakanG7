@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+How many hipsters does it take to change a lightbulb?
 
-The batroom.
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
