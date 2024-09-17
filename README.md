@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+How was the snow globe feeling after the storm?
 
-They're afraid to unwind.
+A little shaken.
 <!-- JOKE-END -->
