@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+How many optometrists does it take to change a light bulb?
 
-200 Dollars.
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
