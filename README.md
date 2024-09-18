@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call corn that joins the army?
+When does a joke become a dad joke?
 
-Kernel.
+When it becomes apparent.
 <!-- JOKE-END -->
