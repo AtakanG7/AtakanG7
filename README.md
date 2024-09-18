@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+Why did the barber win the race?
 
-Nah, I'm still working on it.
+He took a short cut.
 <!-- JOKE-END -->
