@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+What do you call an Argentinian with a rubber toe?
 
-Because he couldn't see that well!
+Roberto
 <!-- JOKE-END -->
