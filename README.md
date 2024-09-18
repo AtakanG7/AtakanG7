@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+What do you call a fly without wings?
 
-Light blue.
+A walk.
 <!-- JOKE-END -->
