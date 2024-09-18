@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke buying Bitcoin?
+What do you call a bee that can't make up its mind?
 
-He kept calling it bytecoin and didn't get any.
+A maybe.
 <!-- JOKE-END -->
