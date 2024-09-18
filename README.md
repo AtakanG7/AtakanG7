@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+How do you know if there’s an elephant under your bed?
 
-a labracadabrador
+Your head hits the ceiling!
 <!-- JOKE-END -->
