@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't eggs tell jokes?
+What creature is smarter than a talking parrot?
 
-Because they would crack each other up.
+A spelling bee.
 <!-- JOKE-END -->
