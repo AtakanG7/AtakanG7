@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+What's the difference between a seal and a sea lion?
 
-Because he is 2 square.
+An ion! 
 <!-- JOKE-END -->
