@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+What kind of shoes does a thief wear?
 
-So time would fly.
+Sneakers
 <!-- JOKE-END -->
