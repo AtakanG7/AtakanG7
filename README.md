@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+Where do you learn to make banana splits?
 
-He wanted cold hard cash!
+At sundae school.
 <!-- JOKE-END -->
