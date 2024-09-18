@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What cheese can never be yours?
+Why did the half blind man fall in the well?
 
-Nacho cheese.
+Because he couldn't see that well!
 <!-- JOKE-END -->
