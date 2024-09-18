@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+A user interface is like a joke.
 
-Because he was trying to catch up on his sleep!
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
