@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+Want to hear a joke about construction?
 
-Lots of training
+Nah, I'm still working on it.
 <!-- JOKE-END -->
