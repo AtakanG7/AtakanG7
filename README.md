@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+While I was sleeping my friends decided to write math equations on me.
 
-To get to the other slide.
+You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
