@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+What do you call a sheep with no legs?
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+A cloud.
 <!-- JOKE-END -->
