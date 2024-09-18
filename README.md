@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+What kind of dinosaur loves to sleep?
 
-It went back four seconds.
+A stega-snore-us.
 <!-- JOKE-END -->
