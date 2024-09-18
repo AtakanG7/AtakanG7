@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Why did the developer go to therapy?
 
-It got mugged.
+They had too many unresolved issues.
 <!-- JOKE-END -->
