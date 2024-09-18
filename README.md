@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Where’s the bin?
 
-1forest1
+I haven’t been anywhere!
 <!-- JOKE-END -->
