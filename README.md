@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+What did the Java code say to the C code?
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+You've got no class.
 <!-- JOKE-END -->
