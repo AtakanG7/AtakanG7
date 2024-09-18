@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+Where was the Declaration of Independence signed?
 
-The newspaper.
+At the bottom! 
 <!-- JOKE-END -->
