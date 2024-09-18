@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+Why are graveyards so noisy?
 
-A blood orange.
+Because of all the coffin.
 <!-- JOKE-END -->
