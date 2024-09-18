@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-While I was sleeping my friends decided to write math equations on me.
+How do you make the number one disappear?
 
-You should have seen the expression on my face when I woke up.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
