@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Want to hear a joke about a piece of paper?
 
-At sundae school.
+Never mind...it's tearable
 <!-- JOKE-END -->
