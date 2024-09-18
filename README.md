@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+Did you hear about the hungry clock?
 
-Inverse.
+It went back four seconds.
 <!-- JOKE-END -->
