@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+What do you get when you cross a React developer with a mathematician?
 
-You can tune a guitar but you can't "tuna"fish!
+A function component.
 <!-- JOKE-END -->
