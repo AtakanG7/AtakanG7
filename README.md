@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+What’s 50 Cent’s name in Zimbabwe?
 
-They will give you a piece of your mind.
+200 Dollars.
 <!-- JOKE-END -->
