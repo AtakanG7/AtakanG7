@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of tree fits in your hand?
+Why don't eggs tell jokes?
 
-A palm tree!
+Because they would crack each other up.
 <!-- JOKE-END -->
