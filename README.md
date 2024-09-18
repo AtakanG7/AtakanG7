@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a seal and a sea lion?
+Did you know you should always take an extra pair of pants golfing?
 
-An ion! 
+Just in case you get a hole in one.
 <!-- JOKE-END -->
