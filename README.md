@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+If you see a robbery at an Apple Store...
 
-He took a short cut.
+Does that make you an iWitness?
 <!-- JOKE-END -->
