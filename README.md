@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the object-oriented way to become wealthy?
+Did you hear about the two silk worms in a race?
 
-Inheritance
+It ended in a tie.
 <!-- JOKE-END -->
