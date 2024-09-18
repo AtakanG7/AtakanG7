@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many optometrists does it take to change a light bulb?
+What did one nut say as he chased another nut?
 
-1 or 2? 1... or 2?
+I'm a cashew!
 <!-- JOKE-END -->
