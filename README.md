@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just got fired from my job at the keyboard factory.
+Why dot net developers don't wear glasses?
 
-They told me I wasn't putting in enough shifts.
+Because they see sharp.
 <!-- JOKE-END -->
