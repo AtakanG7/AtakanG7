@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+What’s the advantage of living in Switzerland?
 
-Saturday and Sunday...the rest are weekdays.
+Well, the flag is a big plus.
 <!-- JOKE-END -->
