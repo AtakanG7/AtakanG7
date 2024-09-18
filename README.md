@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+What are the strongest days of the week?
 
-Put a little boogie in it.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
