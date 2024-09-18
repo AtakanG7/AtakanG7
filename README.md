@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+Why did the man put his money in the freezer?
 
-It is about 2 hours long.
+He wanted cold hard cash!
 <!-- JOKE-END -->
