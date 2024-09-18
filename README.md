@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+I just got fired from my job at the keyboard factory.
 
-Chess nuts boasting in an open foyer.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
