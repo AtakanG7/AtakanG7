@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What creature is smarter than a talking parrot?
+How does a dyslexic poet write?
 
-A spelling bee.
+Inverse.
 <!-- JOKE-END -->
