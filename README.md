@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Why did the developer go broke buying Bitcoin?
 
-He didn't know how to null his feelings.
+He kept calling it bytecoin and didn't get any.
 <!-- JOKE-END -->
