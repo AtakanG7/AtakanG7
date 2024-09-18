@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do mathematicians hate the U.S.?
+How do you generate a random string?
 
-Because it's indivisible.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
