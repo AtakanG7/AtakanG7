@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+What did the shy pebble wish for?
 
-Because they knew how to handle exceptions.
+That she was a little boulder.
 <!-- JOKE-END -->
