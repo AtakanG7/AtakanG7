@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-A four-chin teller.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
