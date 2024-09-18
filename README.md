@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many optometrists does it take to change a light bulb?
+Did you hear about the new restaurant on the moon?
 
-1 or 2? 1... or 2?
+The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
