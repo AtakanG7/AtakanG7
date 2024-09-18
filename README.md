@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+Why was the JavaScript developer sad?
 
-Because he neverlands
+He didn't know how to null his feelings.
 <!-- JOKE-END -->
