@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are oranges the smartest fruit?
+What's black and white and read all over?
 
-Because they are made to concentrate. 
+The newspaper.
 <!-- JOKE-END -->
