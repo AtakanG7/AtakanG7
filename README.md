@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-Chess nuts boasting in an open foyer.
+'Can I join you?'
 <!-- JOKE-END -->
