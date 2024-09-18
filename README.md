@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+What do you call corn that joins the army?
 
-I haven’t been anywhere!
+Kernel.
 <!-- JOKE-END -->
