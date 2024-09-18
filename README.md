@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+What kind of pants do ghosts wear?
 
-Sneakers
+Boo jeans.
 <!-- JOKE-END -->
