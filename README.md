@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What kind of award did the dentist receive?
 
-When it's ajar.
+A little plaque.
 <!-- JOKE-END -->
