@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+What's the difference between a seal and a sea lion?
 
-He didn't know how to commit.
+An ion! 
 <!-- JOKE-END -->
