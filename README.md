@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+What did the fish say when it hit the wall?
 
-Never mind...it's tearable
+Dam.
 <!-- JOKE-END -->
