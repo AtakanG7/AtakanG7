@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+There are 10 types of people in this world...
 
-Put a Windows user in front of Vim and tell them to exit.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
