@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+What is a vampire's favorite fruit?
 
-All of them!
+A blood orange.
 <!-- JOKE-END -->
