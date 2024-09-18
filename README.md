@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer quit his job?
+What is the hardest part about sky diving?
 
-Because he didn't get arrays.
+The ground.
 <!-- JOKE-END -->
