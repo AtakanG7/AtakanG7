@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+What kind of tree fits in your hand?
 
-Because of all the coffin.
+A palm tree!
 <!-- JOKE-END -->
