@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+Why did the developer quit his job?
 
-Chess nuts boasting in an open foyer.
+Because he didn't get arrays.
 <!-- JOKE-END -->
