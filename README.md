@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+What’s Forest Gump’s Facebook password?
 
-Add the letter G and it’s “gone”!
+1forest1
 <!-- JOKE-END -->
