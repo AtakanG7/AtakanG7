@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Why do chicken coops only have two doors?
 
-R2 detour.
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
