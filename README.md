@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know you should always take an extra pair of pants golfing?
+What animal is always at a game of cricket?
 
-Just in case you get a hole in one.
+A bat.
 <!-- JOKE-END -->
