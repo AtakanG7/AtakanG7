@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+What was a more important invention than the first telephone?
 
-200 Dollars.
+The second one.
 <!-- JOKE-END -->
