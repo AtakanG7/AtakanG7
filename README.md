@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cowboy have a weiner dog?
+How many apples grow on a tree?
 
-Somebody told him to get a long little doggy.
+All of them!
 <!-- JOKE-END -->
