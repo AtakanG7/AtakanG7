@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+what do you call a dog that can do magic tricks?
 
-Because they see sharp.
+a labracadabrador
 <!-- JOKE-END -->
