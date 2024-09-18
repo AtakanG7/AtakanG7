@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+What do you call a droid that takes the long way around?
 
-Because nothing gets under their skin.
+R2 detour.
 <!-- JOKE-END -->
