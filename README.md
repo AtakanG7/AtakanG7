@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+What do vegetarian zombies eat?
 
-Your head hits the ceiling!
+Grrrrrainnnnnssss.
 <!-- JOKE-END -->
