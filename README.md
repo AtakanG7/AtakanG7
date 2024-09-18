@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where was the Declaration of Independence signed?
+How do you comfort a designer?
 
-At the bottom! 
+You give them some space... between the elements.
 <!-- JOKE-END -->
