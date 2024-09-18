@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+Why did the man run around his bed?
 
-Put a Windows user in front of Vim and tell them to exit.
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
