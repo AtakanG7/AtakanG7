@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just watched a documentary about beavers.
+Why was the developer always calm?
 
-It was the best dam show I ever saw
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
