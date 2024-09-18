@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+what do you call a dog that can do magic tricks?
 
-Because he doesn't want to be spotted.
+a labracadabrador
 <!-- JOKE-END -->
