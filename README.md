@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-You see, mountains aren't just funny.
+How many optometrists does it take to change a light bulb?
 
-They are hill areas.
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
