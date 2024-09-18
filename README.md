@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+An IPv6 packet is walking out of the house.
 
-Those who understand binary and those who don't
+He goes nowhere.
 <!-- JOKE-END -->
