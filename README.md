@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+What do you call a group of disorganized cats?
 
-I'm sorry, we don't serve food here
+A cat-tastrophe.
 <!-- JOKE-END -->
