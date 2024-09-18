@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-Boo jeans.
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
