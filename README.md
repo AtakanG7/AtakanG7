@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+How do you generate a random string?
 
-Because nothing gets under their skin.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
