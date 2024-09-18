@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+I just watched a documentary about beavers.
 
-Because he was outstanding in his field.
+It was the best dam show I ever saw
 <!-- JOKE-END -->
