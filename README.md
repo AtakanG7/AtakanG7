@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+What's the difference between a guitar and a fish?
 
-Roberto
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
