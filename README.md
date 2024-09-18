@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-An IPv6 packet is walking out of the house.
+Dad, can you put my shoes on?
 
-He goes nowhere.
+I don't think they'll fit me.
 <!-- JOKE-END -->
