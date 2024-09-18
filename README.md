@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the new restaurant on the moon?
+What do elves post on Social Media?
 
-The food is great, but there’s just no atmosphere.
+Elf-ies.
 <!-- JOKE-END -->
