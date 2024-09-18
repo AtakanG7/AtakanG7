@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+Who did the wizard marry?
 
-Tooth hurt-y.
+His ghoul-friend
 <!-- JOKE-END -->
