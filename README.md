@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+What did the janitor say when he jumped out of the closet?
 
-A function component.
+Supplies!
 <!-- JOKE-END -->
