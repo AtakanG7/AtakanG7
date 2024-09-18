@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+Why didn't the number 4 get into the nightclub?
 
-Grrrrrainnnnnssss.
+Because he is 2 square.
 <!-- JOKE-END -->
