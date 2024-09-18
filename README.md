@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is the pool safe for diving?
+How do you fix a broken pizza?
 
-It deep ends.
+With tomato paste.
 <!-- JOKE-END -->
