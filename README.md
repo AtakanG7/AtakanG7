@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+What do you call a cow with two legs?
 
-A cat-tastrophe.
+Lean beef.
 <!-- JOKE-END -->
