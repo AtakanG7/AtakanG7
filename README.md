@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-The ground.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
