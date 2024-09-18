@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+Why do bees hum?
 
-Because he was trying to catch up on his sleep!
+Because they don't know the words.
 <!-- JOKE-END -->
