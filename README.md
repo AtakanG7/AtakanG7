@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+Why do valley girls hang out in odd numbered groups?
 
-Those who understand binary and those who don't
+Because they can't even.
 <!-- JOKE-END -->
