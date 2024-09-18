@@ -1,4 +1,6 @@
-# Hi there, I'm Atakan Gül 👋 - DevOps Focused 
+# Hi, I'm Atakan Gül 👋 | DevOps Specialist
+
+I'm passionate about optimizing development pipelines and enhancing cloud-native solutions.
 
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
@@ -7,16 +9,19 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-## Articles - [Visit My Blog](https://blog.atakangul.com) - [Visit My Portfolio](https://atakangul.com)
-
+## 📚 Articles 
 - **[LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring-with-open-source-software)** 
 - **[How to Set Up CI/CD Pipeline Using Azure DevOps for AKS](https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks)**  
-- **[How to Setup Cloud Agnostic CI CD Pipeline?](https://atakangul.com/blogs/cloud-agnostic-ci-cd-pipeline)**  
+- **[How to Setup a Cloud Agnostic CI/CD Pipeline?](https://atakangul.com/blogs/cloud-agnostic-ci-cd-pipeline)**  
+
+📖 **[Visit My Blog](https://blog.atakangul.com)** | 💼 **[Visit My Portfolio](https://atakangul.com)**
+
+---
 
 <!-- JOKE-START -->
-- ## **10 min/joke:**
+## 💡 Quick Joke
 
 What animal is always at a game of cricket?
 
-A bat.
+A bat. 🦇
 <!-- JOKE-END -->
