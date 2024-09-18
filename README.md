@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+I just got fired from my job at the keyboard factory.
 
-I don't think they'll fit me.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
