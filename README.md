@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+What do you call a bear with no teeth?
 
-You'll strain your eyes.
+A gummy bear!
 <!-- JOKE-END -->
