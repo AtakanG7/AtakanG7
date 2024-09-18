@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+Did you hear the joke about the wandering nun?
 
-200 Dollars.
+She was a roman catholic.
 <!-- JOKE-END -->
