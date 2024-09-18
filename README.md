@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+What cheese can never be yours?
 
-Elf-ies.
+Nacho cheese.
 <!-- JOKE-END -->
