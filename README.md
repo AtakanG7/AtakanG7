@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+What do you call a bee that can't make up its mind?
 
-The second one.
+A maybe.
 <!-- JOKE-END -->
