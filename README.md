@@ -19,9 +19,9 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 ---
 
 <!-- JOKE-START -->
-## 💡 Quick Joke
+- ## **10 min/joke:**
 
-What animal is always at a game of cricket?
+How does a penguin build it’s house?
 
-A bat. 🦇
+Igloos it together.
 <!-- JOKE-END -->
