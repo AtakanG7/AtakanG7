@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When does a joke become a dad joke?
+What's the object-oriented way to become wealthy?
 
-When it becomes apparent.
+Inheritance
 <!-- JOKE-END -->
