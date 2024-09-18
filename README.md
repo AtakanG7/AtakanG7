@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+Where do you learn to make banana splits?
 
-He was too far out, man.
+At sundae school.
 <!-- JOKE-END -->
