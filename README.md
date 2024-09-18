@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+Why are skeletons so calm?
 
-A stega-snore-us.
+Because nothing gets under their skin.
 <!-- JOKE-END -->
