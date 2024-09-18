@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+There are 10 types of people in this world...
 
-'Can I join you?'
+Those who understand binary and those who don't
 <!-- JOKE-END -->
