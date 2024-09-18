@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-That she was a little boulder.
+Bison.
 <!-- JOKE-END -->
