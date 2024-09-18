@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+What's blue and not very heavy?
 
-With tomato paste.
+Light blue.
 <!-- JOKE-END -->
