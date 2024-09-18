@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+Why did the kid throw the watch out the window?
 
-I'm sorry, we don't serve food here
+So time would fly.
 <!-- JOKE-END -->
