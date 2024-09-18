@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Is the pool safe for diving?
 
-They always egg-cercise!
+It deep ends.
 <!-- JOKE-END -->
