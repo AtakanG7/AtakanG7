@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+Don't look at the eclipse through a colander.
 
-Can't catch me - Avicii
+You'll strain your eyes.
 <!-- JOKE-END -->
