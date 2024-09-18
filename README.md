@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that can't make up its mind?
+Why did the chicken cross the playground?
 
-A maybe.
+To get to the other slide.
 <!-- JOKE-END -->
