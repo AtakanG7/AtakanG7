@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+Why do Java programmers wear glasses?
 
-Lean beef.
+Because they don't C#.
 <!-- JOKE-END -->
