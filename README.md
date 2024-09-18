@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+Why is peter pan always flying?
 
-Because they can't even.
+Because he neverlands
 <!-- JOKE-END -->
