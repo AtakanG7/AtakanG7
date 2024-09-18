@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A user interface is like a joke.
+Why are skeletons so calm?
 
-If you have to explain it then it is not that good.
+Because nothing gets under their skin.
 <!-- JOKE-END -->
