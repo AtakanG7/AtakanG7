@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+When is a door not a door?
 
-It ended in a tie.
+When it's ajar.
 <!-- JOKE-END -->
