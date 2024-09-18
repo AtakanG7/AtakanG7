@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the janitor say when he jumped out of the closet?
+Why are oranges the smartest fruit?
 
-Supplies!
+Because they are made to concentrate. 
 <!-- JOKE-END -->
