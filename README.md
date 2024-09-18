@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+What did the judge say to the dentist?
 
-Igloos it together.
+Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
