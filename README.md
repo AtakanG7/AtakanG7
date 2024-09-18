@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+Why did the cowboy have a weiner dog?
 
-A gummy bear!
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
