@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Why did the man run around his bed?
 
-A little plaque.
+Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
