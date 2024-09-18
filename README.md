@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do chicken coops only have two doors?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-Because if they had four, they would be chicken sedans
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
