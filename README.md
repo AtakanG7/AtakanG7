@@ -16,7 +16,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that can't make up its mind?
+Which song would an exception sing?
 
-A maybe.
+Can't catch me - Avicii
 <!-- JOKE-END -->
