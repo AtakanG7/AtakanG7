@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What cheese can never be yours?
+What is this movie about?
 
-Nacho cheese.
+It is about 2 hours long.
 <!-- JOKE-END -->
