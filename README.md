@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+Where do you learn to make banana splits?
 
-Saturday and Sunday...the rest are weekdays.
+At sundae school.
 <!-- JOKE-END -->
