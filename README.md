@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a train eat?
+I started a new business making yachts in my attic this year...
 
-It goes chew, chew
+The sails are going through the roof.
 <!-- JOKE-END -->
