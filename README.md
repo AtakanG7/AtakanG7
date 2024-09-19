@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a scientist freshen their breath?
+Why couldn't the kid see the pirate movie?
 
-With experi-mints!
+Because it was rated arrr!
 <!-- JOKE-END -->
