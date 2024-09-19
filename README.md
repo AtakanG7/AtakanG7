@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Mexican train killer?
+Why did the opera singer go sailing?
 
-He had loco motives
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
