@@ -1,6 +1,6 @@
 # Hi, I'm Atakan Gül 👋 | DevOps Focused
 
-I'm passionate about optimizing development pipelines and enhancing cloud-native solutions.
+I'm passionate about optimizing development pipelines and enhancing cloud-native solutions. Coming from software development background so checkout my projects.
 
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
