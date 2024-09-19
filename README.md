@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+How does a train eat?
 
-Try and find the TV island it belongs to.
+It goes chew, chew
 <!-- JOKE-END -->
