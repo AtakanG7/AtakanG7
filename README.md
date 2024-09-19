@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-While I was sleeping my friends decided to write math equations on me.
+Why was the developer always calm?
 
-You should have seen the expression on my face when I woke up.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
