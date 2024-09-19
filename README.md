@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the scarf say to the hat?
+What’s Forest Gump’s Facebook password?
 
-You go on ahead, I am going to hang around a bit longer.
+1forest1
 <!-- JOKE-END -->
