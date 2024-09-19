@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What do you get when you cross a chicken with a skunk?
 
-I’ll ketch up
+A fowl smell!
 <!-- JOKE-END -->
