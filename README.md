@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Why are fish so smart?
 
-Microchips.
+Because they live in schools!
 <!-- JOKE-END -->
