@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Why did the developer quit his job?
 
-The meat-ball.
+Because he didn't get arrays.
 <!-- JOKE-END -->
