@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+What's a computer's favorite snack?
 
-Add the letter G and it’s “gone”!
+Microchips.
 <!-- JOKE-END -->
