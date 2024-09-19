@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What kind of shoes does a thief wear?
 
-When it's ajar.
+Sneakers
 <!-- JOKE-END -->
