@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+Hey, wanna hear a joke?
 
-They say the business is toast.
+Parsing HTML with regex.
 <!-- JOKE-END -->
