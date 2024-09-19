@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Did you hear the one about the guy with the broken hearing aid?
 
-Tweets.
+Neither did he.
 <!-- JOKE-END -->
