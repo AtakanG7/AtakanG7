@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the designer break up with their font?
+When is a door not a door?
 
-Because it wasn't their type.
+When it's ajar.
 <!-- JOKE-END -->
