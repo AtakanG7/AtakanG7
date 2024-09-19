@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+Did you hear about the new restaurant on the moon?
 
-Make me one with everything.
+The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
