@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+What do you do on a remote island?
 
-You planet.
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
