@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one snowman say to the other snow man?
+How come a man driving a train got struck by lightning?
 
-Do you smell carrot?
+He was a good conductor.
 <!-- JOKE-END -->
