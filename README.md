@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+How do you comfort a designer?
 
-Nah, I'm still working on it.
+You give them some space... between the elements.
 <!-- JOKE-END -->
