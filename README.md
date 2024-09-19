@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+How does a scientist freshen their breath?
 
-It was wrong on so many levels.
+With experi-mints!
 <!-- JOKE-END -->
