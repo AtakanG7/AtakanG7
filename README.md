@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+Do you know where you can get chicken broth in bulk?
 
-Lack of concentration.
+The stock market.
 <!-- JOKE-END -->
