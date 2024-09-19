@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Did you hear about the Viking who was reincarnated?
 
-'Where is the bar tended?'
+He was Bjorn again
 <!-- JOKE-END -->
