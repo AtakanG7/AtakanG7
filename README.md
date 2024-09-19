@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+Why do wizards clean their teeth three times a day?
 
-I want to hold your hand, hand, hand, hand...
+To prevent bat breath!
 <!-- JOKE-END -->
