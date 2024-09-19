@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+What do you call fake spaghetti?
 
-It got mugged.
+An impasta.
 <!-- JOKE-END -->
