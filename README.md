@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+How many apples grow on a tree?
 
-Saturday and Sunday...the rest are weekdays.
+All of them!
 <!-- JOKE-END -->
