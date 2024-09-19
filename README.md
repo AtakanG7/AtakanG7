@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer bring two pairs of pants?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-In case he got a hole in one.
+So they could Scandinavian.
 <!-- JOKE-END -->
