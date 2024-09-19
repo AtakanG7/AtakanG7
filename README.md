@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+What do you give a sick lemon?
 
-The stock market.
+Lemonaid.
 <!-- JOKE-END -->
