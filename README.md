@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+what do you call a dog that can do magic tricks?
 
-Aye Matey!
+a labracadabrador
 <!-- JOKE-END -->
