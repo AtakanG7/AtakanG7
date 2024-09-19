@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+What do you call a sheep with no legs?
 
-Neither did he.
+A cloud.
 <!-- JOKE-END -->
