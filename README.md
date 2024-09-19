@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+What did the scarf say to the hat?
 
-He was a good conductor.
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
