@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the new restaurant on the moon?
+What did one snowman say to the other snow man?
 
-The food is great, but there’s just no atmosphere.
+Do you smell carrot?
 <!-- JOKE-END -->
