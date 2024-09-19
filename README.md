@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-A fowl smell!
+You can only use a low ha.
 <!-- JOKE-END -->
