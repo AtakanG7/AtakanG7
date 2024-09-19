@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+Why did the designer break up with their font?
 
-She was a roman catholic.
+Because it wasn't their type.
 <!-- JOKE-END -->
