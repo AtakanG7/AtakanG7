@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an eagle who can play the piano?
+Did you hear the one about the guy with the broken hearing aid?
 
-Talonted!
+Neither did he.
 <!-- JOKE-END -->
