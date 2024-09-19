@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just watched a documentary about beavers.
+A user interface is like a joke.
 
-It was the best dam show I ever saw
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
