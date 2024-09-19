@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of tree fits in your hand?
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
 
-A palm tree!
+Pop,goes the weasel.
 <!-- JOKE-END -->
