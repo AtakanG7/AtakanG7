@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+Did you hear about the runner who was criticized?
 
-I didn't even know they were catholic.
+He just took it in stride
 <!-- JOKE-END -->
