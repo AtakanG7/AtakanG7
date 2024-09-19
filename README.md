@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+What do you call a fat psychic?
 
-Because it's not stroganoff.
+A four-chin teller.
 <!-- JOKE-END -->
