@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+How come a man driving a train got struck by lightning?
 
-Grrrrrainnnnnssss.
+He was a good conductor.
 <!-- JOKE-END -->
