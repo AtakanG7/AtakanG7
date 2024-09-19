@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+Did you hear about the bread factory burning down?
 
-Because he was a fungi.
+They say the business is toast.
 <!-- JOKE-END -->
