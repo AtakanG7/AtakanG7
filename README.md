@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+What is the most used language in programming?
 
-Does that make you an iWitness?
+Profanity.
 <!-- JOKE-END -->
