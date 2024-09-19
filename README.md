@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+What did the janitor say when he jumped out of the closet?
 
-They can't control their pupils.
+Supplies!
 <!-- JOKE-END -->
