@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What do you call a pig that knows karate?
 
-Profanity.
+A pork chop!
 <!-- JOKE-END -->
