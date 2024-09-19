@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+When does a joke become a dad joke?
 
-Because they live in schools!
+When it becomes apparent.
 <!-- JOKE-END -->
