@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+Did you hear about the Mexican train killer?
 
-To get to the other slide.
+He had loco motives
 <!-- JOKE-END -->
