@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are “Dad Jokes” so good?
+How does a French skeleton say hello?
 
-Because the punchline is apparent.
+Bone-jour.
 <!-- JOKE-END -->
