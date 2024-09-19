@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+What did the Zen Buddist say to the hotdog vendor?
 
-1forest1
+Make me one with everything.
 <!-- JOKE-END -->
