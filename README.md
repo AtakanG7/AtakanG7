@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+What do you get when you cross a chicken with a skunk?
 
-At sundae school.
+A fowl smell!
 <!-- JOKE-END -->
