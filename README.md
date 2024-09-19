@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+What is the least spoken language in the world?
 
-A fowl smell!
+Sign Language
 <!-- JOKE-END -->
