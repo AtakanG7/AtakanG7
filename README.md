@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+What kind of music do welders like?
 
-I don't know... it keeps changing.
+Heavy metal.
 <!-- JOKE-END -->
