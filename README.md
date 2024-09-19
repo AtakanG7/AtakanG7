@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+Why did the worker get fired from the orange juice factory?
 
-Lean beef.
+Lack of concentration.
 <!-- JOKE-END -->
