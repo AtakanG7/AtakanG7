@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the chameleon who couldn't change color?
+Why did the developer go to therapy?
 
-They had a reptile dysfunction.
+They had too many unresolved issues.
 <!-- JOKE-END -->
