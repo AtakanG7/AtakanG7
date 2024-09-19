@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+What is the least spoken language in the world?
 
-1forest1
+Sign Language
 <!-- JOKE-END -->
