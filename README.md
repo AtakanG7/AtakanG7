@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+Did you hear about the guy whose whole left side was cut off?
 
-Even if you're wrong, you're only off by a bit.
+He's all right now.
 <!-- JOKE-END -->
