@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig that knows karate?
+Why does a chicken coop only have two doors?
 
-A pork chop!
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
