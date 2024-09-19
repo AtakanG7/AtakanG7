@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+What kind of tree fits in your hand?
 
-Parsing HTML with regex.
+A palm tree!
 <!-- JOKE-END -->
