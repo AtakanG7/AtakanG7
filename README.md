@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+did you know the first French fries weren't cooked in France?
 
-He was a good conductor.
+they were cooked in Greece
 <!-- JOKE-END -->
