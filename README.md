@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+What time is it?
 
-They always quack the case.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
