@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+What did the 0 say to the 8?
 
-Because Oct 31 equals Dec 25.
+Nice belt.
 <!-- JOKE-END -->
