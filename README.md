@@ -1,4 +1,4 @@
-# Hi, I'm Atakan Gül 👋 | DevOps Specialist
+# Hi, I'm Atakan Gül 👋 | DevOps Focused
 
 I'm passionate about optimizing development pipelines and enhancing cloud-native solutions.
 
