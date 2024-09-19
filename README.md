@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+What do you do on a remote island?
 
-Got stacks of em! First one's on the house
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
