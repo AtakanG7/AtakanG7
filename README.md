@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+What is a centipedes's favorite Beatle song?
 
-The stock market.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
