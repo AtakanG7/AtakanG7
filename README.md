@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the kid see the pirate movie?
+Why did the programmer's wife leave him?
 
-Because it was rated arrr!
+He didn't know how to commit.
 <!-- JOKE-END -->
