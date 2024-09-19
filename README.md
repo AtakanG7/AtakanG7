@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+How do you make a tissue dance?
 
-Spelling!
+You put a little boogie on it.
 <!-- JOKE-END -->
