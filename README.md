@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+What's the worst thing about ancient history class?
 
-Because if it had four doors it would be a chicken sedan.
+The teachers tend to Babylon.
 <!-- JOKE-END -->
