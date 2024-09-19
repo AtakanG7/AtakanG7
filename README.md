@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the butcher work extra hours at the shop?
+What are the strongest days of the week?
 
-To make ends meat.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
