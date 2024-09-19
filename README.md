@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+How does a scientist freshen their breath?
 
-Fur protection.
+With experi-mints!
 <!-- JOKE-END -->
