@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+Why are fish easy to weigh?
 
-They wanted to hit the high Cs.
+Because they have their own scales.
 <!-- JOKE-END -->
