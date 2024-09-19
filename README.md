@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-Try and find the TV island it belongs to.
+It reads "Small medium at large."
 <!-- JOKE-END -->
