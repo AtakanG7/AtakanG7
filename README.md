@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a French skeleton say hello?
+What kind of dinosaur loves to sleep?
 
-Bone-jour.
+A stega-snore-us.
 <!-- JOKE-END -->
