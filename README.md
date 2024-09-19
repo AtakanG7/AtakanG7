@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+Did you hear about the crime in the parking garage?
 
-It reads "Small medium at large."
+It was wrong on so many levels.
 <!-- JOKE-END -->
