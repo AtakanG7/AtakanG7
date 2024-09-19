@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What biscuit does a short person like?
+Where’s the bin?
 
-Shortbread. 
+I haven’t been anywhere!
 <!-- JOKE-END -->
