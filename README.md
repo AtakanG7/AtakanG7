@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+While I was sleeping my friends decided to write math equations on me.
 
-Eclipse it.
+You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
