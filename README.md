@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+Why did the butcher work extra hours at the shop?
 
-They had too many unresolved issues.
+To make ends meat.
 <!-- JOKE-END -->
