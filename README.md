@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the submarine industry?
+Why do trees seem suspicious on sunny days?
 
-It really took a dive...
+Dunno, they're just a bit shady.
 <!-- JOKE-END -->
