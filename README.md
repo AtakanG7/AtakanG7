@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What’s Forest Gump’s Facebook password?
 
-You give them some space... between the elements.
+1forest1
 <!-- JOKE-END -->
