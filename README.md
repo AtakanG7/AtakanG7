@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the least spoken language in the world?
+What time did the man go to the dentist?
 
-Sign Language
+Tooth hurt-y.
 <!-- JOKE-END -->
