@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+If you see a robbery at an Apple Store...
 
-The sails are going through the roof.
+Does that make you an iWitness?
 <!-- JOKE-END -->
