@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+Do you know where you can get chicken broth in bulk?
 
-Because they knew how to handle exceptions.
+The stock market.
 <!-- JOKE-END -->
