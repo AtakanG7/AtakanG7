@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+How do you make the number one disappear?
 
-It hurts when IP.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
