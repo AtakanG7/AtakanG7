@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+Did you hear about the chameleon who couldn't change color?
 
-Neither did he.
+They had a reptile dysfunction.
 <!-- JOKE-END -->
