@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+Where do you learn to make banana splits?
 
-Dunno, they're just a bit shady.
+At sundae school.
 <!-- JOKE-END -->
