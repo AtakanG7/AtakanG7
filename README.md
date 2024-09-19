@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Why can't you use "Beef stew"as a password?
 
-To prevent bat breath!
+Because it's not stroganoff.
 <!-- JOKE-END -->
