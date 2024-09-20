@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+Did you hear about the submarine industry?
 
-Try and find the TV island it belongs to.
+It really took a dive...
 <!-- JOKE-END -->
