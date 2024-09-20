@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+Two guys walk into a bar . . .
 
-Because you can see right through them!
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
