@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+Have you heard of the band 1023MB?
 
-They always quack the case.
+They haven't got a gig yet.
 <!-- JOKE-END -->
