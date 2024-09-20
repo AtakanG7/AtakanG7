@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+How do you fix a damaged jack-o-lantern?
 
-Because DEC 25 = OCT 31
+You use a pumpkin patch.
 <!-- JOKE-END -->
