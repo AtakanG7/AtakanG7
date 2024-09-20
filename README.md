@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What do you get when you cross a rabbit with a water hose?
 
-Nah, I'm still working on it.
+Hare spray.
 <!-- JOKE-END -->
