@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+Because there’s a Shortstop in between!
 <!-- JOKE-END -->
