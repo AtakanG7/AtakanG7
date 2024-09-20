@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+What happens when you anger a brain surgeon?
 
-It's because they don't know the words.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
