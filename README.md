@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you watch the new comic book movie?
+There are 10 types of people in this world...
 
-It was very graphic!
+Those who understand binary and those who don't
 <!-- JOKE-END -->
