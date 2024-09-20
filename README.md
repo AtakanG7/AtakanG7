@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+Why do programmers always get Christmas and Halloween mixed up?
 
-It went back four seconds.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
