@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+How much does a hipster weigh?
 
-It goes back four seconds!
+An instagram.
 <!-- JOKE-END -->
