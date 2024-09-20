@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Why are ghosts bad liars?
 
-A little plaque.
+Because you can see right through them!
 <!-- JOKE-END -->
