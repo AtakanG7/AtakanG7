@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+What do you call fake spaghetti?
 
-Because they live in schools!
+An impasta.
 <!-- JOKE-END -->
