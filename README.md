@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+What do you call a cow on a trampoline?
 
-Lean beef.
+A milk shake!
 <!-- JOKE-END -->
