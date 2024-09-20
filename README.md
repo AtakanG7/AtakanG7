@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+Why does a chicken coop only have two doors?
 
-He's all right now.
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
