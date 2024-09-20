@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+How does a French skeleton say hello?
 
-Eclipse it.
+Bone-jour.
 <!-- JOKE-END -->
