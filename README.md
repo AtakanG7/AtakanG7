@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know crocodiles could grow up to 15 feet?
+Did you hear about the kidnapping at school?
 
-But most just have 4.
+It's ok, he woke up.
 <!-- JOKE-END -->
