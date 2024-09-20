@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+What do you get when you cross a rabbit with a water hose?
 
-It's ok, he woke up.
+Hare spray.
 <!-- JOKE-END -->
