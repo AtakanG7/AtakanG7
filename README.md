@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pumpkins sit on people’s porches?
+Why can't a bicycle stand on its own?
 
-They have no hands to knock on the door.
+It's two-tired.
 <!-- JOKE-END -->
