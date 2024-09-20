@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken get a penalty?
+What do you do on a remote island?
 
-For fowl play.
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
