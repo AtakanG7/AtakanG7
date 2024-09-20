@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why do programmers always get Christmas and Halloween mixed up?
 
-Hare spray.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
