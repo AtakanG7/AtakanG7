@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a damaged jack-o-lantern?
+Why do ducks make great detectives?
 
-You use a pumpkin patch.
+They always quack the case.
 <!-- JOKE-END -->
