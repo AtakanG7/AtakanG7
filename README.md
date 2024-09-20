@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+Why did the chicken get a penalty?
 
-Saturday and Sunday...the rest are weekdays.
+For fowl play.
 <!-- JOKE-END -->
