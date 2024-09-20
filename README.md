@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call two barracuda fish?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-A Pairacuda!
+A metro-gnome
 <!-- JOKE-END -->
