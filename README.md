@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the submarine industry?
+Why did the functions stop calling each other?
 
-It really took a dive...
+Because they had constant arguments.
 <!-- JOKE-END -->
