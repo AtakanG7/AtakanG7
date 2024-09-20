@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+What do you call an elephant that doesn’t matter?
 
-Because they use honey combs!
+An irrelephant.
 <!-- JOKE-END -->
