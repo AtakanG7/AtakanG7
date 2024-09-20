@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why do pumpkins sit on people’s porches?
 
-Hare spray.
+They have no hands to knock on the door.
 <!-- JOKE-END -->
