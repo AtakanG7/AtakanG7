@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Do you want a brief explanation of what an acorn is?
 
-Twister!
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
