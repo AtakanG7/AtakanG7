@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+What kind of dog lives in a particle accelerator?
 
-Nothing, they just waved.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
