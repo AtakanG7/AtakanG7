@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+Want to hear a joke about construction?
 
-They haven't got a gig yet.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
