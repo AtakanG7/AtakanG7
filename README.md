@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Did you hear about the bread factory burning down?
 
-'Where is the bar tended?'
+They say the business is toast.
 <!-- JOKE-END -->
