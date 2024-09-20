@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cowboy have a weiner dog?
+What kind of tree fits in your hand?
 
-Somebody told him to get a long little doggy.
+A palm tree!
 <!-- JOKE-END -->
