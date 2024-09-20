@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+What did the mountain climber name his son?
 
-Sunday school.
+Cliff.
 <!-- JOKE-END -->
