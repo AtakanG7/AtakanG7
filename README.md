@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+Why does a chicken coop only have two doors?
 
-European
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
