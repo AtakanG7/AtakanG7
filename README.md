@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+Want to hear a chimney joke?
 
-Saturday and Sunday...the rest are weekdays.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
