@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+You see, mountains aren't just funny.
 
-I want to hold your hand, hand, hand, hand...
+They are hill areas.
 <!-- JOKE-END -->
