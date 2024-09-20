@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+Why did the octopus beat the shark in a fight?
 
-In his sleevies.
+Because it was well armed.
 <!-- JOKE-END -->
