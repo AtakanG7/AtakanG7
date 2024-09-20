@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+How do you know if there’s an elephant under your bed?
 
-They say the business is toast.
+Your head hits the ceiling!
 <!-- JOKE-END -->
