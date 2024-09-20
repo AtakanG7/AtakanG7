@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's Forrest Gump's password?
+Why couldn't the lifeguard save the hippie?
 
-1Forrest1
+He was too far out, man.
 <!-- JOKE-END -->
