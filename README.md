@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+Why does Superman get invited to dinners?
 
-They mostly wrap.
+Because he is a Supperhero.
 <!-- JOKE-END -->
