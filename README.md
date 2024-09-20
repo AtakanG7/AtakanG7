@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+What do you call a sheep with no legs?
 
-Your head hits the ceiling!
+A cloud.
 <!-- JOKE-END -->
