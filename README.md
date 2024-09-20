@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+Why don't scientists trust atoms?
 
-Because seven ate nine.
+Because they make up everything.
 <!-- JOKE-END -->
