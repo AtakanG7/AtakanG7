@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the traffic light say to the car as it passed?
+How do you get two whales in a car?
 
-Don't look I'm changing!
+Start in England and drive West.
 <!-- JOKE-END -->
