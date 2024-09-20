@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+Why did the golfer bring two pairs of pants?
 
-Do you get a laughing stock?
+In case he got a hole in one.
 <!-- JOKE-END -->
