@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's red and bad for your teeth?
+Where does batman go to the bathroom?
 
-A Brick.
+The batroom.
 <!-- JOKE-END -->
