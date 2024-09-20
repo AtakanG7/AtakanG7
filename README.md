@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+A termite walks into a bar and says...
 
-In a nutshell, it's an oak tree.
+'Where is the bar tended?'
 <!-- JOKE-END -->
