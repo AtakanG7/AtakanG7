@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+Why are football stadiums so cool?
 
-Because they don't C#.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
