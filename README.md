@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+What did the digital clock say to the grandfather clock?
 
-I'll meet you at the corner!
+Look, no hands!
 <!-- JOKE-END -->
