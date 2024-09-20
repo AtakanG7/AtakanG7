@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Is the pool safe for diving?
 
-He didn't know how to null his feelings.
+It deep ends.
 <!-- JOKE-END -->
