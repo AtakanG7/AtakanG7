@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-The outside.
+A metro-gnome
 <!-- JOKE-END -->
