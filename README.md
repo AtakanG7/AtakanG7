@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+What did the shy pebble wish for?
 
-An instagram.
+That she was a little boulder.
 <!-- JOKE-END -->
