@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+What time is it?
 
-Do you know the problem with UDP jokes?
+I don't know... it keeps changing.
 <!-- JOKE-END -->
