@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+What did celery say when he broke up with his girlfriend?
 
-Look, no hands!
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
