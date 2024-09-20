@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+What is the most used language in programming?
 
-Never mind...it's tearable
+Profanity.
 <!-- JOKE-END -->
