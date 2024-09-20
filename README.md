@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+What is a centipedes's favorite Beatle song?
 
-Because every seat has a fan in it.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
