@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Where does Napoleon keep his armies?
 
-I woke up exhausted!
+In his sleevies.
 <!-- JOKE-END -->
