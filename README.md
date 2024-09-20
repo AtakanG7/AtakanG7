@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Don't look at the eclipse through a colander.
 
-It was feeling crumby.
+You'll strain your eyes.
 <!-- JOKE-END -->
