@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+Did you know crocodiles could grow up to 15 feet?
 
-About 5000 miles.
+But most just have 4.
 <!-- JOKE-END -->
