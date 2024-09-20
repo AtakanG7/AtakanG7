@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+Which side of the chicken has more feathers?
 
-Piiig
+The outside.
 <!-- JOKE-END -->
