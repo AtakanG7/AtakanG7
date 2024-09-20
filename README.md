@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cow who jumped over the barbed wire fence?
+How did Darth Vader know what Luke was getting for Christmas?
 
-It was udder destruction.
+He felt his presents.
 <!-- JOKE-END -->
