@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+What are the strongest days of the week?
 
-To clean up all the bugs.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
