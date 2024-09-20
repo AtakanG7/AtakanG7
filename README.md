@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+Did you hear about the cow who jumped over the barbed wire fence?
 
-They wanted to hit the high Cs.
+It was udder destruction.
 <!-- JOKE-END -->
