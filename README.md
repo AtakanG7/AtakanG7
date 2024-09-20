@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+The punchline often arrives before the set-up.
 
-You'll strain your eyes.
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
