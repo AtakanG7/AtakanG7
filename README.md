@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+Why did the octopus beat the shark in a fight?
 
-They couldn't find a table.
+Because it was well armed.
 <!-- JOKE-END -->
