@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+Why did the programmer's wife leave him?
 
-Parsing HTML with regex.
+He didn't know how to commit.
 <!-- JOKE-END -->
