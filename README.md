@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+Have you ever heard of a music group called Cellophane?
 
-That she was a little boulder.
+They mostly wrap.
 <!-- JOKE-END -->
