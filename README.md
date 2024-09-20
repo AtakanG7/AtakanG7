@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cowboy have a weiner dog?
+How come the stadium got hot after the game?
 
-Somebody told him to get a long little doggy.
+Because all of the fans left.
 <!-- JOKE-END -->
