@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+Did you hear about the submarine industry?
 
-There was nothing left but de Brie.
+It really took a dive...
 <!-- JOKE-END -->
