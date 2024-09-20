@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+Why are football stadiums so cool?
 
-Because it was well armed.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
