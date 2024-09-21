@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+What's the difference between a hippo and a zippo?
 
-It is about 2 hours long.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
