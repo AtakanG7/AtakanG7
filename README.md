@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+Why are oranges the smartest fruit?
 
-I'm sorry, we don't serve food here
+Because they are made to concentrate. 
 <!-- JOKE-END -->
