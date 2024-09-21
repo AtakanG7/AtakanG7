@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+A user interface is like a joke.
 
-I don't know, but their flag is a big plus.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
