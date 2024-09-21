@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+What's the best thing about Switzerland?
 
-Algae-bra.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
