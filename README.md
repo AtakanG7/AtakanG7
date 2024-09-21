@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+Why do programmers prefer dark chocolate?
 
-Fortunately I belong to the remaining 1%
+Because it's bitter like their code.
 <!-- JOKE-END -->
