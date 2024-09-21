@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Why did the programmer go to art school?
 
-'Where is the bar tended?'
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
