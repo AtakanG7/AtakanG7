@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+Why are fish so smart?
 
-That’s a deep subject.
+Because they live in schools!
 <!-- JOKE-END -->
