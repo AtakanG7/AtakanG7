@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+How many bones are in the human hand?
 
-Sneakers
+A handful of them.
 <!-- JOKE-END -->
