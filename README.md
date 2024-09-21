@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Why does Norway have barcodes on their battleships?
 
-He didn't know how to null his feelings.
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
