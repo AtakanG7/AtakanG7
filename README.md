@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+Why do you never see elephants hiding in trees?
 
-He’s only got little legs.
+Because they're so good at it.
 <!-- JOKE-END -->
