@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a hippo and a zippo?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-One is really heavy, the other is a little lighter.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
