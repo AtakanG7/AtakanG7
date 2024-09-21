@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+How many programmers does it take to change a lightbulb?
 
-To get to the other slide.
+None that's a hardware problem
 <!-- JOKE-END -->
