@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke buying Bitcoin?
+What does a pirate pay for his corn?
 
-He kept calling it bytecoin and didn't get any.
+A buccaneer!
 <!-- JOKE-END -->
