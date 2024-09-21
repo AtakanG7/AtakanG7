@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do mathematicians hate the U.S.?
+What is the least spoken language in the world?
 
-Because it's indivisible.
+Sign Language
 <!-- JOKE-END -->
