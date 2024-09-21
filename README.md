@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pirates not know the alphabet?
+How do hens stay fit?
 
-They always get stuck at "C".
+They always egg-cercise!
 <!-- JOKE-END -->
