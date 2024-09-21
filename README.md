@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+What do you do on a remote island?
 
-A tuba toothpaste.
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
