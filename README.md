@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A user interface is like a joke.
+Why did the worker get fired from the orange juice factory?
 
-If you have to explain it then it is not that good.
+Lack of concentration.
 <!-- JOKE-END -->
