@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pumpkins sit on people’s porches?
+What does the mermaid wear to math class?
 
-They have no hands to knock on the door.
+Algae-bra.
 <!-- JOKE-END -->
