@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Michael Jackson name his denim store?
+Did you hear about the guy who invented Lifesavers?
 
-Billy Jeans!
+They say he made a mint.
 <!-- JOKE-END -->
