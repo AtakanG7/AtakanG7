@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+What did the traffic light say to the car as it passed?
 
-It ended in a tie.
+Don't look I'm changing!
 <!-- JOKE-END -->
