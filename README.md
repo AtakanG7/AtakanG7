@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+What did celery say when he broke up with his girlfriend?
 
-Because if it had four doors it would be a chicken sedan.
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
