@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+99.9% of the people are dumb!
 
-Because you can see right through them!
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
