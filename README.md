@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+A termite walks into a bar and says...
 
-They always egg-cercise!
+'Where is the bar tended?'
 <!-- JOKE-END -->
