@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+I had a dream that I was a muffler last night.
 
-'Where is the bar tended?'
+I woke up exhausted!
 <!-- JOKE-END -->
