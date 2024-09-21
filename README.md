@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+What did one nut say as he chased another nut?
 
-Lack of concentration.
+I'm a cashew!
 <!-- JOKE-END -->
