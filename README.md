@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+What kind of shoes does a thief wear?
 
-Because they live in schools!
+Sneakers
 <!-- JOKE-END -->
