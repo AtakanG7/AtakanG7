@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+Why did the developer go broke buying Bitcoin?
 
-Try and find the TV island it belongs to.
+He kept calling it bytecoin and didn't get any.
 <!-- JOKE-END -->
