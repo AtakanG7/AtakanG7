@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+What do vegetarian zombies eat?
 
-A little shaken.
+Grrrrrainnnnnssss.
 <!-- JOKE-END -->
