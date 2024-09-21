@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+Why are ghosts bad liars?
 
-He wanted to learn how to code outside the box.
+Because you can see right through them!
 <!-- JOKE-END -->
