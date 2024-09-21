@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+A termite walks into a bar and says...
 
-A handful of them.
+'Where is the bar tended?'
 <!-- JOKE-END -->
