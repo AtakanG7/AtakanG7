@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+What's the object-oriented way to become wealthy?
 
-I'm a cashew!
+Inheritance
 <!-- JOKE-END -->
