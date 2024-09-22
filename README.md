@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+Why did the developer go broke?
 
-Because he couldn't see that well!
+They kept spending all their cache.
 <!-- JOKE-END -->
