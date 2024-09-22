@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the runner who was criticized?
+How good are you at Power Point?
 
-He just took it in stride
+I Excel at it.
 <!-- JOKE-END -->
