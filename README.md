@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+Why did the chicken get a penalty?
 
-They wanted to hit the high Cs.
+For fowl play.
 <!-- JOKE-END -->
