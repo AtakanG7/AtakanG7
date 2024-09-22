@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a French skeleton say hello?
+Why did the opera singer go sailing?
 
-Bone-jour.
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
