@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken get a penalty?
+What's the best thing about elevator jokes?
 
-For fowl play.
+They work on so many levels.
 <!-- JOKE-END -->
