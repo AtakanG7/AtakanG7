@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about elevator jokes?
+What kind of tree fits in your hand?
 
-They work on so many levels.
+A palm tree!
 <!-- JOKE-END -->
