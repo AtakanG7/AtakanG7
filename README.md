@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Two guys walk into a bar . . .
 
-I woke up exhausted!
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
