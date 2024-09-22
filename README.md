@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+What did the janitor say when he jumped out of the closet?
 
-They kept spending all their cache.
+Supplies!
 <!-- JOKE-END -->
