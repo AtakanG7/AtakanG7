@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+How does a French skeleton say hello?
 
-I Excel at it.
+Bone-jour.
 <!-- JOKE-END -->
