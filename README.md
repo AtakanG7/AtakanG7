@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+Why did the melons plan a big wedding?
 
-They wanted to hit the high Cs.
+Because they cantaloupe!
 <!-- JOKE-END -->
