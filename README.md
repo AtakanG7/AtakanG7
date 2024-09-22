@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+Can I watch the TV?
 
-An instagram.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
