@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a bee and a sheep?
+What is a centipedes's favorite Beatle song?
 
-A bah-humbug.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
