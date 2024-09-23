@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+What do you get hanging from Apple trees?
 
-Never mind, I shouldn't spread it.
+Sore arms.
 <!-- JOKE-END -->
