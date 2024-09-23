@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-Don't look at me I'm changing!
+Narnia business!
 <!-- JOKE-END -->
