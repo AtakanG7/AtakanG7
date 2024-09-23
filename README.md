@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+There are 10 types of people in this world...
 
-She was a roman catholic.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
