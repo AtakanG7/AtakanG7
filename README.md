@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+Do you want a brief explanation of what an acorn is?
 
-You can only use a low ha.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
