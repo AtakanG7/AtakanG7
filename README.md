@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+There are 10 types of people in this world...
 
-The teachers tend to Babylon.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
