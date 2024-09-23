@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best part about TCP jokes?
+Why can't a bicycle stand on its own?
 
-I get to keep telling them until you get them.
+It's two-tired.
 <!-- JOKE-END -->
