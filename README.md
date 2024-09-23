@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+Did you hear about the chameleon who couldn't change color?
 
-Make me one with everything.
+They had a reptile dysfunction.
 <!-- JOKE-END -->
