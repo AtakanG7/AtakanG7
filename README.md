@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+A programmer puts two glasses on his bedside table before going to sleep.
 
-Ground beef!
+A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 <!-- JOKE-END -->
