@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+How do you comfort a designer?
 
-Because he had no guts.
+You give them some space... between the elements.
 <!-- JOKE-END -->
