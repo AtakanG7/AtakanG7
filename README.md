@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+What is red and smells like blue paint?
 
-Do you know the problem with UDP jokes?
+Red paint!
 <!-- JOKE-END -->
