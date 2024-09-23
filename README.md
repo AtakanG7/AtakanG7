@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+What do you call a fake noodle?
 
-They will give you a piece of your mind.
+An impasta.
 <!-- JOKE-END -->
