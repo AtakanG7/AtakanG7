@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+What's the best thing about a Boolean?
 
-No… Then how’d you get your foot in it?
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
