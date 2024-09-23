@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+Can I watch the TV?
 
-Hi, bud!
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
