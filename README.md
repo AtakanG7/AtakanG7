@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+How many React developers does it take to change a lightbulb?
 
-Sore arms.
+None, they prefer dark mode.
 <!-- JOKE-END -->
