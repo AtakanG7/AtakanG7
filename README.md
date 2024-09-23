@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the least spoken language in the world?
+Lady: How do I spread love in this cruel world?
 
-Sign Language
+Random Dude: [...💘]
 <!-- JOKE-END -->
