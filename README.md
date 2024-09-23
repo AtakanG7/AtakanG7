@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+What do you call a pig with three eyes?
 
-Because he is a Supperhero.
+Piiig
 <!-- JOKE-END -->
