@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the scarf say to the hat?
+What was a more important invention than the first telephone?
 
-You go on ahead, I am going to hang around a bit longer.
+The second one.
 <!-- JOKE-END -->
