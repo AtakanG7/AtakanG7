@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+what do you call a dog that can do magic tricks?
 
-A metro-gnome
+a labracadabrador
 <!-- JOKE-END -->
