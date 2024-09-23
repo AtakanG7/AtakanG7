@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-About 5000 miles.
+I couldn’t turn it down.
 <!-- JOKE-END -->
