@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer wear two pairs of pants?
+Can I watch the TV?
 
-In case he got a hole in one.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
