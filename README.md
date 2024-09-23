@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+What did the janitor say when he jumped out of the closet?
 
-They wanted to hit the high Cs.
+Supplies!
 <!-- JOKE-END -->
