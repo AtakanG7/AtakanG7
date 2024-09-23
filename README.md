@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+Why are skeletons so calm?
 
-Because they're shellfish.
+Because nothing gets under their skin.
 <!-- JOKE-END -->
