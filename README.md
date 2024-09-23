@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+Why dot net developers don't wear glasses?
 
-The BP station.
+Because they see sharp.
 <!-- JOKE-END -->
