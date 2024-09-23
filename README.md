@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+Why don't scientists trust atoms?
 
-A four-chin teller.
+Because they make up everything.
 <!-- JOKE-END -->
