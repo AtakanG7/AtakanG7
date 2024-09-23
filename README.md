@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+What did the Zen Buddist say to the hotdog vendor?
 
-They haven't got a gig yet.
+Make me one with everything.
 <!-- JOKE-END -->
