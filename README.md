@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+How do you fix a broken pizza?
 
-Before was was was was was is.
+With tomato paste.
 <!-- JOKE-END -->
