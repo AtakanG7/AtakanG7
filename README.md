@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+What do you call a fat psychic?
 
-Start in England and drive West.
+A four-chin teller.
 <!-- JOKE-END -->
