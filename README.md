@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+What did the ocean say to the beach?
 
-You rocket.
+Thanks for all the sediment.
 <!-- JOKE-END -->
