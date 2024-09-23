@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Have you heard of the band 1023MB?
 
-1forest1
+They haven't got a gig yet.
 <!-- JOKE-END -->
