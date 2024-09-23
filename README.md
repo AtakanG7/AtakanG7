@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+Did you hear about the cheese factory that exploded in France?
 
-You give them some space... between the elements.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
