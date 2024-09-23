@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Where was the Declaration of Independence signed?
 
-Thanks for all the sediment.
+At the bottom! 
 <!-- JOKE-END -->
