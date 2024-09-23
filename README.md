@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+What is the most used language in programming?
 
-No, but April may.
+Profanity.
 <!-- JOKE-END -->
