@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+What did the dog say to the two trees?
 
- Because it was feeling crumbly.
+Bark bark.
 <!-- JOKE-END -->
