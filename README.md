@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+Why did the programmer bring a ladder to work?
 
-It was always bold.
+They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
