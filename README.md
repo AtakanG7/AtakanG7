@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+Why did the programmer's wife leave him?
 
-Because nothing gets under their skin.
+He didn't know how to commit.
 <!-- JOKE-END -->
