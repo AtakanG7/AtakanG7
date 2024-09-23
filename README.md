@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+What happens when you anger a brain surgeon?
 
-He didn't know how to commit.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
