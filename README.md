@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer wear two pairs of pants?
+What’s the difference between an African elephant and an Indian elephant?
 
-In case he got a hole in one.
+About 5000 miles.
 <!-- JOKE-END -->
