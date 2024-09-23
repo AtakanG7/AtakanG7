@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+I had a dream that I was a muffler last night.
 
-Squash.
+I woke up exhausted!
 <!-- JOKE-END -->
