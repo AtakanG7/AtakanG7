@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does C.S. Lewis keep at the back of his wardrobe?
+Why don't oysters give to charity?
 
-Narnia business!
+Because they're shellfish.
 <!-- JOKE-END -->
