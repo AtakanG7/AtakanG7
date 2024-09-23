@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-Those who understand binary and those who don't
+A metro-gnome
 <!-- JOKE-END -->
