@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-1forest1
+Lil Caesars
 <!-- JOKE-END -->
