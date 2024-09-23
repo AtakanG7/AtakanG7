@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+Do I enjoy making courthouse puns?
 
-Grrrrrainnnnnssss.
+Guilty
 <!-- JOKE-END -->
