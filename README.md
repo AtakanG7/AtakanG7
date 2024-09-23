@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+Why didn't the number 4 get into the nightclub?
 
-Eclipse it.
+Because he is 2 square.
 <!-- JOKE-END -->
