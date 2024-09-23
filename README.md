@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+Why did the cookie go to the doctor?
 
-a labracadabrador
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
