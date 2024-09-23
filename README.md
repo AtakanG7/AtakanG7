@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of magic do cows believe in?
+How do you fix a damaged jack-o-lantern?
 
-MOODOO.
+You use a pumpkin patch.
 <!-- JOKE-END -->
