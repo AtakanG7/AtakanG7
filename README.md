@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the chameleon who couldn't change color?
+What do you call a dad that has fallen through the ice?
 
-They had a reptile dysfunction.
+A Popsicle.
 <!-- JOKE-END -->
