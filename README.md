@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+What happens to a frog's car when it breaks down?
 
-None, they prefer dark mode.
+It gets toad away
 <!-- JOKE-END -->
