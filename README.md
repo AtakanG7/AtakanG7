@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+What do you get when you cross a React developer with a mathematician?
 
-In the calf-ateria.
+A function component.
 <!-- JOKE-END -->
