@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Is there a hole in your shoe?
 
-Thanks for all the sediment.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
