@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do I enjoy making courthouse puns?
+what do you call a dog that can do magic tricks?
 
-Guilty
+a labracadabrador
 <!-- JOKE-END -->
