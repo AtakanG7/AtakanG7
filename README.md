@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+What is a tornado's favorite game to play?
 
-When they run out of patients.
+Twister!
 <!-- JOKE-END -->
