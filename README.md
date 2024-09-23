@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+Why did the golfer wear two pairs of pants?
 
-Lean beef.
+In case he got a hole in one.
 <!-- JOKE-END -->
