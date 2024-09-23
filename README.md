@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Want to hear a joke about a piece of paper?
 
-A little plaque.
+Never mind...it's tearable
 <!-- JOKE-END -->
