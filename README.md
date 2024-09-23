@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-To understand what recursion is...
+Why do fathers take an extra pair of socks when they go golfing?
 
-You must first understand what recursion is
+In case they get a hole in one!
 <!-- JOKE-END -->
