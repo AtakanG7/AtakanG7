@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+What did the late tomato say to the early tomato?
 
-A crookodile!
+I’ll ketch up
 <!-- JOKE-END -->
