@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+Where do young cows eat lunch?
 
-Parsing HTML with regex.
+In the calf-ateria.
 <!-- JOKE-END -->
