@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer quit his job?
+Did you hear that David lost his ID in prague?
 
-Because he didn't get arrays.
+Now we just have to call him Dav.
 <!-- JOKE-END -->
