@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Hey, wanna hear a joke?
 
-Because they make up everything.
+Parsing HTML with regex.
 <!-- JOKE-END -->
