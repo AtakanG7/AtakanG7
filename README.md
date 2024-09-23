@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+Why did the golfer wear two pairs of pants?
 
-Never mind...it's tearable
+In case he got a hole in one.
 <!-- JOKE-END -->
