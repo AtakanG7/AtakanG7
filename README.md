@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was Cinderalla thrown out of the football team?
+What kind of pants do ghosts wear?
 
-Because she ran away from the ball.
+Boo jeans.
 <!-- JOKE-END -->
