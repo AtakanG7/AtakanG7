@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Why was Cinderalla thrown out of the football team?
 
-Because it had nobody.
+Because she ran away from the ball.
 <!-- JOKE-END -->
