@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did Darth Vader know what Luke was getting for Christmas?
+Why did the programmer quit his job?
 
-He felt his presents.
+Because he didn't get arrays.
 <!-- JOKE-END -->
