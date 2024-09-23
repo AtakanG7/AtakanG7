@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the janitor say when he jumped out of the closet?
+Can February march?
 
-Supplies!
+No, but April may.
 <!-- JOKE-END -->
