@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Where do bees go to the bathroom?
 
-I woke up exhausted!
+The BP station.
 <!-- JOKE-END -->
