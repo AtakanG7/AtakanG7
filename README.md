@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+What's the best thing about a Boolean?
 
-Those who understand binary and those who don't
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
