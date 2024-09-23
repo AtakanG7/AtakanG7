@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-He took a short cut.
+You can only use a low ha.
 <!-- JOKE-END -->
