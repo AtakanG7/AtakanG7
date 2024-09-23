@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+Have you heard the rumor going around about butter?
 
-In a nutshell, it's an oak tree.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
