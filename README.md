@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do planets listen to?
+I dropped a pear in my car this morning.
 
-Nep-tunes.
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
