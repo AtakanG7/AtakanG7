@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+what do you call a dog that can do magic tricks?
 
-Now we just have to call him Dav.
+a labracadabrador
 <!-- JOKE-END -->
