@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+Why did the barber win the race?
 
-Pasta la vista, baby!
+He took a short cut.
 <!-- JOKE-END -->
