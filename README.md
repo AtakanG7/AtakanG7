@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a damaged jack-o-lantern?
+Do you know what the word 'was' was initially?
 
-You use a pumpkin patch.
+Before was was was was was is.
 <!-- JOKE-END -->
