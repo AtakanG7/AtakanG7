@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+What's the object-oriented way to become wealthy?
 
-With tomato paste.
+Inheritance
 <!-- JOKE-END -->
