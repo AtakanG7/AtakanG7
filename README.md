@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-He held up a pair of pants!
+Because they might peel!
 <!-- JOKE-END -->
