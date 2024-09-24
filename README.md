@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+Do you know where you can get chicken broth in bulk?
 
-Sunday school.
+The stock market.
 <!-- JOKE-END -->
