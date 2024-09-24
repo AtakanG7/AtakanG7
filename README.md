@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+What's the worst thing about ancient history class?
 
-Because you can see right through them!
+The teachers tend to Babylon.
 <!-- JOKE-END -->
