@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+Where did the API go to eat?
 
-Towels
+To the RESTaurant.
 <!-- JOKE-END -->
