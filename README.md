@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is red and smells like blue paint?
+How does a train eat?
 
-Red paint!
+It goes chew, chew
 <!-- JOKE-END -->
