@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+Why don't skeletons fight each other?
 
-Because he neverlands
+They don't have the guts.
 <!-- JOKE-END -->
