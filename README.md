@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+Don't look at the eclipse through a colander.
 
-Put a little boogie in it.
+You'll strain your eyes.
 <!-- JOKE-END -->
