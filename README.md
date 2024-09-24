@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+Can I watch the TV?
 
-Despresso.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
