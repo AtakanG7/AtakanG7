@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the runner who was criticized?
+What is red and smells like blue paint?
 
-He just took it in stride
+Red paint!
 <!-- JOKE-END -->
