@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Where did you learn to make ice cream?
 
-It got mugged.
+Sunday school.
 <!-- JOKE-END -->
