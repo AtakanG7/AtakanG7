@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+What did the Dorito farmer say to the other Dorito farmer?
 
-To go with the traffic jam.
+Cool Ranch!
 <!-- JOKE-END -->
