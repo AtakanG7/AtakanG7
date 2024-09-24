@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When does a joke become a dad joke?
+Why was the developer always calm?
 
-When it becomes apparent.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
