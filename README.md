@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+Why do bears have hairy coats?
 
-It's ok, he woke up.
+Fur protection.
 <!-- JOKE-END -->
