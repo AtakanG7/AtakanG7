@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What biscuit does a short person like?
+Why does a chicken coop only have two doors?
 
-Shortbread. 
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
