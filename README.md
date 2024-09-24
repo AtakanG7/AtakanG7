@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it hit the wall?
+Where does Napoleon keep his armies?
 
-Dam.
+In his sleevies.
 <!-- JOKE-END -->
