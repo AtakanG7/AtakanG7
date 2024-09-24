@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+Why do trees seem suspicious on sunny days?
 
-Towels
+Dunno, they're just a bit shady.
 <!-- JOKE-END -->
