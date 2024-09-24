@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+Why did the coffee file a police report?
 
-Yes, but don’t turn it on.
+It got mugged.
 <!-- JOKE-END -->
