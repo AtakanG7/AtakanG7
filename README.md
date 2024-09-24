@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+What is a vampire's favorite fruit?
 
-Never mind, it's too cheesy.
+A blood orange.
 <!-- JOKE-END -->
