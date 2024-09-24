@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-They are two tired
+'Can I join you?'
 <!-- JOKE-END -->
