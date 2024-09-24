@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+What time did the man go to the dentist?
 
-200 Dollars.
+Tooth hurt-y.
 <!-- JOKE-END -->
