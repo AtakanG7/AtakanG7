@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+Did you hear about the runner who was criticized?
 
-That she was a little boulder.
+He just took it in stride
 <!-- JOKE-END -->
