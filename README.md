@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+Dad, can you put my shoes on?
 
-They are always negative.
+I don't think they'll fit me.
 <!-- JOKE-END -->
