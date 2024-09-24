@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+What do you call a singing Laptop?
 
-None, they prefer dark mode.
+A Dell
 <!-- JOKE-END -->
