@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the shore?
+What kind of award did the dentist receive?
 
-Nothing, it just waved.
+A little plaque.
 <!-- JOKE-END -->
