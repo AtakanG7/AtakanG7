@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the runner who was criticized?
+How do you tell the difference between a crocodile and an alligator?
 
-He just took it in stride
+You will see one later and one in a while.
 <!-- JOKE-END -->
