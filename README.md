@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+What is the most used language in programming?
 
-Fur protection.
+Profanity.
 <!-- JOKE-END -->
