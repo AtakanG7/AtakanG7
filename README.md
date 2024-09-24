@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did the API go to eat?
+What did the grape do when he got stepped on?
 
-To the RESTaurant.
+He let out a little wine.
 <!-- JOKE-END -->
