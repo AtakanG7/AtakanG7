@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+Why didn’t the skeleton cross the road?
 
-Nothing, they just waved.
+Because he had no guts.
 <!-- JOKE-END -->
