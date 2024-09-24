@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+Why can't you use "Beef stew"as a password?
 
-Because they knew how to handle exceptions.
+Because it's not stroganoff.
 <!-- JOKE-END -->
