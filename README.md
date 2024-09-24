@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+What do you do when you see a space man?
 
-They are always negative.
+Park your car, man.
 <!-- JOKE-END -->
