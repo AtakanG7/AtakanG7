@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+What do you call a troublesome Canadian high schooler?
 
-She was a roman catholic.
+A poutine.
 <!-- JOKE-END -->
