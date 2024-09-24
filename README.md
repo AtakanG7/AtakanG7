@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+Why don't scientists trust atoms?
 
-They're afraid to unwind.
+Because they make up everything.
 <!-- JOKE-END -->
