@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+What is the leading cause of dry skin?
 
-I Excel at it.
+Towels
 <!-- JOKE-END -->
