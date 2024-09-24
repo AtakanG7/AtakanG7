@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give to a lemon in need?
+How do you make holy water?
 
-Lemonaid.
+You boil the hell out of it
 <!-- JOKE-END -->
