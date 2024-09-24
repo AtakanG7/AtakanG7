@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+Why do bees hum?
 
-He's all right now.
+Because they don't know the words.
 <!-- JOKE-END -->
