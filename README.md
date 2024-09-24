@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Why did the girl smear peanut butter on the road?
 
-Because they make up everything.
+To go with the traffic jam.
 <!-- JOKE-END -->
