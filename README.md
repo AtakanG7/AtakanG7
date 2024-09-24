@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+How do you make a hankie dance?
 
-Because he is a Supperhero.
+Put a little boogie in it.
 <!-- JOKE-END -->
