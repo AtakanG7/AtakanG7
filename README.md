@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+What’s the difference between an African elephant and an Indian elephant?
 
-Because they can't even.
+About 5000 miles.
 <!-- JOKE-END -->
