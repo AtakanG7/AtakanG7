@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+What's the best part about TCP jokes?
 
-Park your car, man.
+I get to keep telling them until you get them.
 <!-- JOKE-END -->
