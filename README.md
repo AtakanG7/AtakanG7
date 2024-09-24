@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+What is the leading cause of dry skin?
 
-It went back four seconds.
+Towels
 <!-- JOKE-END -->
