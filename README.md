@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bananas have to put on sunscreen before they go to the beach?
+Where was the Declaration of Independence signed?
 
-Because they might peel!
+At the bottom! 
 <!-- JOKE-END -->
