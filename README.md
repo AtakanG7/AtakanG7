@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+Did you hear about the scientist who was lab partners with a pot of boiling water?
 
-The outside.
+He had a very esteemed colleague.
 <!-- JOKE-END -->
