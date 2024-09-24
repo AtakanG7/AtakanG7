@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+What do you get when you cross a bee and a sheep?
 
-About 5000 miles.
+A bah-humbug.
 <!-- JOKE-END -->
