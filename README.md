@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+How do you comfort a designer?
 
-The stock market.
+You give them some space... between the elements.
 <!-- JOKE-END -->
