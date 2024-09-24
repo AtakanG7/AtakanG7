@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where was the Declaration of Independence signed?
+I'm reading a book about anti-gravity...
 
-At the bottom! 
+It's impossible to put down
 <!-- JOKE-END -->
