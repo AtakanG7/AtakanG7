@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did the API go to eat?
+Why does Superman get invited to dinners?
 
-To the RESTaurant.
+Because he is a Supperhero.
 <!-- JOKE-END -->
