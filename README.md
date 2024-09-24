@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees hum?
+What did the big flower say to the littler flower?
 
-Because they don't know the words.
+Hi, bud!
 <!-- JOKE-END -->
