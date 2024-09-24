@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What do elves post on Social Media?
 
-Profanity.
+Elf-ies.
 <!-- JOKE-END -->
