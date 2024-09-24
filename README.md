@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+Why is peter pan always flying?
 
-It hurts when IP.
+Because he neverlands
 <!-- JOKE-END -->
