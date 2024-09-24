@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+Where do sheep go to get their hair cut?
 
-The Foo Bar.
+The baa-baa shop.
 <!-- JOKE-END -->
