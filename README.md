@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+What did the ocean say to the shore?
 
-You'll strain your eyes.
+Nothing, it just waved.
 <!-- JOKE-END -->
