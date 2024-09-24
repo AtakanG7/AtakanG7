@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+Where did you learn to make ice cream?
 
-The teachers tend to Babylon.
+Sunday school.
 <!-- JOKE-END -->
