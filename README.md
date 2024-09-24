@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+How do you get a baby alien to sleep?
 
-Start in England and drive West.
+You rocket.
 <!-- JOKE-END -->
