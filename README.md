@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+What do you call a nervous javelin thrower?
 
-'Where is the bar tended?'
+Shakespeare.
 <!-- JOKE-END -->
