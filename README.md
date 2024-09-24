@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+What do you call an old snowman?
 
-It ran out of juice.
+Water.
 <!-- JOKE-END -->
