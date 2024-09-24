@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an eagle who can play the piano?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-Talonted!
+So they could Scandinavian.
 <!-- JOKE-END -->
