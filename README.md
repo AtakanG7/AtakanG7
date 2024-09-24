@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do sheep go to get their hair cut?
+I can't tell if i like this blender...
 
-The baa-baa shop.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
