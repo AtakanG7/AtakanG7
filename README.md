@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Why can't bicycles stand on their own?
 
-It's impossible to put down
+They are two tired
 <!-- JOKE-END -->
