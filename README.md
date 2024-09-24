@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+What kind of pants do ghosts wear?
 
-Tooth hurt-y.
+Boo jeans.
 <!-- JOKE-END -->
