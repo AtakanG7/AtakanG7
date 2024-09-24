@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+Knock-knock.
 
-They don't have the guts.
+A race condition. Who is there?
 <!-- JOKE-END -->
