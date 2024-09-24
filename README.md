@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+How good are you at Power Point?
 
-You planet.
+I Excel at it.
 <!-- JOKE-END -->
