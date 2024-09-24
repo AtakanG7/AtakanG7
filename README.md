@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+Why did the tomato blush?
 
-It is about 2 hours long.
+Because it saw the salad dressing.
 <!-- JOKE-END -->
