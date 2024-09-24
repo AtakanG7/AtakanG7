@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Knock-knock.
 
-No, I got them all cut.
+A race condition. Who is there?
 <!-- JOKE-END -->
