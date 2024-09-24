@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+The punchline often arrives before the set-up.
 
-Lots of training
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
