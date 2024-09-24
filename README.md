@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+Why are ghosts bad liars?
 
-Park your car, man.
+Because you can see right through them!
 <!-- JOKE-END -->
