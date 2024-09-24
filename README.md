@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+Did you hear about the kidnapping at school?
 
-Hi, bud!
+It's ok, he woke up.
 <!-- JOKE-END -->
