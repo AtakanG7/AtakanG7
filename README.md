@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a laughing motorcycle?
+Did you hear about the guy whose whole left side was cut off?
 
-A Yamahahahaha.
+He's all right now.
 <!-- JOKE-END -->
