@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Which song would an exception sing?
 
-Twister!
+Can't catch me - Avicii
 <!-- JOKE-END -->
