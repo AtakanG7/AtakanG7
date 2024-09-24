@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+What do you do when you see a space man?
 
-Now we just have to call him Dav.
+Park your car, man.
 <!-- JOKE-END -->
