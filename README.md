@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Did you hear that David lost his ID in prague?
 
-Thanks for all the sediment.
+Now we just have to call him Dav.
 <!-- JOKE-END -->
