@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Knock-knock.
+Why did the functions stop calling each other?
 
-A race condition. Who is there?
+Because they had constant arguments.
 <!-- JOKE-END -->
