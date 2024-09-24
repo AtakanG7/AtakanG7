@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a singing Laptop?
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-A Dell
+I couldn’t turn it down.
 <!-- JOKE-END -->
