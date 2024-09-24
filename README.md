@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+Why did the worker get fired from the orange juice factory?
 
-I don't know, but their flag is a big plus.
+Lack of concentration.
 <!-- JOKE-END -->
