@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+How do locomotives know where they're going?
 
-A little plaque.
+Lots of training
 <!-- JOKE-END -->
