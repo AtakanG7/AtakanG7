@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+What biscuit does a short person like?
 
-Because it's not stroganoff.
+Shortbread. 
 <!-- JOKE-END -->
