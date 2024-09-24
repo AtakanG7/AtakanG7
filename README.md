@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+Why do fathers take an extra pair of socks when they go golfing?
 
-'Can I join you?'
+In case they get a hole in one!
 <!-- JOKE-END -->
