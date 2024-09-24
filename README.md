@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+What lies at the bottom of the ocean and twitches?
 
-Can't catch me - Avicii
+A nervous wreck.
 <!-- JOKE-END -->
