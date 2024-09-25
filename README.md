@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+You see, mountains aren't just funny.
 
-You jacket.
+They are hill areas.
 <!-- JOKE-END -->
