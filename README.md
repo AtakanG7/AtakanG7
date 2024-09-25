@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+Why did the programmer bring a broom to work?
 
-Too many bugs.
+To clean up all the bugs.
 <!-- JOKE-END -->
