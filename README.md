@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+What do you call corn that joins the army?
 
-Squash.
+Kernel.
 <!-- JOKE-END -->
