@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+Why did the programmer quit his job?
 
-Water.
+Because he didn't get arrays.
 <!-- JOKE-END -->
