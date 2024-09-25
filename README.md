@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+What do ghosts call their true love?
 
-It was wrong on so many levels.
+Their ghoul-friend
 <!-- JOKE-END -->
