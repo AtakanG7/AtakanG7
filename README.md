@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+Where was the Declaration of Independence signed?
 
-Elf-ies.
+At the bottom! 
 <!-- JOKE-END -->
