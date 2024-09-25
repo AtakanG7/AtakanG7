@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+What do prisoners use to call each other?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+Cell phones.
 <!-- JOKE-END -->
