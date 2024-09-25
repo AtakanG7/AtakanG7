@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where was the Declaration of Independence signed?
+How do you generate a random string?
 
-At the bottom! 
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
