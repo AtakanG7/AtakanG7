@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do birds fly south for the winter?
+What did the Dorito farmer say to the other Dorito farmer?
 
-Because it's too far to walk.
+Cool Ranch!
 <!-- JOKE-END -->
