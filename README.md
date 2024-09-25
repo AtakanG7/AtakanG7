@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+Why don't programmers like nature?
 
-You can only use a low ha.
+Too many bugs.
 <!-- JOKE-END -->
