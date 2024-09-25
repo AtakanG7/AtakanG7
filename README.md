@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+What do you call a monkey in a mine field?
 
-Because they're shellfish.
+A babooooom!
 <!-- JOKE-END -->
