@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do crabs never give to charity?
+What did the duck say when he bought lipstick?
 
-Because they’re shellfish.
+Put it on my bill
 <!-- JOKE-END -->
