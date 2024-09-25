@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+Why did the programmer always carry a pencil?
 
-Tooth hurt-y.
+They preferred to write in C#.
 <!-- JOKE-END -->
