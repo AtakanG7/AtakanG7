@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What do you get when you cross a chicken with a skunk?
 
-Profanity.
+A fowl smell!
 <!-- JOKE-END -->
