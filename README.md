@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tomato blush?
+Did you know you should always take an extra pair of pants golfing?
 
-Because it saw the salad dressing.
+Just in case you get a hole in one.
 <!-- JOKE-END -->
