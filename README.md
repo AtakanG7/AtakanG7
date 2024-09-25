@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do prisoners use to call each other?
+What do you give to a lemon in need?
 
-Cell phones.
+Lemonaid.
 <!-- JOKE-END -->
