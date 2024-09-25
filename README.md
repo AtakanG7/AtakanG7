@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+What do you get when you cross a rabbit with a water hose?
 
-Towels
+Hare spray.
 <!-- JOKE-END -->
