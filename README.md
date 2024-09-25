@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+How do you make a tissue dance?
 
-I woke up exhausted!
+You put a little boogie on it.
 <!-- JOKE-END -->
