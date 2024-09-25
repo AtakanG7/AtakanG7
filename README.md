@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+What happens when you anger a brain surgeon?
 
-Because they cantaloupe!
+They will give you a piece of your mind.
 <!-- JOKE-END -->
