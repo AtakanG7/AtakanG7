@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tomato blush?
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
 
-Because it saw the salad dressing.
+the rest of them will write Perl
 <!-- JOKE-END -->
