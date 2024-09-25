@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+What was the pumpkin’s favorite sport?
 
-Because he was outstanding in his field.
+Squash.
 <!-- JOKE-END -->
