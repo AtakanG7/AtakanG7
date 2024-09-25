@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-To get to the other slide.
+Because they might peel!
 <!-- JOKE-END -->
