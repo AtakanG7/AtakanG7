@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+I got hit in the head by a soda can, but it didn't hurt that much...
 
-A function component.
+It was a soft drink.
 <!-- JOKE-END -->
