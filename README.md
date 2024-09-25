@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Why do choirs keep buckets handy?
 
-Microchips.
+So they can carry their tune
 <!-- JOKE-END -->
