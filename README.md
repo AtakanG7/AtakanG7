@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+What do you call a cow on a trampoline?
 
-He wanted cold hard cash!
+A milk shake!
 <!-- JOKE-END -->
