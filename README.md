@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Have you heard of the band 1023MB?
 
-'Where is the bar tended?'
+They haven't got a gig yet.
 <!-- JOKE-END -->
