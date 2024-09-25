@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+How do you steal a coat?
 
-Try and find the TV island it belongs to.
+You jacket.
 <!-- JOKE-END -->
