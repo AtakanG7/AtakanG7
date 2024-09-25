@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+Why did the tomato blush?
 
-Eclipse it.
+Because it saw the salad dressing.
 <!-- JOKE-END -->
