@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Why did the man put his money in the freezer?
 
-When they run out of patients.
+He wanted cold hard cash!
 <!-- JOKE-END -->
