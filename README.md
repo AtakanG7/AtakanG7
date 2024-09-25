@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+What kind of bagel can fly?
 
-You put a little boogie on it.
+A plain bagel.
 <!-- JOKE-END -->
