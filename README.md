@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+What’s the object-oriented way to become wealthy?
 
-Cool Ranch!
+Inheritance.
 <!-- JOKE-END -->
