@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give to a lemon in need?
+How many optometrists does it take to change a light bulb?
 
-Lemonaid.
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
