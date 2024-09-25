@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+How many tickles does it take to tickle an octopus?
 
-Never mind...it's tearable
+Ten-tickles!
 <!-- JOKE-END -->
