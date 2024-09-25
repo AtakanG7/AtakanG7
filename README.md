@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+Did you hear about the crime in the parking garage?
 
-Because he was a little horse
+It was wrong on so many levels.
 <!-- JOKE-END -->
