@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's Forrest Gump's password?
+I had a dream that I was a muffler last night.
 
-1Forrest1
+I woke up exhausted!
 <!-- JOKE-END -->
