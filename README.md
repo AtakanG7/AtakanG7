@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+Why don't programmers like nature?
 
-A Carrot.
+There's too many bugs.
 <!-- JOKE-END -->
