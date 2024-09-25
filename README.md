@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Why did the coffee file a police report?
 
-Because he was outstanding in his field.
+It got mugged.
 <!-- JOKE-END -->
