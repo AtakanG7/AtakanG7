@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+Why did the worker get fired from the orange juice factory?
 
-The second one.
+Lack of concentration.
 <!-- JOKE-END -->
