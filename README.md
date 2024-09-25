@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+Can I watch the TV?
 
-He held up a pair of pants!
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
