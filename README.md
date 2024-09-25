@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+What has ears but cannot hear?
 
-That she was a little boulder.
+A field of corn.
 <!-- JOKE-END -->
