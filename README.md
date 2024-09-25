@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+Why did the cookie go to the doctor?
 
-They kept spending all their cache.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
