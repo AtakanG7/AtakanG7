@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the duck say when he bought lipstick?
+Why are skeletons so calm?
 
-Put it on my bill
+Because nothing gets under their skin.
 <!-- JOKE-END -->
