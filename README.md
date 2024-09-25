@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+Why do crabs never give to charity?
 
-A plain bagel.
+Because they’re shellfish.
 <!-- JOKE-END -->
