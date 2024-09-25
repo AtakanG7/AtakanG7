@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+Is there a hole in your shoe?
 
-A Carrot.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
