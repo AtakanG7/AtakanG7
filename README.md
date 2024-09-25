@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+Why did the kid cross the playground?
 
-They are two tired
+To get to the other slide.
 <!-- JOKE-END -->
