@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+What do you call a dad that has fallen through the ice?
 
-Lack of concentration.
+A Popsicle.
 <!-- JOKE-END -->
