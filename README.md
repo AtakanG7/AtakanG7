@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+Why did the developer go broke?
 
-To get to the other slide.
+They kept spending all their cache.
 <!-- JOKE-END -->
