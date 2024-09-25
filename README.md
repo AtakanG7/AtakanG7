@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+Want to hear a joke about a piece of paper?
 
- Because it was feeling crumbly.
+Never mind...it's tearable
 <!-- JOKE-END -->
