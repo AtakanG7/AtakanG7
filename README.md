@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+Why did the programmer bring a broom to work?
 
-I don't know what he laced them with, but I was tripping all day!
+To clean up all the bugs.
 <!-- JOKE-END -->
