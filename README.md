@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was Cinderalla thrown out of the football team?
+A grocery store cashier asked if I would like my milk in a bag.
 
-Because she ran away from the ball.
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
