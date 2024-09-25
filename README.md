@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+What do you get when you cross a chicken with a skunk?
 
-Because they always used too much ice-olation.
+A fowl smell!
 <!-- JOKE-END -->
