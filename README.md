@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-No… Then how’d you get your foot in it?
+So they could Scandinavian.
 <!-- JOKE-END -->
