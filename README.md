@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+What do you call a pile of cats?
 
-I had to draw my own conclusions.
+A Meowtain.
 <!-- JOKE-END -->
