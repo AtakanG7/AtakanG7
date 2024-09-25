@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+A termite walks into a bar and says...
 
-It was having window panes.
+'Where is the bar tended?'
 <!-- JOKE-END -->
