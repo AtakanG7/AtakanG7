@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+Did you hear about the Mexican train killer?
 
-He was a good conductor.
+He had loco motives
 <!-- JOKE-END -->
