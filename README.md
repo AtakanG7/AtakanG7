@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Mexican train killer?
+Do you know where you can get chicken broth in bulk?
 
-He had loco motives
+The stock market.
 <!-- JOKE-END -->
