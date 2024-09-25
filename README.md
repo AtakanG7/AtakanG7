@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+What do you get when you cross a React developer with a mathematician?
 
-The newspaper.
+A function component.
 <!-- JOKE-END -->
