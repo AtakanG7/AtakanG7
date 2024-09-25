@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-Because it had nobody.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
