@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+What's orange and sounds like a parrot?
 
-Their ghoul-friend
+A Carrot.
 <!-- JOKE-END -->
