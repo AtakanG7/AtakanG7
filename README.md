@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a careful wolf?
+Why couldn't the kid see the pirate movie?
 
-Aware wolf.
+Because it was rated arrr!
 <!-- JOKE-END -->
