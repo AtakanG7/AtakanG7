@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+Why didn't the skeleton go for prom?
 
-They will give you a piece of your mind.
+Because it had nobody.
 <!-- JOKE-END -->
