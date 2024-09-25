@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+I just got fired from my job at the keyboard factory.
 
-Because they knew how to handle exceptions.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
