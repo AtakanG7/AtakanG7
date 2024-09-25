@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+Why do programmers prefer dark chocolate?
 
-He was Bjorn again
+Because it's bitter like their code.
 <!-- JOKE-END -->
