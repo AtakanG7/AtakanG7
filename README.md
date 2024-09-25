@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+Did you hear about the bread factory burning down?
 
-They preferred to write in C#.
+They say the business is toast.
 <!-- JOKE-END -->
