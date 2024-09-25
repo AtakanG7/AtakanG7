@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why was Cinderalla thrown out of the football team?
 
-Hare spray.
+Because she ran away from the ball.
 <!-- JOKE-END -->
