@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+How come a man driving a train got struck by lightning?
 
-Park your car, man.
+He was a good conductor.
 <!-- JOKE-END -->
