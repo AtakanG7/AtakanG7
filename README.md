@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I got hit in the head by a soda can, but it didn't hurt that much...
+When do doctors get angry?
 
-It was a soft drink.
+When they run out of patients.
 <!-- JOKE-END -->
