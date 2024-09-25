@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+Why was Cinderalla thrown out of the football team?
 
-They say the business is toast.
+Because she ran away from the ball.
 <!-- JOKE-END -->
