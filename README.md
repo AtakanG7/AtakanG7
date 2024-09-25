@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+Did you know you should always take an extra pair of pants golfing?
 
-A USB.
+Just in case you get a hole in one.
 <!-- JOKE-END -->
