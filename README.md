@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+Did you hear about the Viking who was reincarnated?
 
-They wanted to hit the high Cs.
+He was Bjorn again
 <!-- JOKE-END -->
