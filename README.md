@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Why was the developer always calm?
 
-R2 detour.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
