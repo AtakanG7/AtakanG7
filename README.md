@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+Well...
 
-To clean up all the bugs.
+That’s a deep subject.
 <!-- JOKE-END -->
