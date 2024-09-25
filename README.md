@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you watch the new comic book movie?
+Why do choirs keep buckets handy?
 
-It was very graphic!
+So they can carry their tune
 <!-- JOKE-END -->
