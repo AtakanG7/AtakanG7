@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
+What do you call a singing Laptop?
 
-the rest of them will write Perl
+A Dell
 <!-- JOKE-END -->
