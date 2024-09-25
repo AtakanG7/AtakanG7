@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+Why did the opera singer go sailing?
 
-USB.
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
