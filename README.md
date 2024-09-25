@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+What does a clock do when it's hungry?
 
-It got mugged.
+It goes back four seconds!
 <!-- JOKE-END -->
