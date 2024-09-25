@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+Why don't oysters give to charity?
 
-I don't think they'll fit me.
+Because they're shellfish.
 <!-- JOKE-END -->
