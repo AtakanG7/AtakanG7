@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+What does a clock do when it's hungry?
 
-To clean up all the bugs.
+It goes back four seconds!
 <!-- JOKE-END -->
