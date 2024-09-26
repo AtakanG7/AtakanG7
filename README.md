@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go broke?
+How many kids with ADD does it take to change a lightbulb?
 
-He used up all his cache
+Let's go ride bikes!
 <!-- JOKE-END -->
