@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+I was gonna tell you a joke about UDP...
 
-Fur protection.
+...but you might not get it.
 <!-- JOKE-END -->
