@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why does Waldo only wear stripes?
 
-Because his mother was a wafer so long
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
