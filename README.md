@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+Why did the cowboy have a weiner dog?
 
-Cool Ranch!
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
