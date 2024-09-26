@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+How did Darth Vader know what Luke was getting for Christmas?
 
-You planet.
+He felt his presents.
 <!-- JOKE-END -->
