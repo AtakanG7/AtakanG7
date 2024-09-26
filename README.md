@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+Ever wondered why bees hum?
 
-Because he had no guts.
+It's because they don't know the words.
 <!-- JOKE-END -->
