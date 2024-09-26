@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+Why can't bicycles stand on their own?
 
-Because they're so good at it.
+They are two tired
 <!-- JOKE-END -->
