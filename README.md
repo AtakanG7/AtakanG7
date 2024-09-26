@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Join the club.
+Because it's a little meteor.
 <!-- JOKE-END -->
