@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many tickles does it take to tickle an octopus?
+How can you tell a vampire has a cold?
 
-Ten-tickles!
+They start coffin.
 <!-- JOKE-END -->
