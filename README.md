@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+What did the fish say when it swam into a wall?
 
-He ate the pizza before it was cool.
+Damn!
 <!-- JOKE-END -->
