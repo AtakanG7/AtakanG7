@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+Why didn’t the skeleton cross the road?
 
-About 5000 miles.
+Because he had no guts.
 <!-- JOKE-END -->
