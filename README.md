@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the fireman wear red, white, and blue suspenders?
+To understand what recursion is...
 
-To hold his pants up.
+You must first understand what recursion is
 <!-- JOKE-END -->
