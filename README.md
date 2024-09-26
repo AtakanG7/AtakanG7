@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+How do you make the number one disappear?
 
-They start coffin.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
