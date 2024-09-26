@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did Darth Vader know what Luke was getting for Christmas?
+To understand what recursion is...
 
-He felt his presents.
+You must first understand what recursion is
 <!-- JOKE-END -->
