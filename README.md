@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+Why didn’t the skeleton cross the road?
 
-A USB.
+Because he had no guts.
 <!-- JOKE-END -->
