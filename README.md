@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+What do vegetarian zombies eat?
 
-They're really good at it.
+Grrrrrainnnnnssss.
 <!-- JOKE-END -->
