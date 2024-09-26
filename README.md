@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+What do you call an Argentinian with a rubber toe?
 
-Hi, bud!
+Roberto
 <!-- JOKE-END -->
