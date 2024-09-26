@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call corn that joins the army?
+What do you call a suspicious looking laptop?
 
-Kernel.
+Asus
 <!-- JOKE-END -->
