@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+Why did the fireman wear red, white, and blue suspenders?
 
-I haven’t been anywhere!
+To hold his pants up.
 <!-- JOKE-END -->
