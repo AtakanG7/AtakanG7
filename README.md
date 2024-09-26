@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Because it had nobody.
+Because it's a little meteor.
 <!-- JOKE-END -->
