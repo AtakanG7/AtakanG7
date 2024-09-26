@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is red and smells like blue paint?
+Why didn't the number 4 get into the nightclub?
 
-Red paint!
+Because he is 2 square.
 <!-- JOKE-END -->
