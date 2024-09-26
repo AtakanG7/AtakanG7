@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+Where does Fonzie like to go for lunch?
 
-You planet.
+Chick-Fil-Eyyyyyyyy.
 <!-- JOKE-END -->
