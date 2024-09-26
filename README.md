@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Sweden start painting barcodes on the sides of their battleships?
+Why was Cinderalla thrown out of the football team?
 
-So they could Scandinavian.
+Because she ran away from the ball.
 <!-- JOKE-END -->
