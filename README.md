@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+A user interface is like a joke.
 
-Despresso.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
