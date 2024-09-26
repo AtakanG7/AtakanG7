@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I was gonna tell you a joke about UDP...
+What do you get when you cross a chicken with a skunk?
 
-...but you might not get it.
+A fowl smell!
 <!-- JOKE-END -->
