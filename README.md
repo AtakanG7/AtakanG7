@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+How do you fix a broken pizza?
 
-They haven't got a gig yet.
+With tomato paste.
 <!-- JOKE-END -->
