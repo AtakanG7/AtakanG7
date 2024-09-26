@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+Why don't you find hippopotamuses hiding in trees?
 
-In case they get a hole in one!
+They're really good at it.
 <!-- JOKE-END -->
