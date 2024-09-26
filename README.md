@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-To understand what recursion is...
+What do you call a singing Laptop?
 
-You must first understand what recursion is
+A Dell
 <!-- JOKE-END -->
