@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+Why don't React developers like nature?
 
-I want to hold your hand, hand, hand, hand...
+They prefer the virtual DOM.
 <!-- JOKE-END -->
