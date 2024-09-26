@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a seal and a sea lion?
+What is a centipedes's favorite Beatle song?
 
-An ion! 
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
