@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where was the Declaration of Independence signed?
+Never take advice from electrons.
 
-At the bottom! 
+They are always negative.
 <!-- JOKE-END -->
