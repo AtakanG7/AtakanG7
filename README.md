@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's red and bad for your teeth?
+How do you organize a space party?
 
-A Brick.
+You planet.
 <!-- JOKE-END -->
