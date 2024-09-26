@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+Why can't a bicycle stand on its own?
 
-With tomato paste.
+It's two-tired.
 <!-- JOKE-END -->
