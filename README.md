@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+Where does Napoleon keep his armies?
 
-It was two-tired.
+In his sleevies.
 <!-- JOKE-END -->
