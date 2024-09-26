@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+How many React developers does it take to change a lightbulb?
 
-Because he doesn't want to be spotted.
+None, they prefer dark mode.
 <!-- JOKE-END -->
