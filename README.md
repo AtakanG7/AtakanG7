@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Why did the tree go to the dentist?
 
-When they run out of patients.
+It needed a root canal.
 <!-- JOKE-END -->
