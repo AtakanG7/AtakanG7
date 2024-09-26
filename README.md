@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Why did the burglar hang his mugshot on the wall?
 
-He took a short cut.
+To prove that he was framed!
 <!-- JOKE-END -->
