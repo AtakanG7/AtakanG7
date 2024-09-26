@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the math book look sad?
+How many tickles does it take to tickle an octopus?
 
-Because it had too many problems.
+Ten-tickles!
 <!-- JOKE-END -->
