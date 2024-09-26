@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the kid see the pirate movie?
+I was gonna tell you a joke about UDP...
 
-Because it was rated arrr!
+...but you might not get it.
 <!-- JOKE-END -->
