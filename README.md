@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do choirs keep buckets handy?
+What has ears but cannot hear?
 
-So they can carry their tune
+A field of corn.
 <!-- JOKE-END -->
