@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+Why did the math book look sad?
 
-Because they're shellfish.
+Because it had too many problems.
 <!-- JOKE-END -->
