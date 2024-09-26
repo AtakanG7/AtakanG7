@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+Why did the cookie cry?
 
-Lean beef.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
