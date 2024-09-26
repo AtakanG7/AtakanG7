@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the traffic light say to the car as it passed?
+Why do choirs keep buckets handy?
 
-Don't look I'm changing!
+So they can carry their tune
 <!-- JOKE-END -->
