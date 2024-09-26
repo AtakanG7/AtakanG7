@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the skeleton cross the road?
+What do you get when you cross a snowman with a vampire?
 
-Because he had no guts.
+Frostbite.
 <!-- JOKE-END -->
