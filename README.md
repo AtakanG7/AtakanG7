@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+What do you call a boomerang that won't come back?
 
-They log on.
+A stick.
 <!-- JOKE-END -->
