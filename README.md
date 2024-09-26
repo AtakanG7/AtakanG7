@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+Where’s the bin?
 
-A four-chin teller.
+I haven’t been anywhere!
 <!-- JOKE-END -->
