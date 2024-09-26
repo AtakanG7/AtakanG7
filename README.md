@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the fireman wear red, white, and blue suspenders?
+How do you make a tissue dance?
 
-To hold his pants up.
+You put a little boogie on it.
 <!-- JOKE-END -->
