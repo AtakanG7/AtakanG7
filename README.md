@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+What's the difference between a seal and a sea lion?
 
-Parsing HTML with regex.
+An ion! 
 <!-- JOKE-END -->
