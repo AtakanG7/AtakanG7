@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+What did the spaghetti say to the other spaghetti?
 
-Look for fresh prints.
+Pasta la vista, baby!
 <!-- JOKE-END -->
