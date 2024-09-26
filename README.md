@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+What do birds give out on Halloween?
 
-A field of corn.
+Tweets.
 <!-- JOKE-END -->
