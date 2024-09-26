@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+I couldn't get a reservation at the library...
 
-A cat-tastrophe.
+They were fully booked.
 <!-- JOKE-END -->
