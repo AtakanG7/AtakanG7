@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Fonzie like to go for lunch?
+Why did the programmer always carry a pencil?
 
-Chick-Fil-Eyyyyyyyy.
+They preferred to write in C#.
 <!-- JOKE-END -->
