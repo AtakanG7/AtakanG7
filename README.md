@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know crocodiles could grow up to 15 feet?
+What do you call a cow with two legs?
 
-But most just have 4.
+Lean beef.
 <!-- JOKE-END -->
