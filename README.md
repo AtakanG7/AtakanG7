@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a suspicious looking laptop?
+Why can't you use "Beef stew"as a password?
 
-Asus
+Because it's not stroganoff.
 <!-- JOKE-END -->
