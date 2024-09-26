@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a ladder to work?
+Hey, wanna hear a joke?
 
-They heard the code needed to be debugged from a higher level.
+Parsing HTML with regex.
 <!-- JOKE-END -->
