@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+did you know the first French fries weren't cooked in France?
 
-Because it's a little meteor.
+they were cooked in Greece
 <!-- JOKE-END -->
