@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Where’s the bin?
 
-Microchips.
+I haven’t been anywhere!
 <!-- JOKE-END -->
