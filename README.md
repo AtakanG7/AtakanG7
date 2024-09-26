@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What creature is smarter than a talking parrot?
+What’s the difference between an African elephant and an Indian elephant?
 
-A spelling bee.
+About 5000 miles.
 <!-- JOKE-END -->
