@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+Did you hear about the Mexican train killer?
 
-You rocket.
+He had loco motives
 <!-- JOKE-END -->
