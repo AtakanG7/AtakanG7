@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+Why did the girl smear peanut butter on the road?
 
-Because it's a little meteor.
+To go with the traffic jam.
 <!-- JOKE-END -->
