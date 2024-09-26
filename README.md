@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+How do you find Will Smith in the snow?
 
-Grrrrrainnnnnssss.
+Look for fresh prints.
 <!-- JOKE-END -->
