@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Have you heard of the band 1023MB?
 
-Add the letter G and it’s “gone”!
+They haven't got a gig yet.
 <!-- JOKE-END -->
