@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does C.S. Lewis keep at the back of his wardrobe?
+Why did the programmer bring a ladder to work?
 
-Narnia business!
+They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
