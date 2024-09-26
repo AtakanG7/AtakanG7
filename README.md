@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+How does a train eat?
 
-Because he is 2 square.
+It goes chew, chew
 <!-- JOKE-END -->
