@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tree go to the dentist?
+What did the 0 say to the 8?
 
-It needed a root canal.
+Nice belt.
 <!-- JOKE-END -->
