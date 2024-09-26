@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+What biscuit does a short person like?
 
-They come out at night!
+Shortbread. 
 <!-- JOKE-END -->
