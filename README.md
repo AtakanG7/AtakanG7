@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-Look, no hands!
+So they could Scandinavian.
 <!-- JOKE-END -->
