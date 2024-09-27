@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+Why did the house go to the doctor?
 
-A blood orange.
+It was having window panes.
 <!-- JOKE-END -->
