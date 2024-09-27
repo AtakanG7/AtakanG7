@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+I started a new business making yachts in my attic this year...
 
-I don't think they'll fit me.
+The sails are going through the roof.
 <!-- JOKE-END -->
