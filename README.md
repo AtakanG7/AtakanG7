@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+Why are football stadiums so cool?
 
-All of them!
+Because every seat has a fan in it.
 <!-- JOKE-END -->
