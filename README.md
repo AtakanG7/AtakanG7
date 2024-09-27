@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+Want to hear a chimney joke?
 
-The batroom.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
