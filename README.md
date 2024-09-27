@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+Why did the developer quit his job?
 
-That’s a deep subject.
+Because he didn't get arrays.
 <!-- JOKE-END -->
