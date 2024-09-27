@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+What's the best part about TCP jokes?
 
-1forest1
+I get to keep telling them until you get them.
 <!-- JOKE-END -->
