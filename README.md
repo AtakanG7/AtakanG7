@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Why do choirs keep buckets handy?
 
-Before was was was was was is.
+So they can carry their tune
 <!-- JOKE-END -->
