@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-It gets jalapeño face.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
