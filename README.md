@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are oranges the smartest fruit?
+What’s the difference between an African elephant and an Indian elephant?
 
-Because they are made to concentrate. 
+About 5000 miles.
 <!-- JOKE-END -->
