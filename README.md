@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+What’s 50 Cent’s name in Zimbabwe?
 
-The sails are going through the roof.
+200 Dollars.
 <!-- JOKE-END -->
