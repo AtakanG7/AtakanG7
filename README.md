@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+How do you comfort a designer?
 
-He heard that the chickens at KFC were pretty hot.
+You give them some space... between the elements.
 <!-- JOKE-END -->
