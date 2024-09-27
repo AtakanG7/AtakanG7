@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Why would a guitarist become a good programmer?
 
-Because of all the coffin.
+He's adept at riffing in C#.
 <!-- JOKE-END -->
