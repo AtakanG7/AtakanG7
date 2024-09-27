@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+Why was the designer always cold?
 
-I haven’t been anywhere!
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
