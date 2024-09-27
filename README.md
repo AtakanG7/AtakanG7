@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a laughing motorcycle?
+What did the spaghetti say to the other spaghetti?
 
-A Yamahahahaha.
+Pasta la vista, baby!
 <!-- JOKE-END -->
