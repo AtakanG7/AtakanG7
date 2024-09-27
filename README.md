@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+You see, mountains aren't just funny.
 
-Because if it had four doors it would be a chicken sedan.
+They are hill areas.
 <!-- JOKE-END -->
