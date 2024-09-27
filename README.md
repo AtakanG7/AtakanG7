@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Why did the cowboy have a weiner dog?
 
-It gets toad away
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
