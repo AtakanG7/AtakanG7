@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+Did you hear about the cheese factory that exploded in France?
 
-Because it's a little meteor.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
