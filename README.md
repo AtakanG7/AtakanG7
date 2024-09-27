@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the functions stop calling each other?
+Well...
 
-Because they had constant arguments.
+That’s a deep subject.
 <!-- JOKE-END -->
