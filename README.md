@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+Why did the rooster cross the road?
 
-He didn't know how to commit.
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
