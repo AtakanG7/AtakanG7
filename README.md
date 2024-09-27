@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+What kind of pants do ghosts wear?
 
-Hare spray.
+Boo jeans.
 <!-- JOKE-END -->
