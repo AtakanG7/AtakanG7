@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+What did the scarf say to the hat?
 
-A field of corn.
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
