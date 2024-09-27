@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+What does an angry pepper do?
 
-Tooth hurt-y.
+It gets jalapeño face.
 <!-- JOKE-END -->
