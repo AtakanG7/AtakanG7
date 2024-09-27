@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+What is the difference between ignorance and apathy?
 
-You planet.
+I don't know and I don't care.
 <!-- JOKE-END -->
