@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-You boil the hell out of it
+Because they might peel!
 <!-- JOKE-END -->
