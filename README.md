@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+What do you get when you cross a rabbit with a water hose?
 
-To get to the other slide.
+Hare spray.
 <!-- JOKE-END -->
