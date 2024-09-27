@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Why are mummys scared of vacation?
 
-It was having window panes.
+They're afraid to unwind.
 <!-- JOKE-END -->
