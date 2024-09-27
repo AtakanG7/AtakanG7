@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+What is a vampire's favorite fruit?
 
-You planet.
+A blood orange.
 <!-- JOKE-END -->
