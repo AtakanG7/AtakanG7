@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+How do you organize a space party?
 
-It was legend dairy.
+You planet.
 <!-- JOKE-END -->
