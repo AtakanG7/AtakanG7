@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+What kind of dinosaur loves to sleep?
 
-With tomato paste.
+A stega-snore-us.
 <!-- JOKE-END -->
