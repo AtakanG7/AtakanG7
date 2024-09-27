@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+Why didn't the number 4 get into the nightclub?
 
-Pasta la vista, baby!
+Because he is 2 square.
 <!-- JOKE-END -->
