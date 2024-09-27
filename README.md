@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the difference between ignorance and apathy?
+What did the ocean say to the shore?
 
-I don't know and I don't care.
+Nothing, it just waved.
 <!-- JOKE-END -->
