@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+Why do choirs keep buckets handy?
 
-Join the club.
+So they can carry their tune
 <!-- JOKE-END -->
