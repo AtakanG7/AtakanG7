@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why would a guitarist become a good programmer?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-He's adept at riffing in C#.
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
