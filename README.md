@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Did you hear the joke about the wandering nun?
 
-Because every seat has a fan in it.
+She was a roman catholic.
 <!-- JOKE-END -->
