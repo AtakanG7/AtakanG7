@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Never take advice from electrons.
+Why was the designer always cold?
 
-They are always negative.
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
