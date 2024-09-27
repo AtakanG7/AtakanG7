@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+Why did the scarecrow win an award?
 
-She was a roman catholic.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
