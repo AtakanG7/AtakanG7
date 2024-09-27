@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+What did the big flower say to the littler flower?
 
-A Fermilabrador Retriever.
+Hi, bud!
 <!-- JOKE-END -->
