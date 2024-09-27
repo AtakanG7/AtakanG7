@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the shore?
+Why did the programmer bring a broom to work?
 
-Nothing, it just waved.
+To clean up all the bugs.
 <!-- JOKE-END -->
