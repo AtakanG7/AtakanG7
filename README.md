@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Because his mother was a wafer so long
+Because it's a little meteor.
 <!-- JOKE-END -->
