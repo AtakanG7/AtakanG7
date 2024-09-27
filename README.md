@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+What's the worst part about being a cross-eyed teacher?
 
-Because he is 2 square.
+They can't control their pupils.
 <!-- JOKE-END -->
