@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+What did the grape do when he got stepped on?
 
-All of them!
+He let out a little wine.
 <!-- JOKE-END -->
