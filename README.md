@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bananas have to put on sunscreen before they go to the beach?
+What's the best thing about elevator jokes?
 
-Because they might peel!
+They work on so many levels.
 <!-- JOKE-END -->
