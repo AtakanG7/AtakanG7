@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer quit his job?
+How do you fix a damaged jack-o-lantern?
 
-Because he didn't get arrays.
+You use a pumpkin patch.
 <!-- JOKE-END -->
