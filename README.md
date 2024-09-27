@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+Do you know what the word 'was' was initially?
 
-They can't control their pupils.
+Before was was was was was is.
 <!-- JOKE-END -->
