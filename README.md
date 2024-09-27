@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What cheese can never be yours?
+What’s the object-oriented way to become wealthy?
 
-Nacho cheese.
+Inheritance.
 <!-- JOKE-END -->
