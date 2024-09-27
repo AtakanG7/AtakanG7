@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+Why did the cookie cry?
 
-The sails are going through the roof.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
