@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+Did you hear about the cow who jumped over the barbed wire fence?
 
-Boo jeans.
+It was udder destruction.
 <!-- JOKE-END -->
