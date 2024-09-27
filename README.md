@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+How many apples grow on a tree?
 
-200 Dollars.
+All of them!
 <!-- JOKE-END -->
