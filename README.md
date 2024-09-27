@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+What did the traffic light say to the car as it passed?
 
-The second one.
+Don't look I'm changing!
 <!-- JOKE-END -->
