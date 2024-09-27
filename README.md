@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+How do you make holy water?
 
-Look for fresh prints.
+You boil the hell out of it
 <!-- JOKE-END -->
