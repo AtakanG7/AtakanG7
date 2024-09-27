@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+Why don't skeletons fight each other?
 
-Put a little boogie in it.
+They don't have the guts.
 <!-- JOKE-END -->
