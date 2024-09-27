@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-a labracadabrador
+You can only use a low ha.
 <!-- JOKE-END -->
