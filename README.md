@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+What has ears but cannot hear?
 
-He let out a little wine.
+A field of corn.
 <!-- JOKE-END -->
