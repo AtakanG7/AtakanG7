@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+I was gonna tell you a joke about UDP...
 
-Tulips
+...but you might not get it.
 <!-- JOKE-END -->
