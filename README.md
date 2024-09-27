@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one snowman say to the other snow man?
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-Do you smell carrot?
+Lil Caesars
 <!-- JOKE-END -->
