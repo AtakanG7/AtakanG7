@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+What's the worst thing about ancient history class?
 
-They can't control their pupils.
+The teachers tend to Babylon.
 <!-- JOKE-END -->
