@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+What is a vampire's favorite fruit?
 
-1forest1
+A blood orange.
 <!-- JOKE-END -->
