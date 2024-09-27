@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+Why are oranges the smartest fruit?
 
-A gummy bear!
+Because they are made to concentrate. 
 <!-- JOKE-END -->
