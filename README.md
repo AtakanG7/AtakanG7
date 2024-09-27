@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+Hey, dad, did you get a haircut?
 
-You give them some space... between the elements.
+No, I got them all cut.
 <!-- JOKE-END -->
