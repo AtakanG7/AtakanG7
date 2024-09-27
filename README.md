@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+What's the difference between a hippo and a zippo?
 
-Dinner is on me!
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
