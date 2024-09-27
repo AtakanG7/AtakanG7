@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+What do you call a cow on a trampoline?
 
-It was legend dairy.
+A milk shake!
 <!-- JOKE-END -->
