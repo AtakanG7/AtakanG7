@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+What do you call an alligator in a vest?
 
-He didn't know how to commit.
+An in-vest-igator!
 <!-- JOKE-END -->
