@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+What's orange and sounds like a parrot?
 
-A field of corn.
+A Carrot.
 <!-- JOKE-END -->
