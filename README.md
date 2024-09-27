@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+Why did the programmer's wife leave him?
 
-Grrrrrainnnnnssss.
+He didn't know how to commit.
 <!-- JOKE-END -->
