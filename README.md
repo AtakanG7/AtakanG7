@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cow who jumped over the barbed wire fence?
+What did one ocean say to the other ocean?
 
-It was udder destruction.
+Nothing, they just waved.
 <!-- JOKE-END -->
