@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+What does an angry pepper do?
 
-Do you know the problem with UDP jokes?
+It gets jalapeño face.
 <!-- JOKE-END -->
