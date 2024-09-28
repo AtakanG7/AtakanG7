@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+Why was the developer always calm?
 
-An irrelephant.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
