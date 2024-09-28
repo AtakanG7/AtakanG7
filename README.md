@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees hum?
+Why do programmers always get Christmas and Halloween mixed up?
 
-Because they don't know the words.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
