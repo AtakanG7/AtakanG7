@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer's wife leave him?
+Why did the programmer quit his job?
 
-He didn't know how to commit.
+Because he didn't get arrays.
 <!-- JOKE-END -->
