@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+Where do sheep go to get their hair cut?
 
-A plain bagel.
+The baa-baa shop.
 <!-- JOKE-END -->
