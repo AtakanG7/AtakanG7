@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Why don't programmers like nature?
 
-Before was was was was was is.
+Too many bugs.
 <!-- JOKE-END -->
