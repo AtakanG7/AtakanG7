@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-Because they can't even.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
