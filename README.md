@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many seconds are in a year?
+Why dot net developers don't wear glasses?
 
-12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+Because they see sharp.
 <!-- JOKE-END -->
