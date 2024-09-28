@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+How does a train eat?
 
-You rocket.
+It goes chew, chew
 <!-- JOKE-END -->
