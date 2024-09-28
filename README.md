@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-Nah, I'm still working on it.
+'Can I join you?'
 <!-- JOKE-END -->
