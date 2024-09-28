@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+What's black and white and read all over?
 
-He was Bjorn again
+The newspaper.
 <!-- JOKE-END -->
