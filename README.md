@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Did you hear about the cheese factory that exploded in France?
 
-Before was was was was was is.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
