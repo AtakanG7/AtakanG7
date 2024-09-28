@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+Why does Waldo only wear stripes?
 
-Because they see sharp.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
