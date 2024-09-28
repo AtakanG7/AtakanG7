@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+What's the difference between a guitar and a fish?
 
-Tulips
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
