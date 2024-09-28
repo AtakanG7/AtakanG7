@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do sheep go to get their hair cut?
+Why did Dracula lie in the wrong coffin?
 
-The baa-baa shop.
+He made a grave mistake.
 <!-- JOKE-END -->
