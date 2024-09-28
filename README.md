@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a sheep with no legs?
+Where do sheep go to get their hair cut?
 
-A cloud.
+The baa-baa shop.
 <!-- JOKE-END -->
