@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+Did you hear about the Viking who was reincarnated?
 
-A Fermilabrador Retriever.
+He was Bjorn again
 <!-- JOKE-END -->
