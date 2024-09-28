@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+Did you know that protons have mass?
 
-He made a grave mistake.
+I didn't even know they were catholic.
 <!-- JOKE-END -->
