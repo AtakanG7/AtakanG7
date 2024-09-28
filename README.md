@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a train eat?
+How do you get two whales in a car?
 
-It goes chew, chew
+Start in England and drive West.
 <!-- JOKE-END -->
