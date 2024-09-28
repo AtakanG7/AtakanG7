@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+What’s Forest Gump’s Facebook password?
 
-They're afraid to unwind.
+1forest1
 <!-- JOKE-END -->
