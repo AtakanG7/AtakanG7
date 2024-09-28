@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of magic do cows believe in?
+How do you organize a space party?
 
-MOODOO.
+You planet.
 <!-- JOKE-END -->
