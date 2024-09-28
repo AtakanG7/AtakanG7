@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+How are false teeth like stars?
 
-Too many bugs.
+They come out at night!
 <!-- JOKE-END -->
