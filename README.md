@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+Why did the functions stop calling each other?
 
-He let out a little wine.
+Because they had constant arguments.
 <!-- JOKE-END -->
