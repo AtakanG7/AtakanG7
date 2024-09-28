@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+What do you do on a remote island?
 
-'Can I join you?'
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
