@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+did you know the first French fries weren't cooked in France?
 
-They couldn't find a table.
+they were cooked in Greece
 <!-- JOKE-END -->
