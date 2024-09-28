@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+What do you call two barracuda fish?
 
-It gets jalapeño face.
+A Pairacuda!
 <!-- JOKE-END -->
