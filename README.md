@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-Despresso.
+'Can I join you?'
 <!-- JOKE-END -->
