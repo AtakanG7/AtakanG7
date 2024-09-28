@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+Why did the programmer quit their job?
 
-Algae-bra.
+They didn't get arrays.
 <!-- JOKE-END -->
