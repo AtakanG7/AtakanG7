@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+Why didn't the skeleton go for prom?
 
-It is about 2 hours long.
+Because it had nobody.
 <!-- JOKE-END -->
