@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Where do you learn to make banana splits?
 
-1forest1
+At sundae school.
 <!-- JOKE-END -->
