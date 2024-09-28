@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+What did the scarf say to the hat?
 
-It keeps giving me mixed results.
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
