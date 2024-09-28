@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Knock-knock.
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-A race condition. Who is there?
+Bison.
 <!-- JOKE-END -->
