@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the functions stop calling each other?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-Because they had constant arguments.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
