@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+What do you call a cow with two legs?
 
-A buccaneer!
+Lean beef.
 <!-- JOKE-END -->
