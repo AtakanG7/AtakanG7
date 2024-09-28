@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+What musical instrument is found in the bathroom?
 
-Can't catch me - Avicii
+A tuba toothpaste.
 <!-- JOKE-END -->
