@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Never take advice from electrons.
 
-Because they make up everything.
+They are always negative.
 <!-- JOKE-END -->
