@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-Spelling!
+They couldn't find a table.
 <!-- JOKE-END -->
