@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a belt made out of watches?
+What is a centipedes's favorite Beatle song?
 
-A waist of time.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
