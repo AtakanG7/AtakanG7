@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+What does a pirate pay for his corn?
 
-Because it had nobody.
+A buccaneer!
 <!-- JOKE-END -->
