@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Why do bees have sticky hair?
 
-At sundae school.
+Because they use honey combs!
 <!-- JOKE-END -->
