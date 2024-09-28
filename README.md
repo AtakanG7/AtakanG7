@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do prisoners use to call each other?
+Do you know what the word 'was' was initially?
 
-Cell phones.
+Before was was was was was is.
 <!-- JOKE-END -->
