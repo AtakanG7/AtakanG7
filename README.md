@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of tree fits in your hand?
+Want to hear a joke about construction?
 
-A palm tree!
+Nah, I'm still working on it.
 <!-- JOKE-END -->
