@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+Why did the fireman wear red, white, and blue suspenders?
 
-'Can I join you?'
+To hold his pants up.
 <!-- JOKE-END -->
