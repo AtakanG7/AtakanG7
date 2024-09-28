@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+Why don't programmers like nature?
 
-You'll strain your eyes.
+Too many bugs.
 <!-- JOKE-END -->
