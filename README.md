@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did celery say when he broke up with his girlfriend?
+Why do Java programmers wear glasses?
 
-She wasn't right for me, so I really don't carrot all.
+Because they don't C#.
 <!-- JOKE-END -->
