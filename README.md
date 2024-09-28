@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-I'll meet you at the corner!
+I couldn’t turn it down.
 <!-- JOKE-END -->
