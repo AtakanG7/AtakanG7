@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+Why did the functions stop calling each other?
 
-Because he didn't get arrays.
+Because they had constant arguments.
 <!-- JOKE-END -->
