@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it hit the wall?
+How do you fix a broken pizza?
 
-Dam.
+With tomato paste.
 <!-- JOKE-END -->
