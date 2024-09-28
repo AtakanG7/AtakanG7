@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Which song would an exception sing?
 
-To prevent bat breath!
+Can't catch me - Avicii
 <!-- JOKE-END -->
