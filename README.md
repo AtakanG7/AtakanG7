@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+What is this movie about?
 
-Yes, but don’t turn it on.
+It is about 2 hours long.
 <!-- JOKE-END -->
