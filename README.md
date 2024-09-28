@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+What kind of magic do cows believe in?
 
-They didn't get arrays.
+MOODOO.
 <!-- JOKE-END -->
