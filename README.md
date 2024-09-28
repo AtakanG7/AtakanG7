@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+I'm reading a book about anti-gravity...
 
-Because they knew how to handle exceptions.
+It's impossible to put down
 <!-- JOKE-END -->
