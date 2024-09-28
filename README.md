@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+did you know the first French fries weren't cooked in France?
 
-There was nothing left but de Brie.
+they were cooked in Greece
 <!-- JOKE-END -->
