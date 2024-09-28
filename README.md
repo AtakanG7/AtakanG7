@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+What did one nut say as he chased another nut?
 
-Hi, bud!
+I'm a cashew!
 <!-- JOKE-END -->
