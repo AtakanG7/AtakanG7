@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Can a kangaroo jump higher than the Empire State Building?
 
-It was having window panes.
+Of course. The Empire State Building can't jump.
 <!-- JOKE-END -->
