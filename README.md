@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+Knock-knock.
 
-An instagram.
+A race condition. Who is there?
 <!-- JOKE-END -->
