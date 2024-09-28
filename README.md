@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+Which song would an exception sing?
 
-Because they use honey combs!
+Can't catch me - Avicii
 <!-- JOKE-END -->
