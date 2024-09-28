@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+Can I watch the TV?
 
-Try and find the TV island it belongs to.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
