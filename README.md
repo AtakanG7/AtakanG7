@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Why couldn't the bicycle stand up by itself?
 
-Start in England and drive West.
+It was two-tired.
 <!-- JOKE-END -->
