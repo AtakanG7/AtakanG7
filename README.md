@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+What kind of dog lives in a particle accelerator?
 
-I didn't even know they were catholic.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
