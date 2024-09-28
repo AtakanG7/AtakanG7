@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+How many React developers does it take to change a lightbulb?
 
-A buccaneer!
+None, they prefer dark mode.
 <!-- JOKE-END -->
