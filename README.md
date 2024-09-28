@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+Why does a Moon-rock taste better than an Earth-rock?
 
-I don't think they'll fit me.
+Because it's a little meteor.
 <!-- JOKE-END -->
