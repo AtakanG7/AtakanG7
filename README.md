@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+Why don't scientists trust atoms?
 
-It ran out of juice.
+Because they make up everything.
 <!-- JOKE-END -->
