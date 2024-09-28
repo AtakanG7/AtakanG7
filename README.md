@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can a kangaroo jump higher than the Empire State Building?
+What did one ocean say to the other ocean?
 
-Of course. The Empire State Building can't jump.
+Nothing, they just waved.
 <!-- JOKE-END -->
