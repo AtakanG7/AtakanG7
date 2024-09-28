@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+Don't look at the eclipse through a colander.
 
-To get to the other slide.
+You'll strain your eyes.
 <!-- JOKE-END -->
