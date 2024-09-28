@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+Did you hear about the cow who jumped over the barbed wire fence?
 
-A field of corn.
+It was udder destruction.
 <!-- JOKE-END -->
