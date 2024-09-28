@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Did you know you should always take an extra pair of pants golfing?
 
-It's impossible to put down
+Just in case you get a hole in one.
 <!-- JOKE-END -->
