@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Did you hear about the Viking who was reincarnated?
 
-It got mugged.
+He was Bjorn again
 <!-- JOKE-END -->
