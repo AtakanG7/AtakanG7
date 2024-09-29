@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call someone with no nose?
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
 
-Nobody knows.
+Pop,goes the weasel.
 <!-- JOKE-END -->
