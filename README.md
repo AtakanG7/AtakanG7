@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+What do you call sad coffee?
 
-They mostly wrap.
+Despresso.
 <!-- JOKE-END -->
