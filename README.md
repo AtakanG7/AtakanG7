@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+When does a joke become a dad joke?
 
-Fortunately I belong to the remaining 1%
+When it becomes apparent.
 <!-- JOKE-END -->
