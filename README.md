@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+How do you comfort a designer?
 
-An in-vest-igator!
+You give them some space... between the elements.
 <!-- JOKE-END -->
