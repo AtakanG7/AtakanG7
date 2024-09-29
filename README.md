@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just got fired from my job at the keyboard factory.
+What kind of music do welders like?
 
-They told me I wasn't putting in enough shifts.
+Heavy metal.
 <!-- JOKE-END -->
