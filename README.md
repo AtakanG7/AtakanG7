@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do I enjoy making courthouse puns?
+Did you hear the joke about the wandering nun?
 
-Guilty
+She was a roman catholic.
 <!-- JOKE-END -->
