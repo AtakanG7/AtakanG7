@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+Why did the girl smear peanut butter on the road?
 
-Because they see sharp.
+To go with the traffic jam.
 <!-- JOKE-END -->
