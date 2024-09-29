@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+What kind of dog lives in a particle accelerator?
 
-Because they're shellfish.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
