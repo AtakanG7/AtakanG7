@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+What’s the object-oriented way to become wealthy?
 
-European
+Inheritance.
 <!-- JOKE-END -->
