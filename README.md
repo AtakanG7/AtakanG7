@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-Because he was outstanding in his field.
+Because they might peel!
 <!-- JOKE-END -->
