@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+How many programmers does it take to change a lightbulb?
 
-You give them some space... between the elements.
+None that's a hardware problem
 <!-- JOKE-END -->
