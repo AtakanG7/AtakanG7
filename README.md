@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't skeletons fight each other?
+If you see a robbery at an Apple Store...
 
-They don't have the guts.
+Does that make you an iWitness?
 <!-- JOKE-END -->
