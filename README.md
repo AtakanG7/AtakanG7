@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call cheese by itself?
+What did the left eye say to the right eye?
 
-Provolone.
+Between us, something smells!
 <!-- JOKE-END -->
