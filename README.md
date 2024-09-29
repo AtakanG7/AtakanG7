@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I bought some shoes from a drug dealer.
+Did you hear about the hungry clock?
 
-I don't know what he laced them with, but I was tripping all day!
+It went back four seconds.
 <!-- JOKE-END -->
