@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+What did the ocean say to the shore?
 
-Because he is 2 square.
+Nothing, it just waved.
 <!-- JOKE-END -->
