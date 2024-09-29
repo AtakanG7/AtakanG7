@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Java code say to the C code?
+Why dot net developers don't wear glasses?
 
-You've got no class.
+Because they see sharp.
 <!-- JOKE-END -->
