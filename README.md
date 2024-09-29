@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+99.9% of the people are dumb!
 
-Because they're shellfish.
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
