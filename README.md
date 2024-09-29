@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When a dad drives past a graveyard: Did you know that's a popular cemetery?
+What did the scarf say to the hat?
 
-Yep, people are just dying to get in there
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
