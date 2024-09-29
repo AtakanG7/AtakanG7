@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+Why did the programmer bring a broom to work?
 
-You give them some space... between the elements.
+To clean up all the bugs.
 <!-- JOKE-END -->
