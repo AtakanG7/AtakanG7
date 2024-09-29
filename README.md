@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why does Superman get invited to dinners?
 
-Heavy metal.
+Because he is a Supperhero.
 <!-- JOKE-END -->
