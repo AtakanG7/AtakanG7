@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+Why don't oysters give to charity?
 
-200 Dollars.
+Because they're shellfish.
 <!-- JOKE-END -->
