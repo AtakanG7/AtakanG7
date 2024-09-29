@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Why did the cookie cry?
 
-He took a short cut.
+It was feeling crumby.
 <!-- JOKE-END -->
