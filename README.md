@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+did you know the first French fries weren't cooked in France?
 
-Even if you're wrong, you're only off by a bit.
+they were cooked in Greece
 <!-- JOKE-END -->
