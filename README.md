@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-did you know the first French fries weren't cooked in France?
+Why did the developer go to therapy?
 
-they were cooked in Greece
+They had too many unresolved issues.
 <!-- JOKE-END -->
