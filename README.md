@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+How does a scientist freshen their breath?
 
-Add the letter G and it’s “gone”!
+With experi-mints!
 <!-- JOKE-END -->
