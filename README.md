@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why did the mushroom get invited to the party?
 
-Heavy metal.
+Because he was a fungi.
 <!-- JOKE-END -->
