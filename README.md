@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+Why did the tomato blush?
 
-Because he is a Supperhero.
+Because it saw the salad dressing.
 <!-- JOKE-END -->
