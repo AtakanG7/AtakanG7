@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+Why don't skeletons fight each other?
 
-A wise quacker.
+They don't have the guts.
 <!-- JOKE-END -->
