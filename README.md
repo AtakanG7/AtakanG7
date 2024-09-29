@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+Ever wondered why bees hum?
 
-A wise quacker.
+It's because they don't know the words.
 <!-- JOKE-END -->
