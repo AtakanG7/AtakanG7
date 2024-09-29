@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+What do birds give out on Halloween?
 
-Because they always used too much ice-olation.
+Tweets.
 <!-- JOKE-END -->
