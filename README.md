@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+What do you call a fake noodle?
 
-It's because they don't know the words.
+An impasta.
 <!-- JOKE-END -->
