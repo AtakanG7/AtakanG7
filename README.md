@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+Why are football stadiums so cool?
 
-Grrrrrainnnnnssss.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
