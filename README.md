@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+How do you check if a webpage is HTML5?
 
-Between us, something smells!
+Try it out on Internet Explorer
 <!-- JOKE-END -->
