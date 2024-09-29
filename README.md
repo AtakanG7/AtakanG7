@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+What's the difference between a seal and a sea lion?
 
-Tulips
+An ion! 
 <!-- JOKE-END -->
