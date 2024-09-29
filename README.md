@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-I didn't even know they were catholic.
+Bison.
 <!-- JOKE-END -->
