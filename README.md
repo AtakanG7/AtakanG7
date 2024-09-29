@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Why didn't the number 4 get into the nightclub?
 
-You should drop another one, then you would have a pair.
+Because he is 2 square.
 <!-- JOKE-END -->
