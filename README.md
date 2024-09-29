@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+What do you call someone with no nose?
 
-In the calf-ateria.
+Nobody knows.
 <!-- JOKE-END -->
