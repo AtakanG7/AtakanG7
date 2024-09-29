@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tomato blush?
+What do you call an alligator in a vest?
 
-Because it saw the salad dressing.
+An in-vest-igator!
 <!-- JOKE-END -->
