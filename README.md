@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Hey, wanna hear a joke?
 
-It was feeling crumby.
+Parsing HTML with regex.
 <!-- JOKE-END -->
