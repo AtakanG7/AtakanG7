@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+What's the best thing about a Boolean?
 
-She was a roman catholic.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
