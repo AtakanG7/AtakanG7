@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best time to go to the dentist?
+What are the strongest days of the week?
 
-Tooth hurty.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
