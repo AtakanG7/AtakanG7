@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-Look for fresh prints.
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
