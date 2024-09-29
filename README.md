@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What kind of dinosaur loves to sleep?
 
-The ground.
+A stega-snore-us.
 <!-- JOKE-END -->
