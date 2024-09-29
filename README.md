@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+What kind of music do welders like?
 
-To go with the traffic jam.
+Heavy metal.
 <!-- JOKE-END -->
