@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+When a dad drives past a graveyard: Did you know that's a popular cemetery?
 
-Because he is a Supperhero.
+Yep, people are just dying to get in there
 <!-- JOKE-END -->
