@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you check if a webpage is HTML5?
+How does the moon cut his hair?
 
-Try it out on Internet Explorer
+Eclipse it.
 <!-- JOKE-END -->
