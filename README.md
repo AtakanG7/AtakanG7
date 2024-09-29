@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+Why did the developer break up with their keyboard?
 
-It ended in a tie.
+It just wasn't their type anymore.
 <!-- JOKE-END -->
