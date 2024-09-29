@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get a baby alien to sleep?
+Where’s the bin?
 
-You rocket.
+I haven’t been anywhere!
 <!-- JOKE-END -->
