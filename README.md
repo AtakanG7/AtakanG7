@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Did you hear about the submarine industry?
 
-Because he was outstanding in his field.
+It really took a dive...
 <!-- JOKE-END -->
