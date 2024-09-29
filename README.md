@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+How do you get a baby alien to sleep?
 
-He heard that the chickens at KFC were pretty hot.
+You rocket.
 <!-- JOKE-END -->
