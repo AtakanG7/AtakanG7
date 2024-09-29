@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+Did you hear about the scientist who was lab partners with a pot of boiling water?
 
-Because all of the fans left.
+He had a very esteemed colleague.
 <!-- JOKE-END -->
