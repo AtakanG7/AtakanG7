@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+Why didn't the number 4 get into the nightclub?
 
-An in-vest-igator!
+Because he is 2 square.
 <!-- JOKE-END -->
