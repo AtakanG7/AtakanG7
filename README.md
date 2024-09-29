@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+How do you comfort a designer?
 
-Because he was a fungi.
+You give them some space... between the elements.
 <!-- JOKE-END -->
