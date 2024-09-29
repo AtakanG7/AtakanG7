@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fake noodle?
+Why are pirates called pirates?
 
-An impasta.
+Because they arrr!
 <!-- JOKE-END -->
