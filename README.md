@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-While I was sleeping my friends decided to write math equations on me.
+Where was the Declaration of Independence signed?
 
-You should have seen the expression on my face when I woke up.
+At the bottom! 
 <!-- JOKE-END -->
