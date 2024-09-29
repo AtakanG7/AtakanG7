@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+What do you call an elephant that doesn’t matter?
 
-I woke up exhausted!
+An irrelephant.
 <!-- JOKE-END -->
