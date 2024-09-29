@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do on a remote island?
+Why did the rooster cross the road?
 
-Try and find the TV island it belongs to.
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
