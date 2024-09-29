@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What do you call a girl between two posts?
 
-You give them some space... between the elements.
+Annette.
 <!-- JOKE-END -->
