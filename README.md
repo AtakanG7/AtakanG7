@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer break up with their keyboard?
+Why did the Clydesdale give the pony a glass of water?
 
-It just wasn't their type anymore.
+Because he was a little horse
 <!-- JOKE-END -->
