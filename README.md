@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+Did you hear about the two silk worms in a race?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+It ended in a tie.
 <!-- JOKE-END -->
