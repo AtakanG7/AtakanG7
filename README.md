@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-He wanted cold hard cash!
+You can only use a low ha.
 <!-- JOKE-END -->
