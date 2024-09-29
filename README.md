@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+What did the judge say to the dentist?
 
-Parsing HTML with regex.
+Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
