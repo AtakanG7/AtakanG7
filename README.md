@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+What do you call a fake noodle?
 
-None that's a hardware problem
+An impasta.
 <!-- JOKE-END -->
