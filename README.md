@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+Why did the kid throw the watch out the window?
 
-Can't catch me - Avicii
+So time would fly.
 <!-- JOKE-END -->
