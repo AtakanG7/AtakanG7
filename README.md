@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+Did you know that protons have mass?
 
-Nothing, they just waved.
+I didn't even know they were catholic.
 <!-- JOKE-END -->
