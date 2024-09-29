@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+What’s 50 Cent’s name in Zimbabwe?
 
-Because nothing gets under their skin.
+200 Dollars.
 <!-- JOKE-END -->
