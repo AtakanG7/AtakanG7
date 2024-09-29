@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+What do you call a cow on a trampoline?
 
-So time would fly.
+A milk shake!
 <!-- JOKE-END -->
