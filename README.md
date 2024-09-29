@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+Lady: How do I spread love in this cruel world?
 
-A Fermilabrador Retriever.
+Random Dude: [...💘]
 <!-- JOKE-END -->
