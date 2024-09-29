@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+How come the stadium got hot after the game?
 
-Does that make you an iWitness?
+Because all of the fans left.
 <!-- JOKE-END -->
