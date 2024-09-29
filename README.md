@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+How many programmers does it take to change a lightbulb?
 
-Can't catch me - Avicii
+None that's a hardware problem
 <!-- JOKE-END -->
