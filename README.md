@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Two guys walk into a bar . . .
 
-Because every seat has a fan in it.
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
