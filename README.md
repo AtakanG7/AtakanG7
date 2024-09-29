@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow on a trampoline?
+Why are skeletons so calm?
 
-A milk shake!
+Because nothing gets under their skin.
 <!-- JOKE-END -->
