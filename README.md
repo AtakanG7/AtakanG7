@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What do you call a group of killer whales playing instruments?
 
-Nah, I'm still working on it.
+An Orca-stra.
 <!-- JOKE-END -->
