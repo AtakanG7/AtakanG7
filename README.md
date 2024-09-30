@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+Did you hear the news?
 
-When it's ajar.
+FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 <!-- JOKE-END -->
