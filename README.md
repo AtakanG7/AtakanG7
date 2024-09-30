@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which song would an exception sing?
+Why does Norway have barcodes on their battleships?
 
-Can't catch me - Avicii
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
