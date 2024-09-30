@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+Why do scuba divers fall backwards into the water?
 
-There's too many bugs.
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
