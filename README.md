@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the designer break up with their font?
+Did you hear about the kidnapping at school?
 
-Because it wasn't their type.
+It's ok, he woke up.
 <!-- JOKE-END -->
