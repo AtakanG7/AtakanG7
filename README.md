@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Did you hear that David lost his ID in prague?
 
-It's impossible to put down
+Now we just have to call him Dav.
 <!-- JOKE-END -->
