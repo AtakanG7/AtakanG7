@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+What's the worst part about being a cross-eyed teacher?
 
-It ran out of juice.
+They can't control their pupils.
 <!-- JOKE-END -->
