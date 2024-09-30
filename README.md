@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+Well...
 
-A tuba toothpaste.
+That’s a deep subject.
 <!-- JOKE-END -->
