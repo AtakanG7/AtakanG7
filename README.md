@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+What do you call fake spaghetti?
 
-Because every seat has a fan in it.
+An impasta.
 <!-- JOKE-END -->
