@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Where did you learn to make ice cream?
 
-Because it had nobody.
+Sunday school.
 <!-- JOKE-END -->
