@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+What’s brown and sounds like a bell?
 
-They kept spending all their cache.
+Dung!
 <!-- JOKE-END -->
