@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+I had a dream that I was a muffler last night.
 
-Because they knew how to handle exceptions.
+I woke up exhausted!
 <!-- JOKE-END -->
