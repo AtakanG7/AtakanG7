@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+What do you call a pig with three eyes?
 
-A Fermilabrador Retriever.
+Piiig
 <!-- JOKE-END -->
