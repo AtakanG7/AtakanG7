@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+What is this movie about?
 
-The meat-ball.
+It is about 2 hours long.
 <!-- JOKE-END -->
