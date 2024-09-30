@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+Why did the invisible man turn down the job offer?
 
-In case they get a hole in one!
+He couldn't see himself doing it
 <!-- JOKE-END -->
