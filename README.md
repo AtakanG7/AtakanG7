@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+Why did the golfer bring two pairs of pants?
 
-I woke up exhausted!
+In case he got a hole in one.
 <!-- JOKE-END -->
