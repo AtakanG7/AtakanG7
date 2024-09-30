@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+What do you call a group of killer whales playing instruments?
 
-Because he is a Supperhero.
+An Orca-stra.
 <!-- JOKE-END -->
