@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+What time is it?
 
-I don't think they'll fit me.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
