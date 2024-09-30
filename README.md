@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Finally realized why my plant sits around doing nothing all day...
+Why didn’t the orange win the race?
 
-He loves his pot.
+It ran out of juice.
 <!-- JOKE-END -->
