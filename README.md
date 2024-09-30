@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+What do you call an Argentinian with a rubber toe?
 
-A little shaken.
+Roberto
 <!-- JOKE-END -->
