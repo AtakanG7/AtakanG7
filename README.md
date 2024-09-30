@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did the API go to eat?
+Where do bees go to the bathroom?
 
-To the RESTaurant.
+The BP station.
 <!-- JOKE-END -->
