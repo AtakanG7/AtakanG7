@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pig with three eyes?
+How do you comfort a designer?
 
-Piiig
+You give them some space... between the elements.
 <!-- JOKE-END -->
