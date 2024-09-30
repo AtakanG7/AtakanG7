@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+How do you comfort a designer?
 
-That’s a deep subject.
+You give them some space... between the elements.
 <!-- JOKE-END -->
