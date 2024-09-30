@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+How do you know if there’s an elephant under your bed?
 
-No, but April may.
+Your head hits the ceiling!
 <!-- JOKE-END -->
