@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+Why can't your nose be 12 inches long?
 
-Tulips
+Because then it'd be a foot!
 <!-- JOKE-END -->
