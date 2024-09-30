@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+What did one nut say as he chased another nut?
 
-An impasta.
+I'm a cashew!
 <!-- JOKE-END -->
