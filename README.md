@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+did you know the first French fries weren't cooked in France?
 
-Because if they fell forwards they’d still be in the boat.
+they were cooked in Greece
 <!-- JOKE-END -->
