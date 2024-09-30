@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+How was the snow globe feeling after the storm?
 
-Look for fresh prints.
+A little shaken.
 <!-- JOKE-END -->
