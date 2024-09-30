@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a bee and a sheep?
+What's black and white and read all over?
 
-A bah-humbug.
+The newspaper.
 <!-- JOKE-END -->
