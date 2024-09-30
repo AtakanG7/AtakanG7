@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I had a dream that I was a muffler last night.
+What musical instrument is found in the bathroom?
 
-I woke up exhausted!
+A tuba toothpaste.
 <!-- JOKE-END -->
