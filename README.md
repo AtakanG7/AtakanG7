@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+Why did the programmer bring a ladder to work?
 
-Sunday school.
+They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
