@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+What happens when you anger a brain surgeon?
 
-None that's a hardware problem
+They will give you a piece of your mind.
 <!-- JOKE-END -->
