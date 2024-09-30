@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+Did you hear about the chameleon who couldn't change color?
 
-Because they always used too much ice-olation.
+They had a reptile dysfunction.
 <!-- JOKE-END -->
