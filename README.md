@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the scientist who was lab partners with a pot of boiling water?
+Lady: How do I spread love in this cruel world?
 
-He had a very esteemed colleague.
+Random Dude: [...💘]
 <!-- JOKE-END -->
