@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Why are football stadiums so cool?
 
-Start in England and drive West.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
