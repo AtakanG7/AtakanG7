@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you give to a lemon in need?
 
-A walk.
+Lemonaid.
 <!-- JOKE-END -->
