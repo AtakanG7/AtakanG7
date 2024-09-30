@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the news?
+Why would a guitarist become a good programmer?
 
-FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+He's adept at riffing in C#.
 <!-- JOKE-END -->
