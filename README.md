@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+Did you hear about the Mexican train killer?
 
-Because they're so good at it.
+He had loco motives
 <!-- JOKE-END -->
