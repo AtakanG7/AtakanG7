@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pile of cats?
+What kind of dog lives in a particle accelerator?
 
-A Meowtain.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
