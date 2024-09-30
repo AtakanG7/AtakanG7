@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+What do vegetarian zombies eat?
 
-It is about 2 hours long.
+Grrrrrainnnnnssss.
 <!-- JOKE-END -->
