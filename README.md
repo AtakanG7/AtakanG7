@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+Where do sheep go to get their hair cut?
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+The baa-baa shop.
 <!-- JOKE-END -->
