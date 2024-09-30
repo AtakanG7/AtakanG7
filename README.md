@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Why was the developer always calm?
 
-Because it had nobody.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
