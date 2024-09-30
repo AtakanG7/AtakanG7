@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+['hip', 'hip']
 
-The BP station.
+(hip hip array)
 <!-- JOKE-END -->
