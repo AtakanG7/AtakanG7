@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+Why did the fireman wear red, white, and blue suspenders?
 
-Put a Windows user in front of Vim and tell them to exit.
+To hold his pants up.
 <!-- JOKE-END -->
