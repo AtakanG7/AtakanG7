@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
 
-You can tune a guitar but you can't "tuna"fish!
+Pop,goes the weasel.
 <!-- JOKE-END -->
