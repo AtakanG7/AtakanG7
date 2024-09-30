@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Lady: How do I spread love in this cruel world?
+How many lips does a flower have?
 
-Random Dude: [...💘]
+Tulips
 <!-- JOKE-END -->
