@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-['hip', 'hip']
+Why didn't the skeleton go for prom?
 
-(hip hip array)
+Because it had nobody.
 <!-- JOKE-END -->
