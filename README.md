@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+I had a dream that I was a muffler last night.
 
-Your head hits the ceiling!
+I woke up exhausted!
 <!-- JOKE-END -->
