@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+When is a door not a door?
 
-It's ok, he woke up.
+When it's ajar.
 <!-- JOKE-END -->
