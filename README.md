@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Did you hear about the bread factory burning down?
 
-They were fully booked.
+They say the business is toast.
 <!-- JOKE-END -->
