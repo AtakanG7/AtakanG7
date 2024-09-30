@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+How did Darth Vader know what Luke was getting for Christmas?
 
-He’s only got little legs.
+He felt his presents.
 <!-- JOKE-END -->
