@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+What’s 50 Cent’s name in Zimbabwe?
 
-The meat-ball.
+200 Dollars.
 <!-- JOKE-END -->
