@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
-Now we just have to call him Dav.
+Because there’s a Shortstop in between!
 <!-- JOKE-END -->
