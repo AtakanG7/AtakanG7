@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When a dad drives past a graveyard: Did you know that's a popular cemetery?
+What do you call a sheep with no legs?
 
-Yep, people are just dying to get in there
+A cloud.
 <!-- JOKE-END -->
