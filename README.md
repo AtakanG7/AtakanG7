@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of killer whales playing instruments?
+Why don't React developers like nature?
 
-An Orca-stra.
+They prefer the virtual DOM.
 <!-- JOKE-END -->
