@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Finally realized why my plant sits around doing nothing all day...
+Why does Superman get invited to dinners?
 
-He loves his pot.
+Because he is a Supperhero.
 <!-- JOKE-END -->
