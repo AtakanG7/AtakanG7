@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+What’s E.T. short for?
 
-They start coffin.
+He’s only got little legs.
 <!-- JOKE-END -->
