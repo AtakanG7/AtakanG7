@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many optometrists does it take to change a light bulb?
+Did you hear about the crime in the parking garage?
 
-1 or 2? 1... or 2?
+It was wrong on so many levels.
 <!-- JOKE-END -->
