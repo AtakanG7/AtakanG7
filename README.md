@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+Where do you learn to make banana splits?
 
-Fur protection.
+At sundae school.
 <!-- JOKE-END -->
