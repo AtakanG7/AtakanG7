@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the burglar hang his mugshot on the wall?
+How do you get a baby alien to sleep?
 
-To prove that he was framed!
+You rocket.
 <!-- JOKE-END -->
