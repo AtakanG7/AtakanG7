@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+I'm reading a book about anti-gravity...
 
-I'm a cashew!
+It's impossible to put down
 <!-- JOKE-END -->
