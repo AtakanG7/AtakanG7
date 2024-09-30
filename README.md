@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+What do you call a belt made out of watches?
 
-There was nothing left but de Brie.
+A waist of time.
 <!-- JOKE-END -->
