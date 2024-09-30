@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Why don't you find hippopotamuses hiding in trees?
 
-No, I got them all cut.
+They're really good at it.
 <!-- JOKE-END -->
