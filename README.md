@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the chameleon who couldn't change color?
+What do you call a troublesome Canadian high schooler?
 
-They had a reptile dysfunction.
+A poutine.
 <!-- JOKE-END -->
