@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+Why didn't the skeleton go for prom?
 
-Because he doesn't want to be spotted.
+Because it had nobody.
 <!-- JOKE-END -->
