@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+How do you find Will Smith in the snow?
 
-Because they always used too much ice-olation.
+Look for fresh prints.
 <!-- JOKE-END -->
