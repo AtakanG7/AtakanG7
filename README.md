@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Did you hear about the cheese factory that exploded in France?
 
-At sundae school.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
