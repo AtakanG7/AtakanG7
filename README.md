@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-did you know the first French fries weren't cooked in France?
+Did you hear about the guy whose whole left side was cut off?
 
-they were cooked in Greece
+He's all right now.
 <!-- JOKE-END -->
