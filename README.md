@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Why do scuba divers fall backwards into the water?
 
-Because they make up everything.
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
