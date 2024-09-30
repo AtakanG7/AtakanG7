@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+Finally realized why my plant sits around doing nothing all day...
 
-A little shaken.
+He loves his pot.
 <!-- JOKE-END -->
