@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-They say the business is toast.
+Narnia business!
 <!-- JOKE-END -->
