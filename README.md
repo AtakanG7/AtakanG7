@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+Why did the programmer always mix up Halloween and Christmas?
 
-Dung!
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
