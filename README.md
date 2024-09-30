@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the scarf say to the hat?
+How did the hipster burn the roof of his mouth?
 
-You go on ahead, I am going to hang around a bit longer.
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
