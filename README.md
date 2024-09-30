@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+Finally realized why my plant sits around doing nothing all day...
 
-Water.
+He loves his pot.
 <!-- JOKE-END -->
