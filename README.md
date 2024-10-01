@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do sheep go to get their hair cut?
+Why are football stadiums so cool?
 
-The baa-baa shop.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
