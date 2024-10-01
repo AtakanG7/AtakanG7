@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+What’s the advantage of living in Switzerland?
 
-The sails are going through the roof.
+Well, the flag is a big plus.
 <!-- JOKE-END -->
