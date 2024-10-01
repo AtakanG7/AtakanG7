@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What did the beaver say to the tree?
 
-You give them some space... between the elements.
+It's been nice gnawing you.
 <!-- JOKE-END -->
