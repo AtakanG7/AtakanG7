@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+What did the fish say when it hit the wall?
 
-Because every seat has a fan in it.
+Dam.
 <!-- JOKE-END -->
