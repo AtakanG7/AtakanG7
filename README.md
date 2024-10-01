@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+What is a vampire's favorite fruit?
 
-Profanity.
+A blood orange.
 <!-- JOKE-END -->
