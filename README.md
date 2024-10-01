@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+Do you know where you can get chicken broth in bulk?
 
-Because he is 2 square.
+The stock market.
 <!-- JOKE-END -->
