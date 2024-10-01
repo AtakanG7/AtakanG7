@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Why don't React developers like nature?
 
-You boil the hell out of it
+They prefer the virtual DOM.
 <!-- JOKE-END -->
