@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+What kind of dog lives in a particle accelerator?
 
-Light blue.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
