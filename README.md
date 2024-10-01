@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Want to hear a chimney joke?
 
-Igloos it together.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
