@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+Did you hear about the two silk worms in a race?
 
-The stock market.
+It ended in a tie.
 <!-- JOKE-END -->
