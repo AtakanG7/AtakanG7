@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+Did you hear that David lost his ID in prague?
 
-Aye Matey!
+Now we just have to call him Dav.
 <!-- JOKE-END -->
