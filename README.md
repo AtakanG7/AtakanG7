@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was the pumpkin’s favorite sport?
+How do you make a tissue dance?
 
-Squash.
+You put a little boogie on it.
 <!-- JOKE-END -->
