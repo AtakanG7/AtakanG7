@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-['hip', 'hip']
+What did the left eye say to the right eye?
 
-(hip hip array)
+Between us, something smells!
 <!-- JOKE-END -->
