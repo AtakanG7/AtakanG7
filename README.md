@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-They preferred to write in C#.
+European
 <!-- JOKE-END -->
