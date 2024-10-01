@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+How do you comfort a designer?
 
-They come out at night!
+You give them some space... between the elements.
 <!-- JOKE-END -->
