@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+Why did the house go to the doctor?
 
-Because all of the fans left.
+It was having window panes.
 <!-- JOKE-END -->
