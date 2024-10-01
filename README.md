@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-Because he was outstanding in his field.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
