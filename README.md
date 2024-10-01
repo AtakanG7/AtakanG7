@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Park your car, man.
+Because it's a little meteor.
 <!-- JOKE-END -->
