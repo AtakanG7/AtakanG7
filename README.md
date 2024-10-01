@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+Why did Dracula lie in the wrong coffin?
 
-You put a little boogie on it.
+He made a grave mistake.
 <!-- JOKE-END -->
