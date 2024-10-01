@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+What do you call a fly without wings?
 
-Tulips
+A walk.
 <!-- JOKE-END -->
