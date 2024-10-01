@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Where was the Declaration of Independence signed?
 
-Twister!
+At the bottom! 
 <!-- JOKE-END -->
