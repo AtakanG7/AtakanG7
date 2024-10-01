@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+What do elves post on Social Media?
 
-Never mind, it's too cheesy.
+Elf-ies.
 <!-- JOKE-END -->
