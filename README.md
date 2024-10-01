@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+What's orange and sounds like a parrot?
 
-It was feeling crumby.
+A Carrot.
 <!-- JOKE-END -->
