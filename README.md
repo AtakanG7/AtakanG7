@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+How do you find Will Smith in the snow?
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+Look for fresh prints.
 <!-- JOKE-END -->
