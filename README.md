@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+Where did you learn to make ice cream?
 
-Nothing, they just waved.
+Sunday school.
 <!-- JOKE-END -->
