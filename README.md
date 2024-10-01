@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+The punchline often arrives before the set-up.
 
-The library, it’s got the most stories!
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
