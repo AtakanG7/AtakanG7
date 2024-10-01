@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-To understand what recursion is...
+Why did the programmer always carry a pencil?
 
-You must first understand what recursion is
+They preferred to write in C#.
 <!-- JOKE-END -->
