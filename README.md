@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+Why couldn't the kid see the pirate movie?
 
-A Fermilabrador Retriever.
+Because it was rated arrr!
 <!-- JOKE-END -->
