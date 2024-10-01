@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+Do you want a brief explanation of what an acorn is?
 
-He was too far out, man.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
