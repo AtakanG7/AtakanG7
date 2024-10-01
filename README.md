@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+I just got fired from my job at the keyboard factory.
 
-They start coffin.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
