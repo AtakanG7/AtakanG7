@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+What's orange and sounds like a parrot?
 
-At sundae school.
+A Carrot.
 <!-- JOKE-END -->
