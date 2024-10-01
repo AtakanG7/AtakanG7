@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+What did the fish say when it swam into a wall?
 
-Twister!
+Damn!
 <!-- JOKE-END -->
