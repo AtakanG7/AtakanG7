@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+To understand what recursion is...
 
-Well, the flag is a big plus.
+You must first understand what recursion is
 <!-- JOKE-END -->
