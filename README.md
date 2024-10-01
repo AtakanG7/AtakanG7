@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+What time is it?
 
-I had to draw my own conclusions.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
