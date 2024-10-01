@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+How does the moon cut his hair?
 
-Because he neverlands
+Eclipse it.
 <!-- JOKE-END -->
