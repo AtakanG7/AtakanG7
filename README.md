@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do choirs keep buckets handy?
+How can you tell a vampire has a cold?
 
-So they can carry their tune
+They start coffin.
 <!-- JOKE-END -->
