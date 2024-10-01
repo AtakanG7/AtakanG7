@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What biscuit does a short person like?
+What did the digital clock say to the grandfather clock?
 
-Shortbread. 
+Look, no hands!
 <!-- JOKE-END -->
