@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+Why do Java programmers wear glasses?
 
-No, but April may.
+Because they don't C#.
 <!-- JOKE-END -->
