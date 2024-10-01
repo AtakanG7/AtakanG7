@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+What did the left eye say to the right eye?
 
-A fowl smell!
+Between us, something smells!
 <!-- JOKE-END -->
