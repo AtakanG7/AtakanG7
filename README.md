@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+What did the fish say when it swam into a wall?
 
-Eclipse it.
+Damn!
 <!-- JOKE-END -->
