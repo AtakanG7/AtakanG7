@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+Why did the barber win the race?
 
-Because they don't C#.
+He took a short cut.
 <!-- JOKE-END -->
