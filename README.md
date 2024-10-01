@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+What cheese can never be yours?
 
-A Carrot.
+Nacho cheese.
 <!-- JOKE-END -->
