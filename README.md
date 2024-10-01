@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+What do you call a cow with no legs?
 
-Because he doesn't want to be spotted.
+Ground beef!
 <!-- JOKE-END -->
