@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+Why did the cookie cry?
 
-Dunno, they're just a bit shady.
+It was feeling crumby.
 <!-- JOKE-END -->
