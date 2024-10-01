@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+Did you know that protons have mass?
 
-They start coffin.
+I didn't even know they were catholic.
 <!-- JOKE-END -->
