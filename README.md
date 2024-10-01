@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+I was gonna tell you a joke about UDP...
 
-Elf-ies.
+...but you might not get it.
 <!-- JOKE-END -->
