@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+What is the most used language in programming?
 
-Because he was outstanding in his field.
+Profanity.
 <!-- JOKE-END -->
