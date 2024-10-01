@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+Why did the programmer quit their job?
 
-In his sleevies.
+They didn't get arrays.
 <!-- JOKE-END -->
