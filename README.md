@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the math book look sad?
+What type of music do balloons hate?
 
-Because it had too many problems.
+Pop music!
 <!-- JOKE-END -->
