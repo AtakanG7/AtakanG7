@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+Why did the programmer always carry a pencil?
 
-A walk.
+They preferred to write in C#.
 <!-- JOKE-END -->
