@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you find Will Smith in the snow?
+Why was the developer always calm?
 
-Look for fresh prints.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
