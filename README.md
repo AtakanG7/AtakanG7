@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+Why did the coffee file a police report?
 
-It was always bold.
+It got mugged.
 <!-- JOKE-END -->
