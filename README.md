@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+What's the best part about TCP jokes?
 
-Because it's a little meteor.
+I get to keep telling them until you get them.
 <!-- JOKE-END -->
