@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+How does a penguin build it’s house?
 
-They always egg-cercise!
+Igloos it together.
 <!-- JOKE-END -->
