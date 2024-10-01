@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+How do hens stay fit?
 
-They preferred to write in C#.
+They always egg-cercise!
 <!-- JOKE-END -->
