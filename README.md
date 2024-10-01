@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+What is a tornado's favorite game to play?
 
-Because they knew how to handle exceptions.
+Twister!
 <!-- JOKE-END -->
