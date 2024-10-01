@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When does a joke become a dad joke?
+What do you call a fly without wings?
 
-When it becomes apparent.
+A walk.
 <!-- JOKE-END -->
