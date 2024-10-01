@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the kid see the pirate movie?
+Why did the math book look sad?
 
-Because it was rated arrr!
+Because it had too many problems.
 <!-- JOKE-END -->
