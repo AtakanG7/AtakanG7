@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+What's the difference between a seal and a sea lion?
 
-It was having window panes.
+An ion! 
 <!-- JOKE-END -->
