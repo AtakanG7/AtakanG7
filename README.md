@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+What do you get when you cross a chicken with a skunk?
 
-Elf-ies.
+A fowl smell!
 <!-- JOKE-END -->
