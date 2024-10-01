@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the beaver say to the tree?
+What does a pirate pay for his corn?
 
-It's been nice gnawing you.
+A buccaneer!
 <!-- JOKE-END -->
