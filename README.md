@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+What do elves post on Social Media?
 
-I didn't even know they were catholic.
+Elf-ies.
 <!-- JOKE-END -->
