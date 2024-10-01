@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+I couldn't get a reservation at the library...
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+They were fully booked.
 <!-- JOKE-END -->
