@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+Why did the cookie go to the doctor?
 
-Nah, I'm still working on it.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
