@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+Why did the functions stop calling each other?
 
-Do you know the problem with UDP jokes?
+Because they had constant arguments.
 <!-- JOKE-END -->
