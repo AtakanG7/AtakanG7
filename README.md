@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it hit the wall?
+Why did the scarecrow win an award?
 
-Dam.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
