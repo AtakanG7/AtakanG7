@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+Why did the scarecrow win an award?
 
-Pop music!
+Because he was outstanding in his field.
 <!-- JOKE-END -->
