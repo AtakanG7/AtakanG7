@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-It got mugged.
+Lil Caesars
 <!-- JOKE-END -->
