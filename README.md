@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+Why didn't the number 4 get into the nightclub?
 
-Ground beef!
+Because he is 2 square.
 <!-- JOKE-END -->
