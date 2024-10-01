@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I was gonna tell you a joke about UDP...
+When is a door not a door?
 
-...but you might not get it.
+When it's ajar.
 <!-- JOKE-END -->
