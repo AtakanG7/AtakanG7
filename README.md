@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+What’s 50 Cent’s name in Zimbabwe?
 
-Fur protection.
+200 Dollars.
 <!-- JOKE-END -->
