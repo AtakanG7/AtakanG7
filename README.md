@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+What type of music do balloons hate?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+Pop music!
 <!-- JOKE-END -->
