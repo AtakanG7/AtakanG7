@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+What is a tornado's favorite game to play?
 
-It was always bold.
+Twister!
 <!-- JOKE-END -->
