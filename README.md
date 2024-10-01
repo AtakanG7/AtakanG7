@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+How do you check if a webpage is HTML5?
 
-A walk.
+Try it out on Internet Explorer
 <!-- JOKE-END -->
