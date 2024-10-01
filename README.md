@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Want to hear my pizza joke?
 
-They always egg-cercise!
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
