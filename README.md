@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about elevator jokes?
+How do you organize a space party?
 
-They work on so many levels.
+You planet.
 <!-- JOKE-END -->
