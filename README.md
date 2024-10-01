@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What's blue and not very heavy?
 
-When it's ajar.
+Light blue.
 <!-- JOKE-END -->
