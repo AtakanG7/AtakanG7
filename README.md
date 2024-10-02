@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What do you call a dictionary on drugs?
 
-He wanted to learn how to code outside the box.
+High definition.
 <!-- JOKE-END -->
