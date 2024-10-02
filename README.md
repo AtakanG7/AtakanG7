@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-To go with the traffic jam.
+So they could Scandinavian.
 <!-- JOKE-END -->
