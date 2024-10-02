@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did Darth Vader know what Luke was getting for Christmas?
+Why do bears have hairy coats?
 
-He felt his presents.
+Fur protection.
 <!-- JOKE-END -->
