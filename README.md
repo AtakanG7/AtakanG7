@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man run around his bed?
+Where did you learn to make ice cream?
 
-Because he was trying to catch up on his sleep!
+Sunday school.
 <!-- JOKE-END -->
