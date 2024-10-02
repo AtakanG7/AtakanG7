@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+Why did the cookie go to the doctor?
 
-Lack of concentration.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
