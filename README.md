@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Why did the worker get fired from the orange juice factory?
 
-He didn't know how to null his feelings.
+Lack of concentration.
 <!-- JOKE-END -->
