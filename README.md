@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+Why are graveyards so noisy?
 
-None, they prefer dark mode.
+Because of all the coffin.
 <!-- JOKE-END -->
