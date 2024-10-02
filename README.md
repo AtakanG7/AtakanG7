@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call cheese by itself?
+Why did the programmer quit his job?
 
-Provolone.
+Because he didn't get arrays.
 <!-- JOKE-END -->
