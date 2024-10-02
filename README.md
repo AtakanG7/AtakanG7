@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+A user interface is like a joke.
 
- Because it was feeling crumbly.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
