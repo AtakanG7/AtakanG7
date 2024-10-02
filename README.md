@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+What do you get when you cross a chicken with a skunk?
 
-A plain bagel.
+A fowl smell!
 <!-- JOKE-END -->
