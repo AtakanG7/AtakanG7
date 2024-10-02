@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do prisoners use to call each other?
+How good are you at Power Point?
 
-Cell phones.
+I Excel at it.
 <!-- JOKE-END -->
