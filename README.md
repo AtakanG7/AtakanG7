@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+Did you hear the one about the guy with the broken hearing aid?
 
-Because he doesn't want to be spotted.
+Neither did he.
 <!-- JOKE-END -->
