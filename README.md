@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+What do prisoners use to call each other?
 
-He was Bjorn again
+Cell phones.
 <!-- JOKE-END -->
