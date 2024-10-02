@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+How did Darth Vader know what Luke was getting for Christmas?
 
-Look, no hands!
+He felt his presents.
 <!-- JOKE-END -->
