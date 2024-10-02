@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+Why do C# and Java developers keep breaking their keyboards?
 
-Because if they fell forwards they’d still be in the boat.
+Because they use a strongly typed language.
 <!-- JOKE-END -->
