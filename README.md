@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+Want to hear my pizza joke?
 
-They're afraid to unwind.
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
