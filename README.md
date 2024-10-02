@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+What creature is smarter than a talking parrot?
 
-Because all of the fans left.
+A spelling bee.
 <!-- JOKE-END -->
