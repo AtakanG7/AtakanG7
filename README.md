@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A SQL query walks into a bar, walks up to two tables and asks...
+Why couldn't the lifeguard save the hippie?
 
-'Can I join you?'
+He was too far out, man.
 <!-- JOKE-END -->
