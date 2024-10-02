@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+What do you call a factory that sells passable products?
 
-Twister!
+A satisfactory
 <!-- JOKE-END -->
