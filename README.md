@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Did you hear about the crime in the parking garage?
 
-R2 detour.
+It was wrong on so many levels.
 <!-- JOKE-END -->
