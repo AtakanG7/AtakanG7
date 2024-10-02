@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+what do you call a dog that can do magic tricks?
 
-Dunno, they're just a bit shady.
+a labracadabrador
 <!-- JOKE-END -->
