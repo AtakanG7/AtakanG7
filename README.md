@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+I can't tell if i like this blender...
 
-To get to the other slide.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
