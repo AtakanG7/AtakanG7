@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+Why was the designer always cold?
 
-Because they don't C#.
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
