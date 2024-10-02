@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the mountain climber name his son?
+The punchline often arrives before the set-up.
 
-Cliff.
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
