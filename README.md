@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the news?
+Why did the programmer bring a broom to work?
 
-FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+To clean up all the bugs.
 <!-- JOKE-END -->
