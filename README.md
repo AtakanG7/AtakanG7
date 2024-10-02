@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+What's the difference between a hippo and a zippo?
 
-Nice belt.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
