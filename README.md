@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Want to hear a joke about construction?
 
-1forest1
+Nah, I'm still working on it.
 <!-- JOKE-END -->
