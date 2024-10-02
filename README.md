@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did celery say when he broke up with his girlfriend?
+Hey, dad, did you get a haircut?
 
-She wasn't right for me, so I really don't carrot all.
+No, I got them all cut.
 <!-- JOKE-END -->
