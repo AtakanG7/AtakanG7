@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+What is this movie about?
 
-Because they make up everything.
+It is about 2 hours long.
 <!-- JOKE-END -->
