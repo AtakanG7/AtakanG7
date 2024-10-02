@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+What did the Red light say to the Green light?
 
-It's because they don't know the words.
+Don't look at me I'm changing!
 <!-- JOKE-END -->
