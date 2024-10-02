@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+I was gonna tell you a joke about UDP...
 
-Lean beef.
+...but you might not get it.
 <!-- JOKE-END -->
