@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+Why do ducks make great detectives?
 
-I Excel at it.
+They always quack the case.
 <!-- JOKE-END -->
