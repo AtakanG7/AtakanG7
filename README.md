@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+What did the digital clock say to the grandfather clock?
 
-Never mind, it's too cheesy.
+Look, no hands!
 <!-- JOKE-END -->
