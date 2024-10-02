@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What do you call a droid that takes the long way around?
 
-Nah, I'm still working on it.
+R2 detour.
 <!-- JOKE-END -->
