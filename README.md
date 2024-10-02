@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+Why would a guitarist become a good programmer?
 
-Never mind...it's tearable
+He's adept at riffing in C#.
 <!-- JOKE-END -->
