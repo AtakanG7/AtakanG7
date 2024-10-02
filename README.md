@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+Why do Java programmers wear glasses?
 
-Do you get a laughing stock?
+Because they don't C#.
 <!-- JOKE-END -->
