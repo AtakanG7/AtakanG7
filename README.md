@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+Why did the chicken cross the playground?
 
-Inverse.
+To get to the other slide.
 <!-- JOKE-END -->
