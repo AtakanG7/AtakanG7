@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do birds fly south for the winter?
+A user interface is like a joke.
 
-Because it's too far to walk.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
