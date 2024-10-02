@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+What did celery say when he broke up with his girlfriend?
 
-Don't look at me I'm changing!
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
