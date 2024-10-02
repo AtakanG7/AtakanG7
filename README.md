@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
 
-Hare spray.
+the rest of them will write Perl
 <!-- JOKE-END -->
