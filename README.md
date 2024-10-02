@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+Why did the opera singer go sailing?
 
-They didn't get arrays.
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
