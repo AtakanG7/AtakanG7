@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give a sick lemon?
+Why do trees seem suspicious on sunny days?
 
-Lemonaid.
+Dunno, they're just a bit shady.
 <!-- JOKE-END -->
