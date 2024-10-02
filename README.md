@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+What did one snowman say to the other snow man?
 
-Tooth hurt-y.
+Do you smell carrot?
 <!-- JOKE-END -->
