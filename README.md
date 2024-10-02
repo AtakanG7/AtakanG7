@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did celery say when he broke up with his girlfriend?
+How many React developers does it take to change a lightbulb?
 
-She wasn't right for me, so I really don't carrot all.
+None, they prefer dark mode.
 <!-- JOKE-END -->
