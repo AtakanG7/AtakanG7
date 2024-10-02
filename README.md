@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+Why did the golfer bring two pairs of pants?
 
-Dung!
+In case he got a hole in one.
 <!-- JOKE-END -->
