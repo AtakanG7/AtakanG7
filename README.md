@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+What’s Forest Gump’s Facebook password?
 
-Cool Ranch!
+1forest1
 <!-- JOKE-END -->
