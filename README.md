@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do trees seem suspicious on sunny days?
+I got hit in the head by a soda can, but it didn't hurt that much...
 
-Dunno, they're just a bit shady.
+It was a soft drink.
 <!-- JOKE-END -->
