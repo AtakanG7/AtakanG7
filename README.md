@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one snowman say to the other snow man?
+Can February march?
 
-Do you smell carrot?
+No, but April may.
 <!-- JOKE-END -->
