@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+Why did the programmer quit their job?
 
-He’s only got little legs.
+They didn't get arrays.
 <!-- JOKE-END -->
