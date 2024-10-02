@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+Why did the girl smear peanut butter on the road?
 
-Their ghoul-friend
+To go with the traffic jam.
 <!-- JOKE-END -->
