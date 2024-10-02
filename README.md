@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+What did the Dorito farmer say to the other Dorito farmer?
 
-None, they prefer dark mode.
+Cool Ranch!
 <!-- JOKE-END -->
