@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+What do you call a factory that sells passable products?
 
-Yes, but don’t turn it on.
+A satisfactory
 <!-- JOKE-END -->
