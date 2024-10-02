@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+Why do programmers always get Christmas and Halloween mixed up?
 
-Parsing HTML with regex.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
