@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+Did you hear about the Mexican train killer?
 
-I don't think they'll fit me.
+He had loco motives
 <!-- JOKE-END -->
