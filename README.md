@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+Why was Cinderalla thrown out of the football team?
 
-Pop music!
+Because she ran away from the ball.
 <!-- JOKE-END -->
