@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best time to go to the dentist?
+What did the late tomato say to the early tomato?
 
-Tooth hurty.
+I’ll ketch up
 <!-- JOKE-END -->
