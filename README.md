@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+Why did the chicken cross the playground?
 
-Because they always used too much ice-olation.
+To get to the other slide.
 <!-- JOKE-END -->
