@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-To go with the traffic jam.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
