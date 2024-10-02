@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+What do you get when you cross a chicken with a skunk?
 
-a labracadabrador
+A fowl smell!
 <!-- JOKE-END -->
