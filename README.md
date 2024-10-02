@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+What kind of pants do ghosts wear?
 
-They always quack the case.
+Boo jeans.
 <!-- JOKE-END -->
