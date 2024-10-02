@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+Why did the A go to the bathroom and come out as an E?
 
-I'm sorry, we don't serve food here
+Because he had a vowel movement.
 <!-- JOKE-END -->
