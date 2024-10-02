@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer bring two pairs of pants?
+I just got fired from my job at the keyboard factory.
 
-In case he got a hole in one.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
