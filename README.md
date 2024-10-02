@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+I couldn't get a reservation at the library...
 
-Because he didn't get arrays.
+They were fully booked.
 <!-- JOKE-END -->
