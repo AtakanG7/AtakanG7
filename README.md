@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+What type of music do balloons hate?
 
-To clean up all the bugs.
+Pop music!
 <!-- JOKE-END -->
