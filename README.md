@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+What did the Dorito farmer say to the other Dorito farmer?
 
-Because of all the coffin.
+Cool Ranch!
 <!-- JOKE-END -->
