@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+Why is peter pan always flying?
 
- Because it was feeling crumbly.
+Because he neverlands
 <!-- JOKE-END -->
