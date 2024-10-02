@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a factory that sells passable products?
+Want to hear a joke about a piece of paper?
 
-A satisfactory
+Never mind...it's tearable
 <!-- JOKE-END -->
