@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What do you call a cow with two legs?
 
-I’ll ketch up
+Lean beef.
 <!-- JOKE-END -->
