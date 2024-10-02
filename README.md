@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+Dad, can you put my shoes on?
 
-He’s only got little legs.
+I don't think they'll fit me.
 <!-- JOKE-END -->
