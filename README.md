@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+What’s Forest Gump’s Facebook password?
 
-That she was a little boulder.
+1forest1
 <!-- JOKE-END -->
