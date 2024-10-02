@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+Hey, wanna hear a joke?
 
-Never mind, it's too cheesy.
+Parsing HTML with regex.
 <!-- JOKE-END -->
