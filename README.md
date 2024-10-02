@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why would a guitarist become a good programmer?
+What did the ocean say to the beach?
 
-He's adept at riffing in C#.
+Thanks for all the sediment.
 <!-- JOKE-END -->
