@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+What do you give a sick lemon?
 
-You give them some space... between the elements.
+Lemonaid.
 <!-- JOKE-END -->
