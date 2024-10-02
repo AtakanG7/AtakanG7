@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Why are mummys scared of vacation?
 
-The meat-ball.
+They're afraid to unwind.
 <!-- JOKE-END -->
