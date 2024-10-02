@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+What do you do when you see a space man?
 
-They're afraid to unwind.
+Park your car, man.
 <!-- JOKE-END -->
