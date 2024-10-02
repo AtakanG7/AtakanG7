@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+What is the least spoken language in the world?
 
-Never mind...it's tearable
+Sign Language
 <!-- JOKE-END -->
