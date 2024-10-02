@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+Can I watch the TV?
 
-Because it had nobody.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
