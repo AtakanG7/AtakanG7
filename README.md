@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+What's the worst thing about ancient history class?
 
-Lean beef.
+The teachers tend to Babylon.
 <!-- JOKE-END -->
