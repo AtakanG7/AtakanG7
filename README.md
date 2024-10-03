@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+What’s Forest Gump’s Facebook password?
 
-They wanted to hit the high Cs.
+1forest1
 <!-- JOKE-END -->
