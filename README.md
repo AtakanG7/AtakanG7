@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a French skeleton say hello?
+What do you call a cow with two legs?
 
-Bone-jour.
+Lean beef.
 <!-- JOKE-END -->
