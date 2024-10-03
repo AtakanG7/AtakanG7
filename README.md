@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Did you hear about the cow who jumped over the barbed wire fence?
 
-Add the letter G and it’s “gone”!
+It was udder destruction.
 <!-- JOKE-END -->
