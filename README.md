@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+What did the duck say when he bought lipstick?
 
-I haven’t been anywhere!
+Put it on my bill
 <!-- JOKE-END -->
