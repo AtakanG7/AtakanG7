@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+Why do valley girls hang out in odd numbered groups?
 
-Got stacks of em! First one's on the house
+Because they can't even.
 <!-- JOKE-END -->
