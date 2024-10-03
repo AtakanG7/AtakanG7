@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+Can February march?
 
-An in-vest-igator!
+No, but April may.
 <!-- JOKE-END -->
