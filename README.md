@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+What did the Dorito farmer say to the other Dorito farmer?
 
-Because all of the fans left.
+Cool Ranch!
 <!-- JOKE-END -->
