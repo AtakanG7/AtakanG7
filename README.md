@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+What’s the object-oriented way to become wealthy?
 
-The Foo Bar.
+Inheritance.
 <!-- JOKE-END -->
