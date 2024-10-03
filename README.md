@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+What do you call a cow with two legs?
 
-Even if you're wrong, you're only off by a bit.
+Lean beef.
 <!-- JOKE-END -->
