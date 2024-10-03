@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I was gonna tell you a joke about UDP...
+Why was the font always tired?
 
-...but you might not get it.
+It was always bold.
 <!-- JOKE-END -->
