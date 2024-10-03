@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+What do you call a cow with no legs?
 
-Heavy metal.
+Ground beef!
 <!-- JOKE-END -->
