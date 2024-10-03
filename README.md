@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+Why did the chicken get a penalty?
 
-The teachers tend to Babylon.
+For fowl play.
 <!-- JOKE-END -->
