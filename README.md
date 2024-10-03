@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+Want to hear a chimney joke?
 
-It hurts when IP.
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
