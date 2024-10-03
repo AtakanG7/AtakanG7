@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+Did you hear about the Mexican train killer?
 
-Sneakers
+He had loco motives
 <!-- JOKE-END -->
