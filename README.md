@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-Because they live in schools!
+Lil Caesars
 <!-- JOKE-END -->
