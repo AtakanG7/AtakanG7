@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+A termite walks into a bar and says...
 
-Because it's not stroganoff.
+'Where is the bar tended?'
 <!-- JOKE-END -->
