@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is red and smells like blue paint?
+What's red and bad for your teeth?
 
-Red paint!
+A Brick.
 <!-- JOKE-END -->
