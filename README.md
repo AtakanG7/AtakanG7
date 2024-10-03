@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+What do you call a duck that gets all A's?
 
-They can't control their pupils.
+A wise quacker.
 <!-- JOKE-END -->
