@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+Why was the developer always calm?
 
-The library, it’s got the most stories!
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
