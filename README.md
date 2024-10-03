@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+Why did the programmer quit their job?
 
-The BP station.
+They didn't get arrays.
 <!-- JOKE-END -->
