@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+How do you get two whales in a car?
 
-At sundae school.
+Start in England and drive West.
 <!-- JOKE-END -->
