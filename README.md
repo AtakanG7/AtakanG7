@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit their job?
+What do you call an alligator in a vest?
 
-They didn't get arrays.
+An in-vest-igator!
 <!-- JOKE-END -->
