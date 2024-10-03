@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is the pool safe for diving?
+Why do ducks make great detectives?
 
-It deep ends.
+They always quack the case.
 <!-- JOKE-END -->
