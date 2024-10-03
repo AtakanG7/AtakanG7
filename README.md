@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+What did the scarf say to the hat?
 
-An impasta.
+You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
