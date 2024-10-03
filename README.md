@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What lies at the bottom of the ocean and twitches?
+Why did the programmer quit his job?
 
-A nervous wreck.
+Because he didn't get arrays.
 <!-- JOKE-END -->
