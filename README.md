@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+Where do programmers like to hangout?
 
-Too many bugs.
+The Foo Bar.
 <!-- JOKE-END -->
