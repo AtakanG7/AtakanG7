@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+Why did Dracula lie in the wrong coffin?
 
-You planet.
+He made a grave mistake.
 <!-- JOKE-END -->
