@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+What kind of award did the dentist receive?
 
-They haven't got a gig yet.
+A little plaque.
 <!-- JOKE-END -->
