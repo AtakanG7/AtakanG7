@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+What did the pirate say on his 80th birthday?
 
-The outside.
+Aye Matey!
 <!-- JOKE-END -->
