@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
+What's the difference between a guitar and a fish?
 
-Because there’s a Shortstop in between!
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
