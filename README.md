@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Why does Norway have barcodes on their battleships?
 
-Start in England and drive West.
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
