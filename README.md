@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the scarf say to the hat?
+Is the pool safe for diving?
 
-You go on ahead, I am going to hang around a bit longer.
+It deep ends.
 <!-- JOKE-END -->
