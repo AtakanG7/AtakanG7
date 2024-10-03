@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+What's the best thing about a Boolean?
 
-He made a grave mistake.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
