@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+How many optometrists does it take to change a light bulb?
 
-Pop music!
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
