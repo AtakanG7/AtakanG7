@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+How does a penguin build it’s house?
 
-They wanted to hit the high Cs.
+Igloos it together.
 <!-- JOKE-END -->
