@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-You see, mountains aren't just funny.
+Why did the kid cross the playground?
 
-They are hill areas.
+To get to the other slide.
 <!-- JOKE-END -->
