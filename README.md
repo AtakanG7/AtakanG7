@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+What lies at the bottom of the ocean and twitches?
 
-Too many bugs.
+A nervous wreck.
 <!-- JOKE-END -->
