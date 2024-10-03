@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+How many tickles does it take to tickle an octopus?
 
-A little plaque.
+Ten-tickles!
 <!-- JOKE-END -->
