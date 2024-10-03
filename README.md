@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+How do you make the number one disappear?
 
-Because all of the fans left.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
