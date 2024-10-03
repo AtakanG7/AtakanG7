@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+What do you call a computer mouse that swears a lot?
 
-European
+A cursor!
 <!-- JOKE-END -->
