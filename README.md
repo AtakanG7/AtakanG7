@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+What did the Zen Buddist say to the hotdog vendor?
 
-They will give you a piece of your mind.
+Make me one with everything.
 <!-- JOKE-END -->
