@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Java code say to the C code?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-You've got no class.
+European
 <!-- JOKE-END -->
