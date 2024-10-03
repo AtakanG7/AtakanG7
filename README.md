@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+What do you call a monkey in a mine field?
 
-It was always bold.
+A babooooom!
 <!-- JOKE-END -->
