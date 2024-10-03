@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Norway have barcodes on their battleships?
+A termite walks into a bar and says...
 
-So when they get back to port, they can Scandinavian.
+'Where is the bar tended?'
 <!-- JOKE-END -->
