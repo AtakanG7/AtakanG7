@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+Did you hear about the hungry clock?
 
-Light blue.
+It went back four seconds.
 <!-- JOKE-END -->
