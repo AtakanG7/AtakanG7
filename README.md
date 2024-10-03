@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Why did the developer break up with their keyboard?
 
-'Where is the bar tended?'
+It just wasn't their type anymore.
 <!-- JOKE-END -->
