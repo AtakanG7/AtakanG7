@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a guitar and a fish?
+Why did the opera singer go sailing?
 
-You can tune a guitar but you can't "tuna"fish!
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
