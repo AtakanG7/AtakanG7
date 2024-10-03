@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid cross the playground?
+What did the 0 say to the 8?
 
-To get to the other slide.
+Nice belt.
 <!-- JOKE-END -->
