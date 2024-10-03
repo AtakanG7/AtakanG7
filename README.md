@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+I was gonna tell you a joke about UDP...
 
-Too many bugs.
+...but you might not get it.
 <!-- JOKE-END -->
