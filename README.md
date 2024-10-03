@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best time to go to the dentist?
+What did the router say to the doctor?
 
-Tooth hurty.
+It hurts when IP.
 <!-- JOKE-END -->
