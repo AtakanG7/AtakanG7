@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the digital clock say to the grandfather clock?
+What's the worst part about being a cross-eyed teacher?
 
-Look, no hands!
+They can't control their pupils.
 <!-- JOKE-END -->
