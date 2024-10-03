@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+What’s the difference between an African elephant and an Indian elephant?
 
-Because he didn't get arrays.
+About 5000 miles.
 <!-- JOKE-END -->
