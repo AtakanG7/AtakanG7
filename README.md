@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What did the judge say to the dentist?
 
-When it's ajar.
+Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
