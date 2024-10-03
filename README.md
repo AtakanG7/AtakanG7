@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+What do you call a troublesome Canadian high schooler?
 
-To clean up all the bugs.
+A poutine.
 <!-- JOKE-END -->
