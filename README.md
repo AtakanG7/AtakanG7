@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+How many programmers does it take to change a lightbulb?
 
-That she was a little boulder.
+None that's a hardware problem
 <!-- JOKE-END -->
