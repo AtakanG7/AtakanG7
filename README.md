@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you tell the difference between a crocodile and an alligator?
+What do you call cheese by itself?
 
-You will see one later and one in a while.
+Provolone.
 <!-- JOKE-END -->
