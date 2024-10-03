@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+Why don't programmers like nature?
 
-Got stacks of em! First one's on the house
+Too many bugs.
 <!-- JOKE-END -->
