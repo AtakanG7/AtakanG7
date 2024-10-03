@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers prefer dark chocolate?
+Why does a Moon-rock taste better than an Earth-rock?
 
-Because it's bitter like their code.
+Because it's a little meteor.
 <!-- JOKE-END -->
