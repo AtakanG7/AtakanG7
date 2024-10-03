@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+How do you tell the difference between a crocodile and an alligator?
 
-Because they knew how to handle exceptions.
+You will see one later and one in a while.
 <!-- JOKE-END -->
