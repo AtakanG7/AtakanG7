@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+What is the tallest building in the world?
 
-They haven't got a gig yet.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
