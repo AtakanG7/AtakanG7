@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+What did the Java code say to the C code?
 
-Nice belt.
+You've got no class.
 <!-- JOKE-END -->
