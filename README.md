@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+What do you call a dictionary on drugs?
 
-Because it's a little meteor.
+High definition.
 <!-- JOKE-END -->
