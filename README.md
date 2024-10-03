@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+What is red and smells like blue paint?
 
-Igloos it together.
+Red paint!
 <!-- JOKE-END -->
