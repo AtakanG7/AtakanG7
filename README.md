@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+Have you heard of the band 1023MB?
 
-The stock market.
+They haven't got a gig yet.
 <!-- JOKE-END -->
