@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go broke?
+Want to hear a chimney joke?
 
-He used up all his cache
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
