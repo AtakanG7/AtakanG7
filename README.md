@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+Did you hear the one about the guy with the broken hearing aid?
 
-It gets jalapeño face.
+Neither did he.
 <!-- JOKE-END -->
