@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't React developers like nature?
+Where did you learn to make ice cream?
 
-They prefer the virtual DOM.
+Sunday school.
 <!-- JOKE-END -->
