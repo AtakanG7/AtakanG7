@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+Did you hear about the Mexican train killer?
 
-You jacket.
+He had loco motives
 <!-- JOKE-END -->
