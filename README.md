@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cow who jumped over the barbed wire fence?
+Which side of the chicken has more feathers?
 
-It was udder destruction.
+The outside.
 <!-- JOKE-END -->
