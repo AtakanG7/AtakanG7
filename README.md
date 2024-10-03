@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+Why don't React developers like nature?
 
-A blood orange.
+They prefer the virtual DOM.
 <!-- JOKE-END -->
