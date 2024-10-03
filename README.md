@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Mexican train killer?
+Why did the A go to the bathroom and come out as an E?
 
-He had loco motives
+Because he had a vowel movement.
 <!-- JOKE-END -->
