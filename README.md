@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+Why do you never see elephants hiding in trees?
 
-A blood orange.
+Because they're so good at it.
 <!-- JOKE-END -->
