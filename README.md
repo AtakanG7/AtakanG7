@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+Why did the chicken get a penalty?
 
-Does that make you an iWitness?
+For fowl play.
 <!-- JOKE-END -->
