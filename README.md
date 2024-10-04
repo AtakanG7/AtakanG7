@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+How many kids with ADD does it take to change a lightbulb?
 
-Because they see sharp.
+Let's go ride bikes!
 <!-- JOKE-END -->
