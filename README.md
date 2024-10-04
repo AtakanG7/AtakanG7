@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+What do you call a computer mouse that swears a lot?
 
-Because nothing gets under their skin.
+A cursor!
 <!-- JOKE-END -->
