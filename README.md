@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+How do locomotives know where they're going?
 
-About 5000 miles.
+Lots of training
 <!-- JOKE-END -->
