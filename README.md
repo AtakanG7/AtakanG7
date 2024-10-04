@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+How many seconds are in a year?
 
-They will give you a piece of your mind.
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
 <!-- JOKE-END -->
