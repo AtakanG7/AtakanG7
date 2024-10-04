@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+What does a clock do when it's hungry?
 
-Pop,goes the weasel.
+It goes back four seconds!
 <!-- JOKE-END -->
