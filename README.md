@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Why did the cowboy have a weiner dog?
 
-Igloos it together.
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
