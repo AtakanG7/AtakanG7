@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+What do you call a fat psychic?
 
-Algae-bra.
+A four-chin teller.
 <!-- JOKE-END -->
