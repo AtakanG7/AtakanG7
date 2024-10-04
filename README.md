@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+What creature is smarter than a talking parrot?
 
-They're afraid to unwind.
+A spelling bee.
 <!-- JOKE-END -->
