@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+Why did the developer quit his job?
 
-A buccaneer!
+Because he didn't get arrays.
 <!-- JOKE-END -->
