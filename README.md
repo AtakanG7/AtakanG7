@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+Did you hear about the guy who invented Lifesavers?
 
-It goes back four seconds!
+They say he made a mint.
 <!-- JOKE-END -->
