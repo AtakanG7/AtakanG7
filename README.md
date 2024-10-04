@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the private classes break up?
+Hey, wanna hear a joke?
 
-Because they never saw each other.
+Parsing HTML with regex.
 <!-- JOKE-END -->
