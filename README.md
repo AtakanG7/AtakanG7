@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+How does a penguin build it’s house?
 
-It was two-tired.
+Igloos it together.
 <!-- JOKE-END -->
