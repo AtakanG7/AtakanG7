@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What does a clock do when it's hungry?
 
-When it's ajar.
+It goes back four seconds!
 <!-- JOKE-END -->
