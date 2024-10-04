@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+What do you call a monkey in a mine field?
 
-It goes back four seconds!
+A babooooom!
 <!-- JOKE-END -->
