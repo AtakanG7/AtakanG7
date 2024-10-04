@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What did the Zen Buddist say to the hotdog vendor?
 
-The ground.
+Make me one with everything.
 <!-- JOKE-END -->
