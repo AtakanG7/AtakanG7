@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+What did the grape do when he got stepped on?
 
-In case they get a hole in one!
+He let out a little wine.
 <!-- JOKE-END -->
