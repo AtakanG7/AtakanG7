@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What animal is always at a game of cricket?
+Why is peter pan always flying?
 
-A bat.
+Because he neverlands
 <!-- JOKE-END -->
