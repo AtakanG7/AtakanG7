@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pirates not know the alphabet?
+What did the ocean say to the shore?
 
-They always get stuck at "C".
+Nothing, it just waved.
 <!-- JOKE-END -->
