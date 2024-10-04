@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+What is the difference between ignorance and apathy?
 
-They wanted to hit the high Cs.
+I don't know and I don't care.
 <!-- JOKE-END -->
