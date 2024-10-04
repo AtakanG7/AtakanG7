@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the invisible man turn down the job offer?
+Did you hear about the guy who invented Lifesavers?
 
-He couldn't see himself doing it
+They say he made a mint.
 <!-- JOKE-END -->
