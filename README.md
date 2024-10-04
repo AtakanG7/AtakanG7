@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+What's the worst part about being a cross-eyed teacher?
 
-The batroom.
+They can't control their pupils.
 <!-- JOKE-END -->
