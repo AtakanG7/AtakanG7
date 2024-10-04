@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+What did the Java code say to the C code?
 
-200 Dollars.
+You've got no class.
 <!-- JOKE-END -->
