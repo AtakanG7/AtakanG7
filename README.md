@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+Where was the Declaration of Independence signed?
 
-Now we just have to call him Dav.
+At the bottom! 
 <!-- JOKE-END -->
