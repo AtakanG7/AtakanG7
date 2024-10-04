@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+A termite walks into a bar and says...
 
-Never mind, I shouldn't spread it.
+'Where is the bar tended?'
 <!-- JOKE-END -->
