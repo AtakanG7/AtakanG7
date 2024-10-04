@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who did the wizard marry?
+Did you know that protons have mass?
 
-His ghoul-friend
+I didn't even know they were catholic.
 <!-- JOKE-END -->
