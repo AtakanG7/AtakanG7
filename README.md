@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+How does a French skeleton say hello?
 
-I haven’t been anywhere!
+Bone-jour.
 <!-- JOKE-END -->
