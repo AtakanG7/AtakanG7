@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+What did the big flower say to the littler flower?
 
-Dung!
+Hi, bud!
 <!-- JOKE-END -->
