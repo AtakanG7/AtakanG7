@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+If you see a robbery at an Apple Store...
 
-A function component.
+Does that make you an iWitness?
 <!-- JOKE-END -->
