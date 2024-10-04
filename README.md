@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+What’s 50 Cent’s name in Zimbabwe?
 
-No, I got them all cut.
+200 Dollars.
 <!-- JOKE-END -->
