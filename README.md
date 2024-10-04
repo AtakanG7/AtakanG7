@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+Who did the wizard marry?
 
-You jacket.
+His ghoul-friend
 <!-- JOKE-END -->
