@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What’s brown and sounds like a bell?
 
-Nah, I'm still working on it.
+Dung!
 <!-- JOKE-END -->
