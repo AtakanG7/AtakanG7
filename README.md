@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+Why don't eggs tell jokes?
 
-Nice belt.
+Because they would crack each other up.
 <!-- JOKE-END -->
