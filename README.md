@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do locomotives know where they're going?
+Why dot net developers don't wear glasses?
 
-Lots of training
+Because they see sharp.
 <!-- JOKE-END -->
