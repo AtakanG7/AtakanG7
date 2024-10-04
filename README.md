@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+Why did the invisible man turn down the job offer?
 
-A stega-snore-us.
+He couldn't see himself doing it
 <!-- JOKE-END -->
