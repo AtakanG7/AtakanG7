@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+When is a door not a door?
 
-It keeps giving me mixed results.
+When it's ajar.
 <!-- JOKE-END -->
