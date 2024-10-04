@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+What is a tornado's favorite game to play?
 
-All of them!
+Twister!
 <!-- JOKE-END -->
