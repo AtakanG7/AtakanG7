@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What happens when you anger a brain surgeon?
 
-Boo jeans.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
