@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+What’s the difference between an African elephant and an Indian elephant?
 
-At sundae school.
+About 5000 miles.
 <!-- JOKE-END -->
