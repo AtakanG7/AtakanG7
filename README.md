@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+When is a door not a door?
 
-They always quack the case.
+When it's ajar.
 <!-- JOKE-END -->
