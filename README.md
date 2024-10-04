@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+Why didn’t the orange win the race?
 
-A handful of them.
+It ran out of juice.
 <!-- JOKE-END -->
