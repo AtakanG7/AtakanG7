@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+What did one ocean say to the other ocean?
 
-They kept spending all their cache.
+Nothing, they just waved.
 <!-- JOKE-END -->
