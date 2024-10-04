@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many kids with ADD does it take to change a lightbulb?
+Why are ghosts bad liars?
 
-Let's go ride bikes!
+Because you can see right through them!
 <!-- JOKE-END -->
