@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the janitor say when he jumped out of the closet?
+Did you hear the one about the guy with the broken hearing aid?
 
-Supplies!
+Neither did he.
 <!-- JOKE-END -->
