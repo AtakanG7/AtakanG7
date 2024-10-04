@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+Bad at golf?
 
-Because they see sharp.
+Join the club.
 <!-- JOKE-END -->
