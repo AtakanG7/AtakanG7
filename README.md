@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When is a door not a door?
+What did the big flower say to the littler flower?
 
-When it's ajar.
+Hi, bud!
 <!-- JOKE-END -->
