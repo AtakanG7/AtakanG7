@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+Why dot net developers don't wear glasses?
 
-It gets toad away
+Because they see sharp.
 <!-- JOKE-END -->
