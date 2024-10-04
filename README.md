@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+How many bones are in the human hand?
 
-Between us, something smells!
+A handful of them.
 <!-- JOKE-END -->
