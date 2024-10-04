@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+What did celery say when he broke up with his girlfriend?
 
-Do you get a laughing stock?
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
