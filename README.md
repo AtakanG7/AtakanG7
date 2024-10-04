@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+Why did the opera singer go sailing?
 
-Park your car, man.
+They wanted to hit the high Cs.
 <!-- JOKE-END -->
