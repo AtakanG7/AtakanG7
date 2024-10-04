@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+What did the left eye say to the right eye?
 
-Dung!
+Between us, something smells!
 <!-- JOKE-END -->
