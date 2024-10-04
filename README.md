@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+What is the hardest part about sky diving?
 
-Join the club.
+The ground.
 <!-- JOKE-END -->
