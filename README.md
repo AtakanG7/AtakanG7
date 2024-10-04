@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+What do you call a cow on a trampoline?
 
-You can only use a low ha.
+A milk shake!
 <!-- JOKE-END -->
