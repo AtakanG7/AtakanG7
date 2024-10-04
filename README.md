@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+Why do fathers take an extra pair of socks when they go golfing?
 
-Because he neverlands
+In case they get a hole in one!
 <!-- JOKE-END -->
