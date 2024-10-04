@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+What happens when you anger a brain surgeon?
 
-It ran out of juice.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
