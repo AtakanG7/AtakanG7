@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+Want to hear a joke about construction?
 
-Put a little boogie in it.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
