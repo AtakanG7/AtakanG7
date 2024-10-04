@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Where does batman go to the bathroom?
 
-'Where is the bar tended?'
+The batroom.
 <!-- JOKE-END -->
