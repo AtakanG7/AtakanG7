@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+What does a clock do when it's hungry?
 
-There was nothing left but de Brie.
+It goes back four seconds!
 <!-- JOKE-END -->
