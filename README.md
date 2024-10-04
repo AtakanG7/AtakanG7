@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+Why did the programmer always mix up Halloween and Christmas?
 
-So time would fly.
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
