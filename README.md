@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the big flower say to the littler flower?
+What lies at the bottom of the ocean and twitches?
 
-Hi, bud!
+A nervous wreck.
 <!-- JOKE-END -->
