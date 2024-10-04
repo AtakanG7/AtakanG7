@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+What did the mountain climber name his son?
 
-It was two-tired.
+Cliff.
 <!-- JOKE-END -->
