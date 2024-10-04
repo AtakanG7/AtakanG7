@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+What’s brown and sounds like a bell?
 
-Nothing, they just waved.
+Dung!
 <!-- JOKE-END -->
