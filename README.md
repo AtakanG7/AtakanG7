@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Did you hear about the cheese factory that exploded in France?
 
-Twister!
+There was nothing left but de Brie.
 <!-- JOKE-END -->
