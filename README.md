@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+What’s 50 Cent’s name in Zimbabwe?
 
-The teachers tend to Babylon.
+200 Dollars.
 <!-- JOKE-END -->
