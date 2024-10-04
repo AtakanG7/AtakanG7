@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the designer break up with their font?
+Did you hear that David lost his ID in prague?
 
-Because it wasn't their type.
+Now we just have to call him Dav.
 <!-- JOKE-END -->
