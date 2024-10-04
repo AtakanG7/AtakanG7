@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't eggs tell jokes?
+How do you make a hankie dance?
 
-Because they would crack each other up.
+Put a little boogie in it.
 <!-- JOKE-END -->
