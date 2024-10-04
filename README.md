@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+I couldn't get a reservation at the library...
 
-Parsing HTML with regex.
+They were fully booked.
 <!-- JOKE-END -->
