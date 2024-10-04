@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that David lost his ID in prague?
+What kind of pants do ghosts wear?
 
-Now we just have to call him Dav.
+Boo jeans.
 <!-- JOKE-END -->
