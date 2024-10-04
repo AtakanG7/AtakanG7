@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Why couldn't the bicycle stand up by itself?
 
-Because every seat has a fan in it.
+It was two-tired.
 <!-- JOKE-END -->
