@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Why did the cookie cry?
 
-They were fully booked.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
