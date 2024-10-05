@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do birds fly south for the winter?
+Where do rabbits go after they get married?
 
-Because it's too far to walk.
+On a bunny-moon.
 <!-- JOKE-END -->
