@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+What did the Dorito farmer say to the other Dorito farmer?
 
-An irrelephant.
+Cool Ranch!
 <!-- JOKE-END -->
