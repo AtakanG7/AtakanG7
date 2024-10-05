@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+Why can't your nose be 12 inches long?
 
-Well, the flag is a big plus.
+Because then it'd be a foot!
 <!-- JOKE-END -->
