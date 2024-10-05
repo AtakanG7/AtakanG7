@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Did you hear the news?
 
-When they run out of patients.
+FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 <!-- JOKE-END -->
