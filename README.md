@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the duck say when he bought lipstick?
+What animal is always at a game of cricket?
 
-Put it on my bill
+A bat.
 <!-- JOKE-END -->
