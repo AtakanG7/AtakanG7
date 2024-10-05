@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Why did the invisible man turn down the job offer?
 
-At sundae school.
+He couldn't see himself doing it
 <!-- JOKE-END -->
