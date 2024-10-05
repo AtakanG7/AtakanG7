@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the invisible man turn down the job offer?
+Why do scuba divers fall backwards into the water?
 
-He couldn't see himself doing it
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
