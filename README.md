@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+Why don't you find hippopotamuses hiding in trees?
 
-None that's a hardware problem
+They're really good at it.
 <!-- JOKE-END -->
