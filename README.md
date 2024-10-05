@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+Can a kangaroo jump higher than the Empire State Building?
 
-Their ghoul-friend
+Of course. The Empire State Building can't jump.
 <!-- JOKE-END -->
