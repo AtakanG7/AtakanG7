@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the invisible man turn down the job offer?
+What's brown and sticky?
 
-He couldn't see himself doing it
+A stick.
 <!-- JOKE-END -->
