@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+What did the janitor say when he jumped out of the closet?
 
-Saturday and Sunday...the rest are weekdays.
+Supplies!
 <!-- JOKE-END -->
