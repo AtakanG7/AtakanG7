@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow on a trampoline?
+How do you get two whales in a car?
 
-A milk shake!
+Start in England and drive West.
 <!-- JOKE-END -->
