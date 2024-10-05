@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+When do doctors get angry?
 
-A gummy bear!
+When they run out of patients.
 <!-- JOKE-END -->
