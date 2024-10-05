@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+If you see a robbery at an Apple Store...
 
-Eclipse it.
+Does that make you an iWitness?
 <!-- JOKE-END -->
