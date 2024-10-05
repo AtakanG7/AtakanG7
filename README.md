@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+Why did the coffee file a police report?
 
-In a nutshell, it's an oak tree.
+It got mugged.
 <!-- JOKE-END -->
