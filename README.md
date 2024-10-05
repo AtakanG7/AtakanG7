@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+Where do you learn to make banana splits?
 
-A crookodile!
+At sundae school.
 <!-- JOKE-END -->
