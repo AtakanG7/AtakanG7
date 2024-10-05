@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who is the coolest Doctor in the hospital?
+Why did Dracula lie in the wrong coffin?
 
-The hip Doctor!
+He made a grave mistake.
 <!-- JOKE-END -->
