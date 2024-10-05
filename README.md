@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+Why dot net developers don't wear glasses?
 
-USB.
+Because they see sharp.
 <!-- JOKE-END -->
