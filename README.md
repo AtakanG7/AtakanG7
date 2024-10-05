@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Why can’t you hear a pterodactyl go to the bathroom?
 
-They were fully booked.
+The p is silent.
 <!-- JOKE-END -->
