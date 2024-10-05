@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What do you call a singing Laptop?
 
-The ground.
+A Dell
 <!-- JOKE-END -->
