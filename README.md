@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+How do you tell the difference between a crocodile and an alligator?
 
-Because if they fell forwards they’d still be in the boat.
+You will see one later and one in a while.
 <!-- JOKE-END -->
