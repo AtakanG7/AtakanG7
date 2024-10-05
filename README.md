@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pumpkins sit on people’s porches?
+What do you call a cow on a trampoline?
 
-They have no hands to knock on the door.
+A milk shake!
 <!-- JOKE-END -->
