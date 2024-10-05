@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Dorito farmer say to the other Dorito farmer?
+Did you hear about the crime in the parking garage?
 
-Cool Ranch!
+It was wrong on so many levels.
 <!-- JOKE-END -->
