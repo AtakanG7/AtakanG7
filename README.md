@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't your nose be 12 inches long?
+What do you call a bee that can't make up its mind?
 
-Because then it'd be a foot!
+A maybe.
 <!-- JOKE-END -->
