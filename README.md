@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+There are 10 types of people in this world...
 
-Never mind, I shouldn't spread it.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
