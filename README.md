@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+A DHCP packet walks into a bar and asks for a beer.
 
-Never mind...it's tearable
+Bartender says, "here, but I’ll need that back in an hour!"
 <!-- JOKE-END -->
