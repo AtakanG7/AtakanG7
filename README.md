@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fat psychic?
+Why do valley girls hang out in odd numbered groups?
 
-A four-chin teller.
+Because they can't even.
 <!-- JOKE-END -->
