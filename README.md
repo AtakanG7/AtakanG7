@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+I dropped a pear in my car this morning.
 
-I Excel at it.
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
