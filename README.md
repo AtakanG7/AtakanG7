@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What did one ocean say to the other ocean?
 
-Boo jeans.
+Nothing, they just waved.
 <!-- JOKE-END -->
