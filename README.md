@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+Did you know you should always take an extra pair of pants golfing?
 
-Because they knew how to handle exceptions.
+Just in case you get a hole in one.
 <!-- JOKE-END -->
