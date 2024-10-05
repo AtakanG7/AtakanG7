@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+Which side of the chicken has more feathers?
 
-Because they use honey combs!
+The outside.
 <!-- JOKE-END -->
