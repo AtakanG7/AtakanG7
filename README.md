@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it swam into a wall?
+did you know the first French fries weren't cooked in France?
 
-Damn!
+they were cooked in Greece
 <!-- JOKE-END -->
