@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a boomerang that won't come back?
+Why did the house go to the doctor?
 
-A stick.
+It was having window panes.
 <!-- JOKE-END -->
