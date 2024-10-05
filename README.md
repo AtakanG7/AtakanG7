@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+What cheese can never be yours?
 
-Your head hits the ceiling!
+Nacho cheese.
 <!-- JOKE-END -->
