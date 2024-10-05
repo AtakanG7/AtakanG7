@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do chicken coops only have two doors?
+What do you call an Argentinian with a rubber toe?
 
-Because if they had four, they would be chicken sedans
+Roberto
 <!-- JOKE-END -->
