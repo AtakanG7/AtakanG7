@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+Why did Sweden start painting barcodes on the sides of their battleships?
 
-Nothing, they just waved.
+So they could Scandinavian.
 <!-- JOKE-END -->
