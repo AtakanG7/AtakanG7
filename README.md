@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-['hip', 'hip']
+What is the hardest part about sky diving?
 
-(hip hip array)
+The ground.
 <!-- JOKE-END -->
