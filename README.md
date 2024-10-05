@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+Why did the worker get fired from the orange juice factory?
 
-A buccaneer!
+Lack of concentration.
 <!-- JOKE-END -->
