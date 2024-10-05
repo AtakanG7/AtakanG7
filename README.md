@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+Why are ghosts bad liars?
 
-A cat-tastrophe.
+Because you can see right through them!
 <!-- JOKE-END -->
