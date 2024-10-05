@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+What's the difference between a hippo and a zippo?
 
-It's impossible to put down
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
