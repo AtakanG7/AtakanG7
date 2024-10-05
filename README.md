@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do C# and Java developers keep breaking their keyboards?
+Why was Cinderalla thrown out of the football team?
 
-Because they use a strongly typed language.
+Because she ran away from the ball.
 <!-- JOKE-END -->
