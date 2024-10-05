@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
 
-He wanted cold hard cash!
+Pop,goes the weasel.
 <!-- JOKE-END -->
