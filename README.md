@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+How does the moon cut his hair?
 
-It went back four seconds.
+Eclipse it.
 <!-- JOKE-END -->
