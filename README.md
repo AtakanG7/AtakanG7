@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Romans use to cut pizza before the rolling cutter was invented?
+What's the difference between a hippo and a zippo?
 
-Lil Caesars
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
