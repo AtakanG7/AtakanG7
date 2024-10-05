@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+What do you call a fat psychic?
 
-Because they see sharp.
+A four-chin teller.
 <!-- JOKE-END -->
