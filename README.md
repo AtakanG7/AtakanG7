@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can a kangaroo jump higher than the Empire State Building?
+How do you make a tissue dance?
 
-Of course. The Empire State Building can't jump.
+You put a little boogie on it.
 <!-- JOKE-END -->
