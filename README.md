@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+Why did Dracula lie in the wrong coffin?
 
-You can only use a low ha.
+He made a grave mistake.
 <!-- JOKE-END -->
