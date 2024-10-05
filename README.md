@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where’s the bin?
+Why did the man put his money in the freezer?
 
-I haven’t been anywhere!
+He wanted cold hard cash!
 <!-- JOKE-END -->
