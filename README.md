@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+What do you call a cow with no legs?
 
-He made a grave mistake.
+Ground beef!
 <!-- JOKE-END -->
