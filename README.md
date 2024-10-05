@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Where’s the bin?
 
-You should drop another one, then you would have a pair.
+I haven’t been anywhere!
 <!-- JOKE-END -->
