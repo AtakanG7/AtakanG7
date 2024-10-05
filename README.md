@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+What do you call a fly without wings?
 
-You put a little boogie on it.
+A walk.
 <!-- JOKE-END -->
