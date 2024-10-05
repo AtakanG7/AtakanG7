@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+What kind of dinosaur loves to sleep?
 
-Because he couldn't see that well!
+A stega-snore-us.
 <!-- JOKE-END -->
