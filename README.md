@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+What do you get when you cross a chicken with a skunk?
 
-Because they can't even.
+A fowl smell!
 <!-- JOKE-END -->
