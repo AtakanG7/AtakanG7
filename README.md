@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A DHCP packet walks into a bar and asks for a beer.
+What’s Forest Gump’s Facebook password?
 
-Bartender says, "here, but I’ll need that back in an hour!"
+1forest1
 <!-- JOKE-END -->
