@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+Why do birds fly south for the winter?
 
-Inheritance.
+Because it's too far to walk.
 <!-- JOKE-END -->
