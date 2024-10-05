@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dad that has fallen through the ice?
+What do you call a boomerang that won't come back?
 
-A Popsicle.
+A stick.
 <!-- JOKE-END -->
