@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+What kind of pants do ghosts wear?
 
-A stega-snore-us.
+Boo jeans.
 <!-- JOKE-END -->
