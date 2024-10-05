@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+Why do C# and Java developers keep breaking their keyboards?
 
-A fowl smell!
+Because they use a strongly typed language.
 <!-- JOKE-END -->
