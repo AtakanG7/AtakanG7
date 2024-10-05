@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+What did the pirate say on his 80th birthday?
 
-A buccaneer!
+Aye Matey!
 <!-- JOKE-END -->
