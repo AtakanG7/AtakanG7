@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+Who is the coolest Doctor in the hospital?
 
-To go with the traffic jam.
+The hip Doctor!
 <!-- JOKE-END -->
