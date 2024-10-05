@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can’t you hear a pterodactyl go to the bathroom?
+What do you call an Argentinian with a rubber toe?
 
-The p is silent.
+Roberto
 <!-- JOKE-END -->
