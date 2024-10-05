@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+Why did the invisible man turn down the job offer?
 
-It hurts when IP.
+He couldn't see himself doing it
 <!-- JOKE-END -->
