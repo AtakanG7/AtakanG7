@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What’s the object-oriented way to become wealthy?
 
-A walk.
+Inheritance.
 <!-- JOKE-END -->
