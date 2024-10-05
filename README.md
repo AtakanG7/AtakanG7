@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the kid throw the watch out the window?
+What time is it?
 
-So time would fly.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
