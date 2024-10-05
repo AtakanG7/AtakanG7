@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+Why did the half blind man fall in the well?
 
-It was wrong on so many levels.
+Because he couldn't see that well!
 <!-- JOKE-END -->
