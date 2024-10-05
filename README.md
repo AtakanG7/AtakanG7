@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What animal is always at a game of cricket?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-A bat.
+They couldn't find a table.
 <!-- JOKE-END -->
