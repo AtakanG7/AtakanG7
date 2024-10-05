@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-Does that make you an iWitness?
+Lil Caesars
 <!-- JOKE-END -->
