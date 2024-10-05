@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did celery say when he broke up with his girlfriend?
+I'm reading a book about anti-gravity...
 
-She wasn't right for me, so I really don't carrot all.
+It's impossible to put down
 <!-- JOKE-END -->
