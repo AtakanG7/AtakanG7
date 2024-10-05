@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the private classes break up?
+What happens to a frog's car when it breaks down?
 
-Because they never saw each other.
+It gets toad away
 <!-- JOKE-END -->
