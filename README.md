@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+What's the best time to go to the dentist?
 
-The outside.
+Tooth hurty.
 <!-- JOKE-END -->
