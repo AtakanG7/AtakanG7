@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
-They couldn't find a table.
+Because there’s a Shortstop in between!
 <!-- JOKE-END -->
