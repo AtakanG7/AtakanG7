@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of magic do cows believe in?
+What do you get when you cross a rabbit with a water hose?
 
-MOODOO.
+Hare spray.
 <!-- JOKE-END -->
