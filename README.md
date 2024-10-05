@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+What are the strongest days of the week?
 
-Algae-bra.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
