@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+Have you ever heard of a music group called Cellophane?
 
-Spelling!
+They mostly wrap.
 <!-- JOKE-END -->
