@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do rabbits go after they get married?
+Why was the developer always calm?
 
-On a bunny-moon.
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
