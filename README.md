@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+Why did the girl smear peanut butter on the road?
 
-Those who understand binary and those who don't
+To go with the traffic jam.
 <!-- JOKE-END -->
