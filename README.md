@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was Cinderalla thrown out of the football team?
+How many optometrists does it take to change a light bulb?
 
-Because she ran away from the ball.
+1 or 2? 1... or 2?
 <!-- JOKE-END -->
