@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+How many seconds are in a year?
 
-Hare spray.
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
 <!-- JOKE-END -->
