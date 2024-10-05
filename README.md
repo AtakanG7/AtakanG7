@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Sweden start painting barcodes on the sides of their battleships?
+Why do choirs keep buckets handy?
 
-So they could Scandinavian.
+So they can carry their tune
 <!-- JOKE-END -->
