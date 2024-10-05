@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+Want to hear a joke about a piece of paper?
 
-He made a grave mistake.
+Never mind...it's tearable
 <!-- JOKE-END -->
