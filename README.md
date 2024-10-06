@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens when you anger a brain surgeon?
+How does a scientist freshen their breath?
 
-They will give you a piece of your mind.
+With experi-mints!
 <!-- JOKE-END -->
