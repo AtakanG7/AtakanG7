@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+What's the best part about TCP jokes?
 
-Before was was was was was is.
+I get to keep telling them until you get them.
 <!-- JOKE-END -->
