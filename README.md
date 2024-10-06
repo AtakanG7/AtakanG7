@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+What do you call an elephant that doesn’t matter?
 
-Chess nuts boasting in an open foyer.
+An irrelephant.
 <!-- JOKE-END -->
