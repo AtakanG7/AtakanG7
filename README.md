@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-['hip', 'hip']
+What is this movie about?
 
-(hip hip array)
+It is about 2 hours long.
 <!-- JOKE-END -->
