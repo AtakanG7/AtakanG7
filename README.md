@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+What did the spaghetti say to the other spaghetti?
 
-Got stacks of em! First one's on the house
+Pasta la vista, baby!
 <!-- JOKE-END -->
