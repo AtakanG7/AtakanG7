@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is the pool safe for diving?
+Is there a hole in your shoe?
 
-It deep ends.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
