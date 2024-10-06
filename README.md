@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+What does a pirate pay for his corn?
 
-Because he was a little horse
+A buccaneer!
 <!-- JOKE-END -->
