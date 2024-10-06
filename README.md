@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+What’s brown and sounds like a bell?
 
-No… Then how’d you get your foot in it?
+Dung!
 <!-- JOKE-END -->
