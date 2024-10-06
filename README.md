@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+Why does a Moon-rock taste better than an Earth-rock?
 
-He was a good conductor.
+Because it's a little meteor.
 <!-- JOKE-END -->
