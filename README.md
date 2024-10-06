@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+What do you call a fake noodle?
 
-A little plaque.
+An impasta.
 <!-- JOKE-END -->
