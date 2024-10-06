@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tree go to the dentist?
+How do you organize a space party?
 
-It needed a root canal.
+You planet.
 <!-- JOKE-END -->
