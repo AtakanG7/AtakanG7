@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Did you hear about the guy who invented Lifesavers?
 
-The meat-ball.
+They say he made a mint.
 <!-- JOKE-END -->
