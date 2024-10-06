@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+What did celery say when he broke up with his girlfriend?
 
-Start in England and drive West.
+She wasn't right for me, so I really don't carrot all.
 <!-- JOKE-END -->
