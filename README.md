@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do I look like?
+There are 10 types of people in this world...
 
-A JOKE MACHINE!?
+Those who understand binary and those who don't
 <!-- JOKE-END -->
