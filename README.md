@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Why do programmers always get Christmas and Halloween mixed up?
 
-Thanks for all the sediment.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
