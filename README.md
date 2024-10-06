@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+How does a French skeleton say hello?
 
-1forest1
+Bone-jour.
 <!-- JOKE-END -->
