@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+How does a train eat?
 
-It was having window panes.
+It goes chew, chew
 <!-- JOKE-END -->
