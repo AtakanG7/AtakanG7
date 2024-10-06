@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the rooster cross the road?
+Why do chicken coops only have two doors?
 
-He heard that the chickens at KFC were pretty hot.
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
