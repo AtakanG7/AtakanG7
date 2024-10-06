@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't your nose be 12 inches long?
+Why did the functions stop calling each other?
 
-Because then it'd be a foot!
+Because they had constant arguments.
 <!-- JOKE-END -->
