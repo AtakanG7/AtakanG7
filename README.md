@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+Did you hear the one about the guy with the broken hearing aid?
 
-I had to draw my own conclusions.
+Neither did he.
 <!-- JOKE-END -->
