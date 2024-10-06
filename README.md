@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Why did Dracula lie in the wrong coffin?
 
-A little plaque.
+He made a grave mistake.
 <!-- JOKE-END -->
