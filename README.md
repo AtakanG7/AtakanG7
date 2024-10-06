@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+What kind of shoes does a thief wear?
 
-A tuba toothpaste.
+Sneakers
 <!-- JOKE-END -->
