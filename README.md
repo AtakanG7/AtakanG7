@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Michael Jackson name his denim store?
+What do you give a sick lemon?
 
-Billy Jeans!
+Lemonaid.
 <!-- JOKE-END -->
