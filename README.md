@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+Did you hear the news?
 
-To get to the other slide.
+FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 <!-- JOKE-END -->
