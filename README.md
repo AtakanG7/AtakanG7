@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+How do you get two whales in a car?
 
-Inheritance.
+Start in England and drive West.
 <!-- JOKE-END -->
