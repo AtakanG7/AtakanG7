@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+What do you call a group of disorganized cats?
 
-A handful of them.
+A cat-tastrophe.
 <!-- JOKE-END -->
