@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+What do you give a sick lemon?
 
-Ground beef!
+Lemonaid.
 <!-- JOKE-END -->
