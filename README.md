@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+What do you call a fly without wings?
 
-A poutine.
+A walk.
 <!-- JOKE-END -->
