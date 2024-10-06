@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+What are the strongest days of the week?
 
-A handful of them.
+Saturday and Sunday...the rest are weekdays.
 <!-- JOKE-END -->
