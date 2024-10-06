@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+What's Forrest Gump's password?
 
-Because he neverlands
+1Forrest1
 <!-- JOKE-END -->
