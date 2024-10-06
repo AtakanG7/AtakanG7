@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the scientist who was lab partners with a pot of boiling water?
+When a dad drives past a graveyard: Did you know that's a popular cemetery?
 
-He had a very esteemed colleague.
+Yep, people are just dying to get in there
 <!-- JOKE-END -->
