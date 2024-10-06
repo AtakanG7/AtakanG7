@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+what do you call a dog that can do magic tricks?
 
-An irrelephant.
+a labracadabrador
 <!-- JOKE-END -->
