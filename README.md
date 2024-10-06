@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a Moon-rock taste better than an Earth-rock?
+What kind of award did the dentist receive?
 
-Because it's a little meteor.
+A little plaque.
 <!-- JOKE-END -->
