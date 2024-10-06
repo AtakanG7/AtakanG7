@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+Why are graveyards so noisy?
 
-Those who understand binary and those who don't
+Because of all the coffin.
 <!-- JOKE-END -->
