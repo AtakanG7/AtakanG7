@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+A user interface is like a joke.
 
-You'll strain your eyes.
+If you have to explain it then it is not that good.
 <!-- JOKE-END -->
