@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+Why are graveyards so noisy?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+Because of all the coffin.
 <!-- JOKE-END -->
