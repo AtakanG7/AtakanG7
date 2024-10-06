@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Don't look at the eclipse through a colander.
 
-Start in England and drive West.
+You'll strain your eyes.
 <!-- JOKE-END -->
