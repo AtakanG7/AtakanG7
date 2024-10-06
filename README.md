@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+Why did the rooster cross the road?
 
-Because they live in schools!
+He heard that the chickens at KFC were pretty hot.
 <!-- JOKE-END -->
