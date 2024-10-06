@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+What did the router say to the doctor?
 
-Too many bugs.
+It hurts when IP.
 <!-- JOKE-END -->
