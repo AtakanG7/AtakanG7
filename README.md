@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't eggs tell jokes?
+Why are fish so smart?
 
-Because they would crack each other up.
+Because they live in schools!
 <!-- JOKE-END -->
