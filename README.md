@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call corn that joins the army?
+Why do valley girls hang out in odd numbered groups?
 
-Kernel.
+Because they can't even.
 <!-- JOKE-END -->
