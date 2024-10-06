@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A termite walks into a bar and says...
+Want to hear a chimney joke?
 
-'Where is the bar tended?'
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
