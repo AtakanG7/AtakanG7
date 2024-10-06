@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+Why do ducks make great detectives?
 
-Sneakers
+They always quack the case.
 <!-- JOKE-END -->
