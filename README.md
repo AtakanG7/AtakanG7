@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a scientist freshen their breath?
+What’s Forest Gump’s Facebook password?
 
-With experi-mints!
+1forest1
 <!-- JOKE-END -->
