@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the runner who was criticized?
+Two guys walk into a bar . . .
 
-He just took it in stride
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
