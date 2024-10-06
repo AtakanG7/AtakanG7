@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fly without wings?
+What do you call a bee that can't make up its mind?
 
-A walk.
+A maybe.
 <!-- JOKE-END -->
