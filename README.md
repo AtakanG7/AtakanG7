@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+What did one plate say to the other plate?
 
-That’s a deep subject.
+Dinner is on me!
 <!-- JOKE-END -->
