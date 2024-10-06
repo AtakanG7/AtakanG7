@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+When a dad drives past a graveyard: Did you know that's a popular cemetery?
 
-Because DEC 25 = OCT 31
+Yep, people are just dying to get in there
 <!-- JOKE-END -->
