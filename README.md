@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+Why did the Clydesdale give the pony a glass of water?
 
-Your head hits the ceiling!
+Because he was a little horse
 <!-- JOKE-END -->
