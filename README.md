@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A DHCP packet walks into a bar and asks for a beer.
+Why did the developer quit his job?
 
-Bartender says, "here, but I’ll need that back in an hour!"
+Because he didn't get arrays.
 <!-- JOKE-END -->
