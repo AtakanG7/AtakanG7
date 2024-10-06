@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+What kind of shoes does a thief wear?
 
-Dinner is on me!
+Sneakers
 <!-- JOKE-END -->
