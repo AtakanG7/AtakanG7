@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the spaghetti say to the other spaghetti?
+What is the most used language in programming?
 
-Pasta la vista, baby!
+Profanity.
 <!-- JOKE-END -->
