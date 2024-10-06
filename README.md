@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+How do you get two whales in a car?
 
-Because of all the coffin.
+Start in England and drive West.
 <!-- JOKE-END -->
