@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a duck that gets all A's?
+Why would a guitarist become a good programmer?
 
-A wise quacker.
+He's adept at riffing in C#.
 <!-- JOKE-END -->
