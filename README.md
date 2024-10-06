@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why would a guitarist become a good programmer?
+What was the pumpkin’s favorite sport?
 
-He's adept at riffing in C#.
+Squash.
 <!-- JOKE-END -->
