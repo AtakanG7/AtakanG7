@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+What do you call a pig that knows karate?
 
-It hurts when IP.
+A pork chop!
 <!-- JOKE-END -->
