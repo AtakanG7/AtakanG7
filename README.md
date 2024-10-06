@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+Why do birds fly south for the winter?
 
-They haven't got a gig yet.
+Because it's too far to walk.
 <!-- JOKE-END -->
