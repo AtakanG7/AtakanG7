@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't oysters give to charity?
+Why can't your nose be 12 inches long?
 
-Because they're shellfish.
+Because then it'd be a foot!
 <!-- JOKE-END -->
