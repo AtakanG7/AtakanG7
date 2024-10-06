@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best part about TCP jokes?
+Don't look at the eclipse through a colander.
 
-I get to keep telling them until you get them.
+You'll strain your eyes.
 <!-- JOKE-END -->
