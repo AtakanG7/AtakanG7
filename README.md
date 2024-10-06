@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What biscuit does a short person like?
+What did one nut say as he chased another nut?
 
-Shortbread. 
+I'm a cashew!
 <!-- JOKE-END -->
