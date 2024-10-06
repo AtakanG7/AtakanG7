@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A user interface is like a joke.
+What do you give to a lemon in need?
 
-If you have to explain it then it is not that good.
+Lemonaid.
 <!-- JOKE-END -->
