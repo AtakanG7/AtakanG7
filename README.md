@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Why don't eggs tell jokes?
 
-When they run out of patients.
+Because they would crack each other up.
 <!-- JOKE-END -->
