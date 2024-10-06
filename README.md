@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-Igloos it together.
+Because they might peel!
 <!-- JOKE-END -->
