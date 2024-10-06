@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+What’s the object-oriented way to become wealthy?
 
-You boil the hell out of it
+Inheritance.
 <!-- JOKE-END -->
