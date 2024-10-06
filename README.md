@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the least spoken language in the world?
+What do you do when you see a space man?
 
-Sign Language
+Park your car, man.
 <!-- JOKE-END -->
