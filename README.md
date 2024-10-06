@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the 0 say to the 8?
+Why couldn't the kid see the pirate movie?
 
-Nice belt.
+Because it was rated arrr!
 <!-- JOKE-END -->
