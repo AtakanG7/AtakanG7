@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Do you know what the word 'was' was initially?
 
-Because of all the coffin.
+Before was was was was was is.
 <!-- JOKE-END -->
