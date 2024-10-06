@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Don't look at the eclipse through a colander.
+Have you heard the rumor going around about butter?
 
-You'll strain your eyes.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
