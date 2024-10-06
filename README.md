@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-It was two-tired.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
