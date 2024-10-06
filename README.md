@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+Why did the chicken cross the playground?
 
-It is about 2 hours long.
+To get to the other slide.
 <!-- JOKE-END -->
