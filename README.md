@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Norway have barcodes on their battleships?
+Did you hear about the guy who invented Lifesavers?
 
-So when they get back to port, they can Scandinavian.
+They say he made a mint.
 <!-- JOKE-END -->
