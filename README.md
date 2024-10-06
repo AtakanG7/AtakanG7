@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the submarine industry?
+What cheese can never be yours?
 
-It really took a dive...
+Nacho cheese.
 <!-- JOKE-END -->
