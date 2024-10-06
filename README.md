@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What are the strongest days of the week?
+A termite walks into a bar and says...
 
-Saturday and Sunday...the rest are weekdays.
+'Where is the bar tended?'
 <!-- JOKE-END -->
