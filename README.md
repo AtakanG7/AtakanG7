@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+What musical instrument is found in the bathroom?
 
-Because they make up everything.
+A tuba toothpaste.
 <!-- JOKE-END -->
