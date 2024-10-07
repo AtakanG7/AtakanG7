@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Why did the programmer quit his job?
 
-To prevent bat breath!
+Because he didn't get arrays.
 <!-- JOKE-END -->
