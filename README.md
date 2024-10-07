@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+What do ghosts call their true love?
 
-Because all of the fans left.
+Their ghoul-friend
 <!-- JOKE-END -->
