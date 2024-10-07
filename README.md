@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+A grocery store cashier asked if I would like my milk in a bag.
 
-Start in England and drive West.
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
