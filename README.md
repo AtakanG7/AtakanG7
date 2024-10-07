@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When does a joke become a dad joke?
+Why did the cowboy have a weiner dog?
 
-When it becomes apparent.
+Somebody told him to get a long little doggy.
 <!-- JOKE-END -->
