@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s 50 Cent’s name in Zimbabwe?
+What did one nut say as he chased another nut?
 
-200 Dollars.
+I'm a cashew!
 <!-- JOKE-END -->
