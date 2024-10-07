@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+What do you call a cow with two legs?
 
-Between us, something smells!
+Lean beef.
 <!-- JOKE-END -->
