@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+Did you hear about the cheese factory that exploded in France?
 
-The newspaper.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
