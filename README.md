@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+Did you hear about the hungry clock?
 
-Yes, but don’t turn it on.
+It went back four seconds.
 <!-- JOKE-END -->
