@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+What did one nut say as he chased another nut?
 
-Even if you're wrong, you're only off by a bit.
+I'm a cashew!
 <!-- JOKE-END -->
