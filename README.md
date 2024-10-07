@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you see a robbery at an Apple Store...
+How many seconds are in a year?
 
-Does that make you an iWitness?
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
 <!-- JOKE-END -->
