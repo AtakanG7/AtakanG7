@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+How do you generate a random string?
 
-A field of corn.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
