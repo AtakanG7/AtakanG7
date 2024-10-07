@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+What did the dog say to the two trees?
 
-Because he didn't get arrays.
+Bark bark.
 <!-- JOKE-END -->
