@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Why can't your nose be 12 inches long?
 
-Microchips.
+Because then it'd be a foot!
 <!-- JOKE-END -->
