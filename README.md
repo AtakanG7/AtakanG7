@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+Did you know that protons have mass?
 
-He held up a pair of pants!
+I didn't even know they were catholic.
 <!-- JOKE-END -->
