@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the scientist who was lab partners with a pot of boiling water?
+What did Michael Jackson name his denim store?
 
-He had a very esteemed colleague.
+Billy Jeans!
 <!-- JOKE-END -->
