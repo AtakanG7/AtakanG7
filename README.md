@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+How many kids with ADD does it take to change a lightbulb?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+Let's go ride bikes!
 <!-- JOKE-END -->
