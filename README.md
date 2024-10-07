@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+How come the stadium got hot after the game?
 
-They had too many unresolved issues.
+Because all of the fans left.
 <!-- JOKE-END -->
