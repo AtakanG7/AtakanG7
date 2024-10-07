@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Did you hear about the cheese factory that exploded in France?
 
-It got mugged.
+There was nothing left but de Brie.
 <!-- JOKE-END -->
