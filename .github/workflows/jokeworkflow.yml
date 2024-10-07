@@ -1,5 +1,4 @@
 name: Daily Joke Update
-
 on:
   schedule:
     - cron: '0 0 * * *' 
@@ -7,16 +6,13 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v2
         with:
           repository: AtakanG7/AtakanG7
-
+          token: ${{ secrets.SECRET }}
       - name: Fetch joke and update README
         run: |
-      
           JOKE_DATA=$(curl -s 'https://official-joke-api.appspot.com/random_joke')
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
@@ -28,11 +24,10 @@ jobs:
           if ! grep -q "<!-- JOKE-START -->" README.md; then
             echo -e "\n<!-- JOKE-START -->\n- $JOKE\n<!-- JOKE-END -->" >> README.md
           fi
-
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "atakan.gul000@gmail.com"
+          git config --local user.name "AtakanG7"
           git add README.md
           git commit -m "Update daily joke" || exit 0
-          git push
+          git push https://${{ secrets.SECRET }}@github.com/AtakanG7/AtakanG7.git
