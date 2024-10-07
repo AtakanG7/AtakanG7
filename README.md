@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+What is the hardest part about sky diving?
 
-The stock market.
+The ground.
 <!-- JOKE-END -->
