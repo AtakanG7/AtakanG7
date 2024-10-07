@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+Why did the scarecrow win an award?
 
-Neither did he.
+Because he was outstanding in his field.
 <!-- JOKE-END -->
