@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+Why don't scientists trust atoms?
 
-They always quack the case.
+Because they make up everything.
 <!-- JOKE-END -->
