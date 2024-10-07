@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can February march?
+Did you hear the one about the guy with the broken hearing aid?
 
-No, but April may.
+Neither did he.
 <!-- JOKE-END -->
