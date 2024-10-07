@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a seal and a sea lion?
+What's brown and sticky?
 
-An ion! 
+A stick.
 <!-- JOKE-END -->
