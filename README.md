@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+Did you hear about the Viking who was reincarnated?
 
-A stick.
+He was Bjorn again
 <!-- JOKE-END -->
