@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-It reads "Small medium at large."
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
