@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+What's the difference between a seal and a sea lion?
 
-He’s only got little legs.
+An ion! 
 <!-- JOKE-END -->
