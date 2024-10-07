@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s E.T. short for?
+Do you know what the word 'was' was initially?
 
-He’s only got little legs.
+Before was was was was was is.
 <!-- JOKE-END -->
