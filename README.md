@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+Why did the programmer always mix up Halloween and Christmas?
 
-I told her 'No, thanks. The carton works fine.'
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
