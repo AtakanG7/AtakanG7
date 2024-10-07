@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How can you tell a vampire has a cold?
+What did Michael Jackson name his denim store?
 
-They start coffin.
+Billy Jeans!
 <!-- JOKE-END -->
