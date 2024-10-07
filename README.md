@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know crocodiles could grow up to 15 feet?
+What’s Forest Gump’s Facebook password?
 
-But most just have 4.
+1forest1
 <!-- JOKE-END -->
