@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go broke?
+Why did the developer break up with their keyboard?
 
-He used up all his cache
+It just wasn't their type anymore.
 <!-- JOKE-END -->
