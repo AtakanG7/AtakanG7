@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+What's the best thing about a Boolean?
 
-Their ghoul-friend
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
