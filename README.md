@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+My older brother always tore the last pages of my comic books, and never told me why.
 
-Those who understand binary and those who don't
+I had to draw my own conclusions.
 <!-- JOKE-END -->
