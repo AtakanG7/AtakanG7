@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bee that lives in America?
+What's blue and not very heavy?
 
-A USB.
+Light blue.
 <!-- JOKE-END -->
