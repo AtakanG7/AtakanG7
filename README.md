@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+The punchline often arrives before the set-up.
 
-I'm a cashew!
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
