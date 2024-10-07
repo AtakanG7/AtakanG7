@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do chicken coops only have two doors?
+What did the left eye say to the right eye?
 
-Because if they had four, they would be chicken sedans
+Between us, something smells!
 <!-- JOKE-END -->
