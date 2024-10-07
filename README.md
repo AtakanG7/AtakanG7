@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+What’s E.T. short for?
 
-All of them!
+He’s only got little legs.
 <!-- JOKE-END -->
