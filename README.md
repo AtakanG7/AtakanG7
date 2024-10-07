@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Norway have barcodes on their battleships?
+What's the difference between a guitar and a fish?
 
-So when they get back to port, they can Scandinavian.
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
