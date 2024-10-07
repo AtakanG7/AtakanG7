@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+Why does a chicken coop only have two doors?
 
-Because it was well armed.
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
