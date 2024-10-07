@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+What kind of bagel can fly?
 
-An instagram.
+A plain bagel.
 <!-- JOKE-END -->
