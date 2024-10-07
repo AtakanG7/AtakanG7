@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+What is the most used language in programming?
 
-They were fully booked.
+Profanity.
 <!-- JOKE-END -->
