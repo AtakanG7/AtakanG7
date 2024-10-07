@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+I couldn't get a reservation at the library...
 
-It went back four seconds.
+They were fully booked.
 <!-- JOKE-END -->
