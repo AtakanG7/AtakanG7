@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+There are 10 types of people in this world...
 
-I'm a cashew!
+Those who understand binary and those who don't
 <!-- JOKE-END -->
