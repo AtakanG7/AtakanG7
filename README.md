@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer quit his job?
+Did you hear about the guy whose whole left side was cut off?
 
-Because he didn't get arrays.
+He's all right now.
 <!-- JOKE-END -->
