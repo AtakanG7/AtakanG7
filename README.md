@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the cheese factory that exploded in France?
+How many apples grow on a tree?
 
-There was nothing left but de Brie.
+All of them!
 <!-- JOKE-END -->
