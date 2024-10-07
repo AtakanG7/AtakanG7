@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you check if a webpage is HTML5?
+Why did Dracula lie in the wrong coffin?
 
-Try it out on Internet Explorer
+He made a grave mistake.
 <!-- JOKE-END -->
