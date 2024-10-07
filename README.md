@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+Why did the developer go broke buying Bitcoin?
 
-To clean up all the bugs.
+He kept calling it bytecoin and didn't get any.
 <!-- JOKE-END -->
