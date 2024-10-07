@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What biscuit does a short person like?
+Why did the programmer bring a broom to work?
 
-Shortbread. 
+To clean up all the bugs.
 <!-- JOKE-END -->
