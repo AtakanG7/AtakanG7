@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the beaver say to the tree?
+How much does a hipster weigh?
 
-It's been nice gnawing you.
+An instagram.
 <!-- JOKE-END -->
