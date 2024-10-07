@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+Did you hear about the chameleon who couldn't change color?
 
-They say the business is toast.
+They had a reptile dysfunction.
 <!-- JOKE-END -->
