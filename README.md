@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a girl between two posts?
+Where do sheep go to get their hair cut?
 
-Annette.
+The baa-baa shop.
 <!-- JOKE-END -->
