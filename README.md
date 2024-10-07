@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Why don't you find hippopotamuses hiding in trees?
 
-It's impossible to put down
+They're really good at it.
 <!-- JOKE-END -->
