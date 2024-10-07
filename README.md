@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+How do you make a hankie dance?
 
-Those who understand binary and those who don't
+Put a little boogie in it.
 <!-- JOKE-END -->
