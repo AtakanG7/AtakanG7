@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a hippo and a zippo?
+When does a joke become a dad joke?
 
-One is really heavy, the other is a little lighter.
+When it becomes apparent.
 <!-- JOKE-END -->
