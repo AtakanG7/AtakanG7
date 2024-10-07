@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many kids with ADD does it take to change a lightbulb?
+Do you know where you can get chicken broth in bulk?
 
-Let's go ride bikes!
+The stock market.
 <!-- JOKE-END -->
