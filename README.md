@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Why did the house go to the doctor?
 
-Because his mother was a wafer so long
+It was having window panes.
 <!-- JOKE-END -->
