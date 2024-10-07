@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+What has ears but cannot hear?
 
-Got stacks of em! First one's on the house
+A field of corn.
 <!-- JOKE-END -->
