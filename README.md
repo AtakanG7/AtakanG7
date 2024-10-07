@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+What’s 50 Cent’s name in Zimbabwe?
 
-It ran out of juice.
+200 Dollars.
 <!-- JOKE-END -->
