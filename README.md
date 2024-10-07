@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an old snowman?
+I'm reading a book about anti-gravity...
 
-Water.
+It's impossible to put down
 <!-- JOKE-END -->
