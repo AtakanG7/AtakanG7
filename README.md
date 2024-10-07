@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+What's blue and not very heavy?
 
-Make me one with everything.
+Light blue.
 <!-- JOKE-END -->
