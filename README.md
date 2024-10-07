@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+Why couldn't the lifeguard save the hippie?
 
-Because if it had four doors it would be a chicken sedan.
+He was too far out, man.
 <!-- JOKE-END -->
