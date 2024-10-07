@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+What's red and bad for your teeth?
 
-A tuba toothpaste.
+A Brick.
 <!-- JOKE-END -->
