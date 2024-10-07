@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+What did the spaghetti say to the other spaghetti?
 
-Because they live in schools!
+Pasta la vista, baby!
 <!-- JOKE-END -->
