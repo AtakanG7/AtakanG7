@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+Did you know crocodiles could grow up to 15 feet?
 
-The ground.
+But most just have 4.
 <!-- JOKE-END -->
