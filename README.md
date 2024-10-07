@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+What's the difference between a hippo and a zippo?
 
-With tomato paste.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
