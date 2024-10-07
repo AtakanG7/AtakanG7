@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+How do you check if a webpage is HTML5?
 
-I had to draw my own conclusions.
+Try it out on Internet Explorer
 <!-- JOKE-END -->
