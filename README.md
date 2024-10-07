@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+Why do chicken coops only have two doors?
 
-I told her 'No, thanks. The carton works fine.'
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
