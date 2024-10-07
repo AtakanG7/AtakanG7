@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+Did you hear about the kidnapping at school?
 
-Profanity.
+It's ok, he woke up.
 <!-- JOKE-END -->
