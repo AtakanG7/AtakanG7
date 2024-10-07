@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+Where do rabbits go after they get married?
 
-Dung!
+On a bunny-moon.
 <!-- JOKE-END -->
