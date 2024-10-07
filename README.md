@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do rabbits go after they get married?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-On a bunny-moon.
+It reads "Small medium at large."
 <!-- JOKE-END -->
