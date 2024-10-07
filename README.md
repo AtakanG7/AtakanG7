@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+Why did the cookie cry?
 
-Because he was outstanding in his field.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
