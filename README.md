@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+Did you know crocodiles could grow up to 15 feet?
 
-A plain bagel.
+But most just have 4.
 <!-- JOKE-END -->
