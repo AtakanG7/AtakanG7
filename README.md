@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What musical instrument is found in the bathroom?
+Why didn’t the orange win the race?
 
-A tuba toothpaste.
+It ran out of juice.
 <!-- JOKE-END -->
