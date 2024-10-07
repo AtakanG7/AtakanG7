@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the dog say to the two trees?
+What creature is smarter than a talking parrot?
 
-Bark bark.
+A spelling bee.
 <!-- JOKE-END -->
