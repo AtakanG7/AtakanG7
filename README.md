@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's blue and not very heavy?
+There are 10 types of people in this world...
 
-Light blue.
+Those who understand binary and those who don't
 <!-- JOKE-END -->
