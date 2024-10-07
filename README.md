@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you watch the new comic book movie?
+What biscuit does a short person like?
 
-It was very graphic!
+Shortbread. 
 <!-- JOKE-END -->
