@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know that protons have mass?
+Why are “Dad Jokes” so good?
 
-I didn't even know they were catholic.
+Because the punchline is apparent.
 <!-- JOKE-END -->
