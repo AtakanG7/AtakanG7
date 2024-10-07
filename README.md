@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+How can you tell a vampire has a cold?
 
-A stega-snore-us.
+They start coffin.
 <!-- JOKE-END -->
