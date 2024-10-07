@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+Why did the belt go to prison?
 
-Tulips
+He held up a pair of pants!
 <!-- JOKE-END -->
