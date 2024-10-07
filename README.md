@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
+Why are ghosts bad liars?
 
-I couldn’t turn it down.
+Because you can see right through them!
 <!-- JOKE-END -->
