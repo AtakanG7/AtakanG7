@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+Why does Norway have barcodes on their battleships?
 
-It was having window panes.
+So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
