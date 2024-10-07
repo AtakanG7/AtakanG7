@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+What do you do on a remote island?
 
-He was Bjorn again
+Try and find the TV island it belongs to.
 <!-- JOKE-END -->
