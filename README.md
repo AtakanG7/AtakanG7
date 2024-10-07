@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the chameleon who couldn't change color?
+Why do ducks make great detectives?
 
-They had a reptile dysfunction.
+They always quack the case.
 <!-- JOKE-END -->
