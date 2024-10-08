@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best time to go to the dentist?
+Why did the developer quit his job?
 
-Tooth hurty.
+Because he didn't get arrays.
 <!-- JOKE-END -->
