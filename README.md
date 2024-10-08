@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken get a penalty?
+What do ghosts call their true love?
 
-For fowl play.
+Their ghoul-friend
 <!-- JOKE-END -->
