@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer quit his job?
+Why did the programmer always carry a pencil?
 
-Because he didn't get arrays.
+They preferred to write in C#.
 <!-- JOKE-END -->
