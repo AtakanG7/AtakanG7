@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What did the Dorito farmer say to the other Dorito farmer?
 
-The ground.
+Cool Ranch!
 <!-- JOKE-END -->
