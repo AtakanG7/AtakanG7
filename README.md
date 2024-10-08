@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+What happens when you anger a brain surgeon?
 
-Because he doesn't want to be spotted.
+They will give you a piece of your mind.
 <!-- JOKE-END -->
