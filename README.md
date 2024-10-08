@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+What is the hardest part about sky diving?
 
-A function component.
+The ground.
 <!-- JOKE-END -->
