@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about elevator jokes?
+Why didn't the skeleton go for prom?
 
-They work on so many levels.
+Because it had nobody.
 <!-- JOKE-END -->
