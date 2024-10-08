@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+How do you make a hankie dance?
 
-You give them some space... between the elements.
+Put a little boogie in it.
 <!-- JOKE-END -->
