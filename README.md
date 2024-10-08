@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the object-oriented way to become wealthy?
+What happens to a frog's car when it breaks down?
 
-Inheritance
+It gets toad away
 <!-- JOKE-END -->
