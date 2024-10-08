@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a computer mouse that swears a lot?
+What's the worst thing about ancient history class?
 
-A cursor!
+The teachers tend to Babylon.
 <!-- JOKE-END -->
