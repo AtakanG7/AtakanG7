@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+What kind of tree fits in your hand?
 
-Because you can see right through them!
+A palm tree!
 <!-- JOKE-END -->
