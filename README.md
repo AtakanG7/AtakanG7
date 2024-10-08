@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What cheese can never be yours?
+An IPv6 packet is walking out of the house.
 
-Nacho cheese.
+He goes nowhere.
 <!-- JOKE-END -->
