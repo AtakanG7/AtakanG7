@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+What's black and white and read all over?
 
-A plain bagel.
+The newspaper.
 <!-- JOKE-END -->
