@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+What's red and bad for your teeth?
 
-Neither did he.
+A Brick.
 <!-- JOKE-END -->
