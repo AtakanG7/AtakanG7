@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What happens to a frog's car when it breaks down?
+How do you steal a coat?
 
-It gets toad away
+You jacket.
 <!-- JOKE-END -->
