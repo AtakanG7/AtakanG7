@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Why did the programmer always mix up Halloween and Christmas?
 
-He didn't know how to null his feelings.
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
