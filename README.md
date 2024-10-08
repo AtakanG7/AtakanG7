@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a sheep with no legs?
+What does the mermaid wear to math class?
 
-A cloud.
+Algae-bra.
 <!-- JOKE-END -->
