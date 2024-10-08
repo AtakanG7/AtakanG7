@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+What do you call a dictionary on drugs?
 
-A little plaque.
+High definition.
 <!-- JOKE-END -->
