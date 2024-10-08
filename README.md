@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the joke about the wandering nun?
+What's the best thing about Switzerland?
 
-She was a roman catholic.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
