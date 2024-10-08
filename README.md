@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+What do you call a girl between two posts?
 
-They say the business is toast.
+Annette.
 <!-- JOKE-END -->
