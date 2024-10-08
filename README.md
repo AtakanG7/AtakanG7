@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's black and white and read all over?
+How are false teeth like stars?
 
-The newspaper.
+They come out at night!
 <!-- JOKE-END -->
