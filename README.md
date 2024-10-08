@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do birds fly south for the winter?
+Why don't you find hippopotamuses hiding in trees?
 
-Because it's too far to walk.
+They're really good at it.
 <!-- JOKE-END -->
