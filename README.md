@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+What is a vampire's favorite fruit?
 
-I don't know... it keeps changing.
+A blood orange.
 <!-- JOKE-END -->
