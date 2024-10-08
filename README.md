@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-An IPv6 packet is walking out of the house.
+Why do birds fly south for the winter?
 
-He goes nowhere.
+Because it's too far to walk.
 <!-- JOKE-END -->
