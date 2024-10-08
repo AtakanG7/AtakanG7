@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't you find hippopotamuses hiding in trees?
+How many hipsters does it take to change a lightbulb?
 
-They're really good at it.
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
