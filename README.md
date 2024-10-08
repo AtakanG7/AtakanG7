@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+How does a dyslexic poet write?
 
-Boo jeans.
+Inverse.
 <!-- JOKE-END -->
