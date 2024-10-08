@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the difference between ignorance and apathy?
+What did one nut say as he chased another nut?
 
-I don't know and I don't care.
+I'm a cashew!
 <!-- JOKE-END -->
