@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do elves post on Social Media?
+Have you ever heard of a music group called Cellophane?
 
-Elf-ies.
+They mostly wrap.
 <!-- JOKE-END -->
