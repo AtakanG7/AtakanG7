@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dictionary on drugs?
+What do I look like?
 
-High definition.
+A JOKE MACHINE!?
 <!-- JOKE-END -->
