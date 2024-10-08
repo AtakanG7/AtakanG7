@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an Argentinian with a rubber toe?
+I couldn't get a reservation at the library...
 
-Roberto
+They were fully booked.
 <!-- JOKE-END -->
