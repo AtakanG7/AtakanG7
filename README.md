@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+Why couldn't the lifeguard save the hippie?
 
-You jacket.
+He was too far out, man.
 <!-- JOKE-END -->
