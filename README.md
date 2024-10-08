@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+How does a dyslexic poet write?
 
-There's too many bugs.
+Inverse.
 <!-- JOKE-END -->
