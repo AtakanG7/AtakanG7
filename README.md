@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+Where do sheep go to get their hair cut?
 
-None, they prefer dark mode.
+The baa-baa shop.
 <!-- JOKE-END -->
