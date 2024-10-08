@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the crime in the parking garage?
+Did you watch the new comic book movie?
 
-It was wrong on so many levels.
+It was very graphic!
 <!-- JOKE-END -->
