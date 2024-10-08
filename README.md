@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+Why is seven bigger than nine?
 
-Because he was a fungi.
+Because seven ate nine.
 <!-- JOKE-END -->
