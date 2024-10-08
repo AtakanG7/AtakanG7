@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the beach?
+Did you hear about the guy who invented Lifesavers?
 
-Thanks for all the sediment.
+They say he made a mint.
 <!-- JOKE-END -->
