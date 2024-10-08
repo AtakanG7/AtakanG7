@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+What's the best time to go to the dentist?
 
-Because seven ate nine.
+Tooth hurty.
 <!-- JOKE-END -->
