@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off?
+Is there a hole in your shoe?
 
-It reads "Small medium at large."
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
