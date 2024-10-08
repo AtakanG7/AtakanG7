@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+Why don't programmers like nature?
 
-I'm a cashew!
+There's too many bugs.
 <!-- JOKE-END -->
