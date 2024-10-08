@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+What do you call a cow on a trampoline?
 
-A stick.
+A milk shake!
 <!-- JOKE-END -->
