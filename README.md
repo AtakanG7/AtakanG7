@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did Dracula lie in the wrong coffin?
+How many lips does a flower have?
 
-He made a grave mistake.
+Tulips
 <!-- JOKE-END -->
