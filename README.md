@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+Did you hear about the bread factory burning down?
 
-Inverse.
+They say the business is toast.
 <!-- JOKE-END -->
