@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+How do you generate a random string?
 
-The Foo Bar.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
