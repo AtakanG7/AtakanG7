@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+Why did the kid cross the playground?
 
-He's all right now.
+To get to the other slide.
 <!-- JOKE-END -->
