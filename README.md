@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+How do the trees get on the internet?
 
-The teachers tend to Babylon.
+They log on.
 <!-- JOKE-END -->
