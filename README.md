@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+Have you heard the rumor going around about butter?
 
-Twister!
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
