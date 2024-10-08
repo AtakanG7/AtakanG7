@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do ghosts call their true love?
+What happens to a frog's car when it breaks down?
 
-Their ghoul-friend
+It gets toad away
 <!-- JOKE-END -->
