@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who did the wizard marry?
+What do you call a sheep with no legs?
 
-His ghoul-friend
+A cloud.
 <!-- JOKE-END -->
