@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a dyslexic poet write?
+Why did the developer quit his job?
 
-Inverse.
+Because he didn't get arrays.
 <!-- JOKE-END -->
