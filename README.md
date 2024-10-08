@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Can I watch the TV?
 
-Tweets.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
