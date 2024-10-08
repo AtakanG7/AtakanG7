@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How good are you at Power Point?
+What kind of bagel can fly?
 
-I Excel at it.
+A plain bagel.
 <!-- JOKE-END -->
