@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy who invented Lifesavers?
+What's the difference between a seal and a sea lion?
 
-They say he made a mint.
+An ion! 
 <!-- JOKE-END -->
