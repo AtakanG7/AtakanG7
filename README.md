@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a snowman with a vampire?
+Hey, dad, did you get a haircut?
 
-Frostbite.
+No, I got them all cut.
 <!-- JOKE-END -->
