@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's red and bad for your teeth?
+What did one nut say as he chased another nut?
 
-A Brick.
+I'm a cashew!
 <!-- JOKE-END -->
