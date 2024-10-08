@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+What do birds give out on Halloween?
 
-In the calf-ateria.
+Tweets.
 <!-- JOKE-END -->
