@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+Where do programmers like to hangout?
 
-They come out at night!
+The Foo Bar.
 <!-- JOKE-END -->
