@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do vegetarian zombies eat?
+Why was the JavaScript developer sad?
 
-Grrrrrainnnnnssss.
+He didn't know how to null his feelings.
 <!-- JOKE-END -->
