@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+What do you call a suspicious looking laptop?
 
-Yes, but don’t turn it on.
+Asus
 <!-- JOKE-END -->
