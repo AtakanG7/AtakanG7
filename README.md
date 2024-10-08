@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bears have hairy coats?
+How good are you at Power Point?
 
-Fur protection.
+I Excel at it.
 <!-- JOKE-END -->
