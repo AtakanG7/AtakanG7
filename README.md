@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+What do vegetarian zombies eat?
 
-A plain bagel.
+Grrrrrainnnnnssss.
 <!-- JOKE-END -->
