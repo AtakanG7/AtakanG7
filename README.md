@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+Did you hear about the guy whose whole left side was cut off?
 
-Sunday school.
+He's all right now.
 <!-- JOKE-END -->
