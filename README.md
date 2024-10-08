@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do sheep go to get their hair cut?
+What do you call a boomerang that won't come back?
 
-The baa-baa shop.
+A stick.
 <!-- JOKE-END -->
