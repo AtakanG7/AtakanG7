@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the duck say when he bought lipstick?
+Where do hamburgers go to dance?
 
-Put it on my bill
+The meat-ball.
 <!-- JOKE-END -->
