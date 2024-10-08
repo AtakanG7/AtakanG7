@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I couldn't get a reservation at the library...
+Why don't you find hippopotamuses hiding in trees?
 
-They were fully booked.
+They're really good at it.
 <!-- JOKE-END -->
