@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+How do you know if there’s an elephant under your bed?
 
-They preferred to write in C#.
+Your head hits the ceiling!
 <!-- JOKE-END -->
