@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+Do you know what the word 'was' was initially?
 
-Because Oct 31 equals Dec 25.
+Before was was was was was is.
 <!-- JOKE-END -->
