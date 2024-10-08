@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+How many React developers does it take to change a lightbulb?
 
-Make me one with everything.
+None, they prefer dark mode.
 <!-- JOKE-END -->
