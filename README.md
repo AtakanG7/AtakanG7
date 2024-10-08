@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
-It gets jalapeño face.
+It reads "Small medium at large."
 <!-- JOKE-END -->
