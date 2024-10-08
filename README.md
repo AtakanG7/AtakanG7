@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do you never see elephants hiding in trees?
+What do elves post on Social Media?
 
-Because they're so good at it.
+Elf-ies.
 <!-- JOKE-END -->
