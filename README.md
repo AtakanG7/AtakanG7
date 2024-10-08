@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Why can't you use "Beef stew"as a password?
 
-1forest1
+Because it's not stroganoff.
 <!-- JOKE-END -->
