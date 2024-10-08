@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of bagel can fly?
+What biscuit does a short person like?
 
-A plain bagel.
+Shortbread. 
 <!-- JOKE-END -->
