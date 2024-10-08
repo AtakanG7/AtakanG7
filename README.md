@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do prisoners use to call each other?
+Why do you never see elephants hiding in trees?
 
-Cell phones.
+Because they're so good at it.
 <!-- JOKE-END -->
