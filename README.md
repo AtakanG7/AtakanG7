@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+Can I watch the TV?
 
-No, I got them all cut.
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
