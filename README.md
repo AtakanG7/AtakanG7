@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+What do you call a dictionary on drugs?
 
-The meat-ball.
+High definition.
 <!-- JOKE-END -->
