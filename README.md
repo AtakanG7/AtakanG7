@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the skeleton go for prom?
+What is the difference between ignorance and apathy?
 
-Because it had nobody.
+I don't know and I don't care.
 <!-- JOKE-END -->
