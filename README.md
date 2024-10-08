@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+What did one wall say to the other wall?
 
-That’s a deep subject.
+I'll meet you at the corner!
 <!-- JOKE-END -->
