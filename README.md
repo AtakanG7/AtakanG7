@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy who invented Lifesavers?
+What do you call a computer mouse that swears a lot?
 
-They say he made a mint.
+A cursor!
 <!-- JOKE-END -->
