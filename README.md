@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one nut say as he chased another nut?
+Why couldn't the kid see the pirate movie?
 
-I'm a cashew!
+Because it was rated arrr!
 <!-- JOKE-END -->
