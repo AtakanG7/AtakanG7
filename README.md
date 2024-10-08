@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+What is the hardest part about sky diving?
 
-Put a little boogie in it.
+The ground.
 <!-- JOKE-END -->
