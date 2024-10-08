@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a pile of cats?
+Where do you learn to make banana splits?
 
-A Meowtain.
+At sundae school.
 <!-- JOKE-END -->
