@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+What kind of music do planets listen to?
 
-Because it's not stroganoff.
+Nep-tunes.
 <!-- JOKE-END -->
