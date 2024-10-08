@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one wall say to the other wall?
+99.9% of the people are dumb!
 
-I'll meet you at the corner!
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
