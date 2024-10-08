@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call two barracuda fish?
+What kind of award did the dentist receive?
 
-A Pairacuda!
+A little plaque.
 <!-- JOKE-END -->
