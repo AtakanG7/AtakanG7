@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do I enjoy making courthouse puns?
+How do you fix a broken pizza?
 
-Guilty
+With tomato paste.
 <!-- JOKE-END -->
