@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Buffalo say to his little boy when he dropped him off at school?
+Why can't your nose be 12 inches long?
 
-Bison.
+Because then it'd be a foot!
 <!-- JOKE-END -->
