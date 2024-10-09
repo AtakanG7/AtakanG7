@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+How many apples grow on a tree?
 
-Microchips.
+All of them!
 <!-- JOKE-END -->
