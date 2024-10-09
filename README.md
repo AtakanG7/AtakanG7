@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the news?
+Did you hear about the hungry clock?
 
-FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+It went back four seconds.
 <!-- JOKE-END -->
