@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the invisible man turn down the job offer?
+What creature is smarter than a talking parrot?
 
-He couldn't see himself doing it
+A spelling bee.
 <!-- JOKE-END -->
