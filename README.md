@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a sheep with no legs?
+Where do you learn to make banana splits?
 
-A cloud.
+At sundae school.
 <!-- JOKE-END -->
