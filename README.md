@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+Can February march?
 
-A function component.
+No, but April may.
 <!-- JOKE-END -->
