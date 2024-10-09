@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+Where do rabbits go after they get married?
 
-Fortunately I belong to the remaining 1%
+On a bunny-moon.
 <!-- JOKE-END -->
