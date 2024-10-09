@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Dad, can you put my shoes on?
+What do you call a thieving alligator?
 
-I don't think they'll fit me.
+A crookodile!
 <!-- JOKE-END -->
