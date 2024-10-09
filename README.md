@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s Forest Gump’s Facebook password?
+Dad, can you put my shoes on?
 
-1forest1
+I don't think they'll fit me.
 <!-- JOKE-END -->
