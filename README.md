@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+Why couldn't the lifeguard save the hippie?
 
-An instagram.
+He was too far out, man.
 <!-- JOKE-END -->
