@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a hankie dance?
+Did you hear the story about the cheese that saved the world?
 
-Put a little boogie in it.
+It was legend dairy.
 <!-- JOKE-END -->
