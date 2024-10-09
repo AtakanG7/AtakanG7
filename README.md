@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't you use "Beef stew"as a password?
+Why did the golfer wear two pairs of pants?
 
-Because it's not stroganoff.
+In case he got a hole in one.
 <!-- JOKE-END -->
