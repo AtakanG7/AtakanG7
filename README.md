@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the object-oriented way to become wealthy?
+What kind of music do welders like?
 
-Inheritance
+Heavy metal.
 <!-- JOKE-END -->
