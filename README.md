@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dinosaur loves to sleep?
+What's the difference between a hippo and a zippo?
 
-A stega-snore-us.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
