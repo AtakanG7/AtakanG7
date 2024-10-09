@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Did you hear the news?
 
-Before was was was was was is.
+FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 <!-- JOKE-END -->
