@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+I just watched a documentary about beavers.
 
-The BP station.
+It was the best dam show I ever saw
 <!-- JOKE-END -->
