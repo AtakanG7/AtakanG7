@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+Do you know what the word 'was' was initially?
 
-He took a short cut.
+Before was was was was was is.
 <!-- JOKE-END -->
