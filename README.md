@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+Why do bees hum?
 
-I had to draw my own conclusions.
+Because they don't know the words.
 <!-- JOKE-END -->
