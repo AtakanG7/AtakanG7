@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+What’s Forest Gump’s Facebook password?
 
-It ran out of juice.
+1forest1
 <!-- JOKE-END -->
