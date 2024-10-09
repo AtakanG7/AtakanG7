@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you give a sick lemon?
+What did one plate say to the other plate?
 
-Lemonaid.
+Dinner is on me!
 <!-- JOKE-END -->
