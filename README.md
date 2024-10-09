@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Romans use to cut pizza before the rolling cutter was invented?
+Do you know what the word 'was' was initially?
 
-Lil Caesars
+Before was was was was was is.
 <!-- JOKE-END -->
