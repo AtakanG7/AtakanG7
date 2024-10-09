@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+How many lips does a flower have?
 
-No… Then how’d you get your foot in it?
+Tulips
 <!-- JOKE-END -->
