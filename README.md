@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Want to hear a chimney joke?
 
-Add the letter G and it’s “gone”!
+Got stacks of em! First one's on the house
 <!-- JOKE-END -->
