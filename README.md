@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the girl smear peanut butter on the road?
+Well...
 
-To go with the traffic jam.
+That’s a deep subject.
 <!-- JOKE-END -->
