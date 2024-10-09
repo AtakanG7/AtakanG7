@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+What do you call a boomerang that won't come back?
 
-At sundae school.
+A stick.
 <!-- JOKE-END -->
