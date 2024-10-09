@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+What did the late tomato say to the early tomato?
 
-It keeps giving me mixed results.
+I’ll ketch up
 <!-- JOKE-END -->
