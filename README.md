@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does Napoleon keep his armies?
+What is the most used language in programming?
 
-In his sleevies.
+Profanity.
 <!-- JOKE-END -->
