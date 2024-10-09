@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+Why didn’t the orange win the race?
 
-They log on.
+It ran out of juice.
 <!-- JOKE-END -->
