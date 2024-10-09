@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+What's a computer's favorite snack?
 
-Park your car, man.
+Microchips.
 <!-- JOKE-END -->
