@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the opera singer go sailing?
+How do you comfort a designer?
 
-They wanted to hit the high Cs.
+You give them some space... between the elements.
 <!-- JOKE-END -->
