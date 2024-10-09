@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the story about the cheese that saved the world?
+I can't tell if i like this blender...
 
-It was legend dairy.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
