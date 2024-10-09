@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a hippo and a zippo?
+What do you call a girl between two posts?
 
-One is really heavy, the other is a little lighter.
+Annette.
 <!-- JOKE-END -->
