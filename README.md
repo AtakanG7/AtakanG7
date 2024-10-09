@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+Why did the butcher work extra hours at the shop?
 
-In a nutshell, it's an oak tree.
+To make ends meat.
 <!-- JOKE-END -->
