@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+Why did the barber win the race?
 
-It ran out of juice.
+He took a short cut.
 <!-- JOKE-END -->
