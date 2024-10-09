@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer wear two pairs of pants?
+Who is the coolest Doctor in the hospital?
 
-In case he got a hole in one.
+The hip Doctor!
 <!-- JOKE-END -->
