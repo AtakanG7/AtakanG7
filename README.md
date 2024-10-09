@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+Bad at golf?
 
-Because Oct 31 equals Dec 25.
+Join the club.
 <!-- JOKE-END -->
