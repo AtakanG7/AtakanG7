@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do rabbits go after they get married?
+Why did the Clydesdale give the pony a glass of water?
 
-On a bunny-moon.
+Because he was a little horse
 <!-- JOKE-END -->
