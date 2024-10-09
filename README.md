@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a bear with no teeth?
+Why did the programmer quit his job?
 
-A gummy bear!
+Because he didn't get arrays.
 <!-- JOKE-END -->
