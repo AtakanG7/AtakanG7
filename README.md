@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+99.9% of the people are dumb!
 
-An irrelephant.
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
