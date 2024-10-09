@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+Why didn’t the orange win the race?
 
-Tooth hurt-y.
+It ran out of juice.
 <!-- JOKE-END -->
