@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do programmers always get Christmas and Halloween mixed up?
+What do I look like?
 
-Because DEC 25 = OCT 31
+A JOKE MACHINE!?
 <!-- JOKE-END -->
