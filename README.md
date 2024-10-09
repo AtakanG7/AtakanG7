@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do I look like?
+When do doctors get angry?
 
-A JOKE MACHINE!?
+When they run out of patients.
 <!-- JOKE-END -->
