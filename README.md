@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+What's the best thing about Switzerland?
 
-He was too far out, man.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
