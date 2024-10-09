@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+What do you call someone with no nose?
 
-Because if it had four doors it would be a chicken sedan.
+Nobody knows.
 <!-- JOKE-END -->
