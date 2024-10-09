@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the developer always calm?
+What kind of dinosaur loves to sleep?
 
-Because they knew how to handle exceptions.
+A stega-snore-us.
 <!-- JOKE-END -->
