@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+Why did the functions stop calling each other?
 
-He held up a pair of pants!
+Because they had constant arguments.
 <!-- JOKE-END -->
