@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+Why did the programmer always mix up Halloween and Christmas?
 
-It ran out of juice.
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
