@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When does a joke become a dad joke?
+Do you know where you can get chicken broth in bulk?
 
-When it becomes apparent.
+The stock market.
 <!-- JOKE-END -->
