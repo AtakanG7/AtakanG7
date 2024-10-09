@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+Why did the octopus beat the shark in a fight?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+Because it was well armed.
 <!-- JOKE-END -->
