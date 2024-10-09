@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the most used language in programming?
+Why did the octopus beat the shark in a fight?
 
-Profanity.
+Because it was well armed.
 <!-- JOKE-END -->
