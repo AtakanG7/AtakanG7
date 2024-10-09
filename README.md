@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+How do the trees get on the internet?
 
-A metro-gnome
+They log on.
 <!-- JOKE-END -->
