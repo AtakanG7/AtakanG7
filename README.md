@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a girl between two posts?
+Why do pumpkins sit on people’s porches?
 
-Annette.
+They have no hands to knock on the door.
 <!-- JOKE-END -->
