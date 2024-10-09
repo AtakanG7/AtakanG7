@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+I started a new business making yachts in my attic this year...
 
-About 5000 miles.
+The sails are going through the roof.
 <!-- JOKE-END -->
