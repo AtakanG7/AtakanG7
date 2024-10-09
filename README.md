@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of music do welders like?
+Why couldn't the bicycle stand up by itself?
 
-Heavy metal.
+It was two-tired.
 <!-- JOKE-END -->
