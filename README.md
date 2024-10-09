@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+Why was the designer always cold?
 
-Because they cantaloupe!
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
