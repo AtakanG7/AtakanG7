@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy who invented Lifesavers?
+Why did the belt go to prison?
 
-They say he made a mint.
+He held up a pair of pants!
 <!-- JOKE-END -->
