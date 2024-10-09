@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go broke?
+Why can't you use "Beef stew"as a password?
 
-He used up all his cache
+Because it's not stroganoff.
 <!-- JOKE-END -->
