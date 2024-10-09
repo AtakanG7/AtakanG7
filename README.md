@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the barber win the race?
+How do you make the number one disappear?
 
-He took a short cut.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
