@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-An IPv6 packet is walking out of the house.
+What’s the advantage of living in Switzerland?
 
-He goes nowhere.
+Well, the flag is a big plus.
 <!-- JOKE-END -->
