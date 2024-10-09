@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where does batman go to the bathroom?
+I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’
 
-The batroom.
+I couldn’t turn it down.
 <!-- JOKE-END -->
