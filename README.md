@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do rabbits go after they get married?
+What’s the difference between an African elephant and an Indian elephant?
 
-On a bunny-moon.
+About 5000 miles.
 <!-- JOKE-END -->
