@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who is the coolest Doctor in the hospital?
+What do birds give out on Halloween?
 
-The hip Doctor!
+Tweets.
 <!-- JOKE-END -->
