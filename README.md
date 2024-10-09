@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the bicycle stand up by itself?
+Why didn't the number 4 get into the nightclub?
 
-It was two-tired.
+Because he is 2 square.
 <!-- JOKE-END -->
