@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+When do doctors get angry?
 
-An in-vest-igator!
+When they run out of patients.
 <!-- JOKE-END -->
