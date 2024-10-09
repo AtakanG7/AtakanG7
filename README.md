@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Bad at golf?
+Why did the melons plan a big wedding?
 
-Join the club.
+Because they cantaloupe!
 <!-- JOKE-END -->
