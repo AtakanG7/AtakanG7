@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one plate say to the other plate?
+I got hit in the head by a soda can, but it didn't hurt that much...
 
-Dinner is on me!
+It was a soft drink.
 <!-- JOKE-END -->
