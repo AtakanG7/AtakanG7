@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pumpkins sit on people’s porches?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-They have no hands to knock on the door.
+I had to draw my own conclusions.
 <!-- JOKE-END -->
