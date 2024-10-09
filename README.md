@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a thieving alligator?
+Why did the chicken cross the playground?
 
-A crookodile!
+To get to the other slide.
 <!-- JOKE-END -->
