@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call someone with no nose?
+What do you do when you see a space man?
 
-Nobody knows.
+Park your car, man.
 <!-- JOKE-END -->
