@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+What is a tornado's favorite game to play?
 
-The stock market.
+Twister!
 <!-- JOKE-END -->
