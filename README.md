@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+What do you call a laughing motorcycle?
 
-Put a Windows user in front of Vim and tell them to exit.
+A Yamahahahaha.
 <!-- JOKE-END -->
