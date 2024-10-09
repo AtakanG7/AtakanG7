@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+What do you give a sick lemon?
 
-Before was was was was was is.
+Lemonaid.
 <!-- JOKE-END -->
