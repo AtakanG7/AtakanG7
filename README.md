@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+How do you generate a random string?
 
- Because it was feeling crumbly.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
