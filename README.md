@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you know if there’s an elephant under your bed?
+What do you call a monkey in a mine field?
 
-Your head hits the ceiling!
+A babooooom!
 <!-- JOKE-END -->
