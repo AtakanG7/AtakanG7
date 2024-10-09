@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+Why did the girl smear peanut butter on the road?
 
-It went back four seconds.
+To go with the traffic jam.
 <!-- JOKE-END -->
