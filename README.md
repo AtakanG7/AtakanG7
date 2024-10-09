@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the golfer wear two pairs of pants?
+How do you make a hankie dance?
 
-In case he got a hole in one.
+Put a little boogie in it.
 <!-- JOKE-END -->
