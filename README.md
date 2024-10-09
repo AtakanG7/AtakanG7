@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+Where do rabbits go after they get married?
 
-Because they always used too much ice-olation.
+On a bunny-moon.
 <!-- JOKE-END -->
