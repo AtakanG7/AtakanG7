@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+What did the traffic light say to the car as it passed?
 
-When they run out of patients.
+Don't look I'm changing!
 <!-- JOKE-END -->
