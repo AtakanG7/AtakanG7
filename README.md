@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+What do you call an elephant that doesn’t matter?
 
-Because they can't even.
+An irrelephant.
 <!-- JOKE-END -->
