@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about a piece of paper?
+What do you call a sheep with no legs?
 
-Never mind...it's tearable
+A cloud.
 <!-- JOKE-END -->
