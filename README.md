@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How are false teeth like stars?
+An IPv6 packet is walking out of the house.
 
-They come out at night!
+He goes nowhere.
 <!-- JOKE-END -->
