@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a laughing motorcycle?
+Want to hear a joke about a piece of paper?
 
-A Yamahahahaha.
+Never mind...it's tearable
 <!-- JOKE-END -->
