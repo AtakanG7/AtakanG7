@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the fireman wear red, white, and blue suspenders?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-To hold his pants up.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
