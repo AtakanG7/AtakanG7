@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+Did you hear about the guy who invented Lifesavers?
 
-Because he was a little horse
+They say he made a mint.
 <!-- JOKE-END -->
