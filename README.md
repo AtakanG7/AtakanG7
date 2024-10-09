@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+What do you call a pig that knows karate?
 
-It gets jalapeño face.
+A pork chop!
 <!-- JOKE-END -->
