@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+What time did the man go to the dentist?
 
-They kept spending all their cache.
+Tooth hurt-y.
 <!-- JOKE-END -->
