@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't your nose be 12 inches long?
+What do you call a bear with no teeth?
 
-Because then it'd be a foot!
+A gummy bear!
 <!-- JOKE-END -->
