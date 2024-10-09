@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+Where does Napoleon keep his armies?
 
-Because he is 2 square.
+In his sleevies.
 <!-- JOKE-END -->
