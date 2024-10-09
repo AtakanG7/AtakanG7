@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did one ocean say to the other ocean?
+Why didn’t the orange win the race?
 
-Nothing, they just waved.
+It ran out of juice.
 <!-- JOKE-END -->
