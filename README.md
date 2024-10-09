@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a tornado's favorite game to play?
+There are 10 types of people in this world...
 
-Twister!
+Those who understand binary and those who don't
 <!-- JOKE-END -->
