@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What creature is smarter than a talking parrot?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-A spelling bee.
+Bison.
 <!-- JOKE-END -->
