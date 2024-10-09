@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Two guys walk into a bar . . .
+Why did the fireman wear red, white, and blue suspenders?
 
-The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+To hold his pants up.
 <!-- JOKE-END -->
