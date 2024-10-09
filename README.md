@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Two guys walk into a bar . . .
 
-When they run out of patients.
+The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
