@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What creature is smarter than a talking parrot?
+If you boil a clown...
 
-A spelling bee.
+Do you get a laughing stock?
 <!-- JOKE-END -->
