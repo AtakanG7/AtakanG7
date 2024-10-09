@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the chicken cross the playground?
+Do you want a brief explanation of what an acorn is?
 
-To get to the other slide.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
