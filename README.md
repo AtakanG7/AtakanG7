@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make holy water?
+Why did the golfer wear two pairs of pants?
 
-You boil the hell out of it
+In case he got a hole in one.
 <!-- JOKE-END -->
