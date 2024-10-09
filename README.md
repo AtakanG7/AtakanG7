@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a monkey in a mine field?
+How do you make holy water?
 
-A babooooom!
+You boil the hell out of it
 <!-- JOKE-END -->
