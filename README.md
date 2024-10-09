@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What type of music do balloons hate?
 
-I’ll ketch up
+Pop music!
 <!-- JOKE-END -->
