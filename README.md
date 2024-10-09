@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer quit his job?
+What did Romans use to cut pizza before the rolling cutter was invented?
 
-Because he didn't get arrays.
+Lil Caesars
 <!-- JOKE-END -->
