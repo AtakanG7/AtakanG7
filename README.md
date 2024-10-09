@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-There are 10 types of people in this world...
+How much does a hipster weigh?
 
-Those who understand binary and those who don't
+An instagram.
 <!-- JOKE-END -->
