@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What type of music do balloons hate?
+What do you call an alligator in a vest?
 
-Pop music!
+An in-vest-igator!
 <!-- JOKE-END -->
