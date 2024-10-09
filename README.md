@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I got hit in the head by a soda can, but it didn't hurt that much...
+When does a joke become a dad joke?
 
-It was a soft drink.
+When it becomes apparent.
 <!-- JOKE-END -->
