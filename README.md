@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+What do you get when you cross a chicken with a skunk?
 
-Do you get a laughing stock?
+A fowl smell!
 <!-- JOKE-END -->
