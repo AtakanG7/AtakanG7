@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Well...
+What's the difference between a seal and a sea lion?
 
-That’s a deep subject.
+An ion! 
 <!-- JOKE-END -->
