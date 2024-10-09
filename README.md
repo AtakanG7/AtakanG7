@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the traffic light say to the car as it passed?
+What do you get when you cross a React developer with a mathematician?
 
-Don't look I'm changing!
+A function component.
 <!-- JOKE-END -->
