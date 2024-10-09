@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+What does an angry pepper do?
 
-Because it was well armed.
+It gets jalapeño face.
 <!-- JOKE-END -->
