@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie go to the doctor?
+How do you fix a damaged jack-o-lantern?
 
- Because it was feeling crumbly.
+You use a pumpkin patch.
 <!-- JOKE-END -->
