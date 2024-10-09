@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees hum?
+Why did the developer go broke?
 
-Because they don't know the words.
+They kept spending all their cache.
 <!-- JOKE-END -->
