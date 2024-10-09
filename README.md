@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+What’s the object-oriented way to become wealthy?
 
-An impasta.
+Inheritance.
 <!-- JOKE-END -->
