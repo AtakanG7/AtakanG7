@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many lips does a flower have?
+Why did the barber win the race?
 
-Tulips
+He took a short cut.
 <!-- JOKE-END -->
