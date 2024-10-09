@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+What do you call a laughing motorcycle?
 
-He wanted to learn how to code outside the box.
+A Yamahahahaha.
 <!-- JOKE-END -->
