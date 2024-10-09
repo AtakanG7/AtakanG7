@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a chicken with a skunk?
+What do you call fake spaghetti?
 
-A fowl smell!
+An impasta.
 <!-- JOKE-END -->
