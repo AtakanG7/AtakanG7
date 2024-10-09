@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I started a new business making yachts in my attic this year...
+Why do valley girls hang out in odd numbered groups?
 
-The sails are going through the roof.
+Because they can't even.
 <!-- JOKE-END -->
