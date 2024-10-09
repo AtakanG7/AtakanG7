@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+Why did the programmer go broke?
 
-He let out a little wine.
+He used up all his cache
 <!-- JOKE-END -->
