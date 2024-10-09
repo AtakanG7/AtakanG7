@@ -21,7 +21,7 @@ I'm passionate about optimizing development pipelines and enhancing cloud-native
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the scarecrow win an award?
+What do you call an alligator in a vest?
 
-Because he was outstanding in his field.
+An in-vest-igator!
 <!-- JOKE-END -->
