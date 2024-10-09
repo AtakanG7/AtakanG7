@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a damaged jack-o-lantern?
+Why did the programmer go to art school?
 
-You use a pumpkin patch.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
