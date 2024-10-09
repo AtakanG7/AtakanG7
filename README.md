@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the advantage of living in Switzerland?
+Want to hear my pizza joke?
 
-Well, the flag is a big plus.
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
