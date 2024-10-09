@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+Why did the cookie go to the doctor?
 
-Tweets.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
