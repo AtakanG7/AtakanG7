@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the functions stop calling each other?
+What did the grape do when he got stepped on?
 
-Because they had constant arguments.
+He let out a little wine.
 <!-- JOKE-END -->
