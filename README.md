@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a boomerang that won't come back?
+Why do programmers always get Christmas and Halloween mixed up?
 
-A stick.
+Because DEC 25 = OCT 31
 <!-- JOKE-END -->
