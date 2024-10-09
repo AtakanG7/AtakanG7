@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+Why did the invisible man turn down the job offer?
 
-All of them!
+He couldn't see himself doing it
 <!-- JOKE-END -->
