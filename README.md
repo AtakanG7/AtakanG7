@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a laughing motorcycle?
+What's the object-oriented way to become wealthy?
 
-A Yamahahahaha.
+Inheritance
 <!-- JOKE-END -->
