@@ -54,11 +54,9 @@
 ---
 
 <!-- JOKE-START -->
-<p align="center">
-  ## **10 min/joke:**
-  <br>
-  What did the digital clock say to the grandfather clock?
-  <br>
-  <strong>Look, no hands!</strong>
-</p>
+- ## **10 min/joke:**
+
+Where do bees go to the bathroom?
+
+The BP station.
 <!-- JOKE-END -->
