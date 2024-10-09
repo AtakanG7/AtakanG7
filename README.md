@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+How are false teeth like stars?
 
-Inheritance.
+They come out at night!
 <!-- JOKE-END -->
