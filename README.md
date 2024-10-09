@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+Why did the cookie go to the doctor?
 
-I don't know, but their flag is a big plus.
+ Because it was feeling crumbly.
 <!-- JOKE-END -->
