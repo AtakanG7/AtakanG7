@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the butcher work extra hours at the shop?
+What do you call a dictionary on drugs?
 
-To make ends meat.
+High definition.
 <!-- JOKE-END -->
