@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the left eye say to the right eye?
+Why was the developer always calm?
 
-Between us, something smells!
+Because they knew how to handle exceptions.
 <!-- JOKE-END -->
