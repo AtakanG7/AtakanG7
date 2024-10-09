@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a scientist freshen their breath?
+How does a train eat?
 
-With experi-mints!
+It goes chew, chew
 <!-- JOKE-END -->
