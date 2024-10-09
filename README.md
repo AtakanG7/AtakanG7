@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+Is there a hole in your shoe?
 
-I'm sorry, we don't serve food here
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
