@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just watched a documentary about beavers.
+What did the left eye say to the right eye?
 
-It was the best dam show I ever saw
+Between us, something smells!
 <!-- JOKE-END -->
