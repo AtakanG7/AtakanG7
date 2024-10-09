@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a train eat?
+How do you know if there’s an elephant under your bed?
 
-It goes chew, chew
+Your head hits the ceiling!
 <!-- JOKE-END -->
