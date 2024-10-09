@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the octopus beat the shark in a fight?
+How does a scientist freshen their breath?
 
-Because it was well armed.
+With experi-mints!
 <!-- JOKE-END -->
