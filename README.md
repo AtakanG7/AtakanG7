@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+What creature is smarter than a talking parrot?
 
-Never mind, it's too cheesy.
+A spelling bee.
 <!-- JOKE-END -->
