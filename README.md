@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a chimney joke?
+Did you hear about the guy who invented Lifesavers?
 
-Got stacks of em! First one's on the house
+They say he made a mint.
 <!-- JOKE-END -->
