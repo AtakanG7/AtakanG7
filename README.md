@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+What’s the difference between an African elephant and an Indian elephant?
 
-They say the business is toast.
+About 5000 miles.
 <!-- JOKE-END -->
