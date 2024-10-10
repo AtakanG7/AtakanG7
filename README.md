@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call sad coffee?
+What do you call a girl between two posts?
 
-Despresso.
+Annette.
 <!-- JOKE-END -->
