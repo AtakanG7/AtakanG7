@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the difference between an African elephant and an Indian elephant?
+What does a pirate pay for his corn?
 
-About 5000 miles.
+A buccaneer!
 <!-- JOKE-END -->
