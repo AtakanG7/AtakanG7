@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the new restaurant on the moon?
+Hey, dad, did you get a haircut?
 
-The food is great, but there’s just no atmosphere.
+No, I got them all cut.
 <!-- JOKE-END -->
