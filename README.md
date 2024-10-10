@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call cheese by itself?
+Hey, wanna hear a joke?
 
-Provolone.
+Parsing HTML with regex.
 <!-- JOKE-END -->
