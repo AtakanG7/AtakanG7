@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a belt made out of watches?
+Why did the developer go broke?
 
-A waist of time.
+They kept spending all their cache.
 <!-- JOKE-END -->
