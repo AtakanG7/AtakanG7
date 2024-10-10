@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many hipsters does it take to change a lightbulb?
+What is a witch's favorite subject in school?
 
-Oh, it's a really obscure number. You've probably never heard of it.
+Spelling!
 <!-- JOKE-END -->
