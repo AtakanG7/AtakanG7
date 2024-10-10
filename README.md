@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+What do you call a group of disorganized cats?
 
-A Carrot.
+A cat-tastrophe.
 <!-- JOKE-END -->
