@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do chicken coops only have two doors?
+Did you hear about the kidnapping at school?
 
-Because if they had four, they would be chicken sedans
+It's ok, he woke up.
 <!-- JOKE-END -->
