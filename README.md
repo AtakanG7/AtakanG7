@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are oranges the smartest fruit?
+Why do ducks make great detectives?
 
-Because they are made to concentrate. 
+They always quack the case.
 <!-- JOKE-END -->
