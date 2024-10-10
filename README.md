@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+What's red and bad for your teeth?
 
-Never mind, I shouldn't spread it.
+A Brick.
 <!-- JOKE-END -->
