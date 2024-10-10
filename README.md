@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-99.9% of the people are dumb!
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-Fortunately I belong to the remaining 1%
+A metro-gnome
 <!-- JOKE-END -->
