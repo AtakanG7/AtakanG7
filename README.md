@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+What’s brown and sounds like a bell?
 
-I don't know, but their flag is a big plus.
+Dung!
 <!-- JOKE-END -->
