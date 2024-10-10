@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+What does the mermaid wear to math class?
 
-Because he is a Supperhero.
+Algae-bra.
 <!-- JOKE-END -->
