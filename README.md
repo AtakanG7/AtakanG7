@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-did you know the first French fries weren't cooked in France?
+Why was the designer always cold?
 
-they were cooked in Greece
+Because they always used too much ice-olation.
 <!-- JOKE-END -->
