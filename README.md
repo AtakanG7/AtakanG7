@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the kidnapping at school?
+How do you generate a random string?
 
-It's ok, he woke up.
+Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
