@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+Did you hear about the bread factory burning down?
 
-A little shaken.
+They say the business is toast.
 <!-- JOKE-END -->
