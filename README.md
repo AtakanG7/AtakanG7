@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do ducks make great detectives?
+Ever wondered why bees hum?
 
-They always quack the case.
+It's because they don't know the words.
 <!-- JOKE-END -->
