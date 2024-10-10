@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a scientist freshen their breath?
+Where do hamburgers go to dance?
 
-With experi-mints!
+The meat-ball.
 <!-- JOKE-END -->
