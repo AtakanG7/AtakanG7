@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What is the hardest part about sky diving?
 
-Boo jeans.
+The ground.
 <!-- JOKE-END -->
