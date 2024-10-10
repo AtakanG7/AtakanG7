@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst part about being a cross-eyed teacher?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-They can't control their pupils.
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
