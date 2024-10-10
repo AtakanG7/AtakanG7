@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+What kind of pants do ghosts wear?
 
-They couldn't find a table.
+Boo jeans.
 <!-- JOKE-END -->
