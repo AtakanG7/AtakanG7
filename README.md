@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+To understand what recursion is...
 
-Parsing HTML with regex.
+You must first understand what recursion is
 <!-- JOKE-END -->
