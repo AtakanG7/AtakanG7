@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tomato blush?
+What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
-Because it saw the salad dressing.
+A metro-gnome
 <!-- JOKE-END -->
