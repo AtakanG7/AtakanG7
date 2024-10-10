@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a computer mouse that swears a lot?
+Want to hear my pizza joke?
 
-A cursor!
+Never mind, it's too cheesy.
 <!-- JOKE-END -->
