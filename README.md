@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A DHCP packet walks into a bar and asks for a beer.
+Did you know crocodiles could grow up to 15 feet?
 
-Bartender says, "here, but I’ll need that back in an hour!"
+But most just have 4.
 <!-- JOKE-END -->
