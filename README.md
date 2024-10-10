@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+What do you call a fake noodle?
 
-He held up a pair of pants!
+An impasta.
 <!-- JOKE-END -->
