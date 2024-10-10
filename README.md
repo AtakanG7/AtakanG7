@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you generate a random string?
+Why don't programmers like nature?
 
-Put a Windows user in front of Vim and tell them to exit.
+Too many bugs.
 <!-- JOKE-END -->
