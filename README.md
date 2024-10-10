@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+Have you heard the rumor going around about butter?
 
-That she was a little boulder.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
