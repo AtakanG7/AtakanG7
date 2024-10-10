@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+What creature is smarter than a talking parrot?
 
-The Foo Bar.
+A spelling bee.
 <!-- JOKE-END -->
