@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+What kind of award did the dentist receive?
 
-A stick.
+A little plaque.
 <!-- JOKE-END -->
