@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's red and bad for your teeth?
+Why did the programmer always mix up Halloween and Christmas?
 
-A Brick.
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
