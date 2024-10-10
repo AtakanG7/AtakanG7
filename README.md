@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+Why does Superman get invited to dinners?
 
-They're afraid to unwind.
+Because he is a Supperhero.
 <!-- JOKE-END -->
