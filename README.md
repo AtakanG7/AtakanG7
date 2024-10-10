@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+did you know the first French fries weren't cooked in France?
 
-It's because they don't know the words.
+they were cooked in Greece
 <!-- JOKE-END -->
