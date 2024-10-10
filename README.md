@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+Why did the coffee file a police report?
 
-I'm sorry, we don't serve food here
+It got mugged.
 <!-- JOKE-END -->
