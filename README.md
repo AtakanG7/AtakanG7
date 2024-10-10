@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+Hey, wanna hear a joke?
 
-A metro-gnome
+Parsing HTML with regex.
 <!-- JOKE-END -->
