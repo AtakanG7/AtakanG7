@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Why don't scientists trust atoms?
 
-You should drop another one, then you would have a pair.
+Because they make up everything.
 <!-- JOKE-END -->
