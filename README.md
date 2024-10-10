@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+Why is seven bigger than nine?
 
-There's too many bugs.
+Because seven ate nine.
 <!-- JOKE-END -->
