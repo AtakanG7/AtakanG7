@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the janitor say when he jumped out of the closet?
+How do you steal a coat?
 
-Supplies!
+You jacket.
 <!-- JOKE-END -->
