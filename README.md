@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make the number one disappear?
+Have you ever heard of a music group called Cellophane?
 
-Add the letter G and it’s “gone”!
+They mostly wrap.
 <!-- JOKE-END -->
