@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know crocodiles could grow up to 15 feet?
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
-But most just have 4.
+European
 <!-- JOKE-END -->
