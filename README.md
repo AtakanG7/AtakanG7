@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+Why are fish easy to weigh?
 
-With tomato paste.
+Because they have their own scales.
 <!-- JOKE-END -->
