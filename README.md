@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+Have you heard the rumor going around about butter?
 
-You jacket.
+Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
