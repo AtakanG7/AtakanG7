@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-what do you call a dog that can do magic tricks?
+What do birds give out on Halloween?
 
-a labracadabrador
+Tweets.
 <!-- JOKE-END -->
