@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are pirates called pirates?
+Why are football stadiums so cool?
 
-Because they arrr!
+Because every seat has a fan in it.
 <!-- JOKE-END -->
