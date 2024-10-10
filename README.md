@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does an angry pepper do?
+What is the hardest part about sky diving?
 
-It gets jalapeño face.
+The ground.
 <!-- JOKE-END -->
