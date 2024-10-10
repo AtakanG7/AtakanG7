@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is peter pan always flying?
+A grocery store cashier asked if I would like my milk in a bag.
 
-Because he neverlands
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
