@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+What is a vampire's favorite fruit?
 
-Spelling!
+A blood orange.
 <!-- JOKE-END -->
