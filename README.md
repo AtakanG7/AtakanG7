@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call two barracuda fish?
+Why don't eggs tell jokes?
 
-A Pairacuda!
+Because they would crack each other up.
 <!-- JOKE-END -->
