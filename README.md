@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, dad, did you get a haircut?
+What do you call two barracuda fish?
 
-No, I got them all cut.
+A Pairacuda!
 <!-- JOKE-END -->
