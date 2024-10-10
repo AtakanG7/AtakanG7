@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+Why do chicken coops only have two doors?
 
-Dung!
+Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
