@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+I just watched a documentary about beavers.
 
-European
+It was the best dam show I ever saw
 <!-- JOKE-END -->
