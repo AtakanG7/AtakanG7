@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a pirate pay for his corn?
+What kind of pants do ghosts wear?
 
-A buccaneer!
+Boo jeans.
 <!-- JOKE-END -->
