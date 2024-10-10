@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear my pizza joke?
+What does the mermaid wear to math class?
 
-Never mind, it's too cheesy.
+Algae-bra.
 <!-- JOKE-END -->
