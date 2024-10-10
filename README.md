@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the melons plan a big wedding?
+How many React developers does it take to change a lightbulb?
 
-Because they cantaloupe!
+None, they prefer dark mode.
 <!-- JOKE-END -->
