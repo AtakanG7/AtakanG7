@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+Why couldn't the lifeguard save the hippie?
 
-Inheritance.
+He was too far out, man.
 <!-- JOKE-END -->
