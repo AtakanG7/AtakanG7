@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-He didn't know how to null his feelings.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
