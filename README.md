@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+Did you know crocodiles could grow up to 15 feet?
 
-Before was was was was was is.
+But most just have 4.
 <!-- JOKE-END -->
