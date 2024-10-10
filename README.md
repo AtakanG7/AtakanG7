@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+Where do young cows eat lunch?
 
-A cat-tastrophe.
+In the calf-ateria.
 <!-- JOKE-END -->
