@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+What goes after USA?
 
-Algae-bra.
+USB.
 <!-- JOKE-END -->
