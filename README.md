@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+Who is the coolest Doctor in the hospital?
 
-The ground.
+The hip Doctor!
 <!-- JOKE-END -->
