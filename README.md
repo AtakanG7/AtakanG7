@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+How does a scientist freshen their breath?
 
-None that's a hardware problem
+With experi-mints!
 <!-- JOKE-END -->
