@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's orange and sounds like a parrot?
+What's a computer's favorite snack?
 
-A Carrot.
+Microchips.
 <!-- JOKE-END -->
