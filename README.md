@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a laughing motorcycle?
+What has ears but cannot hear?
 
-A Yamahahahaha.
+A field of corn.
 <!-- JOKE-END -->
