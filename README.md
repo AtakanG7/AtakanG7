@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-['hip', 'hip']
+How do you make a tissue dance?
 
-(hip hip array)
+You put a little boogie on it.
 <!-- JOKE-END -->
