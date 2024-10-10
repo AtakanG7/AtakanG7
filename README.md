@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get hanging from Apple trees?
+Why did the belt go to prison?
 
-Sore arms.
+He held up a pair of pants!
 <!-- JOKE-END -->
