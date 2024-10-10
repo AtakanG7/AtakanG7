@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+Why does Superman get invited to dinners?
 
-None, they prefer dark mode.
+Because he is a Supperhero.
 <!-- JOKE-END -->
