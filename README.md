@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Superman get invited to dinners?
+What does an angry pepper do?
 
-Because he is a Supperhero.
+It gets jalapeño face.
 <!-- JOKE-END -->
