@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I can't tell if i like this blender...
+Want to hear a joke about construction?
 
-It keeps giving me mixed results.
+Nah, I'm still working on it.
 <!-- JOKE-END -->
