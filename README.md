@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What do you get hanging from Apple trees?
 
-The ground.
+Sore arms.
 <!-- JOKE-END -->
