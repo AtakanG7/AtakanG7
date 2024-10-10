@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-The stock market.
+They couldn't find a table.
 <!-- JOKE-END -->
