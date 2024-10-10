@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+How does a French skeleton say hello?
 
-An in-vest-igator!
+Bone-jour.
 <!-- JOKE-END -->
