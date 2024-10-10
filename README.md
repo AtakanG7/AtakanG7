@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+How do you get two whales in a car?
 
-A metro-gnome
+Start in England and drive West.
 <!-- JOKE-END -->
