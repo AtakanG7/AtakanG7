@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard the rumor going around about butter?
+What's orange and sounds like a parrot?
 
-Never mind, I shouldn't spread it.
+A Carrot.
 <!-- JOKE-END -->
