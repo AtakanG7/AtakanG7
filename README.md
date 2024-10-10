@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does the moon cut his hair?
+What's the worst part about being a cross-eyed teacher?
 
-Eclipse it.
+They can't control their pupils.
 <!-- JOKE-END -->
