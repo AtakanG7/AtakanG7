@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+What do you call a laughing motorcycle?
 
-They say the business is toast.
+A Yamahahahaha.
 <!-- JOKE-END -->
