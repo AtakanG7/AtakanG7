@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why couldn't the lifeguard save the hippie?
+How does the moon cut his hair?
 
-He was too far out, man.
+Eclipse it.
 <!-- JOKE-END -->
