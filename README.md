@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many apples grow on a tree?
+How do you organize a space party?
 
-All of them!
+You planet.
 <!-- JOKE-END -->
