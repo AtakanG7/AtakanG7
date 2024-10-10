@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a nervous javelin thrower?
+Why are fish easy to weigh?
 
-Shakespeare.
+Because they have their own scales.
 <!-- JOKE-END -->
