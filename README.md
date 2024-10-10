@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+Why did the melons plan a big wedding?
 
-Because they make up everything.
+Because they cantaloupe!
 <!-- JOKE-END -->
