@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you organize a space party?
+Why didn't the number 4 get into the nightclub?
 
-You planet.
+Because he is 2 square.
 <!-- JOKE-END -->
