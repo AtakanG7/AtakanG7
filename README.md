@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn't the number 4 get into the nightclub?
+What kind of award did the dentist receive?
 
-Because he is 2 square.
+A little plaque.
 <!-- JOKE-END -->
