@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the designer always cold?
+Why did the man put his money in the freezer?
 
-Because they always used too much ice-olation.
+He wanted cold hard cash!
 <!-- JOKE-END -->
