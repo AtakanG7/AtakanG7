@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+what do you call a dog that can do magic tricks?
 
-Start in England and drive West.
+a labracadabrador
 <!-- JOKE-END -->
