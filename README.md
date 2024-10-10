@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best part about TCP jokes?
+Why are oranges the smartest fruit?
 
-I get to keep telling them until you get them.
+Because they are made to concentrate. 
 <!-- JOKE-END -->
