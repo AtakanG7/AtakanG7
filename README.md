@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the man put his money in the freezer?
+How many hipsters does it take to change a lightbulb?
 
-He wanted cold hard cash!
+Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
