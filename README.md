@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+What do you call an elephant that doesn’t matter?
 
-Microchips.
+An irrelephant.
 <!-- JOKE-END -->
