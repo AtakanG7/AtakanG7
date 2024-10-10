@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I dropped a pear in my car this morning.
+Why was the JavaScript developer sad?
 
-You should drop another one, then you would have a pair.
+He didn't know how to null his feelings.
 <!-- JOKE-END -->
