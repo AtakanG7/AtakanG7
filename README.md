@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+How many apples grow on a tree?
 
-Lack of concentration.
+All of them!
 <!-- JOKE-END -->
