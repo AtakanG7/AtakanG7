@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a seal and a sea lion?
+Why did the worker get fired from the orange juice factory?
 
-An ion! 
+Lack of concentration.
 <!-- JOKE-END -->
