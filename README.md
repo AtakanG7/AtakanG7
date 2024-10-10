@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Why are mummys scared of vacation?
 
-A little plaque.
+They're afraid to unwind.
 <!-- JOKE-END -->
