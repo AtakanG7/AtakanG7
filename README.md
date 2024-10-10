@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+Why do ducks make great detectives?
 
-They say the business is toast.
+They always quack the case.
 <!-- JOKE-END -->
