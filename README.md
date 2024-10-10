@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+I can't tell if i like this blender...
 
-A cat-tastrophe.
+It keeps giving me mixed results.
 <!-- JOKE-END -->
