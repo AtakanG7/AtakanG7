@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+What's orange and sounds like a parrot?
 
-I don't know, but their flag is a big plus.
+A Carrot.
 <!-- JOKE-END -->
