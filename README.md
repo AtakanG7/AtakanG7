@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+What’s the object-oriented way to become wealthy?
 
-Because seven ate nine.
+Inheritance.
 <!-- JOKE-END -->
