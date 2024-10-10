@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+['hip', 'hip']
 
-A field of corn.
+(hip hip array)
 <!-- JOKE-END -->
