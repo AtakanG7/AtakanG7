@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+What do you call a group of disorganized cats?
 
-You put a little boogie on it.
+A cat-tastrophe.
 <!-- JOKE-END -->
