@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+What do you call an alligator in a vest?
 
-He didn't know how to null his feelings.
+An in-vest-igator!
 <!-- JOKE-END -->
