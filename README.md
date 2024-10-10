@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What goes after USA?
+What did the shy pebble wish for?
 
-USB.
+That she was a little boulder.
 <!-- JOKE-END -->
