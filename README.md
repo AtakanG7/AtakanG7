@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+Why was the JavaScript developer sad?
 
-A little plaque.
+He didn't know how to null his feelings.
 <!-- JOKE-END -->
