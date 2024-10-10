@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of shoes does a thief wear?
+What do you call a computer mouse that swears a lot?
 
-Sneakers
+A cursor!
 <!-- JOKE-END -->
