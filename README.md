@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a French skeleton say hello?
+Why are pirates called pirates?
 
-Bone-jour.
+Because they arrr!
 <!-- JOKE-END -->
