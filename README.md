@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a vampire's favorite fruit?
+What's the best thing about Switzerland?
 
-A blood orange.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
