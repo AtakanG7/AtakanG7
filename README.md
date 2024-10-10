@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do young cows eat lunch?
+Why did the tomato blush?
 
-In the calf-ateria.
+Because it saw the salad dressing.
 <!-- JOKE-END -->
