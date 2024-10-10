@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Want to hear a joke about construction?
+What do you call cheese by itself?
 
-Nah, I'm still working on it.
+Provolone.
 <!-- JOKE-END -->
