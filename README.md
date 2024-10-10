@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the coffee file a police report?
+Why don't programmers like nature?
 
-It got mugged.
+There's too many bugs.
 <!-- JOKE-END -->
