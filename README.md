@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you know crocodiles could grow up to 15 feet?
+Why did the cookie cry?
 
-But most just have 4.
+Because his mother was a wafer so long
 <!-- JOKE-END -->
