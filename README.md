@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call someone with no nose?
+Did you hear about the bread factory burning down?
 
-Nobody knows.
+They say the business is toast.
 <!-- JOKE-END -->
