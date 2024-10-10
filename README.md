@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+How do you fix a broken pizza?
 
-He ate the pizza before it was cool.
+With tomato paste.
 <!-- JOKE-END -->
