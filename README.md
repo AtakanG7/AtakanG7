@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who is the coolest Doctor in the hospital?
+How was the snow globe feeling after the storm?
 
-The hip Doctor!
+A little shaken.
 <!-- JOKE-END -->
