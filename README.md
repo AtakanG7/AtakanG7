@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the cookie cry?
+Do you know what the word 'was' was initially?
 
-Because his mother was a wafer so long
+Before was was was was was is.
 <!-- JOKE-END -->
