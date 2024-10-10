@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+99.9% of the people are dumb!
 
-Boo jeans.
+Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
