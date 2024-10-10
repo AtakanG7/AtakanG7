@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fake noodle?
+Did you hear about the new restaurant on the moon?
 
-An impasta.
+The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
