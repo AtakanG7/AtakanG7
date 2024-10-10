@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish so smart?
+Why did the programmer always mix up Halloween and Christmas?
 
-Because they live in schools!
+Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
