@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't programmers like nature?
+How do you make the number one disappear?
 
-Too many bugs.
+Add the letter G and it’s “gone”!
 <!-- JOKE-END -->
