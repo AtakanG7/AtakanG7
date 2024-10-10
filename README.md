@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Buffalo say to his little boy when he dropped him off at school?
+What do you call sad coffee?
 
-Bison.
+Despresso.
 <!-- JOKE-END -->
