@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Hey, wanna hear a joke?
+What’s the object-oriented way to become wealthy?
 
-Parsing HTML with regex.
+Inheritance.
 <!-- JOKE-END -->
