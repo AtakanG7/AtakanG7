@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+How did the hipster burn the roof of his mouth?
 
-He's all right now.
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
