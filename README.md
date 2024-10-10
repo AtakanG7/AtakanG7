@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+Why is peter pan always flying?
 
-They mostly wrap.
+Because he neverlands
 <!-- JOKE-END -->
