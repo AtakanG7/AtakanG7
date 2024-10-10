@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+Did you hear about the guy whose whole left side was cut off?
 
-An irrelephant.
+He's all right now.
 <!-- JOKE-END -->
