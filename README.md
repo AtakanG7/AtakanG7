@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish easy to weigh?
+What did the late tomato say to the early tomato?
 
-Because they have their own scales.
+I’ll ketch up
 <!-- JOKE-END -->
