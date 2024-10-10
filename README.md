@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know where you can get chicken broth in bulk?
+What kind of shoes does a thief wear?
 
-The stock market.
+Sneakers
 <!-- JOKE-END -->
