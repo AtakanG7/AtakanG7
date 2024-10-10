@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's a computer's favorite snack?
+Do you know where you can get chicken broth in bulk?
 
-Microchips.
+The stock market.
 <!-- JOKE-END -->
