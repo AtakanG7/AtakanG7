@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+What's the best thing about Switzerland?
 
-Inheritance.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
