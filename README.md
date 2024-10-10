@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always mix up Halloween and Christmas?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-Because Oct 31 equals Dec 25.
+They couldn't find a table.
 <!-- JOKE-END -->
