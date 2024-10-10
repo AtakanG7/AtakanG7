@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does the mermaid wear to math class?
+What did the janitor say when he jumped out of the closet?
 
-Algae-bra.
+Supplies!
 <!-- JOKE-END -->
