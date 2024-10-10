@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+How many programmers does it take to change a lightbulb?
 
-Tweets.
+None that's a hardware problem
 <!-- JOKE-END -->
