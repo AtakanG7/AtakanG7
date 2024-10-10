@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do hamburgers go to dance?
+Why are football stadiums so cool?
 
-The meat-ball.
+Because every seat has a fan in it.
 <!-- JOKE-END -->
