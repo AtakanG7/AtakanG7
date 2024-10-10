@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just watched a documentary about beavers.
+Where do programmers like to hangout?
 
-It was the best dam show I ever saw
+The Foo Bar.
 <!-- JOKE-END -->
