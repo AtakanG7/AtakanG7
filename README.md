@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+I dropped a pear in my car this morning.
 
-Because every seat has a fan in it.
+You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
