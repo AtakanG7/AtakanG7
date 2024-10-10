@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't eggs tell jokes?
+What's the best part about TCP jokes?
 
-Because they would crack each other up.
+I get to keep telling them until you get them.
 <!-- JOKE-END -->
