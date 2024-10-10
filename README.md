@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are fish easy to weigh?
+What did the Buffalo say to his little boy when he dropped him off at school?
 
-Because they have their own scales.
+Bison.
 <!-- JOKE-END -->
