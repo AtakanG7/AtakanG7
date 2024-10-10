@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call fake spaghetti?
+Did you hear about the two silk worms in a race?
 
-An impasta.
+It ended in a tie.
 <!-- JOKE-END -->
