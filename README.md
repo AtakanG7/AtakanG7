@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What do you call a belt made out of watches?
 
-I’ll ketch up
+A waist of time.
 <!-- JOKE-END -->
