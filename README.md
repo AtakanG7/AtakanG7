@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-To understand what recursion is...
+Do you know where you can get chicken broth in bulk?
 
-You must first understand what recursion is
+The stock market.
 <!-- JOKE-END -->
