@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+What's a computer's favorite snack?
 
-I told her 'No, thanks. The carton works fine.'
+Microchips.
 <!-- JOKE-END -->
