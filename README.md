@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of disorganized cats?
+What time did the man go to the dentist?
 
-A cat-tastrophe.
+Tooth hurt-y.
 <!-- JOKE-END -->
