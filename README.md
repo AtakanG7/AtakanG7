@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+What kind of tree fits in your hand?
 
-Tooth hurt-y.
+A palm tree!
 <!-- JOKE-END -->
