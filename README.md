@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Why did the programmer always carry a pencil?
 
-Hare spray.
+They preferred to write in C#.
 <!-- JOKE-END -->
