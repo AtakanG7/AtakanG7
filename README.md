@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the router say to the doctor?
+What do you call a cow with two legs?
 
-It hurts when IP.
+Lean beef.
 <!-- JOKE-END -->
