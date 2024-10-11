@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Why do mathematicians hate the U.S.?
 
-Start in England and drive West.
+Because it's indivisible.
 <!-- JOKE-END -->
