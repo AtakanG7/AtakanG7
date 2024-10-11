@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the half blind man fall in the well?
+You see, mountains aren't just funny.
 
-Because he couldn't see that well!
+They are hill areas.
 <!-- JOKE-END -->
