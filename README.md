@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A ham sandwhich walks into a bar and orders a beer. The bartender says...
+How do you get two whales in a car?
 
-I'm sorry, we don't serve food here
+Start in England and drive West.
 <!-- JOKE-END -->
