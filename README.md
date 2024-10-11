@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+Why are oranges the smartest fruit?
 
-Because they see sharp.
+Because they are made to concentrate. 
 <!-- JOKE-END -->
