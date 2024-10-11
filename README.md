@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you want a brief explanation of what an acorn is?
+I'm reading a book about anti-gravity...
 
-In a nutshell, it's an oak tree.
+It's impossible to put down
 <!-- JOKE-END -->
