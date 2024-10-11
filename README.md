@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a fake noodle?
+Why did the house go to the doctor?
 
-An impasta.
+It was having window panes.
 <!-- JOKE-END -->
