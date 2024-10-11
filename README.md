@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are graveyards so noisy?
+Why don't scientists trust atoms?
 
-Because of all the coffin.
+Because they make up everything.
 <!-- JOKE-END -->
