@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do mathematicians hate the U.S.?
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
 
-Because it's indivisible.
+I'm sorry, we don't serve food here
 <!-- JOKE-END -->
