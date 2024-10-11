@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+Why do valley girls hang out in odd numbered groups?
 
-It's impossible to put down
+Because they can't even.
 <!-- JOKE-END -->
