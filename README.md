@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do sheep go to get their hair cut?
+How many bones are in the human hand?
 
-The baa-baa shop.
+A handful of them.
 <!-- JOKE-END -->
