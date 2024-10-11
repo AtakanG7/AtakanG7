@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do fathers take an extra pair of socks when they go golfing?
+What do you get when you cross a rabbit with a water hose?
 
-In case they get a hole in one!
+Hare spray.
 <!-- JOKE-END -->
