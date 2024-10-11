@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+What did the fish say when it swam into a wall?
 
-He let out a little wine.
+Damn!
 <!-- JOKE-END -->
