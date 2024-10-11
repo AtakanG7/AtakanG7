@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the hungry clock?
+How do you comfort a designer?
 
-It went back four seconds.
+You give them some space... between the elements.
 <!-- JOKE-END -->
