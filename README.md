@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
-The library, it’s got the most stories!
+Chess nuts boasting in an open foyer.
 <!-- JOKE-END -->
