@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the ocean say to the shore?
+Which side of the chicken has more feathers?
 
-Nothing, it just waved.
+The outside.
 <!-- JOKE-END -->
