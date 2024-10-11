@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+The punchline often arrives before the set-up.
 
-Because he doesn't want to be spotted.
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
