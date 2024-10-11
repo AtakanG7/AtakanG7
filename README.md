@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+What time did the man go to the dentist?
 
-Do you know the problem with UDP jokes?
+Tooth hurt-y.
 <!-- JOKE-END -->
