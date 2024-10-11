@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a troublesome Canadian high schooler?
+What is the tallest building in the world?
 
-A poutine.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
