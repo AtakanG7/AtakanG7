@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-3 SQL statements walk into a NoSQL bar. Soon, they walk out
+What did the grape do when he got stepped on?
 
-They couldn't find a table.
+He let out a little wine.
 <!-- JOKE-END -->
