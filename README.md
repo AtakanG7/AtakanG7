@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the guy whose whole left side was cut off?
+Why did the belt go to prison?
 
-He's all right now.
+He held up a pair of pants!
 <!-- JOKE-END -->
