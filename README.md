@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Why do Java programmers wear glasses?
 
-To prevent bat breath!
+Because they don't C#.
 <!-- JOKE-END -->
