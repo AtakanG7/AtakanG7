@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you get two whales in a car?
+Why was the JavaScript developer sad?
 
-Start in England and drive West.
+He didn't know how to null his feelings.
 <!-- JOKE-END -->
