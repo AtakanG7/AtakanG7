@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do bees go to the bathroom?
+What do you call a computer mouse that swears a lot?
 
-The BP station.
+A cursor!
 <!-- JOKE-END -->
