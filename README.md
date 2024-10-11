@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+What do you get when you cross a rabbit with a water hose?
 
-He held up a pair of pants!
+Hare spray.
 <!-- JOKE-END -->
