@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you ever heard of a music group called Cellophane?
+Where do bees go to the bathroom?
 
-They mostly wrap.
+The BP station.
 <!-- JOKE-END -->
