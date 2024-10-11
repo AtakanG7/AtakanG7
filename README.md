@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of pants do ghosts wear?
+What did the router say to the doctor?
 
-Boo jeans.
+It hurts when IP.
 <!-- JOKE-END -->
