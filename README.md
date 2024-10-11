@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did the API go to eat?
+How do you comfort a designer?
 
-To the RESTaurant.
+You give them some space... between the elements.
 <!-- JOKE-END -->
