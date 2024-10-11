@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the shy pebble wish for?
+What is a centipedes's favorite Beatle song?
 
-That she was a little boulder.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
