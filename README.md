@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a computer mouse that swears a lot?
+Why do fathers take an extra pair of socks when they go golfing?
 
-A cursor!
+In case they get a hole in one!
 <!-- JOKE-END -->
