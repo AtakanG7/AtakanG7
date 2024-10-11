@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What cheese can never be yours?
+Why are graveyards so noisy?
 
-Nacho cheese.
+Because of all the coffin.
 <!-- JOKE-END -->
