@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+The punchline often arrives before the set-up.
 
-Chess nuts boasting in an open foyer.
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
