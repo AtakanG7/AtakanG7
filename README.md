@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you do when you see a space man?
+What do you call a group of disorganized cats?
 
-Park your car, man.
+A cat-tastrophe.
 <!-- JOKE-END -->
