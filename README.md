@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of tree fits in your hand?
+Did you hear about the guy whose whole left side was cut off?
 
-A palm tree!
+He's all right now.
 <!-- JOKE-END -->
