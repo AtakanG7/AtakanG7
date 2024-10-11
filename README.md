@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about Switzerland?
+Why didn’t the orange win the race?
 
-I don't know, but their flag is a big plus.
+It ran out of juice.
 <!-- JOKE-END -->
