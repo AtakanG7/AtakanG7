@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the fish say when it swam into a wall?
+The punchline often arrives before the set-up.
 
-Damn!
+Do you know the problem with UDP jokes?
 <!-- JOKE-END -->
