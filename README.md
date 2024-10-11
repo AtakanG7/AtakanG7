@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Do you know what the word 'was' was initially?
+How was the snow globe feeling after the storm?
 
-Before was was was was was is.
+A little shaken.
 <!-- JOKE-END -->
