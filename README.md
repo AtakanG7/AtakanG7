@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
 
-The library, it’s got the most stories!
+They couldn't find a table.
 <!-- JOKE-END -->
