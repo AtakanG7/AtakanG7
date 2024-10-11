@@ -20,6 +20,13 @@
 ## 📚 Articles 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 250px;">
+    <h4 style="text-align: center;">Cloud Agnostic CI/CD Using Kubernetes, Jenkins, Helm</h4>
+    <p>How to Setup a Cloud Agnostic CI/CD Pipeline?</p>
+    <p style="text-align: center;">
+      <a href="https://atakangul.com/blogs/cloud-agnostic-ci-cd-pipeline" style="text-decoration: none; color: #0078D7;">Read More →</a>
+    </p>
+  </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 250px;">
     <h4 style="text-align: center;">LogWatcher</h4>
@@ -36,15 +43,6 @@
       <a href="https://atakangul.com/blogs/how-to-setup-cicd-pipeline-using-azure-devops-for-aks" style="text-decoration: none; color: #0078D7;">Read More →</a>
     </p>
   </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 250px;">
-    <h4 style="text-align: center;">Cloud Agnostic CI/CD</h4>
-    <p>How to Setup a Cloud Agnostic CI/CD Pipeline?</p>
-    <p style="text-align: center;">
-      <a href="https://atakangul.com/blogs/cloud-agnostic-ci-cd-pipeline" style="text-decoration: none; color: #0078D7;">Read More →</a>
-    </p>
-  </div>
-
 </div>
 
 <p align="center">
