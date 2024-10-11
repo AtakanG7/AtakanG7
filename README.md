@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does a chicken coop only have two doors?
+Why did the half blind man fall in the well?
 
-Because if it had four doors it would be a chicken sedan.
+Because he couldn't see that well!
 <!-- JOKE-END -->
