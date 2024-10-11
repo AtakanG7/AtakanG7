@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the font always tired?
+What is the hardest part about sky diving?
 
-It was always bold.
+The ground.
 <!-- JOKE-END -->
