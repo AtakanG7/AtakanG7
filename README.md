@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer always carry a pencil?
+What's the best thing about Switzerland?
 
-They preferred to write in C#.
+I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
