@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+While I was sleeping my friends decided to write math equations on me.
 
-The second one.
+You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
