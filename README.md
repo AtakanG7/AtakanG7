@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many programmers does it take to change a lightbulb?
+Have you ever heard of a music group called Cellophane?
 
-None that's a hardware problem
+They mostly wrap.
 <!-- JOKE-END -->
