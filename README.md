@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Which side of the chicken has more feathers?
+How do you make a tissue dance?
 
-The outside.
+You put a little boogie on it.
 <!-- JOKE-END -->
