@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was the JavaScript developer sad?
+Why does a chicken coop only have two doors?
 
-He didn't know how to null his feelings.
+Because if it had four doors it would be a chicken sedan.
 <!-- JOKE-END -->
