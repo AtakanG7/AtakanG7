@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a rabbit with a water hose?
+Did you hear about the hungry clock?
 
-Hare spray.
+It went back four seconds.
 <!-- JOKE-END -->
