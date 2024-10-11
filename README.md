@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the grape do when he got stepped on?
+What do birds give out on Halloween?
 
-He let out a little wine.
+Tweets.
 <!-- JOKE-END -->
