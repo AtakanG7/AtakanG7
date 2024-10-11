@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+What do you call a dictionary on drugs?
 
-You put a little boogie on it.
+High definition.
 <!-- JOKE-END -->
