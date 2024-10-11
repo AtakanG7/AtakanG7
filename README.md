@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you make a tissue dance?
+Can a kangaroo jump higher than the Empire State Building?
 
-You put a little boogie on it.
+Of course. The Empire State Building can't jump.
 <!-- JOKE-END -->
