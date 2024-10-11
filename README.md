@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a suspicious looking laptop?
+What did the Zen Buddist say to the hotdog vendor?
 
-Asus
+Make me one with everything.
 <!-- JOKE-END -->
