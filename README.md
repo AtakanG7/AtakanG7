@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why dot net developers don't wear glasses?
+What did the shy pebble wish for?
 
-Because they see sharp.
+That she was a little boulder.
 <!-- JOKE-END -->
