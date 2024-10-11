@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I'm reading a book about anti-gravity...
+How do you steal a coat?
 
-It's impossible to put down
+You jacket.
 <!-- JOKE-END -->
