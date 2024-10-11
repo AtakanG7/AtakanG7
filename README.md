@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a computer mouse that swears a lot?
+Why don't React developers like nature?
 
-A cursor!
+They prefer the virtual DOM.
 <!-- JOKE-END -->
