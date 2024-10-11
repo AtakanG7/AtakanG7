@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the submarine industry?
+What do you call a fake noodle?
 
-It really took a dive...
+An impasta.
 <!-- JOKE-END -->
