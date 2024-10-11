@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go broke?
+I just got fired from my job at the keyboard factory.
 
-They kept spending all their cache.
+They told me I wasn't putting in enough shifts.
 <!-- JOKE-END -->
