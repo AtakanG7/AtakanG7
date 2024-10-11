@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do choirs keep buckets handy?
+Did you hear the one about the guy with the broken hearing aid?
 
-So they can carry their tune
+Neither did he.
 <!-- JOKE-END -->
