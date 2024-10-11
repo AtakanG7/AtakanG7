@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+Finally realized why my plant sits around doing nothing all day...
 
-Lack of concentration.
+He loves his pot.
 <!-- JOKE-END -->
