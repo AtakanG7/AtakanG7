@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-If you boil a clown...
+Why don't React developers like nature?
 
-Do you get a laughing stock?
+They prefer the virtual DOM.
 <!-- JOKE-END -->
