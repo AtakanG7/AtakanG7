@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why can't bicycles stand on their own?
+What did the pirate say on his 80th birthday?
 
-They are two tired
+Aye Matey!
 <!-- JOKE-END -->
