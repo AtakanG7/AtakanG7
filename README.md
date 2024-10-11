@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+What is the tallest building in the world?
 
-Aye Matey!
+The library, it’s got the most stories!
 <!-- JOKE-END -->
