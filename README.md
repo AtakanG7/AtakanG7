@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Zen Buddist say to the hotdog vendor?
+Why can't bicycles stand on their own?
 
-Make me one with everything.
+They are two tired
 <!-- JOKE-END -->
