@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the worker get fired from the orange juice factory?
+What is this movie about?
 
-Lack of concentration.
+It is about 2 hours long.
 <!-- JOKE-END -->
