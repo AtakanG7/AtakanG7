@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+Have you heard of the band 1023MB?
 
-I want to hold your hand, hand, hand, hand...
+They haven't got a gig yet.
 <!-- JOKE-END -->
