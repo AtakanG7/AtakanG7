@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't scientists trust atoms?
+What do you call an elephant that doesn’t matter?
 
-Because they make up everything.
+An irrelephant.
 <!-- JOKE-END -->
