@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bees have sticky hair?
+What do you call a suspicious looking laptop?
 
-Because they use honey combs!
+Asus
 <!-- JOKE-END -->
