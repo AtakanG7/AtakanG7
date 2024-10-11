@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+Why did the belt go to prison?
 
-A Fermilabrador Retriever.
+He held up a pair of pants!
 <!-- JOKE-END -->
