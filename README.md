@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+Why did the programmer go to art school?
 
-You give them some space... between the elements.
+He wanted to learn how to code outside the box.
 <!-- JOKE-END -->
