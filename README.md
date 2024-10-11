@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Finally realized why my plant sits around doing nothing all day...
+Where do sheep go to get their hair cut?
 
-He loves his pot.
+The baa-baa shop.
 <!-- JOKE-END -->
