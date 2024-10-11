@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many seconds are in a year?
+What's brown and sticky?
 
-12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+A stick.
 <!-- JOKE-END -->
