@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-My older brother always tore the last pages of my comic books, and never told me why.
+What do you call a droid that takes the long way around?
 
-I had to draw my own conclusions.
+R2 detour.
 <!-- JOKE-END -->
