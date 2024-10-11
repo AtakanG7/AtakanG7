@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an elephant that doesn’t matter?
+What does a clock do when it's hungry?
 
-An irrelephant.
+It goes back four seconds!
 <!-- JOKE-END -->
