@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer bring a broom to work?
+How many programmers does it take to change a lightbulb?
 
-To clean up all the bugs.
+None that's a hardware problem
 <!-- JOKE-END -->
