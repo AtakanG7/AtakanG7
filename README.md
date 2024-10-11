@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can a kangaroo jump higher than the Empire State Building?
+Why do wizards clean their teeth three times a day?
 
-Of course. The Empire State Building can't jump.
+To prevent bat breath!
 <!-- JOKE-END -->
