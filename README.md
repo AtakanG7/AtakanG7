@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How did the hipster burn the roof of his mouth?
+Ever wondered why bees hum?
 
-He ate the pizza before it was cool.
+It's because they don't know the words.
 <!-- JOKE-END -->
