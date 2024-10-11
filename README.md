@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Lady: How do I spread love in this cruel world?
+I'm reading a book about anti-gravity...
 
-Random Dude: [...💘]
+It's impossible to put down
 <!-- JOKE-END -->
