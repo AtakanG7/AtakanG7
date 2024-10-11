@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the programmer go to art school?
+Who did the wizard marry?
 
-He wanted to learn how to code outside the box.
+His ghoul-friend
 <!-- JOKE-END -->
