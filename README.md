@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+Why are mummys scared of vacation?
 
-It is about 2 hours long.
+They're afraid to unwind.
 <!-- JOKE-END -->
