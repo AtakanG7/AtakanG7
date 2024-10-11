@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the tomato blush?
+Why do bananas have to put on sunscreen before they go to the beach?
 
-Because it saw the salad dressing.
+Because they might peel!
 <!-- JOKE-END -->
