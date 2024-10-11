@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many bones are in the human hand?
+What did the grape do when he got stepped on?
 
-A handful of them.
+He let out a little wine.
 <!-- JOKE-END -->
