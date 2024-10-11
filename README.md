@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are football stadiums so cool?
+Is there a hole in your shoe?
 
-Because every seat has a fan in it.
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
