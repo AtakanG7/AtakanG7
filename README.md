@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+What was a more important invention than the first telephone?
 
-The library, it’s got the most stories!
+The second one.
 <!-- JOKE-END -->
