@@ -56,7 +56,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just got fired from my job at the keyboard factory.
+Why did the A go to the bathroom and come out as an E?
 
-They told me I wasn't putting in enough shifts.
+Because he had a vowel movement.
 <!-- JOKE-END -->
