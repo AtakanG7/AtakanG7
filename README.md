@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the belt go to prison?
+How do you make a tissue dance?
 
-He held up a pair of pants!
+You put a little boogie on it.
 <!-- JOKE-END -->
