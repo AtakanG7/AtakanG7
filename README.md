@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do bananas have to put on sunscreen before they go to the beach?
+Why did the worker get fired from the orange juice factory?
 
-Because they might peel!
+Lack of concentration.
 <!-- JOKE-END -->
