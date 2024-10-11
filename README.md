@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who did the wizard marry?
+How do you get two whales in a car?
 
-His ghoul-friend
+Start in England and drive West.
 <!-- JOKE-END -->
