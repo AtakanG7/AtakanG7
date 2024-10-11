@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+How do hens stay fit?
 
-Igloos it together.
+They always egg-cercise!
 <!-- JOKE-END -->
