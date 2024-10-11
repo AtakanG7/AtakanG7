@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a centipedes's favorite Beatle song?
+What did Michael Jackson name his denim store?
 
-I want to hold your hand, hand, hand, hand...
+Billy Jeans!
 <!-- JOKE-END -->
