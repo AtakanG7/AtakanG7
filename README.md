@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s brown and sounds like a bell?
+What’s the object-oriented way to become wealthy?
 
-Dung!
+Inheritance.
 <!-- JOKE-END -->
