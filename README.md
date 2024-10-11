@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's Forrest Gump's password?
+Is there a hole in your shoe?
 
-1Forrest1
+No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
