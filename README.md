@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the hardest part about sky diving?
+What did the pirate say on his 80th birthday?
 
-The ground.
+Aye Matey!
 <!-- JOKE-END -->
