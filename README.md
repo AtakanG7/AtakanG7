@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Have you heard of the band 1023MB?
+What kind of dog lives in a particle accelerator?
 
-They haven't got a gig yet.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
