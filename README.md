@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the tallest building in the world?
+What kind of pants do ghosts wear?
 
-The library, it’s got the most stories!
+Boo jeans.
 <!-- JOKE-END -->
