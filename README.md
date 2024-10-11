@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a droid that takes the long way around?
+Do you want a brief explanation of what an acorn is?
 
-R2 detour.
+In a nutshell, it's an oak tree.
 <!-- JOKE-END -->
