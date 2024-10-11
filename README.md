@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Is there a hole in your shoe?
+What do you call a computer mouse that swears a lot?
 
-No… Then how’d you get your foot in it?
+A cursor!
 <!-- JOKE-END -->
