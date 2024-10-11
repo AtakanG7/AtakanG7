@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do Java programmers wear glasses?
+What's the difference between a hippo and a zippo?
 
-Because they don't C#.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
