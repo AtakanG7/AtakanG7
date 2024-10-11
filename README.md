@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do the trees get on the internet?
+If you boil a clown...
 
-They log on.
+Do you get a laughing stock?
 <!-- JOKE-END -->
