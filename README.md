@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Who did the wizard marry?
+What's the worst thing about ancient history class?
 
-His ghoul-friend
+The teachers tend to Babylon.
 <!-- JOKE-END -->
