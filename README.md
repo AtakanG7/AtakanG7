@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Ever wondered why bees hum?
+What did the ocean say to the shore?
 
-It's because they don't know the words.
+Nothing, it just waved.
 <!-- JOKE-END -->
