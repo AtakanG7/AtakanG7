@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you comfort a designer?
+Do you know what the word 'was' was initially?
 
-You give them some space... between the elements.
+Before was was was was was is.
 <!-- JOKE-END -->
