@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time did the man go to the dentist?
+What has ears but cannot hear?
 
-Tooth hurt-y.
+A field of corn.
 <!-- JOKE-END -->
