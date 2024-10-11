@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+Lady: How do I spread love in this cruel world?
 
-Do you know the problem with UDP jokes?
+Random Dude: [...💘]
 <!-- JOKE-END -->
