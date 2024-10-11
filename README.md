@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a dictionary on drugs?
+What do you call a troublesome Canadian high schooler?
 
-High definition.
+A poutine.
 <!-- JOKE-END -->
