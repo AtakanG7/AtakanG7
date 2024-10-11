@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are ghosts bad liars?
+Did you hear about the submarine industry?
 
-Because you can see right through them!
+It really took a dive...
 <!-- JOKE-END -->
