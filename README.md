@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How does a penguin build it’s house?
+What’s brown and sounds like a bell?
 
-Igloos it together.
+Dung!
 <!-- JOKE-END -->
