@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you steal a coat?
+How much does a hipster weigh?
 
-You jacket.
+An instagram.
 <!-- JOKE-END -->
