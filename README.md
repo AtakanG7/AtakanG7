@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are mummys scared of vacation?
+What is the tallest building in the world?
 
-They're afraid to unwind.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
