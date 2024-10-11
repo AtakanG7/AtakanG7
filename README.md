@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are oranges the smartest fruit?
+How did the hipster burn the roof of his mouth?
 
-Because they are made to concentrate. 
+He ate the pizza before it was cool.
 <!-- JOKE-END -->
