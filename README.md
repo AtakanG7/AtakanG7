@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What time is it?
+Why dot net developers don't wear glasses?
 
-I don't know... it keeps changing.
+Because they see sharp.
 <!-- JOKE-END -->
