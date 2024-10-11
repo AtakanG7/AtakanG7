@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does a clock do when it's hungry?
+What did the duck say when he bought lipstick?
 
-It goes back four seconds!
+Put it on my bill
 <!-- JOKE-END -->
