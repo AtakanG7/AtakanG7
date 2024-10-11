@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the worst thing about ancient history class?
+What is this movie about?
 
-The teachers tend to Babylon.
+It is about 2 hours long.
 <!-- JOKE-END -->
