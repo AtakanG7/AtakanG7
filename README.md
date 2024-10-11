@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+Why did the worker get fired from the orange juice factory?
 
-A little shaken.
+Lack of concentration.
 <!-- JOKE-END -->
