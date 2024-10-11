@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do hens stay fit?
+Why are football stadiums so cool?
 
-They always egg-cercise!
+Because every seat has a fan in it.
 <!-- JOKE-END -->
