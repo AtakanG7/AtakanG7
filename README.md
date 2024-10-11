@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The punchline often arrives before the set-up.
+Why are pirates called pirates?
 
-Do you know the problem with UDP jokes?
+Because they arrr!
 <!-- JOKE-END -->
