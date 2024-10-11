@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's brown and sticky?
+Who did the wizard marry?
 
-A stick.
+His ghoul-friend
 <!-- JOKE-END -->
