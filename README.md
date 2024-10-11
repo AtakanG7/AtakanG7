@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear the one about the guy with the broken hearing aid?
+What is a centipedes's favorite Beatle song?
 
-Neither did he.
+I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
