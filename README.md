@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a hippo and a zippo?
+What cheese can never be yours?
 
-One is really heavy, the other is a little lighter.
+Nacho cheese.
 <!-- JOKE-END -->
