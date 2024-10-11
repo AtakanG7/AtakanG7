@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do valley girls hang out in odd numbered groups?
+Where did the API go to eat?
 
-Because they can't even.
+To the RESTaurant.
 <!-- JOKE-END -->
