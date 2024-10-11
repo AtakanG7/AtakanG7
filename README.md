@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-I just got fired from my job at the keyboard factory.
+Why do choirs keep buckets handy?
 
-They told me I wasn't putting in enough shifts.
+So they can carry their tune
 <!-- JOKE-END -->
