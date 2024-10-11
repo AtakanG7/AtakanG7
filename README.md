@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+Why did the programmer bring a broom to work?
 
-An instagram.
+To clean up all the bugs.
 <!-- JOKE-END -->
