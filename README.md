@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do birds give out on Halloween?
+The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
 
-Tweets.
+Thank you very much, sir.
 <!-- JOKE-END -->
