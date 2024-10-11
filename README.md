@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are pirates called pirates?
+What is the difference between ignorance and apathy?
 
-Because they arrr!
+I don't know and I don't care.
 <!-- JOKE-END -->
