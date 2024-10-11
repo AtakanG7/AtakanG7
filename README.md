@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+How does a penguin build it’s house?
 
-A field of corn.
+Igloos it together.
 <!-- JOKE-END -->
