@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the pirate say on his 80th birthday?
+Why dot net developers don't wear glasses?
 
-Aye Matey!
+Because they see sharp.
 <!-- JOKE-END -->
