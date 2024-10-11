@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't React developers like nature?
+What do you do when you see a space man?
 
-They prefer the virtual DOM.
+Park your car, man.
 <!-- JOKE-END -->
