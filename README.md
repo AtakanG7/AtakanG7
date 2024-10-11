@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is this movie about?
+What is the tallest building in the world?
 
-It is about 2 hours long.
+The library, it’s got the most stories!
 <!-- JOKE-END -->
