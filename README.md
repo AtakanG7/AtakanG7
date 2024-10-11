@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the house go to the doctor?
+What time is it?
 
-It was having window panes.
+I don't know... it keeps changing.
 <!-- JOKE-END -->
