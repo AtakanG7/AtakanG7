@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What’s the object-oriented way to become wealthy?
+Why does Waldo only wear stripes?
 
-Inheritance.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
