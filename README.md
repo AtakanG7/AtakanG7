@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+What's Forrest Gump's password?
 
-Thank you very much, sir.
+1Forrest1
 <!-- JOKE-END -->
