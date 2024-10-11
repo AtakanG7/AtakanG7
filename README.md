@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with two legs?
+Did you hear about the guy who invented Lifesavers?
 
-Lean beef.
+They say he made a mint.
 <!-- JOKE-END -->
