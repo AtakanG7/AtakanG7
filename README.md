@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+My older brother always tore the last pages of my comic books, and never told me why.
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+I had to draw my own conclusions.
 <!-- JOKE-END -->
