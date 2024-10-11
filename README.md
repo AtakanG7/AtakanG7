@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why don't React developers like nature?
+Why was the font always tired?
 
-They prefer the virtual DOM.
+It was always bold.
 <!-- JOKE-END -->
