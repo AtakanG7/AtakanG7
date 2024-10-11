@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the duck say when he bought lipstick?
+Why do bees have sticky hair?
 
-Put it on my bill
+Because they use honey combs!
 <!-- JOKE-END -->
