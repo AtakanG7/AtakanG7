@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did Michael Jackson name his denim store?
+How do the trees get on the internet?
 
-Billy Jeans!
+They log on.
 <!-- JOKE-END -->
