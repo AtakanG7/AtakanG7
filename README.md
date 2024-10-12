@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How do you fix a broken pizza?
+What do you call a cow on a trampoline?
 
-With tomato paste.
+A milk shake!
 <!-- JOKE-END -->
