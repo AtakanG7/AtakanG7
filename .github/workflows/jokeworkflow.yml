@@ -1,8 +1,9 @@
-name: Daily Joke Update
+name: Daily README Update
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch: 
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:  # Allow manual trigger
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -11,23 +12,35 @@ jobs:
         with:
           repository: ${{ secrets.USERNAME }}/${{ secrets.USERNAME }}
           token: ${{ secrets.SECRET }}
-      - name: Fetch joke and update README
+      
+      - name: Fetch joke
         run: |
           JOKE_DATA=$(curl -s ${{ secrets.JOKE_URL }})
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
-          
-          JOKE="## **10 min/joke:**\n\n$SETUP\n\n$PUNCHLINE"
-         
-          sed -i '/<!-- JOKE-START -->/,/<!-- JOKE-END -->/c\<!-- JOKE-START -->\n'"- $JOKE"'\n<!-- JOKE-END -->' README.md
-          
-          if ! grep -q "<!-- JOKE-START -->" README.md; then
-            echo -e "\n<!-- JOKE-START -->\n- $JOKE\n<!-- JOKE-END -->" >> README.md
-          fi
+          JOKE="<details>\n  <summary>$SETUP</summary>\n  \n  $PUNCHLINE\n</details>"
+          echo "JOKE<<EOF" >> $GITHUB_ENV
+          echo "$JOKE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Fetch latest blog posts
+        run: |
+          BLOG_DATA=$(curl -s https://atakangul.com/blogs/most-viewed)
+          BLOG_POSTS=$(echo $BLOG_DATA | jq -r '.slice(0,3) | map("- **" + .title + "**\n  - Topic: " + .description + "\n  - [Read Article](" + .url + ")") | join("\n")')
+          echo "BLOG_POSTS<<EOF" >> $GITHUB_ENV
+          echo "$BLOG_POSTS" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          CURRENT_DATE=$(date +"%B %d, %Y")
+          sed -i '/## You like jokes?/,/## What I focus on The Most/c\## You like jokes?\n'"$JOKE"'\n## What I focus on The Most' README.md
+          sed -i '/## Latest Articles/,/---/c\## Latest Articles\n'"$BLOG_POSTS"'\n---\nLast updated: '"$CURRENT_DATE" README.md
+
       - name: Commit and push changes
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name ${{ secrets.USERNAME }}
           git add README.md
-          git commit -m "Update daily joke" || exit 0
+          git commit -m "Update README with latest joke and blog posts" || exit 0
           git push https://${{ secrets.SECRET }}@github.com/${{ secrets.USERNAME }}/${{ secrets.USERNAME }}.git
