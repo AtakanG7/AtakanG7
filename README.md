@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+Why do pirates not know the alphabet?
 
-You can only use a low ha.
+They always get stuck at "C".
 <!-- JOKE-END -->
