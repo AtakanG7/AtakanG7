@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is the leading cause of dry skin?
+Where do programmers like to hangout?
 
-Towels
+The Foo Bar.
 <!-- JOKE-END -->
