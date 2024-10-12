@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+Did you hear about the Viking who was reincarnated?
 
-Because he doesn't want to be spotted.
+He was Bjorn again
 <!-- JOKE-END -->
