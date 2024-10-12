@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come a man driving a train got struck by lightning?
+What is a witch's favorite subject in school?
 
-He was a good conductor.
+Spelling!
 <!-- JOKE-END -->
