@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What is a witch's favorite subject in school?
+What was a more important invention than the first telephone?
 
-Spelling!
+The second one.
 <!-- JOKE-END -->
