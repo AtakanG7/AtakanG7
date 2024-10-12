@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pirates not know the alphabet?
+Why didn’t the orange win the race?
 
-They always get stuck at "C".
+It ran out of juice.
 <!-- JOKE-END -->
