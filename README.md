@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+What do you call a group of killer whales playing instruments?
 
-A little plaque.
+An Orca-stra.
 <!-- JOKE-END -->
