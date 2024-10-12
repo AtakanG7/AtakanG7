@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>How come a man driving a train got struck by lightning?</summary>
+  <summary>What do you get when you cross a snowman with a vampire?</summary>
   
-  He was a good conductor.
+  Frostbite.
 </details>
