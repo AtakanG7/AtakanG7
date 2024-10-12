@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do wizards clean their teeth three times a day?
+Is the pool safe for diving?
 
-To prevent bat breath!
+It deep ends.
 <!-- JOKE-END -->
