@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where did you learn to make ice cream?
+Why did the Clydesdale give the pony a glass of water?
 
-Sunday school.
+Because he was a little horse
 <!-- JOKE-END -->
