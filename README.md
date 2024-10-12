@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do pirates not know the alphabet?
+A SQL query walks into a bar, walks up to two tables and asks...
 
-They always get stuck at "C".
+'Can I join you?'
 <!-- JOKE-END -->
