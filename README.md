@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What does C.S. Lewis keep at the back of his wardrobe?
+What’s E.T. short for?
 
-Narnia business!
+He’s only got little legs.
 <!-- JOKE-END -->
