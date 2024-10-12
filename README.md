@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the two silk worms in a race?
+How come a man driving a train got struck by lightning?
 
-It ended in a tie.
+He was a good conductor.
 <!-- JOKE-END -->
