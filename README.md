@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do programmers like to hangout?
+Why do scuba divers fall backwards into the water?
 
-The Foo Bar.
+Because if they fell forwards they’d still be in the boat.
 <!-- JOKE-END -->
