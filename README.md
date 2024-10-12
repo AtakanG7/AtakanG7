@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+You can only use a low ha.
 <!-- JOKE-END -->
