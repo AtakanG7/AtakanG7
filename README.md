@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a group of killer whales playing instruments?
+What do you call a cow with no legs?
 
-An Orca-stra.
+Ground beef!
 <!-- JOKE-END -->
