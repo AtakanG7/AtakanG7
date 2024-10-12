@@ -39,7 +39,6 @@ jobs:
 
       - name: Update README
         run: |
-          CURRENT_DATE=$(date +"%B %d, %Y")
           awk '
           BEGIN {
             joke = 0
@@ -51,7 +50,7 @@ jobs:
             joke = 1
             next
           }
-          joke && /^## What I focus on The Most/ {
+          joke && /^ ## What I focus on The Most/ {
             joke = 0
           }
           blog && /^---/ {
