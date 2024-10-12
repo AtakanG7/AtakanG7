@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the mushroom get invited to the party?
+How many kids with ADD does it take to change a lightbulb?
 
-Because he was a fungi.
+Let's go ride bikes!
 <!-- JOKE-END -->
