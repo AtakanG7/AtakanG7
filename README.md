@@ -7,11 +7,10 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>What do you call a droid that takes the long way around?</summary>
+  <summary>Where do rabbits go after they get married?</summary>
   
-  R2 detour.
+  On a bunny-moon.
 </details>
-
 ## What I focus on The Most
 - Cloud-Native Solutions
 - CI/CD Pipeline Optimization
