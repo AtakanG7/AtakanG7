@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why was Cinderalla thrown out of the football team?
+What kind of dog lives in a particle accelerator?
 
-Because she ran away from the ball.
+A Fermilabrador Retriever.
 <!-- JOKE-END -->
