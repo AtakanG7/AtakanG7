@@ -18,10 +18,11 @@ jobs:
           JOKE_DATA=$(curl -s ${{ secrets.JOKE_URL }})
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
-          JOKE="<details>\n  <summary>$SETUP</summary>\n  \n  $PUNCHLINE\n</details>"
-          echo "JOKE<<EOF" >> $GITHUB_ENV
-          echo "$JOKE" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
+          echo "<details>" > joke.txt
+          echo "  <summary>$SETUP</summary>" >> joke.txt
+          echo "  " >> joke.txt
+          echo "  $PUNCHLINE" >> joke.txt
+          echo "</details>" >> joke.txt
 
       - name: Fetch latest blog posts
         run: |
@@ -29,32 +30,46 @@ jobs:
           echo "Raw API response:"
           echo "$BLOG_DATA"
           if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            BLOG_POSTS=$(echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](" + (.url // "#") + ")") | join("\n") else "Error: Unexpected data structure" end')
+            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](" + (.url // "#") + ")") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
           else
-            BLOG_POSTS="Error: Invalid JSON response from API"
+            echo "Error: Invalid JSON response from API" > blog_posts.txt
           fi
           echo "Processed blog posts:"
-          echo "$BLOG_POSTS"
-          echo "BLOG_POSTS<<EOF" >> $GITHUB_ENV
-          echo "$BLOG_POSTS" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
+          cat blog_posts.txt
 
       - name: Update README
         run: |
           CURRENT_DATE=$(date +"%B %d, %Y")
-          README_CONTENT=$(cat README.md)
-          
-          # Update joke section
-          JOKE_PATTERN=$'## You like jokes\\?.*?## What I focus on The Most'
-          JOKE_REPLACEMENT=$"## You like jokes?\n$JOKE\n## What I focus on The Most"
-          README_CONTENT=$(echo "$README_CONTENT" | perl -0777 -pe "s/$JOKE_PATTERN/$JOKE_REPLACEMENT/s")
-          
-          # Update blog posts section
-          BLOG_PATTERN=$'## Latest Articles.*?---'
-          BLOG_REPLACEMENT=$"## Latest Articles\n$BLOG_POSTS\n---\nLast updated: $CURRENT_DATE"
-          README_CONTENT=$(echo "$README_CONTENT" | perl -0777 -pe "s/$BLOG_PATTERN/$BLOG_REPLACEMENT/s")
-          
-          echo "$README_CONTENT" > README.md
+          awk '
+          BEGIN {
+            joke = 0
+            blog = 0
+          }
+          /^## You like jokes\?/ {
+            print
+            system("cat joke.txt")
+            joke = 1
+            next
+          }
+          /^## Latest Articles/ {
+            print
+            system("cat blog_posts.txt")
+            print "---"
+            print "Last updated: " ENVIRON["CURRENT_DATE"]
+            blog = 1
+            next
+          }
+          joke && /^## What I focus on The Most/ {
+            joke = 0
+          }
+          blog && /^---/ {
+            blog = 0
+            next
+          }
+          !joke && !blog {
+            print
+          }
+          ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and push changes
         run: |
