@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>How did the hipster burn the roof of his mouth?</summary>
+  <summary>Why did the octopus beat the shark in a fight?</summary>
   
-  He ate the pizza before it was cool.
+  Because it was well armed.
 </details>
