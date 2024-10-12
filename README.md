@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How much does a hipster weigh?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-An instagram.
+Narnia business!
 <!-- JOKE-END -->
