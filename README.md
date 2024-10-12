@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Java code say to the C code?
+Why does Waldo only wear stripes?
 
-You've got no class.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
