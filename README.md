@@ -7,11 +7,10 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>Why did the burglar hang his mugshot on the wall?</summary>
+  <summary>What did the scarf say to the hat?</summary>
   
-  To prove that he was framed!
+  You go on ahead, I am going to hang around a bit longer.
 </details>
-
 ## What I focus on The Most
 - Cloud-Native Solutions
 - CI/CD Pipeline Optimization
@@ -23,13 +22,14 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 ## Latest Articles (Updated every 10 minutes)
 - **Kubernetes Control Plane and Data Plane Explained: Key Components & Automation**
   - Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.
-  - [Read Article](https://atakangul.com/kubernetes-control-data-plane)
+  - [Read Article](https://atakangul.com/blogs/kubernetes-control-data-plane)
 - **Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development**
   - Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.
-  - [Read Article](https://atakangul.com/go-golang-fast-compilation)
+  - [Read Article](https://atakangul.com/blogs/go-golang-fast-compilation)
 - **Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability**
   - Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.
-  - [Read Article](https://atakangul.com/mesh-networks-boost-connectivity-reliability)
+  - [Read Article](https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability)
 ---
+Last updated: 
 
 [Visit Me](https://www.atakangul.com)
