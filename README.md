@@ -7,9 +7,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>Don't look at the eclipse through a colander.</summary>
+  <summary>What do you call a droid that takes the long way around?</summary>
   
-  You'll strain your eyes.
+  R2 detour.
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
