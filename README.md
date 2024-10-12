@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How come the stadium got hot after the game?
+Why do pirates not know the alphabet?
 
-Because all of the fans left.
+They always get stuck at "C".
 <!-- JOKE-END -->
