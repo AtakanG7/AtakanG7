@@ -30,7 +30,7 @@ jobs:
           echo "Raw API response:"
           echo "$BLOG_DATA"
           if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article]("https://atakangul.com/ + (.url // "#") + ")") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
+            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](https://atakangul.com/" + (.url // "") + ")") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
           else
             echo "Error: Invalid JSON response from API" > blog_posts.txt
           fi
