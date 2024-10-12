@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the Red light say to the Green light?
+Can I watch the TV?
 
-Don't look at me I'm changing!
+Yes, but don’t turn it on.
 <!-- JOKE-END -->
