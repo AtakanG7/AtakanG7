@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the developer go to therapy?
+When do doctors get angry?
 
-They had too many unresolved issues.
+When they run out of patients.
 <!-- JOKE-END -->
