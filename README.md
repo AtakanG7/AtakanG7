@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the bread factory burning down?
+How do you fix a broken pizza?
 
-They say the business is toast.
+With tomato paste.
 <!-- JOKE-END -->
