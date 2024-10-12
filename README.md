@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call an alligator in a vest?
+Where do you learn to make banana splits?
 
-An in-vest-igator!
+At sundae school.
 <!-- JOKE-END -->
