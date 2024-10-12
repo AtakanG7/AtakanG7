@@ -5,7 +5,7 @@ Hi it's Atakan. Let me tell you a bit about me. I'm a layz person :?, therefore 
 
 I like learning new technologies, I keep follow various tech blogs and also myself writing blog posts on blog.atakangul.com Lastly I spend the whole day on computer so Cheers!
 
-## You like jokes?
+## You like jokes? (Updated every 10 minutes)
 <details>
   <summary>What do you call a droid that takes the long way around?</summary>
   
