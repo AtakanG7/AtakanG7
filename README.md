@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Where do you learn to make banana splits?
+Why is seven bigger than nine?
 
-At sundae school.
+Because seven ate nine.
 <!-- JOKE-END -->
