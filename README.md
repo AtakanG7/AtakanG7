@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are “Dad Jokes” so good?
+How much does a hipster weigh?
 
-Because the punchline is apparent.
+An instagram.
 <!-- JOKE-END -->
