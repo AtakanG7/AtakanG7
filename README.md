@@ -7,9 +7,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>What is a centipedes's favorite Beatle song?</summary>
+  <summary>What do you give to a lemon in need?</summary>
   
-  I want to hold your hand, hand, hand, hand...
+  Lemonaid.
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
@@ -20,16 +20,17 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 - Network solutions
 
 ## Latest Articles
-- **Must-Know Free APIs for Developers**
-  - Topic: Explore a list of must-know free APIs for developers in this informative article. Discover tools like the Pixabay API for fetching images, MongoDB Atlas API for managing blog posts, Redis API for fast data retrieval, and more. From Google OAuth2 API for secure user authentication to Telegram API for sending logs, this article covers a wide range of APIs to enhance your projects. Check out these free APIs and revolutionize your development experience!
-  - [Read Article](must-know-free-apis-for-developers)
-- **LogWatcher: Simplifying Docker Image Monitoring with Open Source Software**
-  - Topic: Discover the LogWatcher project created by Atakan G, an open source software tool designed to simplify application monitoring for Docker images. Learn about the benefits, architecture, and technology stack of LogWatcher, which offers easy monitoring and optimization of resource usage. Explore the user-friendly interface powered by Streamlit, along with integrated tools like Prometheus, Grafana, Alert Manager, Loki, and more. Experience real-time insights and efficient monitoring with LogWatcher.
-  - [Read Article](logwatcher-simplifying-docker-image-monitoring-with-open-source-software)
-- **Why I Started Blogging**
-  - Topic: Discover why the author started blogging and how it helps in learning and retaining information. Explore the journey into software development, research, and the commitment to continuous learning and growth through writing. Learn how to make learning a permanent part of your life flow.
-  - [Read Article](why-i-started-blogging)
+- **Kubernetes Control Plane and Data Plane Explained: Key Components & Automation**
+  - Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.
+  - [Read Article](kubernetes-control-data-plane)
+- **Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development**
+  - Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.
+  - [Read Article](go-golang-fast-compilation)
+- **Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability**
+  - Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.
+  - [Read Article](mesh-networks-boost-connectivity-reliability)
 ---
+Last updated: 
 Last updated: 
 Last updated: 
 Last updated: 
