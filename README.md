@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you get when you cross a React developer with a mathematician?
+How come the stadium got hot after the game?
 
-A function component.
+Because all of the fans left.
 <!-- JOKE-END -->
