@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What was a more important invention than the first telephone?
+A grocery store cashier asked if I would like my milk in a bag.
 
-The second one.
+I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
