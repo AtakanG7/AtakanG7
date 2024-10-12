@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>what do you call a dog that can do magic tricks?</summary>
+  <summary>How did the hipster burn the roof of his mouth?</summary>
   
-  a labracadabrador
+  He ate the pizza before it was cool.
 </details>
