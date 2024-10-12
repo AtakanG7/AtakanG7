@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the judge say to the dentist?
+A programmer puts two glasses on his bedside table before going to sleep.
 
-Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 <!-- JOKE-END -->
