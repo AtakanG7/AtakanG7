@@ -7,11 +7,10 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>Why did the man run around his bed?</summary>
+  <summary>Why did Dracula lie in the wrong coffin?</summary>
   
-  Because he was trying to catch up on his sleep!
+  He made a grave mistake.
 </details>
-
 ## What I focus on The Most
 - Cloud-Native Solutions
 - CI/CD Pipeline Optimization
@@ -31,5 +30,6 @@ I like learning new technologies, I keep follow various tech blogs and also myse
   - Topic: Discover why the author started blogging and how it helps in learning and retaining information. Explore the journey into software development, research, and the commitment to continuous learning and growth through writing. Learn how to make learning a permanent part of your life flow.
   - [Read Article](why-i-started-blogging)
 ---
+Last updated: 
 
 [Visit Me](atakangul.com)
