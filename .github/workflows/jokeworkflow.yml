@@ -1,4 +1,5 @@
 name: Daily README Update
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight
@@ -8,7 +9,8 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
           repository: ${{ secrets.USERNAME }}/${{ secrets.USERNAME }}
           token: ${{ secrets.SECRET }}
@@ -18,22 +20,37 @@ jobs:
           JOKE_DATA=$(curl -s ${{ secrets.JOKE_URL }})
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
-          echo "<details>" > joke.txt
-          echo "  <summary>$SETUP</summary>" >> joke.txt
-          echo "  " >> joke.txt
-          echo "  $PUNCHLINE" >> joke.txt
-          echo "</details>" >> joke.txt
+          cat << EOF > joke.txt
+          <details>
+            <summary>$SETUP</summary>
+            
+            $PUNCHLINE
+          </details>
+          EOF
 
       - name: Fetch latest blog posts
         run: |
           BLOG_DATA=$(curl -s https://atakangul.com/blogs/most-viewed)
           echo "Raw API response:"
           echo "$BLOG_DATA"
+          
           if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](https://atakangul.com/blogs/" + (.url // "") + ")") | join("\n\n") else "Error: Unexpected data structure" end' > blog_posts.txt
+            echo $BLOG_DATA | jq -r '
+              if type == "array" then .[0:3]
+              else . end
+              | if type == "array" then
+                  map(
+                    "- **" + (.title // "No Title") + "**\n" +
+                    "  - Topic: " + (.description // "No Description") + "\n" +
+                    "  - [Read Article](https://atakangul.com/blogs/" + (.url // "") + ")"
+                  ) | join("\n\n")
+                else "Error: Unexpected data structure"
+              end
+            ' > blog_posts.txt
           else
             echo "Error: Invalid JSON response from API" > blog_posts.txt
           fi
+          
           echo "Processed blog posts:"
           cat blog_posts.txt
 
@@ -43,19 +60,14 @@ jobs:
           echo "Current date: $CURRENT_DATE"
           
           awk -v date="$CURRENT_DATE" '
-          BEGIN {
-            joke = 0
-            blog = 0
-          }
+          BEGIN { joke = 0; blog = 0 }
           /^## You like jokes\?/ {
             print
             system("cat joke.txt")
             joke = 1
             next
           }
-          joke && /^## What I focus on The Most/ {
-            joke = 0
-          }
+          joke && /^## What I focus on The Most/ { joke = 0 }
           /^## Latest Articles/ {
             print
             system("cat blog_posts.txt")
@@ -64,13 +76,8 @@ jobs:
             blog = 1
             next
           }
-          blog && /^---/ {
-            blog = 0
-            next
-          }
-          !joke && !blog {
-            print
-          }
+          blog && /^---/ { blog = 0; next }
+          !joke && !blog { print }
           ' README.md > README.tmp && mv README.tmp README.md
           
           echo "Updated README content:"
