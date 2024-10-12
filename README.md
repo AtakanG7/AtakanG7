@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>What do you call an eagle who can play the piano?</summary>
+  <summary>Did you hear about the submarine industry?</summary>
   
-  Talonted!
+  It really took a dive...
 </details>
