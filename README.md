@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What has ears but cannot hear?
+Why are skeletons so calm?
 
-A field of corn.
+Because nothing gets under their skin.
 <!-- JOKE-END -->
