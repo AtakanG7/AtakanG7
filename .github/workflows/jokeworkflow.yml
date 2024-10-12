@@ -50,7 +50,7 @@ jobs:
             joke = 1
             next
           }
-          joke && /^ ## What I focus on The Most/ {
+          joke && /^## What I focus on The Most/ {
             joke = 0
           }
           blog && /^---/ {
