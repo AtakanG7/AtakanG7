@@ -31,6 +31,5 @@ I like learning new technologies, I keep follow various tech blogs and also myse
   - Topic: Discover why the author started blogging and how it helps in learning and retaining information. Explore the journey into software development, research, and the commitment to continuous learning and growth through writing. Learn how to make learning a permanent part of your life flow.
   - [Read Article](why-i-started-blogging)
 ---
-Last updated: 
-Last updated: 
-Last updated: [Current Date]
+
+[Visit Me](atakangul.com)
