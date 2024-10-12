@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-You see, mountains aren't just funny.
+Why was Cinderalla thrown out of the football team?
 
-They are hill areas.
+Because she ran away from the ball.
 <!-- JOKE-END -->
