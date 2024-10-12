@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>Why did the kid cross the playground?</summary>
+  <summary>How come a man driving a train got struck by lightning?</summary>
   
-  To get to the other slide.
+  He was a good conductor.
 </details>
