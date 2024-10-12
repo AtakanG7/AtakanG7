@@ -26,7 +26,15 @@ jobs:
       - name: Fetch latest blog posts
         run: |
           BLOG_DATA=$(curl -s https://atakangul.com/blogs/most-viewed)
-          BLOG_POSTS=$(echo $BLOG_DATA | jq -r '.slice(0,3) | map("- **" + .title + "**\n  - Topic: " + .description + "\n  - [Read Article](" + .url + ")") | join("\n")')
+          echo "Raw API response:"
+          echo "$BLOG_DATA"
+          if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
+            BLOG_POSTS=$(echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](" + (.url // "#") + ")") | join("\n") else "Error: Unexpected data structure" end')
+          else
+            BLOG_POSTS="Error: Invalid JSON response from API"
+          fi
+          echo "Processed blog posts:"
+          echo "$BLOG_POSTS"
           echo "BLOG_POSTS<<EOF" >> $GITHUB_ENV
           echo "$BLOG_POSTS" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
