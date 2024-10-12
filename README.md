@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What creature is smarter than a talking parrot?
+How was the snow globe feeling after the storm?
 
-A spelling bee.
+A little shaken.
 <!-- JOKE-END -->
