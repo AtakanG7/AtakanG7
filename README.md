@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow on a trampoline?
+What has ears but cannot hear?
 
-A milk shake!
+A field of corn.
 <!-- JOKE-END -->
