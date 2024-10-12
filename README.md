@@ -19,7 +19,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 - Automation & Scripting
 - Network solutions
 
-## Latest Articles
+## Latest Articles (Updated every 10 minutes)
 - **Kubernetes Control Plane and Data Plane Explained: Key Components & Automation**
   - Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.
   - [Read Article](kubernetes-control-data-plane)
