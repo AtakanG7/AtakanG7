@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What do you call a cow with no legs?
+What does C.S. Lewis keep at the back of his wardrobe?
 
-Ground beef!
+Narnia business!
 <!-- JOKE-END -->
