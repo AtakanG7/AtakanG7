@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why is seven bigger than nine?
+What did the Red light say to the Green light?
 
-Because seven ate nine.
+Don't look at me I'm changing!
 <!-- JOKE-END -->
