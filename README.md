@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What did the late tomato say to the early tomato?
+What creature is smarter than a talking parrot?
 
-I’ll ketch up
+A spelling bee.
 <!-- JOKE-END -->
