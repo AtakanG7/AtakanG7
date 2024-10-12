@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How was the snow globe feeling after the storm?
+Why did the developer go to therapy?
 
-A little shaken.
+They had too many unresolved issues.
 <!-- JOKE-END -->
