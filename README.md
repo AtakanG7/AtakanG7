@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why do scuba divers fall backwards into the water?
+Did you hear about the two silk worms in a race?
 
-Because if they fell forwards they’d still be in the boat.
+It ended in a tie.
 <!-- JOKE-END -->
