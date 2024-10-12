@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>What's the difference between a guitar and a fish?</summary>
+  <summary>What do you call an eagle who can play the piano?</summary>
   
-  You can tune a guitar but you can't "tuna"fish!
+  Talonted!
 </details>
