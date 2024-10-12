@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Can I watch the TV?
+What is the leading cause of dry skin?
 
-Yes, but don’t turn it on.
+Towels
 <!-- JOKE-END -->
