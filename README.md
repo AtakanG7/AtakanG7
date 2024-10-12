@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A grocery store cashier asked if I would like my milk in a bag.
+Why do wizards clean their teeth three times a day?
 
-I told her 'No, thanks. The carton works fine.'
+To prevent bat breath!
 <!-- JOKE-END -->
