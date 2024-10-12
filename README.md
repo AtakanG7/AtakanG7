@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why didn’t the orange win the race?
+Why did the mushroom get invited to the party?
 
-It ran out of juice.
+Because he was a fungi.
 <!-- JOKE-END -->
