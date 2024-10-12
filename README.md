@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Did you hear about the Viking who was reincarnated?
+How many React developers does it take to change a lightbulb?
 
-He was Bjorn again
+None, they prefer dark mode.
 <!-- JOKE-END -->
