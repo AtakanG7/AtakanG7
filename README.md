@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many kids with ADD does it take to change a lightbulb?
+Did you hear about the bread factory burning down?
 
-Let's go ride bikes!
+They say the business is toast.
 <!-- JOKE-END -->
