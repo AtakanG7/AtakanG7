@@ -51,14 +51,6 @@ jobs:
             joke = 1
             next
           }
-          /^## Latest Articles/ {
-            print
-            system("cat blog_posts.txt")
-            print "---"
-            print "Last updated: " ENVIRON["CURRENT_DATE"]
-            blog = 1
-            next
-          }
           joke && /^## What I focus on The Most/ {
             joke = 0
           }
