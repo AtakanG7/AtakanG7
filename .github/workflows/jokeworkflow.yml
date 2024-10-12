@@ -42,8 +42,19 @@ jobs:
       - name: Update README
         run: |
           CURRENT_DATE=$(date +"%B %d, %Y")
-          sed -i '/## You like jokes?/,/## What I focus on The Most/c\## You like jokes?\n'"$JOKE"'\n## What I focus on The Most' README.md
-          sed -i '/## Latest Articles/,/---/c\## Latest Articles\n'"$BLOG_POSTS"'\n---\nLast updated: '"$CURRENT_DATE" README.md
+          README_CONTENT=$(cat README.md)
+          
+          # Update joke section
+          JOKE_PATTERN=$'## You like jokes\\?.*?## What I focus on The Most'
+          JOKE_REPLACEMENT=$"## You like jokes?\n$JOKE\n## What I focus on The Most"
+          README_CONTENT=$(echo "$README_CONTENT" | perl -0777 -pe "s/$JOKE_PATTERN/$JOKE_REPLACEMENT/s")
+          
+          # Update blog posts section
+          BLOG_PATTERN=$'## Latest Articles.*?---'
+          BLOG_REPLACEMENT=$"## Latest Articles\n$BLOG_POSTS\n---\nLast updated: $CURRENT_DATE"
+          README_CONTENT=$(echo "$README_CONTENT" | perl -0777 -pe "s/$BLOG_PATTERN/$BLOG_REPLACEMENT/s")
+          
+          echo "$README_CONTENT" > README.md
 
       - name: Commit and push changes
         run: |
