@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-When do doctors get angry?
+Why are “Dad Jokes” so good?
 
-When they run out of patients.
+Because the punchline is apparent.
 <!-- JOKE-END -->
