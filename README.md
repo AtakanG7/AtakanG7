@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+What's the difference between a hippo and a zippo?
 
-Pop,goes the weasel.
+One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
