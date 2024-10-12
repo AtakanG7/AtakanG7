@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why are skeletons so calm?
+Where did you learn to make ice cream?
 
-Because nothing gets under their skin.
+Sunday school.
 <!-- JOKE-END -->
