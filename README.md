@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why did the Clydesdale give the pony a glass of water?
+What's the difference between a guitar and a fish?
 
-Because he was a little horse
+You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
