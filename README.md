@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-Why does Waldo only wear stripes?
+What kind of award did the dentist receive?
 
-Because he doesn't want to be spotted.
+A little plaque.
 <!-- JOKE-END -->
