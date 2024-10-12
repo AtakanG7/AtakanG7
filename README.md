@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of award did the dentist receive?
+What's the best thing about a Boolean?
 
-A little plaque.
+Even if you're wrong, you're only off by a bit.
 <!-- JOKE-END -->
