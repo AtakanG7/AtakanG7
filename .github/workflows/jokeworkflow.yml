@@ -27,6 +27,8 @@ jobs:
             $PUNCHLINE
           </details>
           EOF
+          echo "Joke content:"
+          cat joke.txt
 
       - name: Fetch latest blog posts
         run: |
@@ -53,22 +55,37 @@ jobs:
           
           echo "Processed blog posts:"
           cat blog_posts.txt
+          
+          if [ ! -s blog_posts.txt ]; then
+            echo "Warning: blog_posts.txt is empty!"
+          fi
 
       - name: Update README
         run: |
           CURRENT_DATE=$(date +"%B %d, %Y")
           echo "Current date: $CURRENT_DATE"
           
+          echo "Original README content:"
+          cat README.md
+          
           awk -v date="$CURRENT_DATE" '
-          BEGIN { joke = 0; blog = 0 }
+          BEGIN { 
+            joke = 0; blog = 0; 
+            print "DEBUG: Starting awk script" > "/dev/stderr"
+          }
           /^## You like jokes\?/ {
+            print "DEBUG: Found joke section" > "/dev/stderr"
             print
             system("cat joke.txt")
             joke = 1
             next
           }
-          joke && /^## What I focus on The Most/ { joke = 0 }
+          joke && /^## What I focus on The Most/ { 
+            print "DEBUG: Ending joke section" > "/dev/stderr"
+            joke = 0 
+          }
           /^## Latest Articles/ {
+            print "DEBUG: Found blog section" > "/dev/stderr"
             print
             system("cat blog_posts.txt")
             print "---"
@@ -76,8 +93,14 @@ jobs:
             blog = 1
             next
           }
-          blog && /^---/ { blog = 0; next }
+          blog && /^---/ { 
+            print "DEBUG: Ending blog section" > "/dev/stderr"
+            blog = 0; next 
+          }
           !joke && !blog { print }
+          END {
+            print "DEBUG: Finished awk script" > "/dev/stderr"
+          }
           ' README.md > README.tmp && mv README.tmp README.md
           
           echo "Updated README content:"
@@ -88,6 +111,7 @@ jobs:
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name ${{ secrets.USERNAME }}
           git add README.md
+          echo "Git diff:"
           git diff --cached
           git commit -m "Update README with latest joke and blog posts" || exit 0
           git push https://${{ secrets.SECRET }}@github.com/${{ secrets.USERNAME }}/${{ secrets.USERNAME }}.git
