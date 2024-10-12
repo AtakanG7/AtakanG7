@@ -5,9 +5,9 @@ Hi it's Atakan. Let me tell you a bit about me. I'm a layz person :?, therefore 
 
 ## You like jokes?
 <details>
-  <summary>What do you call a bee that can't make up its mind?</summary>
+  <summary>Why did the man run around his bed?</summary>
   
-  A maybe.
+  Because he was trying to catch up on his sleep!
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
@@ -28,5 +28,6 @@ Hi it's Atakan. Let me tell you a bit about me. I'm a layz person :?, therefore 
   - Topic: Discover why the author started blogging and how it helps in learning and retaining information. Explore the journey into software development, research, and the commitment to continuous learning and growth through writing. Learn how to make learning a permanent part of your life flow.
   - [Read Article](why-i-started-blogging)
 ---
+Last updated: 
 Last updated: 
 Last updated: [Current Date]
