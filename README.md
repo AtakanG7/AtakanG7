@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-A programmer puts two glasses on his bedside table before going to sleep.
+Why does Waldo only wear stripes?
 
-A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+Because he doesn't want to be spotted.
 <!-- JOKE-END -->
