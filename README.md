@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the best thing about a Boolean?
+What did the late tomato say to the early tomato?
 
-Even if you're wrong, you're only off by a bit.
+I’ll ketch up
 <!-- JOKE-END -->
