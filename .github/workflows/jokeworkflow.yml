@@ -53,6 +53,14 @@ jobs:
           joke && /^## What I focus on The Most/ {
             joke = 0
           }
+          /^## Latest Articles/ {
+            print
+            system("cat blog_posts.txt")
+            print "---"
+            print "Last updated: " ENVIRON["CURRENT_DATE"]
+            blog = 1
+            next
+          }
           blog && /^---/ {
             blog = 0
             next
