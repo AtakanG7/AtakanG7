@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What's the difference between a hippo and a zippo?
+What do you call an alligator in a vest?
 
-One is really heavy, the other is a little lighter.
+An in-vest-igator!
 <!-- JOKE-END -->
