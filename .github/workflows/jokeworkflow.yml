@@ -30,7 +30,7 @@ jobs:
           echo "Raw API response:"
           echo "$BLOG_DATA"
           if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](https://atakangul.com/blogs/" + (.url // "") + ")") | join("\n \n") else "Error: Unexpected data structure" end' > blog_posts.txt
+            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- **" + (.title // "No Title") + "**\n  - Topic: " + (.description // "No Description") + "\n  - [Read Article](https://atakangul.com/blogs/" + (.url // "") + ")") | join("\n\n") else "Error: Unexpected data structure" end' > blog_posts.txt
           else
             echo "Error: Invalid JSON response from API" > blog_posts.txt
           fi
@@ -39,7 +39,10 @@ jobs:
 
       - name: Update README
         run: |
-          awk '
+          CURRENT_DATE=$(date +"%B %d, %Y")
+          echo "Current date: $CURRENT_DATE"
+          
+          awk -v date="$CURRENT_DATE" '
           BEGIN {
             joke = 0
             blog = 0
@@ -57,7 +60,7 @@ jobs:
             print
             system("cat blog_posts.txt")
             print "---"
-            print "Last updated: " ENVIRON["CURRENT_DATE"]
+            print "Last updated:", date
             blog = 1
             next
           }
@@ -69,11 +72,15 @@ jobs:
             print
           }
           ' README.md > README.tmp && mv README.tmp README.md
+          
+          echo "Updated README content:"
+          cat README.md
 
       - name: Commit and push changes
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name ${{ secrets.USERNAME }}
           git add README.md
+          git diff --cached
           git commit -m "Update README with latest joke and blog posts" || exit 0
           git push https://${{ secrets.SECRET }}@github.com/${{ secrets.USERNAME }}/${{ secrets.USERNAME }}.git
