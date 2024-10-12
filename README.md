@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>Did you hear about the submarine industry?</summary>
+  <summary>Why did the kid cross the playground?</summary>
   
-  It really took a dive...
+  To get to the other slide.
 </details>
