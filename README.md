@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-What kind of dog lives in a particle accelerator?
+What did the Java code say to the C code?
 
-A Fermilabrador Retriever.
+You've got no class.
 <!-- JOKE-END -->
