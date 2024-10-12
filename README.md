@@ -54,7 +54,7 @@
 <!-- JOKE-START -->
 - ## **10 min/joke:**
 
-How many React developers does it take to change a lightbulb?
+Don't look at the eclipse through a colander.
 
-None, they prefer dark mode.
+You'll strain your eyes.
 <!-- JOKE-END -->
