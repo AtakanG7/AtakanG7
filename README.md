@@ -7,7 +7,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes? (Updated every 10 minutes)
 <details>
-  <summary>Why did the octopus beat the shark in a fight?</summary>
+  <summary>What's the difference between a guitar and a fish?</summary>
   
-  Because it was well armed.
+  You can tune a guitar but you can't "tuna"fish!
 </details>
