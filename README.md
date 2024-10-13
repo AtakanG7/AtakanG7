@@ -26,9 +26,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">What was a more important invention than the first telephone?</summary>
-  <p style="margin-left: 20px;">The second one.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">Why did Sweden start painting barcodes on the sides of their battleships?</summary>
+  <p style="margin-left: 20px;">So they could Scandinavian.</p>
 </details>
+</td>
 </td>
 </td>
 </td>
