@@ -20,9 +20,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">What do you call a group of killer whales playing instruments?</summary>
-  <p style="margin-left: 20px;">An Orca-stra.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What kind of tree fits in your hand?</summary>
+  <p style="margin-left: 20px;">A palm tree!</p>
 </details>
+</td>
 </td>
     </td>
     <td style="border: none; padding: 0;" width="20"></td>
