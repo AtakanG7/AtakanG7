@@ -10,17 +10,11 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 <div align="center">
 
 ## You like jokes?
-
 <details>
-  <summary>Why did the coffee file a police report?</summary>
+  <summary>What kind of dinosaur loves to sleep?</summary>
   
-  It got mugged.
+  A stega-snore-us.
 </details>
-
-</div>
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdnZjNoMjR2MzMxZzFsZDYzN2s0bmlsN3luanp0c2c3d2ZldHRkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif" alt="Excited man jumping" width="100%" style="display: block; margin: 20px auto;">
-
 ## What I focus on The Most
 - Cloud-Native Solutions
 - CI/CD Pipeline Optimization
