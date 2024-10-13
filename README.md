@@ -29,9 +29,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">Why did Sweden start painting barcodes on the sides of their battleships?</summary>
-  <p style="margin-left: 20px;">So they could Scandinavian.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">I'm reading a book about anti-gravity...</summary>
+  <p style="margin-left: 20px;">It's impossible to put down</p>
 </details>
+</td>
 </td>
 </td>
 </td>
