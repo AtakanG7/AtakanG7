@@ -13,9 +13,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>Why did the worker get fired from the orange juice factory?</summary>
+  <summary>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</summary>
   
-  Lack of concentration.
+  European
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
