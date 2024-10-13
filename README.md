@@ -44,9 +44,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">Where do hamburgers go to dance?</summary>
-  <p style="margin-left: 20px;">The meat-ball.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What's Forrest Gump's password?</summary>
+  <p style="margin-left: 20px;">1Forrest1</p>
 </details>
+</td>
 </td>
 </td>
 </td>
