@@ -16,64 +16,12 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
   <summary style="cursor: pointer; color: #0366d6;">How many apples grow on a tree?</summary>
   <p style="margin-left: 20px;">All of them!</p>
 </details>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
-</td>
 </td>
 </td>
     </td>
