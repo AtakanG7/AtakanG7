@@ -11,9 +11,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>Why couldn't the bicycle stand up by itself?</summary>
+  <summary>What is a vampire's favorite fruit?</summary>
   
-  It was two-tired.
+  A blood orange.
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
