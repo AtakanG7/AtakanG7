@@ -56,9 +56,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">What's the best part about TCP jokes?</summary>
-  <p style="margin-left: 20px;">I get to keep telling them until you get them.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">How many apples grow on a tree?</summary>
+  <p style="margin-left: 20px;">All of them!</p>
 </details>
+</td>
 </td>
 </td>
 </td>
