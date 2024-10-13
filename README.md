@@ -11,9 +11,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>What kind of dinosaur loves to sleep?</summary>
+  <summary>Why couldn't the bicycle stand up by itself?</summary>
   
-  A stega-snore-us.
+  It was two-tired.
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
