@@ -7,9 +7,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>How do hens stay fit?</summary>
+  <summary>Why do fathers take an extra pair of socks when they go golfing?</summary>
   
-  They always egg-cercise!
+  In case they get a hole in one!
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
@@ -32,6 +32,7 @@ I like learning new technologies, I keep follow various tech blogs and also myse
   - Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.
   - [Read Article](https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability)
 ---
+Last updated: 
 Last updated: 
 Last updated: 
 Last updated: 
