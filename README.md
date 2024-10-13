@@ -1,5 +1,7 @@
 # Atakan Gül - DevOps Engineer
 
+![Excited man jumping](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRubjY2YnV1ZzFnZGF0NDN5NzF0Yml5Z20xcjd6MjZnMHZmcHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+
 ## A Little Me
 Hi it's Atakan. Let me tell you a bit about me. I'm a layz person :?, therefore automation is what I love the most. And I believe in the idea that if your system is not monitored it cannot be automated. 
 
