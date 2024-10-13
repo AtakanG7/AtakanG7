@@ -38,9 +38,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">What do you call a bee that lives in America?</summary>
-  <p style="margin-left: 20px;">A USB.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">Did you hear about the crime in the parking garage?</summary>
+  <p style="margin-left: 20px;">It was wrong on so many levels.</p>
 </details>
+</td>
 </td>
 </td>
 </td>
