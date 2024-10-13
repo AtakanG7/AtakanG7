@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight
   workflow_dispatch:  # Allow manual trigger
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -43,16 +42,16 @@ jobs:
             joke = 0
             blog = 0
           }
-          /<summary style="cursor: pointer; color: #0366d6;">.*<\/summary>/ {
-            print "<td style=\"border: none; padding: 0; vertical-align: top;\">"
-            print "<h2>You like jokes?</h2>"
+          /<h2>You like jokes?<\/h2>/ {
+            print
+            print "<details>"
             system("cat joke.txt")
-            print "</td>"
             joke = 1
             next
           }
-          joke && /<\/td>/ {
+          joke && /<\/details>/ {
             joke = 0
+            next
           }
           /<h2>I Like Writing Blog \(Updated every 10 minutes\)<\/h2>/ {
             print
