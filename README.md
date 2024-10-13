@@ -41,9 +41,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">Did you hear about the crime in the parking garage?</summary>
-  <p style="margin-left: 20px;">It was wrong on so many levels.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">Where do hamburgers go to dance?</summary>
+  <p style="margin-left: 20px;">The meat-ball.</p>
 </details>
+</td>
 </td>
 </td>
 </td>
