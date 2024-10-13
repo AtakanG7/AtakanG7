@@ -35,9 +35,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">What did celery say when he broke up with his girlfriend?</summary>
-  <p style="margin-left: 20px;">She wasn't right for me, so I really don't carrot all.</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What do you call a bee that lives in America?</summary>
+  <p style="margin-left: 20px;">A USB.</p>
 </details>
+</td>
 </td>
 </td>
 </td>
