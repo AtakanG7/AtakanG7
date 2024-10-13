@@ -12,18 +12,11 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 <div align="center">
 
 ## You like jokes?
-
 <details>
-  <summary>What does C.S. Lewis keep at the back of his wardrobe?</summary>
+  <summary>Why did the worker get fired from the orange juice factory?</summary>
   
-  Narnia business!
+  Lack of concentration.
 </details>
-
-</div>
-
-<br clear="left">
-
-
 ## What I focus on The Most
 - Cloud-Native Solutions
 - CI/CD Pipeline Optimization
