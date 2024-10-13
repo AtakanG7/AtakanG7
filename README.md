@@ -19,9 +19,13 @@
     <td style="border: none; padding: 0; vertical-align: top;">
       <h2>You like jokes? 10min/joke</h2>
       <details>
-        <summary style="cursor: pointer; color: #0366d6;">Why did the coffee file a police report?</summary>
-        <p style="margin-left: 20px;">It got mugged!</p>
-      </details>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What do you call a group of killer whales playing instruments?</summary>
+  <p style="margin-left: 20px;">An Orca-stra.</p>
+</details>
+</td>
     </td>
     <td style="border: none; padding: 0;" width="20"></td>
     <td style="border: none; padding: 0;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdnZjNoMjR2MzMxZzFsZDYzN2s0bmlsN3luanp0c2c3d2ZldHRkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif" alt="Excited dog" width="300" style="border-radius: 10px;"></td>
@@ -49,23 +53,23 @@
   <tr style="border: none;">
     <td style="border: none; padding: 0; vertical-align: top;" colspan="2">
       <h2>I Like Writing Blog (Updated every 10 minutes)</h2>
-      <ul>
-        <li>
-          <strong>Kubernetes Control Plane and Data Plane Explained: Key Components & Automation</strong>
-          <p>Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It's a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.</p>
-          <p><a href="https://atakangul.com/blogs/kubernetes-control-data-plane">Read Article</a></p>
-        </li>
-        <li>
-          <strong>Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development</strong>
-          <p>Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.</p>
-          <p><a href="https://atakangul.com/blogs/go-golang-fast-compilation">Read Article</a></p>
-        </li>
-        <li>
-          <strong>Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability</strong>
-          <p>Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.</p>
-          <p><a href="https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability">Read Article</a></p>
-        </li>
-      </ul>
+<ul>
+<li>
+  <strong>Kubernetes Control Plane and Data Plane Explained: Key Components & Automation</strong>
+  <p>Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.</p>
+  <p><a href="https://atakangul.com/blogs/kubernetes-control-data-plane">Read Article</a></p>
+</li>
+<li>
+  <strong>Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development</strong>
+  <p>Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.</p>
+  <p><a href="https://atakangul.com/blogs/go-golang-fast-compilation">Read Article</a></p>
+</li>
+<li>
+  <strong>Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability</strong>
+  <p>Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.</p>
+  <p><a href="https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability">Read Article</a></p>
+</li>
+</ul>
     </td>
   </tr>
 </table>
