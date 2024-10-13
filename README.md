@@ -16,9 +16,7 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: top;">
-      <h2>You like jokes? 10min/joke</h2>
-      <details>
+
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
