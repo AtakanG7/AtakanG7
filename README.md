@@ -32,9 +32,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">I'm reading a book about anti-gravity...</summary>
-  <p style="margin-left: 20px;">It's impossible to put down</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What did celery say when he broke up with his girlfriend?</summary>
+  <p style="margin-left: 20px;">She wasn't right for me, so I really don't carrot all.</p>
 </details>
+</td>
 </td>
 </td>
 </td>
