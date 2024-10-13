@@ -49,7 +49,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;" colspan="2">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRubjY2YnV1ZzFnZGF0NDN5NzF0Yml5Z20xcjd6MjZnMHZmcHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog with laptop" width="250" style="border-radius: 10px; display: block; margin: 0 auto;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRubjY2YnV1ZzFnZGF0NDN5NzF0Yml5Z20xcjd6MjZnMHZmcHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog with laptop" width="450" style="border-radius: 10px; display: block; margin: 0 auto;">
     </td>
   </tr>
   <tr style="border: none;">
