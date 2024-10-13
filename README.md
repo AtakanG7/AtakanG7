@@ -13,9 +13,9 @@ I like learning new technologies, I keep follow various tech blogs and also myse
 
 ## You like jokes?
 <details>
-  <summary>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</summary>
+  <summary>Why did the coffee file a police report?</summary>
   
-  European
+  It got mugged.
 </details>
 ## What I focus on The Most
 - Cloud-Native Solutions
