@@ -50,9 +50,13 @@
 <td style="border: none; padding: 0; vertical-align: top;">
 <h2>You like jokes?</h2>
 <details>
-  <summary style="cursor: pointer; color: #0366d6;">Why did the belt go to prison?</summary>
-  <p style="margin-left: 20px;">He held up a pair of pants!</p>
+<td style="border: none; padding: 0; vertical-align: top;">
+<h2>You like jokes?</h2>
+<details>
+  <summary style="cursor: pointer; color: #0366d6;">What is the leading cause of dry skin?</summary>
+  <p style="margin-left: 20px;">Towels</p>
 </details>
+</td>
 </td>
 </td>
 </td>
