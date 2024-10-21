@@ -14,22 +14,6 @@
 
 ---
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-<td style="border: none; padding: 0; vertical-align: top;">
-<h2>You like jokes?</h2>
-<details>
-  <summary style="cursor: pointer; color: #0366d6;">How many apples grow on a tree?</summary>
-  <p style="margin-left: 20px;">All of them!</p>
-</details>
-</td>
-</td>
-    </td>
-    <td style="border: none; padding: 0;" width="20"></td>
-    <td style="border: none; padding: 0;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdnZjNoMjR2MzMxZzFsZDYzN2s0bmlsN3luanp0c2c3d2ZldHRkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif" alt="Excited dog" width="300" style="border-radius: 10px;"></td>
-  </tr>
-</table>
-
 <h2>What I focus on The Most</h2>
 <ul>
   <li>Cloud-Native Solutions</li>
