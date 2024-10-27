@@ -36,7 +36,21 @@
     <td style="border: none; padding: 0; vertical-align: top;" colspan="2">
       <h2>I Like Writing Blog (Updated every 10 minutes)</h2>
 <ul>
-Error: Invalid JSON response from API
+<li>
+  <strong>Kubernetes Control Plane and Data Plane Explained: Key Components & Automation</strong>
+  <p>Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.</p>
+  <p><a href="https://atakangul.com/blogs/kubernetes-control-data-plane">Read Article</a></p>
+</li>
+<li>
+  <strong>Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development</strong>
+  <p>Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.</p>
+  <p><a href="https://atakangul.com/blogs/go-golang-fast-compilation">Read Article</a></p>
+</li>
+<li>
+  <strong>Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability</strong>
+  <p>Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.</p>
+  <p><a href="https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability">Read Article</a></p>
+</li>
 </ul>
     </td>
   </tr>
