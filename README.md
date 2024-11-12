@@ -1,61 +1,53 @@
-# Atakan Gül - DevOps Engineer
+# Atakan Gül | DevOps Engineer 👨‍💻
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh4ZWY2a2JzdHMxamV6bm5pYTdla2hrdWlzMTVqeXR1aXZvNGt0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif" alt="Person at computer" width="300"></td>
-    <td style="border: none; padding: 0;" width="20"></td>
-    <td style="border: none; padding: 0; vertical-align: top;">
-      <h3>This is Me!</h3>
-      <p>Hi it's Atakan. Let me tell you a bit about me. I'm a lazy person :?, therefore automation is what I love the most. And I believe in the idea that if your system is not monitored it cannot be automated.</p>
-      <p>I like learning new technologies, I keep follow various tech blogs and also myself writing blog posts on blog.atakangul.com Lastly I spend the whole day on computer so Cheers!</p>
-    </td>
-  </tr>
-</table>
+[![Website](https://img.shields.io/badge/Website-atakangul.com-blue?style=flat-square&logo=google-chrome)](https://www.atakangul.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.atakangul.com-orange?style=flat-square&logo=rss)](https://blog.atakangul.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
 
----
+## About Me
 
-<h2>What I focus on The Most</h2>
-<ul>
-  <li>Cloud-Native Solutions</li>
-  <li>CI/CD Pipeline Optimization</li>
-  <li>Infrastructure as Code</li>
-  <li>Containerization & Orchestration</li>
-  <li>Automation & Scripting</li>
-  <li>Network solutions</li>
-</ul>
-      
----
+DevOps Engineer passionate about building and optimizing scalable cloud infrastructure. I regularly share my insights and experiences through technical blog posts at [blog.atakangul.com](https://blog.atakangul.com).
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;" colspan="2">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRubjY2YnV1ZzFnZGF0NDN5NzF0Yml5Z20xcjd6MjZnMHZmcHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog with laptop" width="450" style="border-radius: 10px; display: block; margin: 0 auto;">
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: top;" colspan="2">
-      <h2>I Like Writing Blog (Updated every 10 minutes)</h2>
-<ul>
-<li>
-  <strong>Kubernetes Control Plane and Data Plane Explained: Key Components & Automation</strong>
-  <p>Topic: In this post, I break down the core components of Kubernetes' control and data planes, focusing on how it manages clusters, automates deployments, and ensures system health using tools like etcd, the API server, and Helm. It’s a straightforward look at Kubernetes architecture for anyone wanting to deepen their understanding.</p>
-  <p><a href="https://atakangul.com/blogs/kubernetes-control-data-plane">Read Article</a></p>
-</li>
-<li>
-  <strong>Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development</strong>
-  <p>Topic: Discover Go (Golang), the fast-compiling programming language designed for simplicity, efficiency, and effective concurrency, making it ideal for modern software development. Explore how its powerful features enhance productivity in systems, network, and web programming.</p>
-  <p><a href="https://atakangul.com/blogs/go-golang-fast-compilation">Read Article</a></p>
-</li>
-<li>
-  <strong>Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability</strong>
-  <p>Topic: A mesh network enhances Wi-Fi coverage and reliability by allowing multiple devices to communicate seamlessly, eliminating dead zones in large homes and offices. With self-healing capabilities and flexible node placement, mesh networks ensure consistent internet access across extended areas. Discover how mesh technology improves network performance for both residential and commercial use.</p>
-  <p><a href="https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability">Read Article</a></p>
-</li>
-</ul>
-    </td>
-  </tr>
-</table>
+## 🚀 Core Competencies
+
+- **Cloud Infrastructure**: AWS, Azure, GCP
+- **Container Orchestration**: Kubernetes, Docker
+- **Infrastructure as Code**: Terraform, CloudFormation
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions
+- **Configuration Management**: Ansible, Chef
+- **Monitoring & Logging**: Prometheus, ELK Stack
+- **Scripting**: Python, Bash, Go
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes Control Plane and Data Plane Explained: Key Components & Automation](https://atakangul.com/blogs/kubernetes-control-data-plane)
+- [Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development](https://atakangul.com/blogs/go-golang-fast-compilation)
+- [Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability](https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability)
+<!-- BLOG-POST-LIST:END -->
+
+## 🛠 Technology Stack
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtakanG7&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
 ---
 
-[Visit Me](https://www.atakangul.com)
+<div align="center">
+  <i>⚡ "Infrastructure as code: because life's too short for manual deployments"</i>
+</div>
