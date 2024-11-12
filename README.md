@@ -40,12 +40,6 @@ DevOps Engineer passionate about building and optimizing scalable cloud infrastr
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtakanG7&show_icons=true&count_private=true&hide_title=true&theme=dracula" alt="GitHub Stats" />
-</div>
-
 ---
 
 <div align="center">
