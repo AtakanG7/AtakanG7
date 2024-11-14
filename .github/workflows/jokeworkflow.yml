@@ -1,8 +1,10 @@
 name: Daily README Update
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight
   workflow_dispatch:  # Allow manual trigger
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -17,10 +19,9 @@ jobs:
           JOKE_DATA=$(curl -s ${{ secrets.JOKE_URL }})
           SETUP=$(echo $JOKE_DATA | jq -r '.setup')
           PUNCHLINE=$(echo $JOKE_DATA | jq -r '.punchline')
-          echo "<details>" > joke.txt
-          echo "  <summary style=\"cursor: pointer; color: #0366d6;\">$SETUP</summary>" >> joke.txt
-          echo "  <p style=\"margin-left: 20px;\">$PUNCHLINE</p>" >> joke.txt
-          echo "</details>" >> joke.txt
+          echo "<div align=\"center\">" > joke.txt
+          echo "  <i>⚡ \"$SETUP - $PUNCHLINE\"</i>" >> joke.txt
+          echo "</div>" >> joke.txt
 
       - name: Fetch latest blog posts
         run: |
@@ -28,7 +29,7 @@ jobs:
           echo "Raw API response:"
           echo "$BLOG_DATA"
           if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("<li>\n  <strong>" + (.title // "No Title") + "</strong>\n  <p>Topic: " + (.description // "No Description") + "</p>\n  <p><a href=\"https://atakangul.com/blogs/" + (.url // "") + "\">Read Article</a></p>\n</li>") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
+            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- [\(.title // \"No Title\")](https://atakangul.com/blogs/\(.url // \"\"))") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
           else
             echo "Error: Invalid JSON response from API" > blog_posts.txt
           fi
@@ -39,33 +40,26 @@ jobs:
         run: |
           awk '
           BEGIN {
-            joke = 0
-            blog = 0
+            blog_start = 0
+            quote = 0
           }
-          /<h2>You like jokes?<\/h2>/ {
+          /<!-- BLOG-POST-LIST:START -->/ {
             print
-            print "<details>"
-            system("cat joke.txt")
-            joke = 1
-            next
-          }
-          joke && /<\/details>/ {
-            joke = 0
-            next
-          }
-          /<h2>I Like Writing Blog \(Updated every 10 minutes\)<\/h2>/ {
-            print
-            print "<ul>"
             system("cat blog_posts.txt")
-            print "</ul>"
-            blog = 1
+            blog_start = 1
             next
           }
-          blog && /<\/ul>/ {
-            blog = 0
+          /<div align="center">.*"Infrastructure as code:/ {
+            system("cat joke.txt")
+            quote = 1
             next
           }
-          !joke && !blog {
+          blog_start && /<!-- BLOG-POST-LIST:END -->/ {
+            print
+            blog_start = 0
+            next
+          }
+          !blog_start && !quote {
             print
           }
           ' README.md > README.tmp && mv README.tmp README.md
