@@ -25,14 +25,35 @@ jobs:
 
       - name: Fetch latest blog posts
         run: |
-          BLOG_DATA=$(curl -s https://atakangul.com/blogs/most-viewed)
+          BLOG_DATA=$(curl -s 'https://atakangul.com/blogs/most-viewed')
           echo "Raw API response:"
           echo "$BLOG_DATA"
-          if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
-            echo $BLOG_DATA | jq -r 'if type == "array" then .[0:3] else . end | if type == "array" then map("- [\(.title // \"No Title\")](https://atakangul.com/blogs/\(.url // \"\"))") | join("\n") else "Error: Unexpected data structure" end' > blog_posts.txt
+          
+          # Create a more robust jq script to handle the blog data
+          cat > process_blogs.jq <<'EOF'
+          def safe_string(field):
+            if field then field else "No Title" end;
+          
+          . | 
+          if type == "array" then
+            .[0:3] | map(
+              "- [" + 
+              safe_string(.title) +
+              "](https://atakangul.com/blogs/" +
+              (if .url then .url else "" end) +
+              ")"
+            ) | join("\n")
           else
-            echo "Error: Invalid JSON response from API" > blog_posts.txt
+            "Error: Unexpected data structure"
+          end
+          EOF
+          
+          if jq -e . >/dev/null 2>&1 <<<"$BLOG_DATA"; then
+            echo "$BLOG_DATA" | jq -r -f process_blogs.jq > blog_posts.txt
+          else
+            echo "- [Error fetching blog posts](https://atakangul.com)" > blog_posts.txt
           fi
+          
           echo "Processed blog posts:"
           cat blog_posts.txt
 
