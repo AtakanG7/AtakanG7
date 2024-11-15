@@ -1,4 +1,4 @@
-# Atakan Gül | DevOps Engineer 👨‍💻
+# Atakan Gül | Software Engineer 👨‍💻
 
 [![Website](https://img.shields.io/badge/Website-atakangul.com-blue?style=flat-square&logo=google-chrome)](https://www.atakangul.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.atakangul.com-orange?style=flat-square&logo=rss)](https://blog.atakangul.com)
