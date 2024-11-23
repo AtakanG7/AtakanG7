@@ -1,6 +1,6 @@
 
 ## About Me
-Engineering student exploring cloud infrastructure and automation. Documenting my learning journey through technical blog posts at [blog.atakangul.com](https://blog.atakangul.com).
+Computer engineering student exploring cloud infrastructure and automation. Documenting my learning journey through technical blog posts at [blog.atakangul.com](https://blog.atakangul.com).
 
 [![Website](https://img.shields.io/badge/Website-atakangul.com-blue?style=flat-square&logo=google-chrome)](https://www.atakangul.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.atakangul.com-orange?style=flat-square&logo=rss)](https://blog.atakangul.com)
