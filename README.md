@@ -1,17 +1,8 @@
-# Atakan Gül | Software Engineer 👨‍💻
-
-[![Website](https://img.shields.io/badge/Website-atakangul.com-blue?style=flat-square&logo=google-chrome)](https://www.atakangul.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.atakangul.com-orange?style=flat-square&logo=rss)](https://blog.atakangul.com)
 
 ## About Me
 Engineering student exploring cloud infrastructure and automation. Documenting my learning journey through technical blog posts at [blog.atakangul.com](https://blog.atakangul.com).
-
-## 🚀 My Focus
-- **Infrastructure Automation**: Building reliable CI/CD pipelines and deployment strategies
-- **Distributed Systems**: Understanding fundamentals of scalable architectures and real-world implementations
-- **Cloud Native**: Deep diving into Kubernetes internals and container orchestration
-- **Observability**: Creating effective monitoring and logging solutions
-- **System Design**: Learning to build robust and maintainable systems
+[![Website](https://img.shields.io/badge/Website-atakangul.com-blue?style=flat-square&logo=google-chrome)](https://www.atakangul.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.atakangul.com-orange?style=flat-square&logo=rss)](https://blog.atakangul.com)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
