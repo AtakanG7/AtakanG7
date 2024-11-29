@@ -57,12 +57,12 @@ Distributed system metrics collection with Go
 
 **Real-Time Communication**  
 [ChatVerse](https://chat.atakangul.com/)  
-Modern WebSocket-based chat platform with SSR  
-<code>TypeScript</code> <code>React</code> <code>WebSocket</code> <code>SSR</code>  
+100 SEO performent real-time chat application.  
+<code>TypeScript</code> <code>React</code> <code>WebSocket</code> <code>SEO</code>  
 
 **Content Platform**  
 [ideaLog](https://atakangul.com)  
-High-performance blog with AI integration  
+User friendly blogging platform.   
 <code>Node.js</code> <code>Redis</code> <code>Docker</code> <code>OpenAI</code>  
 
 **Community Hub**  
@@ -72,7 +72,7 @@ Social platform for university clubs and events
 
 **Project Management**  
 [ProjectPulse](https://sprojects.live/)  
-Developer portfolio and project tracking system  
+Developer portfolio and project tracking platform.  
 <code>JavaScript</code> <code>React</code> <code>MongoDB</code>  
 
 ---
@@ -80,8 +80,8 @@ Developer portfolio and project tracking system
 ## AI & Data Solutions
 
 **Document Intelligence**  
-[SmartPDF](https://github.com/AtakanG7/robotiXe)  
-AI-powered document analysis and Q&A system  
+[SmartPDF](smartpdf.onrender.com/)  
+AI-powered document analysis and Q&A system (3 message limit)
 <code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>NLP</code>  
 
 **Market Analysis**  
@@ -93,15 +93,15 @@ E-commerce sentiment analysis and market research
 
 ## Developer Tools
 
-**Data Protection** *(STABLE)*  
-[Log Masking](https://github.com/AtakanG7/enhanced-log-masking)  
+**Data Protection** 
+[Log Masking](https://github.com/AtakanG7/enhanced-log-masking) **BETA**
 Automated PII detection and data protection  
 <code>Python</code> <code>Security</code> <code>RegEx</code> <code>PII</code>  
 
 **Productivity Tool**  
 [Notify](https://noteapp001.onrender.com/)  
 Browser-based note-taking application  
-<code>JavaScript</code> <code>LocalStorage</code> <code>UI/UX</code>  
+<code>Flask</code> <code>LocalStorage (JS)</code> <code>UI/UX</code>  
 
 ---
 
