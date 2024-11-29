@@ -8,11 +8,11 @@
 
 ---
 
-### About
+
 
 Computer engineering student exploring cloud infrastructure and automation. Documenting my learning journey through technical blog posts at [blog.atakangul.com](https://blog.atakangul.com).
 
-### Latest Technical Articles
+### Latest
 
 ▪️ [**Kubernetes Control Plane and Data Plane Explained**](https://atakangul.com/blogs/kubernetes-control-data-plane)  
    _Key Components & Automation_
