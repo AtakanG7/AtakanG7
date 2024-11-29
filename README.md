@@ -12,7 +12,6 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
 - [Why I Started Blogging](https://atakangul.com/blogs/why-i-started-blogging)
 <!-- BLOG-POST-LIST:END -->
 
-
 ---
 <div align="center">
  <i>⚡ "Understanding systems, one layer at a time"</i>
