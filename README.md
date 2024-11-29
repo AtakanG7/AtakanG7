@@ -29,7 +29,7 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
 
 **Infrastructure Automation**  
 [KubernetesInfra](https://kubernetes-infra.atakangul.com/)  
-Enterprise-grade infrastructure provisioning and management platform  
+Enterprise-grade infrastructure, enables light fast infra deployments to any cloud provider.
 <code>Kubernetes</code> <code>Terraform</code> <code>Helm</code> <code>Infrastructure</code>  
 
 **Deployment Pipeline**  
@@ -43,12 +43,12 @@ Zero-downtime deployment system with Jira integration
 
 **Container Metrics**  
 [logWatcher](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring)  
-Real-time container resource monitoring and visualization  
-<code>Grafana</code> <code>Prometheus</code> <code>Docker</code> <code>Metrics</code>  
+Visualses all sort of metrics of your docker image on the runtime. 
+<code>Python (streamlit)</code>   <code>Grafana</code> <code>Prometheus</code> <code>Docker</code> <code>Metrics</code>  
 
 **System Diagnostics** *(BETA)*  
 [Diagnostic Agent](https://github.com/AtakanG7/linux-diagnostic-agent)  
-Distributed system metrics collection with Go  
+Distributed system metrics collection with Go for linux systems. 
 <code>Go</code> <code>System Metrics</code> <code>Monitoring</code>  
 
 ---
