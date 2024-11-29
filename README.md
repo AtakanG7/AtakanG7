@@ -11,7 +11,7 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
 ---
 
 
-### Blogging 
+### My Thoughts:
 
 ▪️ [**Kubernetes Control Plane and Data Plane Explained**](https://atakangul.com/blogs/kubernetes-control-data-plane)  
    _Key Components & Automation_
@@ -23,18 +23,21 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
    _Boosting Connectivity, Coverage, and Reliability_
 
 ---
-# Portfolio
+Projects to check, I'm trying to learn and apply at the same time which is the best way of learning a thing. If there is anything to learn it will be a project in some place for sure :).
 
-| Infrastructure & Monitoring | Applications & AI |
+Most of these projects are deployed into some place with an easy CI/CD pipeline integration to work on it effectively. Just click and see the demos. If you want to contribute to any project you like write me.
+
+| | |
 |---------------------------|-------------------|
-| **Infrastructure Automation** <br>[KubernetesInfra](https://kubernetes-infra.atakangul.com/)<br>Enterprise-grade infrastructure, enables light fast infra deployments.<br>`Kubernetes` `Terraform` `Helm` | **Real-Time Communication**<br>[ChatVerse](https://chat.atakangul.com/)<br>100 SEO performant real-time chat application.<br>`TypeScript` `React` `WebSocket` `SEO` |
-| **Deployment Pipeline**<br>[Azure DevOps CI/CD](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)<br>Zero-downtime deployment system with Jira integration<br>`Azure` `DevOps` `Blue-Green` `CI/CD` | **Content Platform**<br>[ideaLog](https://atakangul.com)<br>User friendly blogging platform.<br>`Node.js` `Redis` `Docker` `OpenAI` |
-| **Container Metrics**<br>[logWatcher](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring)<br>Visualizes docker image metrics on runtime.<br>`Python` `Grafana` `Prometheus` `Docker` | **Document Intelligence**<br>[SmartPDF](smartpdf.onrender.com/)<br>AI-powered document analysis and Q&A system<br>`Python` `LangChain` `OpenAI` `NLP` |
-| **System Diagnostics** *(BETA)*<br>[Diagnostic Agent](https://github.com/AtakanG7/linux-diagnostic-agent)<br>Distributed system metrics collection for Linux.<br>`Go` `System Metrics` `Monitoring` | **Market Analysis**<br>[satiScraper](https://satiscraper.onrender.com/)<br>E-commerce sentiment analysis and research<br>`Python` `ML` `BeautifulSoup` `Analytics` |
-| **Data Protection**<br>[Log Masking](https://github.com/AtakanG7/enhanced-log-masking)<br>Automated PII detection and protection<br>`Python` `Security` `RegEx` `PII` | **Community Hub**<br>[University Social](https://github.com/AtakanG7/bilgililerpaylasiyor)<br>Platform for university clubs and events<br>`TypeScript` `React` `MongoDB` |
-| | **Project Management**<br>[ProjectPulse](https://sprojects.live/)<br>Portfolio and project tracking platform<br>`JavaScript` `React` `MongoDB` |
+| **KubernetesInfra** [🔗](https://kubernetes-infra.atakangul.com/) `LIVE`<br>Enterprise-grade infrastructure, enables light fast infra deployments.<br>`Kubernetes` `Terraform` `Helm` | **ChatVerse** [🔗](https://chat.atakangul.com/) `LIVE`<br>100 SEO performant real-time chat application.<br>`TypeScript` `React` `WebSocket` `SEO` |
+| **Azure DevOps Pipeline** [📝](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)<br>Zero-downtime deployment system with Jira integration<br>`Azure` `DevOps` `Blue-Green` `CI/CD` | **ideaLog** [🔗](https://atakangul.com) `LIVE`<br>User friendly blogging platform.<br>`Node.js` `Redis` `Docker` `OpenAI` |
+| **logWatcher** [📝](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring)<br>Visualizes docker image metrics on runtime.<br>`Python` `Grafana` `Prometheus` `Docker` | **SmartPDF** [🔗](https://smartpdf.onrender.com/) `LIVE`<br>AI-powered document analysis and Q&A system<br>`Python` `LangChain` `OpenAI` `NLP` |
+| **Diagnostic Agent** [💻](https://github.com/AtakanG7/linux-diagnostic-agent) `BETA`<br>Distributed system metrics collection for Linux.<br>`Go` `System Metrics` `Monitoring` | **satiScraper** [🔗](https://satiscraper.onrender.com/) `LIVE`<br>E-commerce sentiment analysis and research<br>`Python` `ML` `BeautifulSoup` `Analytics` |
+| **Log Masking** [💻](https://github.com/AtakanG7/enhanced-log-masking) `BETA`<br>Automated PII detection and protection<br>`Python` `Security` `RegEx` `PII` | **University Social** [💻](https://github.com/AtakanG7/bilgililerpaylasiyor)<br>Platform for university clubs and events<br>`TypeScript` `React` `MongoDB` |
+| | **ProjectPulse** [🔗](https://sprojects.live/) `LIVE`<br>Portfolio and project tracking platform<br>`JavaScript` `React` `MongoDB` |
 
-**Status Labels:** `LIVE` Production Deployment • `STABLE` Production Ready • `BETA` Active Development
+`🔗 Live Demo Available` `📝 Blog Post` `💻 GitHub Repository`
+
 ---
 
 <div align="center">
