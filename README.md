@@ -23,96 +23,18 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
    _Boosting Connectivity, Coverage, and Reliability_
 
 ---
-<div align="center">
+# Portfolio
 
-## Cloud Infrastructure & DevOps
+| Infrastructure & Monitoring | Applications & AI |
+|---------------------------|-------------------|
+| **Infrastructure Automation** <br>[KubernetesInfra](https://kubernetes-infra.atakangul.com/)<br>Enterprise-grade infrastructure, enables light fast infra deployments.<br>`Kubernetes` `Terraform` `Helm` | **Real-Time Communication**<br>[ChatVerse](https://chat.atakangul.com/)<br>100 SEO performant real-time chat application.<br>`TypeScript` `React` `WebSocket` `SEO` |
+| **Deployment Pipeline**<br>[Azure DevOps CI/CD](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)<br>Zero-downtime deployment system with Jira integration<br>`Azure` `DevOps` `Blue-Green` `CI/CD` | **Content Platform**<br>[ideaLog](https://atakangul.com)<br>User friendly blogging platform.<br>`Node.js` `Redis` `Docker` `OpenAI` |
+| **Container Metrics**<br>[logWatcher](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring)<br>Visualizes docker image metrics on runtime.<br>`Python` `Grafana` `Prometheus` `Docker` | **Document Intelligence**<br>[SmartPDF](smartpdf.onrender.com/)<br>AI-powered document analysis and Q&A system<br>`Python` `LangChain` `OpenAI` `NLP` |
+| **System Diagnostics** *(BETA)*<br>[Diagnostic Agent](https://github.com/AtakanG7/linux-diagnostic-agent)<br>Distributed system metrics collection for Linux.<br>`Go` `System Metrics` `Monitoring` | **Market Analysis**<br>[satiScraper](https://satiscraper.onrender.com/)<br>E-commerce sentiment analysis and research<br>`Python` `ML` `BeautifulSoup` `Analytics` |
+| **Data Protection**<br>[Log Masking](https://github.com/AtakanG7/enhanced-log-masking)<br>Automated PII detection and protection<br>`Python` `Security` `RegEx` `PII` | **Community Hub**<br>[University Social](https://github.com/AtakanG7/bilgililerpaylasiyor)<br>Platform for university clubs and events<br>`TypeScript` `React` `MongoDB` |
+| | **Project Management**<br>[ProjectPulse](https://sprojects.live/)<br>Portfolio and project tracking platform<br>`JavaScript` `React` `MongoDB` |
 
-**Infrastructure Automation**  
-[KubernetesInfra](https://kubernetes-infra.atakangul.com/)  
-Enterprise-grade infrastructure, enables light fast infra deployments to any cloud provider.
-<code>Kubernetes</code> <code>Terraform</code> <code>Helm</code> <code>Infrastructure</code>  
-
-**Deployment Pipeline**  
-[Azure DevOps CI/CD](https://atakangul.com/blogs/nevotek-internship-ci-cd-experience)  
-Zero-downtime deployment system with Jira integration  
-<code>Azure</code> <code>DevOps</code> <code>Blue-Green</code> <code>CI/CD</code>  
-
----
-
-## Monitoring & Observability
-
-**Container Metrics**  
-[logWatcher](https://atakangul.com/blogs/logwatcher-simplifying-docker-image-monitoring)  
-Visualses all sort of metrics of your docker image on the runtime. 
-<code>Python (streamlit)</code>   <code>Grafana</code> <code>Prometheus</code> <code>Docker</code> <code>Metrics</code>  
-
-**System Diagnostics** *(BETA)*  
-[Diagnostic Agent](https://github.com/AtakanG7/linux-diagnostic-agent)  
-Distributed system metrics collection with Go for linux systems. 
-<code>Go</code> <code>System Metrics</code> <code>Monitoring</code>  
-
----
-
-## Full-Stack Applications
-
-**Real-Time Communication**  
-[ChatVerse](https://chat.atakangul.com/)  
-100 SEO performent real-time chat application.  
-<code>TypeScript</code> <code>React</code> <code>WebSocket</code> <code>SEO</code>  
-
-**Content Platform**  
-[ideaLog](https://atakangul.com)  
-User friendly blogging platform.   
-<code>Node.js</code> <code>Redis</code> <code>Docker</code> <code>OpenAI</code>  
-
-**Community Hub**  
-[University Social](https://github.com/AtakanG7/bilgililerpaylasiyor)  
-Social platform for university clubs and events  
-<code>TypeScript</code> <code>React</code> <code>MongoDB</code>  
-
-**Project Management**  
-[ProjectPulse](https://sprojects.live/)  
-Developer portfolio and project tracking platform.  
-<code>JavaScript</code> <code>React</code> <code>MongoDB</code>  
-
----
-
-## AI & Data Solutions
-
-**Document Intelligence**  
-[SmartPDF](smartpdf.onrender.com/)  
-AI-powered document analysis and Q&A system (3 message limit)
-<code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>NLP</code>  
-
-**Market Analysis**  
-[satiScraper](https://satiscraper.onrender.com/)  
-E-commerce sentiment analysis and market research  
-<code>Python</code> <code>ML</code> <code>BeautifulSoup</code> <code>Analytics</code>  
-
----
-
-## Developer Tools
-
-**Data Protection** 
-[Log Masking](https://github.com/AtakanG7/enhanced-log-masking) **BETA**
-Automated PII detection and data protection  
-<code>Python</code> <code>Security</code> <code>RegEx</code> <code>PII</code>  
-
-**Productivity Tool**  
-[Notify](https://noteapp001.onrender.com/)  
-Browser-based note-taking application  
-<code>Flask</code> <code>LocalStorage (JS)</code> <code>UI/UX</code>  
-
----
-
-### Status Labels
-
-**LIVE**: Production Deployment  
-**STABLE**: Production Ready  
-**BETA**: Active Development
-
-</div>
-
+**Status Labels:** `LIVE` Production Deployment • `STABLE` Production Ready • `BETA` Active Development
 ---
 
 <div align="center">
