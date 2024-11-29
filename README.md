@@ -7,9 +7,9 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Must-Know Free APIs for Developers](https://atakangul.com/blogs/must-know-free-apis-for-developers)
-- [LogWatcher: Simplifying Docker Image Monitoring with Open Source Software](https://atakangul.com/blogs/logwatcher)
-- [Why I Started Blogging](https://atakangul.com/blogs/why-i-started-blogging)
+- [Kubernetes Control Plane and Data Plane Explained: Key Components & Automation](https://atakangul.com/blogs/kubernetes-control-data-plane)
+- [Go (Golang): The Ultimate Fast-Compiling Language for Modern Software Development](https://atakangul.com/blogs/go-golang-fast-compilation)
+- [Mesh Networks Explained: Boosting Connectivity, Coverage, and Reliability](https://atakangul.com/blogs/mesh-networks-boost-connectivity-reliability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
