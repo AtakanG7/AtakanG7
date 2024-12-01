@@ -23,9 +23,6 @@ Computer engineering student exploring cloud infrastructure and automation. Docu
    _Boosting Connectivity, Coverage, and Reliability_
 
 ---
-I'm trying to learn and apply at the same time which is the best way of learning a thing. If there is anything to learn it will be a project in some place for sure :).
-
-Most of these projects are deployed into some place with an easy CI/CD pipeline integration to work on it effectively. Just click and see the demos. If you want to contribute to any project you like write me.
 
 | | |
 |---------------------------|-------------------|
